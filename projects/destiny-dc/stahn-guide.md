@@ -19,16 +19,16 @@ The Heros of Seinegald are known as the "Seven Generals." You will encounter rum
 There is a vending machine on the second floor of the Darilsheid Inn that offers capsule toys for 200 Gald. Some of the available toys are rare, so if you have a few Gald to spare, you should try your luck! The following table shows the items that are available and the probability of obtaining them. 
 
 ### Items and probabilities
-|Item|Probability|
-|:---|---:|
-|Apple Gel |30%|
-|Oberol C |20%|
-|Holy Bottle |9%|
-|Dark Bottle |9%|
-|Gamble Gel |5%|
-|Liqueur Bottle |5%|
-|Life bottle |4%|
-|Peach Gel |3%|
+| Item           | Probability |
+| -------------- | ----------- |
+| Apple Gel      | 30%         |
+| Oberol C       | 20%         |
+| Holy Bottle    | 9%          |
+| Dark Bottle    | 9%          |
+| Gamble Gel     | 5%          |
+| Liqueur Bottle | 5%          |
+| Life bottle    | 4%          |
+| Peach Gel      | 3%          |
 
 ## Sub-event #007 - Greedy Witch
 In the plaza just after passing under Seingald Castle's gate, talk to the soldier and select "How about some manners!" to see this event. The soldier will try to recall Rutee's nickname in a comical scene featuring many overlaying messages. The soldier says many incorrect names, seemingly on purpose, and Rutee will question each one. After Rutee gets exhausted and dizzy, the soldier says her real nickname and abruptly walks away.
