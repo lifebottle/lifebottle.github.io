@@ -1,7 +1,12 @@
 # Stahn's Side - Guide
 
 ## Sub-event #001 - Lost Passport
-This event occurs when you talk to the man in front of the inn in Janos. He tells you that he has been staying in Janos for several years without being able to return to Phandaria since he lost his passport. He begs you to sell him your passport, but of course you can't. This man also appears in "The Bird in the Cage" (Sub 077).
+| Lost Passort! | ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) |
+| :--------------------------------------------------------------------------------------- | :-------------------------------------------- |
+| ![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Janos                                         |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | Arriving in Janos ~ Before arriving in Cherik |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None                                          |
+| ![](stahn-guide/sub001_1.png) | This event occurs when you talk to the man in front of the inn in Janos. He tells you that he has been staying in Janos for several years without being able to return to Phandaria since he lost his passport. He begs you to sell him your passport, but of course you can't. This man also appears in "The Bird in the Cage" (Sub 077).
 
 ## Sub-event #002 - Small Family 1
 This is a five part event and where each one is mandatory for the next one. The first one occurs when you examine the nest on the roof of the item shop. The shopkeeper will tell you that a family of birds that live on the roof and build a nest every year. The last part of this series of event will reward you with a [Magical Aroma], make sure to not miss any.
