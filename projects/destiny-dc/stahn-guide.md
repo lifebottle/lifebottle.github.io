@@ -30,7 +30,6 @@ There is a vending machine on the second floor of the Darilsheid Inn that offers
 |Life bottle |4%|
 |Peach Gel |3%|
 
-
 ## Sub-event #007 - Greedy Witch
 In the plaza just after passing under Seingald Castle's gate, talk to the soldier and select "How about some manners!" to see this event. The soldier will try to recall Rutee's nickname in a comical scene featuring many overlaying messages. The soldier says many incorrect names, seemingly on purpose, and Rutee will question each one. After Rutee gets exhausted and dizzy, the soldier says her real nickname and abruptly walks away.
 
