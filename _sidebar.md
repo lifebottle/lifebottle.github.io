@@ -4,7 +4,8 @@
 
 * [Projects](./projects/index)
 
-  * [Tales of Destiny DC](./projects/destiny-dc/index.md)
+  * [Tales of Destiny DC](./projects/destiny-dc/index)
+    - [Stahn's Side - Guide](./projects/destiny-dc/stahn-guide.md)
   * [Tales of Destiny 2](./projects/destiny-2/index)
   * [Tales of Eternia](./projects/eternia/index)
   * [Tales of Innocence R](./projects/innocence-r/index)
@@ -19,15 +20,15 @@
 
 * [Tools](./tools/index)
 
-  * [compto(e)](./tools/comptoe/index.md)
-  * [pakcomposer](./tools/pakcomposer/index.md)
-  * [PythonLib](./tools/pythonlib/index.md)
-  * [TranslationApp](./tools/translationapp/index.md)
+  * [compto(e)](./tools/comptoe/index)
+  * [pakcomposer](./tools/pakcomposer/index)
+  * [PythonLib](./tools/pythonlib/index)
+  * [TranslationApp](./tools/translationapp/index)
 
 * [Other](./other/index)
-  * [GitHub Desktop](./other/github-desktop/index.md)
-  * [Python](./other/python/index.md)
-  * [Strawberry Perl](./other/strawberry-perl/index.md)
-  * [Apache3](./other/apache3/index.md)
-  * [xdelta](./other/xdeltan/index.md)
-  * [OBS Studio](./other/obs-studio/index.md)
+  * [GitHub Desktop](./other/github-desktop/index)
+  * [Python](./other/python/index)
+  * [Strawberry Perl](./other/strawberry-perl/index)
+  * [Apache3](./other/apache3/index)
+  * [xdelta](./other/xdelta3/index)
+  * [OBS Studio](./other/obs-studio/index)
