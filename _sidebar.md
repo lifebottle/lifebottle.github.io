@@ -16,7 +16,7 @@
   * [Tales of Rebirth](./projects/rebirth/index)
   * [Narikiri Dungeon X](./projects/ndx/index)
   * [Radiant Mythology 2](./projects/rm2/index)
-  * [Radiant Mythology 3](./projects/rm2/index)
+  * [Radiant Mythology 3](./projects/rm3/index)
 
 * [Tools](./tools/index)
 
