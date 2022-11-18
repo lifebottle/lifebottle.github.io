@@ -20,9 +20,17 @@
 
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css">
   <link rel="stylesheet" href="//unpkg.com/@markbattistella/docsify-charty@latest/dist/docsify-charty.min.css">
+  
+  <style>
+    /* Fix issue on mobile devices where a custom cover image goes off the screen. */
+    section.cover.show {
+        height: 100%;
+    }
+  </style>
 
   <title>Life Bottle Productions</title>
 </head>
+
 <body>
   <div id="app"></div>
 
@@ -54,11 +62,13 @@
 
       el: "#app",
       repo: "https://github.com/lifebottle",
-      loadSidebar: true,
-      
+      auto2top: true,
+      coverpage: true,
+      loadSidebar: false,
       maxLevel: 4,
       subMaxLevel: 2,
-
+      loadSidebar: true,
+      
       markdown: {
         renderer: {
           code: function (code, lang) {
