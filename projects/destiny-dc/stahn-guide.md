@@ -2,14 +2,14 @@
 
 ## Side-Quest #1 - Lost Passport!
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Janos   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.04 Arriving in Janos ~ No.15 Before arriving in Cherik    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-This event occurs when you talk to the man in front of the inn in Janos. He tells you that he has been staying in Janos for several years without being able to return to Phandaria since he lost his passport. He begs you to sell him your passport, but of course you can't. This man also appears in "The Bird in the Cage" [Side-event 077](projects/destiny-dc/stahn-guide?id=side-event-077-bird-in-a-cage). 
+This event occurs when you talk to the man in front of the inn in Janos. He tells you that he has been staying in Janos for several years without being able to return to Phandaria since he lost his passport. He begs you to sell him your passport, but of course you can't. This man also appears in "The Bird in the Cage" [Side-Quest 077](projects/destiny-dc/stahn-guide?id=Side-Quest-77-bird-in-a-cage). 
 
 
 
@@ -20,7 +20,7 @@ This event occurs when you talk to the man in front of the inn in Janos. He tell
 
 ## Side-Quest #2 - Small Family 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -38,7 +38,7 @@ This is a five part event and where each one is mandatory for the next one. The 
 
 ## Side-Quest #3 - Soldier's Advance 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -56,7 +56,7 @@ Like the "Small Family" event mentioned above, this event also has multiple part
 
 ## Side-Quest #4 - Country Boy
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -74,7 +74,7 @@ This event occurs when you encounter a man who seems to know Stahn in from of th
 
 ## Side-Quest #5 - The Rumoured Seven Generals
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -100,7 +100,7 @@ The Heroes of Seinegald are known as the "Seven Generals." You will encounter ru
 
 ## Side-Quest #6 - Capsule Toy
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -127,7 +127,7 @@ There is a vending machine on the second floor of the Darilsheid Inn that offers
 
 ## Side-Quest #7 - Greedy Witch
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -139,20 +139,20 @@ In the plaza just after passing under Seingald Castle's gate, talk to the soldie
 
 
 ![](stahn-guide/sub7_1.png)  
-▲ The [Greedy Witch] title is necessary to trigger Marian's Event [Side-event 097](projects/destiny-dc/stahn-guide?id=side-event-097-Marian). 
+▲ The [Greedy Witch] title is necessary to trigger Marian's Event [Side-Quest 097](projects/destiny-dc/stahn-guide?id=Side-Quest-97-Marian). 
 
 ---
 
 ## Side-Quest #8 - Doug Brothers
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Taking Hugo’s Request ~ No.12 Straylize Temple cleared    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-Between the period listed above, a side-event will occur after heading to Reynold's Laboratory. There you will encounter Ashley of the Seven-Generals. He expresses frustration after learning of Stahn's mission and rushes off to the castle.
+Between the period listed above, a Side-Quest will occur after heading to Reynold's Laboratory. There you will encounter Ashley of the Seven-Generals. He expresses frustration after learning of Stahn's mission and rushes off to the castle.
 
 
 
@@ -163,7 +163,7 @@ Between the period listed above, a side-event will occur after heading to Reynol
 
 ## Side-Quest #9 - Bad Pun Man
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -175,13 +175,13 @@ This event occurs when you visit Hugo's mansion in Darilsheid and recieve the sw
 
 
 ![](stahn-guide/sub9_1.png)  
-▲ You will need the [Breaker] title for the "Fayte" event [Side-event 081](projects/destiny-dc/stahn-guide?id=side-event-081-Fayte).
+▲ You will need the [Breaker] title for the "Fayte" event [Side-Quest 081](projects/destiny-dc/stahn-guide?id=Side-Quest-81-Fayte).
 
 ---
 
 ## Side-Quest #10 - Alleged Mother?
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -199,7 +199,7 @@ This event only appears for a short time, so it's best to complete it PRIOR TO h
 
 ## Side-Quest #11 - Draconis Crewman's Family 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -211,20 +211,20 @@ This event is available during the above period and occurs when you enter the tw
 
 
 ![](stahn-guide/sub11_1.png)  
-▲ You can get the conclusion to this event in "Draconis Crewman's Family 2" [Side-event 124](projects/destiny-dc/stahn-guide?id=side-event-124-Draconis-Crewman's-Family-2). 
+▲ You can get the conclusion to this event in "Draconis Crewman's Family 2" [Side-Quest 124](projects/destiny-dc/stahn-guide?id=Side-Quest-124-Draconis-Crewman's-Family-2). 
 
 ---
 
 ## Side-Quest #12 - Dark Wings 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.10 Arriving in Armeida ~ No.12 Straylize Temple Cleared    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-The "Dark Wings," whom you met in Janos, appear before Stahn and others once again in this side-event. You trigger this event by visiting the plaza at the far side of Armeida. While this is the first of eight side-events, there is no specific order in which to view the events staring these three "lens hunters." No items or titles are obtained either, but their antics are worth seeing through to the very end. 
+The "Dark Wings," whom you met in Janos, appear before Stahn and others once again in this Side-Quest. You trigger this event by visiting the plaza at the far side of Armeida. While this is the first of eight Side-Quests, there is no specific order in which to view the events staring these three "lens hunters." No items or titles are obtained either, but their antics are worth seeing through to the very end. 
 
 
 
@@ -235,7 +235,7 @@ The "Dark Wings," whom you met in Janos, appear before Stahn and others once aga
 
 ## Side-Quest #13 - Lovers' Quarrels
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -253,7 +253,7 @@ Upon entering the grocery store in Armeida, Mary is informed that due to the laz
 
 ## Side-Quest #14 - Life Saver
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -271,14 +271,14 @@ Visiting the plaza in Armedia during this you will encounter one the Seven Gener
 
 ## Side-Quest #15 - Philia's First Time in Junkland
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Junkland   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.15 Arrival at Baruk's Office ~ No.54 Fight against Ilene    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-Junkland doesn't need to visited until towards the end of the story in case you just want to advance the main plot. However, to view this side-event, you need to visit Junkland very early in the story. Near the armorer in Junkland, Philia is unable to handle the power stench in the air and falls ill. Do not fret - this event has no bearing on her actual status in game.
+Junkland doesn't need to visited until towards the end of the story in case you just want to advance the main plot. However, to view this Side-Quest, you need to visit Junkland very early in the story. Near the armorer in Junkland, Philia is unable to handle the power stench in the air and falls ill. Do not fret - this event has no bearing on her actual status in game.
 
 
 
@@ -289,7 +289,7 @@ Junkland doesn't need to visited until towards the end of the story in case you 
 
 ## Side-Quest #16 - Yearning to Join the Dark Wings 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Calviola   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -301,31 +301,31 @@ To trigger this event, speak with a young boy with green hair near a large pool 
 
 
 ![](stahn-guide/sub16_1.png)  
-▲ Toshu doesn't suspect the Dark Wings real identity. The second event will reveal what happened after that [Side-event 075](projects/destiny-dc/stahn-guide?id=side-event-075-Yearning-to-join-the-Dark-Wings-2).
+▲ Toshu doesn't suspect the Dark Wings real identity. The second event will reveal what happened after that [Side-Quest 075](projects/destiny-dc/stahn-guide?id=Side-Quest-75-Yearning-to-join-the-Dark-Wings-2).
 
 ---
 
 ## Side-Quest #17 - Calviola's Elena 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Calviola   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.16 Arriving in Calviola ~ No.19 Before arriving at Neustadt    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-This event occurs when speaking with Elena, who is in a house to the left of the Oberon Corportation building in Valviola. She asks the party to assis her in finding her father, who is half Calviolan and half Seingegaldian. If you do not complete (trigger?) this side-event, the second part, [Calviola's Elena 2], WILL NOT occur. 
+This event occurs when speaking with Elena, who is in a house to the left of the Oberon Corportation building in Valviola. She asks the party to assis her in finding her father, who is half Calviolan and half Seingegaldian. If you do not complete (trigger?) this Side-Quest, the second part, [Calviola's Elena 2], WILL NOT occur. 
 
 
 
 ![](stahn-guide/sub17_1.png)  
-▲ Completing "Bird in a Cage?" [Side-event 077](projects/destiny-dc/stahn-guide?id=side-event-077-Bird-in-a-Cage?) is mandatory to trigger this chains of events.
+▲ Completing "Bird in a Cage?" [Side-Quest 077](projects/destiny-dc/stahn-guide?id=Side-Quest-77-Bird-in-a-Cage?) is mandatory to trigger this chains of events.
 
 ---
 
 ## Side-Quest #18 - The Pickpocket Incident
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Calviola   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -343,7 +343,7 @@ This even occurs if you try to leave Calviola through the northern exit with len
 
 ## Side-Quest #19 - Dark Wings 2
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cherik   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -361,7 +361,7 @@ Visit the square close to where the Baruk Foundation(?) is located in Cherik to 
 
 ## Side-Quest #20 - Sibling 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -379,7 +379,7 @@ Talking to the girl on the bridge connected to the Oberon Lens shop in Neustadt.
 
 ## Side-Quest #21 - Gaze of Resolve
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -397,7 +397,7 @@ This event occurs when you speak with the woman who is standing infront of the N
 
 ## Side-Quest #22 - Sweet Boy
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -415,7 +415,7 @@ This event occurs when you speak with a young boy sitting on a bench in front of
 
 ## Side-Quest #23 - Lost Child
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -433,7 +433,7 @@ You can trigger this event by speaking to the lost child near Ilene's house in N
 
 ## Side-Quest #24 - "Swatian" User?
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -445,20 +445,20 @@ Trigger this even by talking to the boy near the fountain in Neustadt. Upon sele
 
 
 ![](stahn-guide/sub24_1.png)  
-▲ The title obtained is a required for "Fake Swordian" [Side-event 138](projects/destiny-dc/stahn-guide?id=side-event-138-Fake-Swordian)
+▲ The title obtained is a required for "Fake Swordian" [Side-Quest 138](projects/destiny-dc/stahn-guide?id=Side-Quest-138-Fake-Swordian)
 
 ---
 
 ## Side-Quest #25 - Monster Book Appraisal
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.20 Arriving in Neustadt    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
 
-Make sure to be checking the maximum number of hits displayed when you review the Monster Book as it will be related to other side-events. After you have fought your way to a number over 30, talk to a monster researcher in the Neustadt arena, next to a weapon shop in any city, or next to an armorer in any city. You will receive a War Diary (?). Once you receive the War Diary (?), each time you perform a Definite Strike, a ★ mark will appear to the right of the monster's name in the Monster Book. When you reach 100% for a region, you are awarded one of the items outlined in the table below by a Monster Researcher. 
+Make sure to be checking the maximum number of hits displayed when you review the Monster Book as it will be related to other Side-Quests. After you have fought your way to a number over 30, talk to a monster researcher in the Neustadt arena, next to a weapon shop in any city, or next to an armorer in any city. You will receive a War Diary (?). Once you receive the War Diary (?), each time you perform a Definite Strike, a ★ mark will appear to the right of the monster's name in the Monster Book. When you reach 100% for a region, you are awarded one of the items outlined in the table below by a Monster Researcher. 
 
 excel table
 
@@ -469,7 +469,7 @@ excel table
 
 ## Side-Quest #26 - Pirate Ship Reward
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -491,7 +491,7 @@ After you have cleared the pirate ship, speak with the sailor to the north (?) o
 
 ## Side-Quest #27 - Dark Wings 3
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -509,7 +509,7 @@ This event takes place when you enter the hospital(?) on the left side of the ar
 
 ## Side-Quest #28 - Sibling 2
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -527,7 +527,7 @@ This event is triggered by speaking with the same girl on the bridge for [Siblin
 
 ## Side-Quest #29 - Young Master 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -545,7 +545,7 @@ This event occurs when you speak with a child crying on a bridge in Shiden. This
 
 ## Side-Quest #30 - Neat Sister
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -557,20 +557,20 @@ Speak with the girl in front of the Shiden Family mansion and she will complimen
 
 
 ![](stahn-guide/sub30_1.png)  
-▲ The title [Neat Sister] is mendatory to trigger the event "Sealed Man" [Side-event 108](projects/destiny-dc/stahn-guide?id=side-event-108-Sealed-Man) 
+▲ The title [Neat Sister] is mendatory to trigger the event "Sealed Man" [Side-Quest 108](projects/destiny-dc/stahn-guide?id=Side-Quest-108-Sealed-Man) 
 
 ---
 
 ## Side-Quest #31 - Dark Wings 4
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.25 Arriving in Moreau ~ No.28 Before arriving in Terazzi    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-The Dark Wings are back again. This time, they appear in front of the Shiden Family mansion. They claim to be the ones hired to assist. It doesn't take long before the ruse is discovered and the Dark Wings are foiled once again. No reward is given for this side-event
+The Dark Wings are back again. This time, they appear in front of the Shiden Family mansion. They claim to be the ones hired to assist. It doesn't take long before the ruse is discovered and the Dark Wings are foiled once again. No reward is given for this Side-Quest
 
 
 
@@ -581,7 +581,7 @@ The Dark Wings are back again. This time, they appear in front of the Shiden Fam
 
 ## Side-Quest #32 - Michel Shiden
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -599,7 +599,7 @@ This event occurs when you go to the bridge at Shiden Port. Johnny is defending 
 
 ## Side-Quest #33 - Eleanor 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -617,7 +617,7 @@ After clearing Moreau Castle, take a small boat to Johnny's hideout. You will se
 
 ## Side-Quest #34 - Shiden's Youngest
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -635,7 +635,7 @@ This event is triggered when you speak with the man on the roof of the undergrou
 
 ## Side-Quest #35 - Arthur Shiden
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -653,7 +653,7 @@ Speaking with Arthur Shiden while Johnny has [Shiden's Youngest] title to trigge
 
 ## Side-Quest #36 - Dark Wings 5
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -671,7 +671,7 @@ Approach the Dark Wings in Frostheim to see additional antics. They claim to be 
 
 ## Side-Quest #37 - Rose of Seinegald
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -689,7 +689,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #38 - Cursed Beauty
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -707,7 +707,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #39 - Isaac's Son
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cyril   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -725,7 +725,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #40 - Former Soldier
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cyril   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -743,7 +743,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #41 - Chris' Old Acquaintance
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Janos   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -761,7 +761,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #42 - Meeting the Wonder Baker
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -779,7 +779,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #43 - Lienean Man
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -797,11 +797,11 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #45 - Dalis' Nightmare
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cyril   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After Side-event [Young Master 2]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After Side-Quest [Young Master 2]    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
 
@@ -815,7 +815,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #46 - Maiden’s Gaze
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -833,7 +833,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #47 - Dalis' Wife
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -851,7 +851,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #48 - Topless Man
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -869,7 +869,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #49 - Kidult
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Heidelberg   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -887,7 +887,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #50 - Phandaria's King
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Heidelberg   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -905,7 +905,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #51 - Accidental Resemblance
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Janos   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -923,7 +923,7 @@ excel table
 
 ## Side-Quest #52 - Small Familly 2
 
-![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+ ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -941,7 +941,7 @@ excel table
 
 ## Side-Quest #53 - Dark Wings 6
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -959,7 +959,7 @@ excel table
 
 ## Side-Quest #54 - Ayles' Lament
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Straylize Temple   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -977,7 +977,7 @@ excel table
 
 ## Side-Quest #55 - Philia's Husband
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Straylize Temple   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -995,7 +995,7 @@ excel table
 
 ## Side-Quest #56 - Man of Fists
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1013,7 +1013,7 @@ excel table
 
 ## Side-Quest #57 - Chief's Daughter
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1031,7 +1031,7 @@ excel table
 
 ## Side-Quest #58 - Karma the Adopted Kid
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1049,7 +1049,7 @@ excel table
 
 ## Side-Quest #59 - Peeping Tom
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1067,7 +1067,7 @@ excel table
 
 ## Side-Quest #60 - Ex-Lens Hunter
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cresta   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1085,7 +1085,7 @@ excel table
 
 ## Side-Quest #61 - Free Man
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1103,7 +1103,7 @@ Excel Table
 
 ## Side-Quest #62 - Patriotism 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1121,7 +1121,7 @@ Excel Table
 
 ## Side-Quest #63 - The General's Date
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1139,7 +1139,7 @@ Excel Table
 
 ## Side-Quest #64 - Popular General Dryden
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1157,7 +1157,7 @@ Excel Table
 
 ## Side-Quest #65 - Popularity Battle
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1175,7 +1175,7 @@ Excel Table
 
 ## Side-Quest #66 - Kidnapping
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1193,7 +1193,7 @@ Boss Info Table
 
 ## Side-Quest #67 - Triva
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1211,7 +1211,7 @@ Boss Info Table
 
 ## Side-Quest #68 - Old Friend
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1229,7 +1229,7 @@ Boss Info Table
 
 ## Side-Quest #69 - Darzen's Soliloquy
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Heidelberg   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1247,7 +1247,7 @@ Excel Table
 
 ## Side-Quest #70 - Miawster
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cresta   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1265,7 +1265,7 @@ Excel Table
 
 ## Side-Quest #71 - Lady Chelsea
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Radisrol   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1283,7 +1283,7 @@ Excel Table
 
 ## Side-Quest #72 - Chelsea Meets Woodrow
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Torn's Cabin   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1301,7 +1301,7 @@ excel table for reward
 
 ## Side-Quest #73 - Seinegald's King Succession
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1319,7 +1319,7 @@ excel table for reward
 
 ## Side-Quest #74 - Soldier's Advance 2
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1337,7 +1337,7 @@ excel table for reward
 
 ## Side-Quest #75 - Yearning to join the Dark Wings 2
 
-![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+ ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Calviola   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1355,7 +1355,7 @@ excel table for reward
 
 ## Side-Quest #76 - Calviola's Elena 2
 
-![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+ ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Calviola   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1373,7 +1373,7 @@ excel table for reward
 
 ## Side-Quest #77 - Bird in a Cage?
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Janos   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1391,7 +1391,7 @@ excel table for reward
 
 ## Side-Quest #78 - I Like Sweet Things
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1409,7 +1409,7 @@ excel table for reward
 
 ## Side-Quest #79 - Mother's Face: Leon
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1427,7 +1427,7 @@ excel table for reward
 
 ## Side-Quest #80 - City Hero
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1445,7 +1445,7 @@ excel table for reward
 
 ## Side-Quest #81 - Fayte
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1463,7 +1463,7 @@ excel table for reward
 
 ## Side-Quest #82 - Princess Rhianna
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1481,7 +1481,7 @@ excel table for reward
 
 ## Side-Quest #83 - Lilith's Promise
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1499,7 +1499,7 @@ excel table for reward
 
 ## Side-Quest #84 - Bacchus' Resolution
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1517,7 +1517,7 @@ excel table for reward
 
 ## Side-Quest #85 - New General
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1535,7 +1535,7 @@ excel table for reward
 
 ## Side-Quest #86 - PokeDragon 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1553,7 +1553,7 @@ excel table for reward
 
 ## Side-Quest #87 - Hide and Seek
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cresta   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1571,7 +1571,7 @@ Multiple Graphics
 
 ## Side-Quest #88 - My name is...
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cresta   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1589,7 +1589,7 @@ Multiple Graphics
 
 ## Side-Quest #89 - Jonathan the Sheep 1
 
-![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+ ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1607,7 +1607,7 @@ Multiple Graphics
 
 ## Side-Quest #90 - Jonathan the Sheep 2
 
-![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+ ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Radisrol (Aethersphere)   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1625,7 +1625,7 @@ Multiple Graphics
 
 ## Side-Quest #91 - Small Family 3
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1643,7 +1643,7 @@ Multiple Graphics
 
 ## Side-Quest #92 - Dark Wings 7
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1661,7 +1661,7 @@ Multiple Graphics
 
 ## Side-Quest #93 - Jonathan the Sheep 3
 
-![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+ ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1679,7 +1679,7 @@ Multiple Graphics
 
 ## Side-Quest #94 - Mother's Face: Rutee
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cresta   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1697,7 +1697,7 @@ Multiple Graphics
 
 ## Side-Quest #95 - Mother's Face: Chris
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1715,7 +1715,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ## Side-Quest #96 - Lens Diviner
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Traveler's Lodge   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1733,7 +1733,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ## Side-Quest #97 - Marian
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1751,7 +1751,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ## Side-Quest #98 - Hugo's Memory
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1769,7 +1769,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ## Side-Quest #99 - Poker Face
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Torn's Cabin   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1787,7 +1787,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ## Side-Quest #100 - Homesickness
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Janos   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1805,7 +1805,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ## Side-Quest #101 - Be Yourself
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1823,7 +1823,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ## Side-Quest #102 - Batista's Memory
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Calviola   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1841,7 +1841,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ## Side-Quest #103 - Irene's Memory
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1859,7 +1859,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ## Side-Quest #104 - Kong Theatre
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1877,7 +1877,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ## Side-Quest #105 - Neustadt
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1895,7 +1895,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ## Side-Quest #106 - Rembrandt's Memory
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1913,7 +1913,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ## Side-Quest #107 - Meeting with Sakuraba
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1931,7 +1931,7 @@ Excel Table
 
 ## Side-Quest #108 - Sealed Man
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1949,7 +1949,7 @@ Excel Table
 
 ## Side-Quest #109 - Young Master 2
 
-![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+ ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1967,7 +1967,7 @@ Excel Table
 
 ## Side-Quest #110 - Tiberius's Memory
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -1985,7 +1985,7 @@ Excel Table
 
 ## Side-Quest #111 - SISTER?
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2003,7 +2003,7 @@ Excel Table
 
 ## Side-Quest #112 - The Perfect Couple
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2021,7 +2021,7 @@ Excel Table
 
 ## Side-Quest #113 - Hot Springs Event 1
 
-![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+ ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2039,7 +2039,7 @@ Excel Table
 
 ## Side-Quest #114 - Hot Springs Event 2
 
-![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+ ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2057,7 +2057,7 @@ Excel Table
 
 ## Side-Quest #115 - Dalis and Mary
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cyril   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2075,7 +2075,7 @@ Excel Table
 
 ## Side-Quest #116 - Gambler Rutee
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Heidelberg   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2093,7 +2093,7 @@ Excel Table
 
 ## Side-Quest #117 - Greybum's Memory
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Heidelberg   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2111,7 +2111,7 @@ Excel Table
 
 ## Side-Quest #118 - Queen Chelsea
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Heidelberg   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2129,7 +2129,7 @@ Excel Table
 
 ## Side-Quest #119 - Blizzard Bowl
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Heidelberg   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2147,7 +2147,7 @@ Excel Table
 
 ## Side-Quest #120 - Missing Uncle Bob
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2165,7 +2165,7 @@ Excel Table
 
 ## Side-Quest #121 - Rutee's Birthday
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cresta   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2183,7 +2183,7 @@ Excel Table
 
 ## Side-Quest #122 - Baruk's Memory
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cherik   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2201,7 +2201,7 @@ Excel Table
 
 ## Side-Quest #123 - Patriotism 2
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2219,7 +2219,7 @@ Excel Table
 
 ## Side-Quest #124 - Draconis Crewman's Family 2
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2237,7 +2237,7 @@ Excel Table
 
 ## Side-Quest #125 - Soldier's Advance 3
 
-![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+ ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2255,7 +2255,7 @@ Excel Table
 
 ## Side-Quest #126 - Lens Panic
 
-![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+ ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2273,7 +2273,7 @@ Excel Table
 
 ## Side-Quest #127 - Small Family 4
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2291,7 +2291,7 @@ Excel Table
 
 ## Side-Quest #128 - Switcheroo
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2309,7 +2309,7 @@ Excel Table
 
 ## Side-Quest #129 - Kongman's Origin Story
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2327,7 +2327,7 @@ Excel Table
 
 ## Side-Quest #130 - Eleanor 2
 
-![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+ ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2345,7 +2345,7 @@ Excel Table
 
 ## Side-Quest #131 - Oath to Leon
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2363,7 +2363,7 @@ Stahn and his team renewed their resolve to save the world rather than wallow in
 
 ## Side-Quest #132 - Great Detective Stahn
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2381,14 +2381,14 @@ Stahn and his team renewed their resolve to save the world rather than wallow in
 
 ## Side-Quest #133 - Life-threatening Situation
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn title [Destiny's Child]    |
 
-This side-event occurs when the title "Man in Love" is set on Kongman and he talks to Bacchus, who is standing in front his house. They begin to talk passionately about what love is. They are visited by General Lewein of the Seven Generals. After listening to their conversation, he tells Bacchus that he was in love with Thomas' wife, and that he regrets that he never told her how he felt.
+This Side-Quest occurs when the title "Man in Love" is set on Kongman and he talks to Bacchus, who is standing in front his house. They begin to talk passionately about what love is. They are visited by General Lewein of the Seven Generals. After listening to their conversation, he tells Bacchus that he was in love with Thomas' wife, and that he regrets that he never told her how he felt.
 
 
 
@@ -2399,7 +2399,7 @@ The title obtained is a condition for the "Parenthood" Sub Event (→P351).
 
 ## Side-Quest #134 - Parents
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2417,7 +2417,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ## Side-Quest #135 - Food Book Appraisal
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Food Sack Master's Haven   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2435,7 +2435,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ## Side-Quest #136 - Hidden Calvalisians
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Junkland   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2453,7 +2453,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ## Side-Quest #137 - Dark Wings 8
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2471,7 +2471,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ## Side-Quest #138 - Fake Swordians
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Straylize Temple   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2489,7 +2489,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ## Side-Quest #139 - Former Lovers
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Swordian R&D Lab   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2507,7 +2507,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ## Side-Quest #140 - Small Family 5
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2525,7 +2525,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ## Side-Quest #141 - Clown
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2543,7 +2543,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ## Side-Quest #142 - Jonathan the Sheep 4
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2561,7 +2561,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ## Side-Quest #143 - PokeDragon 2
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2579,7 +2579,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ## Side-Quest #144 - Lovely Katz
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Katz Village   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2597,7 +2597,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ## Side-Quest #145 - Lost Pet
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2615,14 +2615,14 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ## Side-Quest #146 - Movie Viewer
 
-![](https://img.shields.io/badge/-New%20Game+-informational?style=for-the-badge&color=blue)
+  ![](https://img.shields.io/badge/-New%20Game+-informational?style=for-the-badge&color=blue)
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Katz Village   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | New Game Plus    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-This is a new game+ side-event. It occurs when you load the clear data and talk to the blue-costumed bunny standing near "Noko" at the Katz Base. You can watch all the movies in the game, including the opening and ending.
+This is a new game+ Side-Quest. It occurs when you load the clear data and talk to the blue-costumed bunny standing near "Noko" at the Katz Base. You can watch all the movies in the game, including the opening and ending.
 
 
 
@@ -2633,14 +2633,14 @@ This is a new game+ side-event. It occurs when you load the clear data and talk 
 
 ## Side-Quest #147 - He's Me, I'm Him, so He's...
 
-![](https://img.shields.io/badge/-New%20Game+-informational?style=for-the-badge&color=blue)
+  ![](https://img.shields.io/badge/-New%20Game+-informational?style=for-the-badge&color=blue)
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Katz Village   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | New Game Plus    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-This is also a side-event that can only be viewed on a new game+. The event occurs when you talk to the sleeping cat in the rocket at the Katz Base after you have obtained all the titles. Suddenly Stahn and his friends are struck by lightning and everyone is freaky fridays.
+This is also a Side-Quest that can only be viewed on a new game+. The event occurs when you talk to the sleeping cat in the rocket at the Katz Base after you have obtained all the titles. Suddenly Stahn and his friends are struck by lightning and everyone is freaky fridays.
 
 
 
@@ -2651,7 +2651,7 @@ This is also a side-event that can only be viewed on a new game+. The event occu
 
 ## Side-Quest #148 - Skit Viewer
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Katz Village   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2669,7 +2669,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ## Side-Quest #149 - Procurement Quest
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Around the world   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2687,7 +2687,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ## Side-Quest #150 - Race Game
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2705,7 +2705,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ## Side-Quest #151 - Rock Rally
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Around the world   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2723,7 +2723,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ## Side-Quest #152 - Arena
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2741,7 +2741,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ## Side-Quest #153 - Wild Shot
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2759,7 +2759,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ## Side-Quest #154 - His Majesty's Drums
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2777,7 +2777,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ## Side-Quest #155 - ToD Quiz
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2795,7 +2795,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ## Side-Quest #156 - Sunken Ship Dungeon
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2813,7 +2813,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ## Side-Quest #157 - Four Secrets of the World
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Straylize Temple and others   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2831,7 +2831,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ## Side-Quest #158 - Ecological Survey
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2849,7 +2849,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ## Side-Quest #159 - Discovery Points
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Around the world   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2867,7 +2867,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ## Side-Quest #160 - Search for the Gentlemens
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2887,7 +2887,7 @@ If you win, it will be recorded in the Monster Book.
 
 ## Side-Quest #161 - Aquaveil's Treasure Sword
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Terrazi   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2905,7 +2905,7 @@ If you win, it will be recorded in the Monster Book.
 
 ## Side-Quest #162 - Lilith and Stahn
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -2923,7 +2923,7 @@ If you win, it will be recorded in the Monster Book.
 
 ## Side-Quest #163 - Lilith's Side
 
-
+  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |

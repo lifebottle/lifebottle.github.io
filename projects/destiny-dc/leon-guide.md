@@ -2,7 +2,7 @@
 
 ## Side-Quest #1 - Capsule Toy
 
-
+   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -29,7 +29,7 @@ There is a vending machine on the second floor of the Darilsheid Inn that offers
 
 ## Side-Quest #2 - The Rumoured Seven Generals
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -55,7 +55,7 @@ The Heroes of Seinegald are known as the "Seven Generals." You will encounter ru
 
 ## Side-Quest #3 - Soldier's Advance 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -73,7 +73,7 @@ Like the "Small Family" event mentioned above, this event also has multiple part
 
 ## Side-Quest #4 - Country Boy
 
-
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -91,7 +91,7 @@ This event occurs when you encounter a man who seems to know Stahn in from of th
 
 ## Side-Quest #5 - Greedy Witch
 
-
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -103,20 +103,20 @@ In the plaza just after passing under Seingald Castle's gate, talk to the soldie
 
 
 ![](leon-guide/sub_leon5_1.png)  
-▲ The [Greedy Witch] title is necessary to trigger Marian's Event [Side-event 097](projects/destiny-dc/stahn-guide?id=side-event-097-Marian). 
+▲ The [Greedy Witch] title is necessary to trigger Marian's Event [Side-Quest 097](projects/destiny-dc/stahn-guide?id=Side-Quest-097-Marian). 
 
 ---
 
 ## Side-Quest #6 - Doug Brothers
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Taking Hugo’s Request ~ No.12 Straylize Temple cleared    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-Between the period listed above, a side-event will occur after heading to Reynold's Laboratory. There you will encounter Ashley of the Seven-Generals. He expresses frustration after learning of Stahn's mission and rushes off to the castle.
+Between the period listed above, a Side-Quest will occur after heading to Reynold's Laboratory. There you will encounter Ashley of the Seven-Generals. He expresses frustration after learning of Stahn's mission and rushes off to the castle.
 
 
 
@@ -127,7 +127,7 @@ Between the period listed above, a side-event will occur after heading to Reynol
 
 ## Side-Quest #7 - Bad Pun Man
 
-
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -139,13 +139,13 @@ This event occurs when you visit Hugo's mansion in Darilsheid and recieve the sw
 
 
 ![](leon-guide/sub_leon7_1.png)  
-▲ You will need the [Breaker] title for the "Fayte" event [Side-event 081](projects/destiny-dc/stahn-guide?id=side-event-081-Fayte).
+▲ You will need the [Breaker] title for the "Fayte" event [Side-Quest 081](projects/destiny-dc/stahn-guide?id=Side-Quest-081-Fayte).
 
 ---
 
 ## Side-Quest #8 - Alleged Mother?
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -163,7 +163,7 @@ This event only appears for a short time, so it's best to complete it PRIOR TO h
 
 ## Side-Quest #9 - Draconis Crewman's Family 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -175,13 +175,13 @@ This event is available during the above period and occurs when you enter the tw
 
 
 ![](leon-guide/sub_leon9_1.png)  
-▲ You can get the conclusion to this event in "Draconis Crewman's Family 2" [Side-event 124](projects/destiny-dc/stahn-guide?id=side-event-124-Draconis-Crewman's-Family-2). 
+▲ You can get the conclusion to this event in "Draconis Crewman's Family 2" [Side-Quest 124](projects/destiny-dc/stahn-guide?id=Side-Quest-124-Draconis-Crewman's-Family-2). 
 
 ---
 
 ## Side-Quest #10 - Small Family 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -199,14 +199,14 @@ This is a five part event and where each one is mandatory for the next one. The 
 
 ## Side-Quest #11 - Lost Passport!
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Janos   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.04 Arriving in Janos ~ No.15 Before arriving in Cherik    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-This event occurs when you talk to the man in front of the inn in Janos. He tells you that he has been staying in Janos for several years without being able to return to Phandaria since he lost his passport. He begs you to sell him your passport, but of course you can't. This man also appears in "The Bird in the Cage" [Side-event 077](projects/destiny-dc/stahn-guide?id=side-event-077-bird-in-a-cage). 
+This event occurs when you talk to the man in front of the inn in Janos. He tells you that he has been staying in Janos for several years without being able to return to Phandaria since he lost his passport. He begs you to sell him your passport, but of course you can't. This man also appears in "The Bird in the Cage" [Side-Quest 077](projects/destiny-dc/stahn-guide?id=Side-Quest-077-bird-in-a-cage). 
 
 
 
@@ -217,14 +217,14 @@ This event occurs when you talk to the man in front of the inn in Janos. He tell
 
 ## Side-Quest #12 - Dark Wings 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.10 Arriving in Armeida ~ No.12 Straylize Temple Cleared    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-The "Dark Wings," whom you met in Janos, appear before Stahn and others once again in this side-event. You trigger this event by visiting the plaza at the far side of Armeida. While this is the first of eight side-events, there is no specific order in which to view the events staring these three "lens hunters." No items or titles are obtained either, but their antics are worth seeing through to the very end. 
+The "Dark Wings," whom you met in Janos, appear before Stahn and others once again in this Side-Quest. You trigger this event by visiting the plaza at the far side of Armeida. While this is the first of eight Side-Quests, there is no specific order in which to view the events staring these three "lens hunters." No items or titles are obtained either, but their antics are worth seeing through to the very end. 
 
 
 
@@ -235,7 +235,7 @@ The "Dark Wings," whom you met in Janos, appear before Stahn and others once aga
 
 ## Side-Quest #13 - Lovers' Quarrels
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -253,7 +253,7 @@ Upon entering the grocery store in Armeida, Mary is informed that due to the laz
 
 ## Side-Quest #14 - Life Saver
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -271,14 +271,14 @@ Visiting the plaza in Armedia during this you will encounter one the Seven Gener
 
 ## Side-Quest #15 - Philia's First Time in Junkland
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Junkland   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.15 Arrival at Baruk's Office ~ No.54 Fight against Ilene    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-Junkland doesn't need to visited until towards the end of the story in case you just want to advance the main plot. However, to view this side-event, you need to visit Junkland very early in the story. Near the armorer in Junkland, Philia is unable to handle the power stench in the air and falls ill. Do not fret - this event has no bearing on her actual status in game.
+Junkland doesn't need to visited until towards the end of the story in case you just want to advance the main plot. However, to view this Side-Quest, you need to visit Junkland very early in the story. Near the armorer in Junkland, Philia is unable to handle the power stench in the air and falls ill. Do not fret - this event has no bearing on her actual status in game.
 
 
 
@@ -289,7 +289,7 @@ Junkland doesn't need to visited until towards the end of the story in case you 
 
 ## Side-Quest #16 - Yearning to Join the Dark Wings 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Calviola   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -301,31 +301,31 @@ To trigger this event, speak with a young boy with green hair near a large pool 
 
 
 ![](leon-guide/sub_leon16_1.png)  
-▲ Toshu doesn't suspect the Dark Wings real identity. The second event will reveal what happened after that [Side-event 075](projects/destiny-dc/stahn-guide?id=side-event-075-Yearning-to-join-the-Dark-Wings-2).
+▲ Toshu doesn't suspect the Dark Wings real identity. The second event will reveal what happened after that [Side-Quest 075](projects/destiny-dc/stahn-guide?id=Side-Quest-075-Yearning-to-join-the-Dark-Wings-2).
 
 ---
 
 ## Side-Quest #17 - Calviola's Elena 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Calviola   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.16 Arriving in Calviola ~ No.19 Before arriving at Neustadt    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-This event occurs when speaking with Elena, who is in a house to the left of the Oberon Corportation building in Valviola. She asks the party to assis her in finding her father, who is half Calviolan and half Seingegaldian. If you do not complete (trigger?) this side-event, the second part, [Calviola's Elena 2], WILL NOT occur. 
+This event occurs when speaking with Elena, who is in a house to the left of the Oberon Corportation building in Valviola. She asks the party to assis her in finding her father, who is half Calviolan and half Seingegaldian. If you do not complete (trigger?) this Side-Quest, the second part, [Calviola's Elena 2], WILL NOT occur. 
 
 
 
 ![](leon-guide/sub_leon17_1.png)  
-▲ Completing "Bird in a Cage?" [Side-event 077](projects/destiny-dc/stahn-guide?id=side-event-077-Bird-in-a-Cage?) is mandatory to trigger this chains of events.
+▲ Completing "Bird in a Cage?" [Side-Quest 077](projects/destiny-dc/stahn-guide?id=Side-Quest-077-Bird-in-a-Cage?) is mandatory to trigger this chains of events.
 
 ---
 
 ## Side-Quest #18 - The Pickpocket Incident
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Calviola   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -343,7 +343,7 @@ This even occurs if you try to leave Calviola through the northern exit with len
 
 ## Side-Quest #19 - Dark Wings 2
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cherik   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -361,7 +361,7 @@ Visit the square close to where the Baruk Foundation(?) is located in Cherik to 
 
 ## Side-Quest #20 - Sibling 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -379,7 +379,7 @@ Talking to the girl on the bridge connected to the Oberon Lens shop in Neustadt.
 
 ## Side-Quest #21 - Gaze of Resolve
 
-
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -397,14 +397,14 @@ This event occurs when you speak with the woman who is standing infront of the N
 
 ## Side-Quest #22 - Sweet Boy
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.20 Arriving in Neustadt ~ No.22 Arriving in Shiden Territory    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Leon's title [Sweet Boy]    |
 
-This event occurs when you speak with a young boy sitting on a bench in front of the Softy Kreem stand in Neustadt. During the conversation, select "I have no business with children." Lion will provide an answer to the child's question about food he doesn't like. In order for this event to occur, you must have Leon in your party. 
+This event occurs when you speak with a young boy sitting on a bench in front of the Softy Kreem stand in Neustadt. During the conversation, select "I have no business with children." Leon will provide an answer to the child's question about food he doesn't like. In order for this event to occur, you must have Leon in your party. 
 
 
 
@@ -415,7 +415,7 @@ This event occurs when you speak with a young boy sitting on a bench in front of
 
 ## Side-Quest #23 - Lost Child
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -433,7 +433,7 @@ You can trigger this event by speaking to the lost child near Ilene's house in N
 
 ## Side-Quest #24 - "Swatian" User?
 
-
+   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -445,31 +445,49 @@ Trigger this even by talking to the boy near the fountain in Neustadt. Upon sele
 
 
 ![](leon-guide/sub_leon24_1.png)  
-▲ The title obtained is a required for "Fake Swordian" [Side-event 138](projects/destiny-dc/stahn-guide?id=side-event-138-Fake-Swordian)
+▲ The title obtained is a required for "Fake Swordian" [Side-Quest 138](projects/destiny-dc/stahn-guide?id=Side-Quest-138-Fake-Swordian)
 
 ---
 
 ## Side-Quest #25 - Monster Book Appraisal
 
-
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.20 Arriving in Neustadt    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-Make sure to be checking the maximum number of hits displayed when you review the Monster Book as it will be related to other side-events. After you have fought your way to a number over 30, talk to a monster researcher in the Neustadt arena, next to a weapon shop in any city, or next to an armorer in any city. You will receive a War Diary (?). Once you receive the War Diary (?), each time you perform a Definite Strike, a ★ mark will appear to the right of the monster's name in the Monster Book. When you reach 100% for a region, you are awarded one of the items outlined in the table below by a Monster Researcher. 
+Make sure to be checking the maximum number of hits displayed when you review the Monster Book as it will be related to other Side-Quests. After you have fought your way to a number over 30, talk to a monster researcher in the Neustadt arena, next to a weapon shop in any city, or next to an armorer in any city. You will receive a War Diary (?). Once you receive the War Diary (?), each time you perform a Definite Strike, a ★ mark will appear to the right of the monster's name in the Monster Book. When you reach 100% for a region, you are awarded one of the items outlined in the table below by a Monster Researcher. 
 
-excel table
+
 
 ![](leon-guide/sub_leon25_1.png)  
 
 
 ---
 
+## Side-Quest #26 - Legendary Carrots
+
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    ![](https://img.shields.io/badge/-Leon's%20Side%20Exclusive-informational?style=for-the-badge&color=blue)
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Around Lienea   |
+| :--------------------------------------------------------------------------------------- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | None    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
+
+
+
+![](leon-guide/sub_leon26_1.png)  
+
+
+---
+
 ## Side-Quest #27 - Meeting the Wonder Baker
 
-
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    ![](https://img.shields.io/badge/-Leon's%20Side%20Exclusive-informational?style=for-the-badge&color=blue)
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -487,7 +505,7 @@ excel table
 
 ## Side-Quest #28 - Pirate Ship Reward
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -509,7 +527,7 @@ After you have cleared the pirate ship, speak with the sailor to the north (?) o
 
 ## Side-Quest #29 - Dark Wings 3
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -527,7 +545,7 @@ This event takes place when you enter the hospital(?) on the left side of the ar
 
 ## Side-Quest #30 - Sibling 2
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)  
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -545,7 +563,7 @@ This event is triggered by speaking with the same girl on the bridge for [Siblin
 
 ## Side-Quest #31 - Young Master 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -563,7 +581,7 @@ This event occurs when you speak with a child crying on a bridge in Shiden. This
 
 ## Side-Quest #32 - Neat Sister
 
-
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -575,20 +593,20 @@ Speak with the girl in front of the Shiden Family mansion and she will complimen
 
 
 ![](leon-guide/sub_leon32_1.png)  
-▲ The title [Neat Sister] is mendatory to trigger the event "Sealed Man" [Side-event 108](projects/destiny-dc/stahn-guide?id=side-event-108-Sealed-Man) 
+▲ The title [Neat Sister] is mendatory to trigger the event "Sealed Man" [Side-Quest 108](projects/destiny-dc/stahn-guide?id=Side-Quest-108-Sealed-Man) 
 
 ---
 
 ## Side-Quest #33 - Dark Wings 4
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.25 Arriving in Moreau ~ No.28 Before arriving in Terazzi    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-The Dark Wings are back again. This time, they appear in front of the Shiden Family mansion. They claim to be the ones hired to assist. It doesn't take long before the ruse is discovered and the Dark Wings are foiled once again. No reward is given for this side-event
+The Dark Wings are back again. This time, they appear in front of the Shiden Family mansion. They claim to be the ones hired to assist. It doesn't take long before the ruse is discovered and the Dark Wings are foiled once again. No reward is given for this Side-Quest
 
 
 
@@ -599,7 +617,7 @@ The Dark Wings are back again. This time, they appear in front of the Shiden Fam
 
 ## Side-Quest #34 - Michel Shiden
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -617,7 +635,7 @@ This event occurs when you go to the bridge at Shiden Port. Johnny is defending 
 
 ## Side-Quest #35 - Eleanor 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -635,7 +653,7 @@ After clearing Moreau Castle, take a small boat to Johnny's hideout. You will se
 
 ## Side-Quest #36 - Shiden's Youngest
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -653,7 +671,7 @@ This event is triggered when you speak with the man on the roof of the undergrou
 
 ## Side-Quest #37 - Arthur Shiden
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -671,7 +689,7 @@ Speaking with Arthur Shiden while Johnny has [Shiden's Youngest] title to trigge
 
 ## Side-Quest #38 - Dark Wings 5
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -689,7 +707,7 @@ Approach the Dark Wings in Frostheim to see additional antics. They claim to be 
 
 ## Side-Quest #39 - Rose of Seinegald
 
-
+   
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -707,7 +725,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #40 - Cursed Beauty
 
-
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -725,7 +743,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #41 - Isaac's Son
 
-
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cyril   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -743,7 +761,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #42 - Former Soldier
 
-
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cyril   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -761,7 +779,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #43 - Chris' Old Acquaintance
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Janos   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -777,9 +795,207 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ---
 
+## Side-Quest #44 - Reynolds' Experiment
+
+   ![](https://img.shields.io/badge/-Leon's%20Side%20Exclusive-informational?style=for-the-badge&color=blue)
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
+| :--------------------------------------------------------------------------------------- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | None    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Leon's title [Sudden Visitor]    |
+
+
+
+
+
+![](leon-guide/sub_leon44_1.png)  
+
+
+---
+
+## Side-Quest #45 - Alba Reunion
+
+   ![](https://img.shields.io/badge/-Leon's%20Side%20Exclusive-informational?style=for-the-badge&color=blue)
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Torn's Cabin   |
+| :--------------------------------------------------------------------------------------- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | None    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Leon's title [Sudden Visitor]    |
+
+
+
+
+
+![](leon-guide/sub_leon45_1.png)  
+
+
+---
+
+## Side-Quest #46 - Clemente Reunion
+
+   ![](https://img.shields.io/badge/-Leon's%20Side%20Exclusive-informational?style=for-the-badge&color=blue)
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Straylize Temple   |
+| :--------------------------------------------------------------------------------------- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | None    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Leon's title [Sudden Visitor]    |
+
+
+
+
+
+![](leon-guide/sub_leon46_1.png)  
+
+
+---
+
+## Side-Quest #47 - Johnny Reunion
+
+   ![](https://img.shields.io/badge/-Leon's%20Side%20Exclusive-informational?style=for-the-badge&color=blue)
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
+| :--------------------------------------------------------------------------------------- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | None    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Leon's title [Sudden Visitor]    |
+
+
+
+
+
+![](leon-guide/sub_leon47_1.png)  
+
+
+---
+
+## Side-Quest #48 - Leon's Hot Springs
+
+   ![](https://img.shields.io/badge/-Leon's%20Side%20Exclusive-informational?style=for-the-badge&color=blue)
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
+| :--------------------------------------------------------------------------------------- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | None    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Leon's title [Chest Towel]    |
+
+
+
+
+
+![](leon-guide/sub_leon48_1.png)  
+
+
+---
+
+## Side-Quest #49 - Dalis Reunion
+
+   ![](https://img.shields.io/badge/-Leon's%20Side%20Exclusive-informational?style=for-the-badge&color=blue)
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cyril   |
+| :--------------------------------------------------------------------------------------- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | None    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Leon's title [Sudden Visitor]    |
+
+
+
+
+
+![](leon-guide/sub_leon49_1.png)  
+
+
+---
+
+## Side-Quest #50 - Mary Reunion
+
+   ![](https://img.shields.io/badge/-Leon's%20Side%20Exclusive-informational?style=for-the-badge&color=blue)
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cyril   |
+| :--------------------------------------------------------------------------------------- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | None    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Leon's title [Sudden Visitor]    |
+
+
+
+
+
+![](leon-guide/sub_leon50_1.png)  
+
+
+---
+
+## Side-Quest #51 - Woodrow Reunion
+
+   ![](https://img.shields.io/badge/-Leon's%20Side%20Exclusive-informational?style=for-the-badge&color=blue)
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Heidelberg   |
+| :--------------------------------------------------------------------------------------- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | None    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Leon's title [Sudden Visitor]    |
+
+
+
+
+
+![](leon-guide/sub_leon51_1.png)  
+
+
+---
+
+## Side-Quest #52 - Darzen Reunion
+
+   ![](https://img.shields.io/badge/-Leon's%20Side%20Exclusive-informational?style=for-the-badge&color=blue)
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Heidelberg   |
+| :--------------------------------------------------------------------------------------- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | None    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Leon's title [Sudden Visitor]    |
+
+
+
+
+
+![](leon-guide/sub_leon52_1.png)  
+
+
+---
+
+## Side-Quest #53 - Chelsea Reunion
+
+   ![](https://img.shields.io/badge/-Leon's%20Side%20Exclusive-informational?style=for-the-badge&color=blue)
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Heidelberg   |
+| :--------------------------------------------------------------------------------------- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | None    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Leon's title [Sudden Visitor]    |
+
+
+
+
+
+![](leon-guide/sub_leon53_1.png)  
+
+
+---
+
+## Side-Quest #54 - Philia's Reunion
+
+   ![](https://img.shields.io/badge/-Leon's%20Side%20Exclusive-informational?style=for-the-badge&color=blue)
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Straylize Temple   |
+| :--------------------------------------------------------------------------------------- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | None    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Leon's title [Sudden Visitor]    |
+
+
+
+
+
+![](leon-guide/sub_leon54_1.png)  
+
+
+---
+
 ## Side-Quest #55 - Procurement Quest
 
-
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Around the world   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -788,7 +1004,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-
+excel table
 
 ![](leon-guide/sub_leon55_1.png)  
 
@@ -797,7 +1013,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #56 - Race Game
 
-
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -806,7 +1022,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-
+excel table
 
 ![](leon-guide/sub_leon56_1.png)  
 
@@ -815,7 +1031,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 ## Side-Quest #57 - Rock Rally
 
-
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Around the world   |
 | :--------------------------------------------------------------------------------------- | :------------------ |

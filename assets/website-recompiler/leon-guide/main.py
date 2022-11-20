@@ -15,7 +15,7 @@ if __name__ == "__main__":
     MD_ENTRY_TEMPLATE = """
 ## Side-Quest #{sub_leon} - {english_title}
 
-{missable}{multipart}{new_game+}
+{missable} {multipart} {new_game+} {leon_exclusive}
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | {english_location}   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -39,6 +39,7 @@ if __name__ == "__main__":
         "Missable"           : "missable",
         "Multipart"          : "multipart",
         "New Game+"          : "new_game+",
+        "Leon's Side Exclusive" : "leon_exclusive",
         "English Location"   : "english_location",
         "English Period"     : "english_period",
         "English Reward"     : "english_reward",

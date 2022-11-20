@@ -15,7 +15,7 @@ if __name__ == "__main__":
     MD_ENTRY_TEMPLATE = """
 ## Side-Quest #{sub} - {english_title}
 
-{missable}{multipart}{new_game+}
+{missable} {multipart} {new_game+}
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | {english_location}   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
