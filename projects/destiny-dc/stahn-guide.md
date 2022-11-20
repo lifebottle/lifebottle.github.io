@@ -1,6 +1,6 @@
-# Stahn's Side - Guide
+# Stahn's Side - Side-Quest Guide
 
-## Side-event #001 - Lost Passport!
+## Side-Quest #1 - Lost Passport!
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -13,12 +13,12 @@ This event occurs when you talk to the man in front of the inn in Janos. He tell
 
 
 
-![](stahn-guide/sub001_1.png)  
+![](stahn-guide/sub1_1.png)  
 
 
 ---
 
-## Side-event #002 - Small Family 1
+## Side-Quest #2 - Small Family 1
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -31,12 +31,12 @@ This is a five part event and where each one is mandatory for the next one. The 
 
 
 
-![](stahn-guide/sub002_1.png)  
+![](stahn-guide/sub2_1.png)  
 ▲ You can even witness the moment when the young birds leave their nests.
 
 ---
 
-## Side-event #003 - Soldier's Advance 1
+## Side-Quest #3 - Soldier's Advance 1
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -49,12 +49,12 @@ Like the "Small Family" event mentioned above, this event also has multiple part
 
 
 
-![](stahn-guide/sub003_1.png)  
+![](stahn-guide/sub3_1.png)  
 ▲ He's not the man Rutee needs, of course, so he got easily rejected.
 
 ---
 
-## Side-event #004 - Country Boy
+## Side-Quest #4 - Country Boy
 
 
 
@@ -67,12 +67,12 @@ This event occurs when you encounter a man who seems to know Stahn in from of th
 
 
 
-![](stahn-guide/sub004_1.png)  
+![](stahn-guide/sub4_1.png)  
 
 
 ---
 
-## Side-event #005 - The Rumoured Seven Generals
+## Side-Quest #5 - The Rumoured Seven Generals
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -86,26 +86,26 @@ The Heroes of Seinegald are known as the "Seven Generals." You will encounter ru
 |Town|Location|Npc Name|
 |-----|-----|-----|
 |Janos|Innkeeper's bar|Waitress|
-|Harmentz|The house below the armorer's shop|Mothers|
-|Harmentz|Riverbank at the lower right of the armorer's |shop|Young man|
+|Harmentz|The house below the armorer's shop|Young Mother|
+|Harmentz|Riverbank at the lower right of the armorer's shop|Young Man|
 |Darilshield|Front of the item shop|Man|
-|Darilshield|Front of the castle|Oberon Employee|
-|Darilshield|Harbor|Meat merchant|
-|Armeida|The islet at the lower right of the village|Young man|
+|Darilshield|Residential district|Oberon Employee|
+|Darilshield|Harbor|Meat Merchant|
+|Armeida|The islet at the lower right of the village|Kid|
 
-![](stahn-guide/sub005_1.png)  
+![](stahn-guide/sub5_1.png)  
 ▲ That's Darilsheid tax money at work.
 
 ---
 
-## Side-event #006 - Capsule Toy
+## Side-Quest #6 - Capsule Toy
 
 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Taking Hugo’s Request ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See table below    |
 
 There is a vending machine on the second floor of the Darilsheid Inn that offers capsule toys for 200 Gald. Some of the available toys are rare, so if you have a few Gald to spare, you should try your luck! The following table shows the items that are available and the probability of obtaining them. 
 
@@ -120,12 +120,12 @@ There is a vending machine on the second floor of the Darilsheid Inn that offers
 |Life bottle     |4%         |
 |Peach Gel       |3%         |
 
-![](stahn-guide/sub006_1.png)  
+![](stahn-guide/sub6_1.png)  
 
 
 ---
 
-## Side-event #007 - Greedy Witch
+## Side-Quest #7 - Greedy Witch
 
 
 
@@ -138,12 +138,12 @@ In the plaza just after passing under Seingald Castle's gate, talk to the soldie
 
 
 
-![](stahn-guide/sub007_1.png)  
+![](stahn-guide/sub7_1.png)  
 ▲ The [Greedy Witch] title is necessary to trigger Marian's Event [Side-event 097](projects/destiny-dc/stahn-guide?id=side-event-097-Marian). 
 
 ---
 
-## Side-event #008 - Doug Brothers
+## Side-Quest #8 - Doug Brothers
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -156,12 +156,12 @@ Between the period listed above, a side-event will occur after heading to Reynol
 
 
 
-![](stahn-guide/sub008_1.png)  
+![](stahn-guide/sub8_1.png)  
 
 
 ---
 
-## Side-event #009 - Bad Pun Man
+## Side-Quest #9 - Bad Pun Man
 
 
 
@@ -174,12 +174,12 @@ This event occurs when you visit Hugo's mansion in Darilsheid and recieve the sw
 
 
 
-![](stahn-guide/sub009_1.png)  
+![](stahn-guide/sub9_1.png)  
 ▲ You will need the [Breaker] title for the "Fayte" event [Side-event 081](projects/destiny-dc/stahn-guide?id=side-event-081-Fayte).
 
 ---
 
-## Side-event #010 - Alleged Mother?
+## Side-Quest #10 - Alleged Mother?
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -192,12 +192,12 @@ This event only appears for a short time, so it's best to complete it PRIOR TO h
 
 
 
-![](stahn-guide/sub010_1.png)  
+![](stahn-guide/sub10_1.png)  
 
 
 ---
 
-## Side-event #011 - Draconis Crewman's Family 1
+## Side-Quest #11 - Draconis Crewman's Family 1
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -210,12 +210,12 @@ This event is available during the above period and occurs when you enter the tw
 
 
 
-![](stahn-guide/sub011_1.png)  
+![](stahn-guide/sub11_1.png)  
 ▲ You can get the conclusion to this event in "Draconis Crewman's Family 2" [Side-event 124](projects/destiny-dc/stahn-guide?id=side-event-124-Draconis-Crewman's-Family-2). 
 
 ---
 
-## Side-event #012 - Dark Wings 1
+## Side-Quest #12 - Dark Wings 1
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -228,12 +228,12 @@ The "Dark Wings," whom you met in Janos, appear before Stahn and others once aga
 
 
 
-![](stahn-guide/sub012_1.png)  
+![](stahn-guide/sub12_1.png)  
 
 
 ---
 
-## Side-event #013 - Lovers' Quarrels
+## Side-Quest #13 - Lovers' Quarrels
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -246,12 +246,12 @@ Upon entering the grocery store in Armeida, Mary is informed that due to the laz
 
 
 
-![](stahn-guide/sub013_1.png)  
+![](stahn-guide/sub13_1.png)  
 ▲ After the first conversation, go out of the shop and re enter to trigger the second part.
 
 ---
 
-## Side-event #014 - Life Saver
+## Side-Quest #14 - Life Saver
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -264,12 +264,12 @@ Visiting the plaza in Armedia during this you will encounter one the Seven Gener
 
 
 
-![](stahn-guide/sub014_1.png)  
+![](stahn-guide/sub14_1.png)  
 ▲ The period to do this sidequest is really short so make sure to stop after clearing the Straylize Temple
 
 ---
 
-## Side-event #015 - Philia's First Time in Junkland
+## Side-Quest #15 - Philia's First Time in Junkland
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -282,12 +282,12 @@ Junkland doesn't need to visited until towards the end of the story in case you 
 
 
 
-![](stahn-guide/sub015_1.png)  
+![](stahn-guide/sub15_1.png)  
 ▲ The best time to trigger this event is to go directly after leaving Cherik and before entering Calviola.
 
 ---
 
-## Side-event #016 - Yearning to Join the Dark Wings 1
+## Side-Quest #16 - Yearning to Join the Dark Wings 1
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -300,12 +300,12 @@ To trigger this event, speak with a young boy with green hair near a large pool 
 
 
 
-![](stahn-guide/sub016_1.png)  
+![](stahn-guide/sub16_1.png)  
 ▲ Toshu doesn't suspect the Dark Wings real identity. The second event will reveal what happened after that [Side-event 075](projects/destiny-dc/stahn-guide?id=side-event-075-Yearning-to-join-the-Dark-Wings-2).
 
 ---
 
-## Side-event #017 - Calviola's Elena 1
+## Side-Quest #17 - Calviola's Elena 1
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -318,12 +318,12 @@ This event occurs when speaking with Elena, who is in a house to the left of the
 
 
 
-![](stahn-guide/sub017_1.png)  
+![](stahn-guide/sub17_1.png)  
 ▲ Completing "Bird in a Cage?" [Side-event 077](projects/destiny-dc/stahn-guide?id=side-event-077-Bird-in-a-Cage?) is mandatory to trigger this chains of events.
 
 ---
 
-## Side-event #018 - The Pickpocket Incident
+## Side-Quest #18 - The Pickpocket Incident
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -336,12 +336,12 @@ This even occurs if you try to leave Calviola through the northern exit with len
 
 
 
-![](stahn-guide/sub018_1.png)  
+![](stahn-guide/sub18_1.png)  
 ▲ The party learns from a bystander that the kid is from Junkland
 
 ---
 
-## Side-event #019 - Dark Wings 2
+## Side-Quest #19 - Dark Wings 2
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -354,12 +354,12 @@ Visit the square close to where the Baruk Foundation(?) is located in Cherik to 
 
 
 
-![](stahn-guide/sub019_1.png)  
+![](stahn-guide/sub19_1.png)  
 
 
 ---
 
-## Side-event #020 - Sibling 1
+## Side-Quest #20 - Sibling 1
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -372,12 +372,12 @@ Talking to the girl on the bridge connected to the Oberon Lens shop in Neustadt.
 
 
 
-![](stahn-guide/sub020_1.png)  
+![](stahn-guide/sub20_1.png)  
 ▲ Rutee asks the troubled girl for her honest thoughts and feelings.
 
 ---
 
-## Side-event #021 - Gaze of Resolve
+## Side-Quest #21 - Gaze of Resolve
 
 
 
@@ -390,12 +390,12 @@ This event occurs when you speak with the woman who is standing infront of the N
 
 
 
-![](stahn-guide/sub021_1.png)  
+![](stahn-guide/sub21_1.png)  
 
 
 ---
 
-## Side-event #022 - Sweet Boy
+## Side-Quest #22 - Sweet Boy
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -408,12 +408,12 @@ This event occurs when you speak with a young boy sitting on a bench in front of
 
 
 
-![](stahn-guide/sub022_1.png)  
+![](stahn-guide/sub22_1.png)  
 ▲ The boy discovers Leon's hidden taste for sweets.
 
 ---
 
-## Side-event #023 - Lost Child
+## Side-Quest #23 - Lost Child
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -426,12 +426,12 @@ You can trigger this event by speaking to the lost child near Ilene's house in N
 
 
 
-![](stahn-guide/sub023_1.png)  
+![](stahn-guide/sub23_1.png)  
 ▲ Unfortunately Rutee's scheme didn't pay out and the mother left without even saying thanks.
 
 ---
 
-## Side-event #024 - "Swatian" User?
+## Side-Quest #24 - "Swatian" User?
 
 
 
@@ -444,12 +444,12 @@ Trigger this even by talking to the boy near the fountain in Neustadt. Upon sele
 
 
 
-![](stahn-guide/sub024_1.png)  
+![](stahn-guide/sub24_1.png)  
 ▲ The title obtained is a required for "Fake Swordian" [Side-event 138](projects/destiny-dc/stahn-guide?id=side-event-138-Fake-Swordian)
 
 ---
 
-## Side-event #025 - Monster Book Appraisal
+## Side-Quest #25 - Monster Book Appraisal
 
 
 
@@ -462,12 +462,12 @@ Make sure to be checking the maximum number of hits displayed when you review th
 
 excel table
 
-![](stahn-guide/sub025_1.png)  
+![](stahn-guide/sub25_1.png)  
 
 
 ---
 
-## Side-event #026 - Pirate Ship Reward
+## Side-Quest #26 - Pirate Ship Reward
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -484,12 +484,12 @@ After you have cleared the pirate ship, speak with the sailor to the north (?) o
 |Rank 2: within 5 minutes|[Clear Lens] x50|
 |Rank 3: more than 5 minutes|[Rough Lens] x 100|
 
-![](stahn-guide/sub026_1.png)  
+![](stahn-guide/sub26_1.png)  
 ▲ The requirements for obtaining the rewards are listed below.
 
 ---
 
-## Side-event #027 - Dark Wings 3
+## Side-Quest #27 - Dark Wings 3
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -502,12 +502,12 @@ This event takes place when you enter the hospital(?) on the left side of the ar
 
 
 
-![](stahn-guide/sub027_1.png)  
+![](stahn-guide/sub27_1.png)  
 ▲ This event is only accessible after the pirate ship and before Kongman leave the party at the port. 
 
 ---
 
-## Side-event #028 - Sibling 2
+## Side-Quest #28 - Sibling 2
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -520,12 +520,12 @@ This event is triggered by speaking with the same girl on the bridge for [Siblin
 
 
 
-![](stahn-guide/sub028_1.png)  
+![](stahn-guide/sub28_1.png)  
 ▲ Even though she had been struggling with the fact that they were not her true siblings, the unprecedented incident seems to have opened her eyes.
 
 ---
 
-## Side-event #029 - Young Master 1
+## Side-Quest #29 - Young Master 1
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -538,12 +538,12 @@ This event occurs when you speak with a child crying on a bridge in Shiden. This
 
 
 
-![](stahn-guide/sub029_1.png)  
+![](stahn-guide/sub29_1.png)  
 ▲ The kid's attitude is unbearable for Leon since he had a tough upbringing 
 
 ---
 
-## Side-event #030 - Neat Sister
+## Side-Quest #30 - Neat Sister
 
 
 
@@ -556,12 +556,12 @@ Speak with the girl in front of the Shiden Family mansion and she will complimen
 
 
 
-![](stahn-guide/sub030_1.png)  
+![](stahn-guide/sub30_1.png)  
 ▲ The title [Neat Sister] is mendatory to trigger the event "Sealed Man" [Side-event 108](projects/destiny-dc/stahn-guide?id=side-event-108-Sealed-Man) 
 
 ---
 
-## Side-event #031 - Dark Wings 4
+## Side-Quest #31 - Dark Wings 4
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -574,12 +574,12 @@ The Dark Wings are back again. This time, they appear in front of the Shiden Fam
 
 
 
-![](stahn-guide/sub031_1.png)  
+![](stahn-guide/sub31_1.png)  
 
 
 ---
 
-## Side-event #032 - Michel Shiden
+## Side-Quest #32 - Michel Shiden
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -592,12 +592,12 @@ This event occurs when you go to the bridge at Shiden Port. Johnny is defending 
 
 
 
-![](stahn-guide/sub032_1.png)  
+![](stahn-guide/sub32_1.png)  
 
 
 ---
 
-## Side-event #033 - Eleanor 1
+## Side-Quest #33 - Eleanor 1
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -610,12 +610,12 @@ After clearing Moreau Castle, take a small boat to Johnny's hideout. You will se
 
 
 
-![](stahn-guide/sub033_1.png)  
+![](stahn-guide/sub33_1.png)  
 
 
 ---
 
-## Side-event #034 - Shiden's Youngest
+## Side-Quest #34 - Shiden's Youngest
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -628,12 +628,12 @@ This event is triggered when you speak with the man on the roof of the undergrou
 
 
 
-![](stahn-guide/sub034_1.png)  
+![](stahn-guide/sub34_1.png)  
 
 
 ---
 
-## Side-event #035 - Arthur Shiden
+## Side-Quest #35 - Arthur Shiden
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -646,12 +646,12 @@ Speaking with Arthur Shiden while Johnny has [Shiden's Youngest] title to trigge
 
 
 
-![](stahn-guide/sub035_1.png)  
+![](stahn-guide/sub35_1.png)  
 
 
 ---
 
-## Side-event #036 - Dark Wings 5
+## Side-Quest #36 - Dark Wings 5
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -664,12 +664,12 @@ Approach the Dark Wings in Frostheim to see additional antics. They claim to be 
 
 
 
-![](stahn-guide/sub036_1.png)  
+![](stahn-guide/sub36_1.png)  
 
 
 ---
 
-## Side-event #037 - Rose of Seinegald
+## Side-Quest #37 - Rose of Seinegald
 
 
 
@@ -682,12 +682,12 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](stahn-guide/sub037_1.png)  
+![](stahn-guide/sub37_1.png)  
 
 
 ---
 
-## Side-event #038 - Cursed Beauty
+## Side-Quest #38 - Cursed Beauty
 
 
 
@@ -700,12 +700,12 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](stahn-guide/sub038_1.png)  
+![](stahn-guide/sub38_1.png)  
 
 
 ---
 
-## Side-event #039 - Isaac's Son
+## Side-Quest #39 - Isaac's Son
 
 
 
@@ -718,12 +718,12 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](stahn-guide/sub039_1.png)  
+![](stahn-guide/sub39_1.png)  
 
 
 ---
 
-## Side-event #040 - Former Soldier
+## Side-Quest #40 - Former Soldier
 
 
 
@@ -736,12 +736,12 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](stahn-guide/sub040_1.png)  
+![](stahn-guide/sub40_1.png)  
 
 
 ---
 
-## Side-event #041 - Chris' Old Acquaintance
+## Side-Quest #41 - Chris' Old Acquaintance
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -754,12 +754,12 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](stahn-guide/sub041_1.png)  
+![](stahn-guide/sub41_1.png)  
 
 
 ---
 
-## Side-event #042 - Meeting the Wonder Baker
+## Side-Quest #42 - Meeting the Wonder Baker
 
 
 
@@ -772,12 +772,12 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](stahn-guide/sub042_1.png)  
+![](stahn-guide/sub42_1.png)  
 
 
 ---
 
-## Side-event #043 - Lienean Man
+## Side-Quest #43 - Lienean Man
 
 
 
@@ -790,12 +790,12 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](stahn-guide/sub043_1.png)  
+![](stahn-guide/sub43_1.png)  
 
 
 ---
 
-## Side-event #045 - Dalis' Nightmare
+## Side-Quest #45 - Dalis' Nightmare
 
 
 
@@ -808,12 +808,12 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](stahn-guide/sub045_1.png)  
+![](stahn-guide/sub45_1.png)  
 
 
 ---
 
-## Side-event #046 - Maiden’s Gaze
+## Side-Quest #46 - Maiden’s Gaze
 
 
 
@@ -826,12 +826,12 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](stahn-guide/sub046_1.png)  
+![](stahn-guide/sub46_1.png)  
 
 
 ---
 
-## Side-event #047 - Dalis' Wife
+## Side-Quest #47 - Dalis' Wife
 
 
 
@@ -844,12 +844,12 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](stahn-guide/sub047_1.png)  
+![](stahn-guide/sub47_1.png)  
 
 
 ---
 
-## Side-event #048 - Topless Man
+## Side-Quest #48 - Topless Man
 
 
 
@@ -862,12 +862,12 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](stahn-guide/sub048_1.png)  
+![](stahn-guide/sub48_1.png)  
 
 
 ---
 
-## Side-event #049 - Kidult
+## Side-Quest #49 - Kidult
 
 
 
@@ -880,12 +880,12 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](stahn-guide/sub049_1.png)  
+![](stahn-guide/sub49_1.png)  
 
 
 ---
 
-## Side-event #050 - Phandaria's King
+## Side-Quest #50 - Phandaria's King
 
 
 
@@ -898,12 +898,12 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](stahn-guide/sub050_1.png)  
+![](stahn-guide/sub50_1.png)  
 
 
 ---
 
-## Side-event #051 - Accidental Resemblance
+## Side-Quest #51 - Accidental Resemblance
 
 
 
@@ -916,12 +916,12 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 excel table
 
-![](stahn-guide/sub051_1.png)  
+![](stahn-guide/sub51_1.png)  
 
 
 ---
 
-## Side-event #052 - Small Familly 2
+## Side-Quest #52 - Small Familly 2
 
 ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -934,12 +934,12 @@ excel table
 
 
 
-![](stahn-guide/sub052_1.png)  
+![](stahn-guide/sub52_1.png)  
 
 
 ---
 
-## Side-event #053 - Dark Wings 6
+## Side-Quest #53 - Dark Wings 6
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -952,12 +952,12 @@ excel table
 
 
 
-![](stahn-guide/sub053_1.png)  
+![](stahn-guide/sub53_1.png)  
 
 
 ---
 
-## Side-event #054 - Ayles' Lament
+## Side-Quest #54 - Ayles' Lament
 
 
 
@@ -970,12 +970,12 @@ excel table
 
 
 
-![](stahn-guide/sub054_1.png)  
+![](stahn-guide/sub54_1.png)  
 
 
 ---
 
-## Side-event #055 - Philia's Husband
+## Side-Quest #55 - Philia's Husband
 
 
 
@@ -988,12 +988,12 @@ excel table
 
 
 
-![](stahn-guide/sub055_1.png)  
+![](stahn-guide/sub55_1.png)  
 
 
 ---
 
-## Side-event #056 - Man of Fists
+## Side-Quest #56 - Man of Fists
 
 
 
@@ -1006,12 +1006,12 @@ excel table
 
 
 
-![](stahn-guide/sub056_1.png)  
+![](stahn-guide/sub56_1.png)  
 
 
 ---
 
-## Side-event #057 - Chief's Daughter
+## Side-Quest #57 - Chief's Daughter
 
 
 
@@ -1024,12 +1024,12 @@ excel table
 
 
 
-![](stahn-guide/sub057_1.png)  
+![](stahn-guide/sub57_1.png)  
 
 
 ---
 
-## Side-event #058 - Karma the Adopted Kid
+## Side-Quest #58 - Karma the Adopted Kid
 
 
 
@@ -1042,12 +1042,12 @@ excel table
 
 
 
-![](stahn-guide/sub058_1.png)  
+![](stahn-guide/sub58_1.png)  
 
 
 ---
 
-## Side-event #059 - Peeping Tom
+## Side-Quest #59 - Peeping Tom
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -1060,12 +1060,12 @@ excel table
 
 
 
-![](stahn-guide/sub059_1.png)  
+![](stahn-guide/sub59_1.png)  
 
 
 ---
 
-## Side-event #060 - Ex-Lens Hunter
+## Side-Quest #60 - Ex-Lens Hunter
 
 
 
@@ -1078,12 +1078,12 @@ excel table
 
 
 
-![](stahn-guide/sub060_1.png)  
+![](stahn-guide/sub60_1.png)  
 
 
 ---
 
-## Side-event #061 - Free Man
+## Side-Quest #61 - Free Man
 
 
 
@@ -1096,12 +1096,12 @@ excel table
 
 Excel Table
 
-![](stahn-guide/sub061_1.png)  
+![](stahn-guide/sub61_1.png)  
 
 
 ---
 
-## Side-event #062 - Patriotism 1
+## Side-Quest #62 - Patriotism 1
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -1114,12 +1114,12 @@ Excel Table
 
 
 
-![](stahn-guide/sub062_1.png)  
+![](stahn-guide/sub62_1.png)  
 
 
 ---
 
-## Side-event #063 - The General's Date
+## Side-Quest #63 - The General's Date
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -1132,12 +1132,12 @@ Excel Table
 
 
 
-![](stahn-guide/sub063_1.png)  
+![](stahn-guide/sub63_1.png)  
 
 
 ---
 
-## Side-event #064 - Popular General Dryden
+## Side-Quest #64 - Popular General Dryden
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -1150,12 +1150,12 @@ Excel Table
 
 
 
-![](stahn-guide/sub064_1.png)  
+![](stahn-guide/sub64_1.png)  
 
 
 ---
 
-## Side-event #065 - Popularity Battle
+## Side-Quest #65 - Popularity Battle
 
 
 
@@ -1168,12 +1168,12 @@ Excel Table
 
 
 
-![](stahn-guide/sub065_1.png)  
+![](stahn-guide/sub65_1.png)  
 
 
 ---
 
-## Side-event #066 - Kidnapping
+## Side-Quest #66 - Kidnapping
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -1186,12 +1186,12 @@ Excel Table
 
 Boss Info Table
 
-![](stahn-guide/sub066_1.png)  
+![](stahn-guide/sub66_1.png)  
 
 
 ---
 
-## Side-event #067 - Triva
+## Side-Quest #67 - Triva
 
 
 
@@ -1204,12 +1204,12 @@ Boss Info Table
 
 
 
-![](stahn-guide/sub067_1.png)  
+![](stahn-guide/sub67_1.png)  
 
 
 ---
 
-## Side-event #068 - Old Friend
+## Side-Quest #68 - Old Friend
 
 
 
@@ -1222,12 +1222,12 @@ Boss Info Table
 
 
 
-![](stahn-guide/sub068_1.png)  
+![](stahn-guide/sub68_1.png)  
 
 
 ---
 
-## Side-event #069 - Darzen's Soliloquy
+## Side-Quest #69 - Darzen's Soliloquy
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -1240,12 +1240,12 @@ Boss Info Table
 
 Excel Table
 
-![](stahn-guide/sub069_1.png)  
+![](stahn-guide/sub69_1.png)  
 
 
 ---
 
-## Side-event #070 - Miawster
+## Side-Quest #70 - Miawster
 
 
 
@@ -1258,12 +1258,12 @@ Excel Table
 
 
 
-![](stahn-guide/sub070_1.png)  
+![](stahn-guide/sub70_1.png)  
 
 
 ---
 
-## Side-event #071 - Lady Chelsea
+## Side-Quest #71 - Lady Chelsea
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -1276,12 +1276,12 @@ Excel Table
 
 
 
-![](stahn-guide/sub071_1.png)  
+![](stahn-guide/sub71_1.png)  
 
 
 ---
 
-## Side-event #072 - Chelsea Meets Woodrow
+## Side-Quest #72 - Chelsea Meets Woodrow
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -1294,12 +1294,12 @@ Excel Table
 
 excel table for reward
 
-![](stahn-guide/sub072_1.png)  
+![](stahn-guide/sub72_1.png)  
 
 
 ---
 
-## Side-event #073 - Seinegald's King Succession
+## Side-Quest #73 - Seinegald's King Succession
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -1312,12 +1312,12 @@ excel table for reward
 
 
 
-![](stahn-guide/sub073_1.png)  
+![](stahn-guide/sub73_1.png)  
 
 
 ---
 
-## Side-event #074 - Soldier's Advance 2
+## Side-Quest #74 - Soldier's Advance 2
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -1330,12 +1330,12 @@ excel table for reward
 
 
 
-![](stahn-guide/sub074_1.png)  
+![](stahn-guide/sub74_1.png)  
 
 
 ---
 
-## Side-event #075 - Yearning to join the Dark Wings 2
+## Side-Quest #75 - Yearning to join the Dark Wings 2
 
 ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -1348,12 +1348,12 @@ excel table for reward
 
 
 
-![](stahn-guide/sub075_1.png)  
+![](stahn-guide/sub75_1.png)  
 
 
 ---
 
-## Side-event #076 - Calviola's Elena 2
+## Side-Quest #76 - Calviola's Elena 2
 
 ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -1366,12 +1366,12 @@ excel table for reward
 
 
 
-![](stahn-guide/sub076_1.png)  
+![](stahn-guide/sub76_1.png)  
 
 
 ---
 
-## Side-event #077 - Bird in a Cage?
+## Side-Quest #77 - Bird in a Cage?
 
 
 
@@ -1384,12 +1384,12 @@ excel table for reward
 
 
 
-![](stahn-guide/sub077_1.png)  
+![](stahn-guide/sub77_1.png)  
 
 
 ---
 
-## Side-event #078 - I Like Sweet Things
+## Side-Quest #78 - I Like Sweet Things
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -1402,12 +1402,12 @@ excel table for reward
 
 
 
-![](stahn-guide/sub078_1.png)  
+![](stahn-guide/sub78_1.png)  
 
 
 ---
 
-## Side-event #079 - Mother's Face: Leon
+## Side-Quest #79 - Mother's Face: Leon
 
 
 
@@ -1420,12 +1420,12 @@ excel table for reward
 
 
 
-![](stahn-guide/sub079_1.png)  
+![](stahn-guide/sub79_1.png)  
 
 
 ---
 
-## Side-event #080 - City Hero
+## Side-Quest #80 - City Hero
 
 
 
@@ -1438,12 +1438,12 @@ excel table for reward
 
 
 
-![](stahn-guide/sub080_1.png)  
+![](stahn-guide/sub80_1.png)  
 
 
 ---
 
-## Side-event #081 - Fayte
+## Side-Quest #81 - Fayte
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -1456,12 +1456,12 @@ excel table for reward
 
 
 
-![](stahn-guide/sub081_1.png)  
+![](stahn-guide/sub81_1.png)  
 
 
 ---
 
-## Side-event #082 - Princess Rhianna
+## Side-Quest #82 - Princess Rhianna
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -1474,12 +1474,12 @@ excel table for reward
 
 
 
-![](stahn-guide/sub082_1.png)  
+![](stahn-guide/sub82_1.png)  
 
 
 ---
 
-## Side-event #083 - Lilith's Promise
+## Side-Quest #83 - Lilith's Promise
 
 
 
@@ -1492,12 +1492,12 @@ excel table for reward
 
 
 
-![](stahn-guide/sub083_1.png)  
+![](stahn-guide/sub83_1.png)  
 
 
 ---
 
-## Side-event #084 - Bacchus' Resolution
+## Side-Quest #84 - Bacchus' Resolution
 
 
 
@@ -1510,12 +1510,12 @@ excel table for reward
 
 
 
-![](stahn-guide/sub084_1.png)  
+![](stahn-guide/sub84_1.png)  
 
 
 ---
 
-## Side-event #085 - New General
+## Side-Quest #85 - New General
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -1528,12 +1528,12 @@ excel table for reward
 
 
 
-![](stahn-guide/sub085_1.png)  
+![](stahn-guide/sub85_1.png)  
 
 
 ---
 
-## Side-event #086 - PokeDragon 1
+## Side-Quest #86 - PokeDragon 1
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -1546,12 +1546,12 @@ excel table for reward
 
 
 
-![](stahn-guide/sub086_1.png)  
+![](stahn-guide/sub86_1.png)  
 
 
 ---
 
-## Side-event #087 - Hide and Seek
+## Side-Quest #87 - Hide and Seek
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -1564,12 +1564,12 @@ excel table for reward
 
 Multiple Graphics
 
-![](stahn-guide/sub087_1.png)  
+![](stahn-guide/sub87_1.png)  
 
 
 ---
 
-## Side-event #088 - My name is...
+## Side-Quest #88 - My name is...
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -1582,12 +1582,12 @@ Multiple Graphics
 
 
 
-![](stahn-guide/sub088_1.png)  
+![](stahn-guide/sub88_1.png)  
 
 
 ---
 
-## Side-event #089 - Jonathan the Sheep 1
+## Side-Quest #89 - Jonathan the Sheep 1
 
 ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -1600,12 +1600,12 @@ Multiple Graphics
 
 
 
-![](stahn-guide/sub089_1.png)  
+![](stahn-guide/sub89_1.png)  
 
 
 ---
 
-## Side-event #090 - Jonathan the Sheep 2
+## Side-Quest #90 - Jonathan the Sheep 2
 
 ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -1618,12 +1618,12 @@ Multiple Graphics
 
 
 
-![](stahn-guide/sub090_1.png)  
+![](stahn-guide/sub90_1.png)  
 
 
 ---
 
-## Side-event #091 - Small Family 3
+## Side-Quest #91 - Small Family 3
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -1636,12 +1636,12 @@ Multiple Graphics
 
 
 
-![](stahn-guide/sub091_1.png)  
+![](stahn-guide/sub91_1.png)  
 
 
 ---
 
-## Side-event #092 - Dark Wings 7
+## Side-Quest #92 - Dark Wings 7
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -1654,12 +1654,12 @@ Multiple Graphics
 
 
 
-![](stahn-guide/sub092_1.png)  
+![](stahn-guide/sub92_1.png)  
 
 
 ---
 
-## Side-event #093 - Jonathan the Sheep 3
+## Side-Quest #93 - Jonathan the Sheep 3
 
 ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -1672,12 +1672,12 @@ Multiple Graphics
 
 
 
-![](stahn-guide/sub093_1.png)  
+![](stahn-guide/sub93_1.png)  
 
 
 ---
 
-## Side-event #094 - Mother's Face: Rutee
+## Side-Quest #94 - Mother's Face: Rutee
 
 
 
@@ -1690,12 +1690,12 @@ Multiple Graphics
 
 
 
-![](stahn-guide/sub094_1.png)  
+![](stahn-guide/sub94_1.png)  
 
 
 ---
 
-## Side-event #095 - Mother's Face: Chris
+## Side-Quest #95 - Mother's Face: Chris
 
 
 
@@ -1708,12 +1708,12 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 
 
-![](stahn-guide/sub095_1.png)  
+![](stahn-guide/sub95_1.png)  
 
 
 ---
 
-## Side-event #096 - Lens Diviner
+## Side-Quest #96 - Lens Diviner
 
 
 
@@ -1726,12 +1726,12 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 
 
-![](stahn-guide/sub096_1.png)  
+![](stahn-guide/sub96_1.png)  
 
 
 ---
 
-## Side-event #097 - Marian
+## Side-Quest #97 - Marian
 
 
 
@@ -1744,12 +1744,12 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 
 
-![](stahn-guide/sub097_1.png)  
+![](stahn-guide/sub97_1.png)  
 
 
 ---
 
-## Side-event #098 - Hugo's Memory
+## Side-Quest #98 - Hugo's Memory
 
 
 
@@ -1762,12 +1762,12 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 
 
-![](stahn-guide/sub098_1.png)  
+![](stahn-guide/sub98_1.png)  
 
 
 ---
 
-## Side-event #099 - Poker Face
+## Side-Quest #99 - Poker Face
 
 
 
@@ -1780,12 +1780,12 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 
 
-![](stahn-guide/sub099_1.png)  
+![](stahn-guide/sub99_1.png)  
 
 
 ---
 
-## Side-event #100 - Homesickness
+## Side-Quest #100 - Homesickness
 
 
 
@@ -1803,7 +1803,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## Side-event #101 - Be Yourself
+## Side-Quest #101 - Be Yourself
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -1821,7 +1821,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## Side-event #102 - Batista's Memory
+## Side-Quest #102 - Batista's Memory
 
 
 
@@ -1839,7 +1839,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## Side-event #103 - Irene's Memory
+## Side-Quest #103 - Irene's Memory
 
 
 
@@ -1857,7 +1857,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## Side-event #104 - Kong Theatre
+## Side-Quest #104 - Kong Theatre
 
 
 
@@ -1875,7 +1875,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## Side-event #105 - Neustadt
+## Side-Quest #105 - Neustadt
 
 
 
@@ -1893,7 +1893,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## Side-event #106 - Rembrandt's Memory
+## Side-Quest #106 - Rembrandt's Memory
 
 
 
@@ -1911,7 +1911,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## Side-event #107 - Meeting with Sakuraba
+## Side-Quest #107 - Meeting with Sakuraba
 
 
 
@@ -1929,7 +1929,7 @@ Excel Table
 
 ---
 
-## Side-event #108 - Sealed Man
+## Side-Quest #108 - Sealed Man
 
 
 
@@ -1947,7 +1947,7 @@ Excel Table
 
 ---
 
-## Side-event #109 - Young Master 2
+## Side-Quest #109 - Young Master 2
 
 ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -1965,7 +1965,7 @@ Excel Table
 
 ---
 
-## Side-event #110 - Tiberius's Memory
+## Side-Quest #110 - Tiberius's Memory
 
 
 
@@ -1983,7 +1983,7 @@ Excel Table
 
 ---
 
-## Side-event #111 - SISTER?
+## Side-Quest #111 - SISTER?
 
 
 
@@ -2001,7 +2001,7 @@ Excel Table
 
 ---
 
-## Side-event #112 - The Perfect Couple
+## Side-Quest #112 - The Perfect Couple
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
@@ -2019,7 +2019,7 @@ Excel Table
 
 ---
 
-## Side-event #113 - Hot Springs Event 1
+## Side-Quest #113 - Hot Springs Event 1
 
 ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -2037,7 +2037,7 @@ Excel Table
 
 ---
 
-## Side-event #114 - Hot Springs Event 2
+## Side-Quest #114 - Hot Springs Event 2
 
 ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -2055,7 +2055,7 @@ Excel Table
 
 ---
 
-## Side-event #115 - Dalis and Mary
+## Side-Quest #115 - Dalis and Mary
 
 
 
@@ -2073,7 +2073,7 @@ Excel Table
 
 ---
 
-## Side-event #116 - Gambler Rutee
+## Side-Quest #116 - Gambler Rutee
 
 
 
@@ -2091,7 +2091,7 @@ Excel Table
 
 ---
 
-## Side-event #117 - Greybum's Memory
+## Side-Quest #117 - Greybum's Memory
 
 
 
@@ -2109,7 +2109,7 @@ Excel Table
 
 ---
 
-## Side-event #118 - Queen Chelsea
+## Side-Quest #118 - Queen Chelsea
 
 
 
@@ -2127,7 +2127,7 @@ Excel Table
 
 ---
 
-## Side-event #119 - Blizzard Bowl
+## Side-Quest #119 - Blizzard Bowl
 
 
 
@@ -2145,7 +2145,7 @@ Excel Table
 
 ---
 
-## Side-event #120 - Missing Uncle Bob
+## Side-Quest #120 - Missing Uncle Bob
 
 
 
@@ -2163,7 +2163,7 @@ Excel Table
 
 ---
 
-## Side-event #121 - Rutee's Birthday
+## Side-Quest #121 - Rutee's Birthday
 
 
 
@@ -2181,7 +2181,7 @@ Excel Table
 
 ---
 
-## Side-event #122 - Baruk's Memory
+## Side-Quest #122 - Baruk's Memory
 
 
 
@@ -2199,7 +2199,7 @@ Excel Table
 
 ---
 
-## Side-event #123 - Patriotism 2
+## Side-Quest #123 - Patriotism 2
 
 
 
@@ -2217,7 +2217,7 @@ Excel Table
 
 ---
 
-## Side-event #124 - Draconis Crewman's Family 2
+## Side-Quest #124 - Draconis Crewman's Family 2
 
 
 
@@ -2235,7 +2235,7 @@ Excel Table
 
 ---
 
-## Side-event #125 - Soldier's Advance 3
+## Side-Quest #125 - Soldier's Advance 3
 
 ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -2253,7 +2253,7 @@ Excel Table
 
 ---
 
-## Side-event #126 - Lens Panic
+## Side-Quest #126 - Lens Panic
 
 ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -2271,7 +2271,7 @@ Excel Table
 
 ---
 
-## Side-event #127 - Small Family 4
+## Side-Quest #127 - Small Family 4
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -2289,7 +2289,7 @@ Excel Table
 
 ---
 
-## Side-event #128 - Switcheroo
+## Side-Quest #128 - Switcheroo
 
 
 
@@ -2307,7 +2307,7 @@ Excel Table
 
 ---
 
-## Side-event #129 - Kongman's Origin Story
+## Side-Quest #129 - Kongman's Origin Story
 
 
 
@@ -2325,7 +2325,7 @@ Excel Table
 
 ---
 
-## Side-event #130 - Eleanor 2
+## Side-Quest #130 - Eleanor 2
 
 ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -2343,7 +2343,7 @@ Excel Table
 
 ---
 
-## Side-event #131 - Oath to Leon
+## Side-Quest #131 - Oath to Leon
 
 
 
@@ -2361,7 +2361,7 @@ Stahn and his team renewed their resolve to save the world rather than wallow in
 
 ---
 
-## Side-event #132 - Great Detective Stahn
+## Side-Quest #132 - Great Detective Stahn
 
 
 
@@ -2379,7 +2379,7 @@ Stahn and his team renewed their resolve to save the world rather than wallow in
 
 ---
 
-## Side-event #133 - Life-threatening Situation
+## Side-Quest #133 - Life-threatening Situation
 
 
 
@@ -2397,7 +2397,7 @@ The title obtained is a condition for the "Parenthood" Sub Event (→P351).
 
 ---
 
-## Side-event #134 - Parents
+## Side-Quest #134 - Parents
 
 
 
@@ -2415,7 +2415,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## Side-event #135 - Food Book Appraisal
+## Side-Quest #135 - Food Book Appraisal
 
 
 
@@ -2433,7 +2433,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## Side-event #136 - Hidden Calvalisians
+## Side-Quest #136 - Hidden Calvalisians
 
 
 
@@ -2451,7 +2451,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## Side-event #137 - Dark Wings 8
+## Side-Quest #137 - Dark Wings 8
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
@@ -2469,7 +2469,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## Side-event #138 - Fake Swordians
+## Side-Quest #138 - Fake Swordians
 
 
 
@@ -2487,7 +2487,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## Side-event #139 - Former Lovers
+## Side-Quest #139 - Former Lovers
 
 
 
@@ -2505,7 +2505,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## Side-event #140 - Small Family 5
+## Side-Quest #140 - Small Family 5
 
 
 
@@ -2523,7 +2523,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## Side-event #141 - Clown
+## Side-Quest #141 - Clown
 
 
 
@@ -2541,7 +2541,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## Side-event #142 - Jonathan the Sheep 4
+## Side-Quest #142 - Jonathan the Sheep 4
 
 
 
@@ -2559,7 +2559,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## Side-event #143 - PokeDragon 2
+## Side-Quest #143 - PokeDragon 2
 
 
 
@@ -2577,7 +2577,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## Side-event #144 - Lovely Katz
+## Side-Quest #144 - Lovely Katz
 
 
 
@@ -2595,7 +2595,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## Side-event #145 - Lost Pet
+## Side-Quest #145 - Lost Pet
 
 
 
@@ -2613,7 +2613,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## Side-event #146 - Movie Viewer
+## Side-Quest #146 - Movie Viewer
 
 ![](https://img.shields.io/badge/-New%20Game+-informational?style=for-the-badge&color=blue)
 
@@ -2631,7 +2631,7 @@ This is a new game+ side-event. It occurs when you load the clear data and talk 
 
 ---
 
-## Side-event #147 - He's me, I'm him, and that guy...who's that guy?
+## Side-Quest #147 - He's Me, I'm Him, so He's...
 
 ![](https://img.shields.io/badge/-New%20Game+-informational?style=for-the-badge&color=blue)
 
@@ -2649,7 +2649,7 @@ This is also a side-event that can only be viewed on a new game+. The event occu
 
 ---
 
-## Side-event #148 - Skit Viewer
+## Side-Quest #148 - Skit Viewer
 
 
 
@@ -2667,7 +2667,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## Side-event #149 - Procurement Quest
+## Side-Quest #149 - Procurement Quest
 
 
 
@@ -2685,7 +2685,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## Side-event #150 - Race Game
+## Side-Quest #150 - Race Game
 
 
 
@@ -2703,7 +2703,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## Side-event #151 - Rock Rally
+## Side-Quest #151 - Rock Rally
 
 
 
@@ -2721,7 +2721,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## Side-event #152 - Arena
+## Side-Quest #152 - Arena
 
 
 
@@ -2739,7 +2739,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## Side-event #153 - Wild Shot
+## Side-Quest #153 - Wild Shot
 
 
 
@@ -2757,7 +2757,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## Side-event #154 - His Majesty's Drums
+## Side-Quest #154 - His Majesty's Drums
 
 
 
@@ -2775,7 +2775,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## Side-event #155 - ToD Quiz
+## Side-Quest #155 - ToD Quiz
 
 
 
@@ -2793,7 +2793,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## Side-event #156 - Sunken Ship Dungeon
+## Side-Quest #156 - Sunken Ship Dungeon
 
 
 
@@ -2811,7 +2811,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## Side-event #157 - Four Secrets of the World
+## Side-Quest #157 - Four Secrets of the World
 
 
 
@@ -2829,7 +2829,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## Side-event #158 - Ecological Survey
+## Side-Quest #158 - Ecological Survey
 
 
 
@@ -2847,7 +2847,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## Side-event #159 - Discovery Points
+## Side-Quest #159 - Discovery Points
 
 
 
@@ -2865,7 +2865,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## Side-event #160 - Search for the Gentlemens
+## Side-Quest #160 - Search for the Gentlemens
 
 
 
@@ -2882,3 +2882,57 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 The pictures shows where the gentlemen's will appear. The hat will be hidden on the world map until you get close enough.
 
 If you win, it will be recorded in the Monster Book.
+
+---
+
+## Side-Quest #161 - Aquaveil's Treasure Sword
+
+
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Terrazi   |
+| :--------------------------------------------------------------------------------------- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
+
+
+
+![](stahn-guide/sub161_1.png)  
+
+
+---
+
+## Side-Quest #162 - Lilith and Stahn
+
+
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
+| :--------------------------------------------------------------------------------------- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
+
+
+
+![](stahn-guide/sub162_1.png)  
+
+
+---
+
+## Side-Quest #163 - Lilith's Side
+
+
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
+| :--------------------------------------------------------------------------------------- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | [Saffron]    |
+
+
+
+
+
+![](stahn-guide/sub163_1.png)  
+

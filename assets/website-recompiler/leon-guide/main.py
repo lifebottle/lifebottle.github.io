@@ -7,13 +7,13 @@ import pandas
 if __name__ == "__main__":
 
     # 0 - DEFINE CONSTS =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
-    GUIDE_PATH = "..\..\destiny-dc\stahn-guide\csv\stahn-guide.csv"
-    OUT_PATH = "..\..\..\projects\destiny-dc\stahn-guide.md"
-    TITLE = "# Stahn's Side - Side-Quest Guide\n"
+    GUIDE_PATH = "..\..\destiny-dc\leon-guide\csv\leon-guide.csv"
+    OUT_PATH = "..\..\..\projects\destiny-dc\leon-guide.md"
+    TITLE = "# Leon's Side - Side-Quest Guide\n"
 
     SEPARATOR = "\n---\n"
     MD_ENTRY_TEMPLATE = """
-## Side-Quest #{sub} - {english_title}
+## Side-Quest #{sub_leon} - {english_title}
 
 {missable}{multipart}{new_game+}
 
@@ -26,7 +26,7 @@ if __name__ == "__main__":
 
 {excel_table}
 
-![](stahn-guide/sub{sub}_1.png)  
+![](leon-guide/sub_leon{sub_leon}_1.png)  
 {english_image_text}
 """
 
@@ -34,7 +34,7 @@ if __name__ == "__main__":
     dataframe = pandas.read_csv(GUIDE_PATH, encoding='utf-8')
     rename_map = {
         # from : to
-        "Sub"                : "sub",
+        "Sub Leon"                : "sub_leon",
         "English Title"      : "english_title",
         "Missable"           : "missable",
         "Multipart"          : "multipart",

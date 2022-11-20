@@ -5,7 +5,8 @@
 * [Projects](./projects/index)
 
   * [Tales of Destiny DC](./projects/destiny-dc/index)
-    - [Stahn's Side - Guide](./projects/destiny-dc/stahn-guide.md)
+    - [Stahn's Side - Side-Quest Guide](./projects/destiny-dc/stahn-guide.md)
+    - [Leon's Side - Side-Quest Guide](./projects/destiny-dc/leon-guide.md)
     - [Items](./projects/destiny-dc/items/index)
       - [Weapons](./projects/destiny-dc/items/weapons.md)
       - [Unique](./projects/destiny-dc/items/unique.md)
