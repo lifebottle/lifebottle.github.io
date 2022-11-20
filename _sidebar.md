@@ -6,6 +6,13 @@
 
   * [Tales of Destiny DC](./projects/destiny-dc/index)
     - [Stahn's Side - Guide](./projects/destiny-dc/stahn-guide.md)
+    - [Items](./projects/destiny-dc/items/index)
+      - [Weapons](./projects/destiny-dc/items/weapons.md)
+      - [Unique](./projects/destiny-dc/items/unique.md)
+      - [Item](./projects/destiny-dc/items/item.md)
+      - [Food](./projects/destiny-dc/items/food.md)
+      - [Armor](./projects/destiny-dc/items/armor.md)
+      - [Accessory](./projects/destiny-dc/items/accessory.md)
   * [Tales of Destiny 2](./projects/destiny-2/index)
   * [Tales of Eternia](./projects/eternia/index)
   * [Tales of Innocence R](./projects/innocence-r/index)
