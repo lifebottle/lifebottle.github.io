@@ -1,4 +1,7 @@
 import pandas
+#![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+#![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
+#![](https://img.shields.io/badge/-New%20Game+-informational?style=for-the-badge&color=blue)
 
 # main
 if __name__ == "__main__":
@@ -10,16 +13,18 @@ if __name__ == "__main__":
 
     SEPARATOR = "\n---\n"
     MD_ENTRY_TEMPLATE = """
-## [Sub-event #{sub} - {english_title}]
+## Side-event #{sub} - {english_title}
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+{missable}{multipart}{new_game+}
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | {english_location}   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | {english_location}   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | {english_period}    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | {english_reward}    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | {english_period}    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | {english_reward}    |
 
 {english_main_text}
+
+{excel_table}
 
 ![](stahn-guide/sub{sub}_1.png)  
 {english_image_text}
@@ -31,11 +36,15 @@ if __name__ == "__main__":
         # from : to
         "Sub"                : "sub",
         "English Title"      : "english_title",
+        "Missable"           : "missable",
+        "Multipart"          : "multipart",
+        "New Game+"          : "new_game+",
         "English Location"   : "english_location",
         "English Period"     : "english_period",
         "English Reward"     : "english_reward",
         "English Main Text"  : "english_main_text",
-        "English Image Text" : "english_image_text"
+        "English Image Text" : "english_image_text",
+        "Excel Table"        : "excel_table"
     }
 
     # keep only relevant columns + rename then for replacement 

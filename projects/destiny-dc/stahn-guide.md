@@ -1,157 +1,194 @@
 # Stahn's Side - Guide
 
-## [Sub-event #001 - Lost Passport!]
+## Side-event #001 - Lost Passport!
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Janos   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Janos   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.04 Arriving in Janos ~ No.15 Before arriving in Cherik    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.04 Arriving in Janos ~ No.15 Before arriving in Cherik    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-This event occurs when you talk to the man in front of the inn in Janos. He tells you that he has been staying in Janos for several years without being able to return to Phandaria since he lost his passport. He begs you to sell him your passport, but of course you can't. This man also appears in "The Bird in the Cage" [Sub 077](projects/destiny-dc/stahn-guide?id=sub-event-077-bird-in-a-cage). 
+This event occurs when you talk to the man in front of the inn in Janos. He tells you that he has been staying in Janos for several years without being able to return to Phandaria since he lost his passport. He begs you to sell him your passport, but of course you can't. This man also appears in "The Bird in the Cage" [Side-event 077](projects/destiny-dc/stahn-guide?id=side-event-077-bird-in-a-cage). 
+
+
 
 ![](stahn-guide/sub001_1.png)  
 
 
 ---
 
-## [Sub-event #002 - Small Family 1]
+## Side-event #002 - Small Family 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Harmentz   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.08 Arriving in Harmentz ~ No.15 Before arriving in Cherik    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.08 Arriving in Harmentz ~ No.15 Before arriving in Cherik    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
 This is a five part event and where each one is mandatory for the next one. The first one occurs when you examine the nest on the roof of the item shop. The shopkeeper will tell you that a family of birds that live on the roof and build a nest every year. The last part of this series of event will reward you with a [Magical Aroma], make sure to not miss any.
+
+
 
 ![](stahn-guide/sub002_1.png)  
 ▲ You can even witness the moment when the young birds leave their nests.
 
 ---
 
-## [Sub-event #003 - Soldier's Advance 1]
+## Side-event #003 - Soldier's Advance 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.09 Leon joins ~ No.15 Before arriving in Cherik    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Leon joins ~ No.15 Before arriving in Cherik    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
 Like the "Small Family" event mentioned above, this event also has multiple parts to enjoy. The first part occurs upon entering the Darilsheid pub through the front door. A rowdy Seingald soldier will try to put the moves on Rutee, but an uninterested Rutee immediately rejects him. The rest of the parts of this event have a limited duration for when you can see them, so be sure to check their availability so you don't miss any of them. 
+
+
 
 ![](stahn-guide/sub003_1.png)  
 ▲ He's not the man Rutee needs, of course, so he got easily rejected.
 
 ---
 
-## [Sub-event #004 - Country Boy]
+## Side-event #004 - Country Boy
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.09 Taking Hugo’s Request ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Stahn's title [Country Boy]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Taking Hugo’s Request ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn's title [Country Boy]    |
 
 This event occurs when you encounter a man who seems to know Stahn in from of the Darilsheid Item shop. He is friendly and will ask Stahn if he knows him. You should answer honestly that you do not know him. Only the first answer will work, pretending to know the man will force you to Buy [Apple Gel] for 100 gald.
+
+
 
 ![](stahn-guide/sub004_1.png)  
 
 
 ---
 
-## [Sub-event #005 - The Rumoured Seven Generals]
+## Side-event #005 - The Rumoured Seven Generals
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.09 Taking Hugo’s Request ~ No.58 Fight against Hugo    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Taking Hugo’s Request ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
 The Heroes of Seinegald are known as the "Seven Generals." You will encounter rumors about them in various places. Once you have heard them all, head to the audience chamber within Seinegald Castle to witness an assembly of the Seven Generals. The locations where the rumors can be encountered are listed below.
 
-![](stahn-guide/sub005_1.png)  
+|Town|Location|Npc Name|
+|-----|-----|-----|
+|Janos|Innkeeper's bar|Waitress|
+|Harmentz|The house below the armorer's shop|Mothers|
+|Harmentz|Riverbank at the lower right of the armorer's |shop|Young man|
+|Darilshield|Front of the item shop|Man|
+|Darilshield|Front of the castle|Oberon Employee|
+|Darilshield|Harbor|Meat merchant|
+|Armeida|The islet at the lower right of the village|Young man|
 
+![](stahn-guide/sub005_1.png)  
+▲ That's Darilsheid tax money at work.
 
 ---
 
-## [Sub-event #006 - Capsule Toy]
+## Side-event #006 - Capsule Toy
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.09 Taking Hugo’s Request ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Taking Hugo’s Request ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
 There is a vending machine on the second floor of the Darilsheid Inn that offers capsule toys for 200 Gald. Some of the available toys are rare, so if you have a few Gald to spare, you should try your luck! The following table shows the items that are available and the probability of obtaining them. 
+
+|Item            |Probability|
+|----------------|-----------|
+|Apple Gel       |30%        |
+|Oberol C        |20%        |
+|Holy Bottle     |9%         |
+|Dark Bottle     |9%         |
+|Gamble Gel      |5%         |
+|Liqueur Bottle  |5%         |
+|Life bottle     |4%         |
+|Peach Gel       |3%         |
 
 ![](stahn-guide/sub006_1.png)  
 
 
 ---
 
-## [Sub-event #007 - Greedy Witch]
+## Side-event #007 - Greedy Witch
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.09 Taking Hugo’s Request ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Rutee's title [Greedy Witch]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Taking Hugo’s Request ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Greedy Witch]    |
 
 In the plaza just after passing under Seingald Castle's gate, talk to the soldier and select "How about some manners!" to see this event. The soldier will try to recall Rutee's nickname in a comical scene featuring many overlapping messages. The soldier says many incorrect names, seemingly on purpose, and Rutee will question each one. After Rutee gets exhausted and dizzy, the soldier says her real nickname and abruptly walks away.
 
+
+
 ![](stahn-guide/sub007_1.png)  
-▲ The [Greedy Witch] title is necessary to trigger Marian's Event [Sub 097](projects/destiny-dc/stahn-guide?id=sub-event-097-Marian). 
+▲ The [Greedy Witch] title is necessary to trigger Marian's Event [Side-event 097](projects/destiny-dc/stahn-guide?id=side-event-097-Marian). 
 
 ---
 
-## [Sub-event #008 - Doug Brothers]
+## Side-event #008 - Doug Brothers
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.09 Taking Hugo’s Request ~ No.12 Straylize Temple cleared    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Taking Hugo’s Request ~ No.12 Straylize Temple cleared    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-Between the period listed above, a sub-event will occur after heading to Reynold's Laboratory. There you will encounter Ashley of the Seven-Generals. He expresses frustration after learning of Stahn's mission and rushes off to the castle.
+Between the period listed above, a side-event will occur after heading to Reynold's Laboratory. There you will encounter Ashley of the Seven-Generals. He expresses frustration after learning of Stahn's mission and rushes off to the castle.
+
+
 
 ![](stahn-guide/sub008_1.png)  
 
 
 ---
 
-## [Sub-event #009 - Bad Pun Man]
+## Side-event #009 - Bad Pun Man
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.09 Taking Hugo’s Request ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Mary's title [Breaker]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Taking Hugo’s Request ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Mary's title [Breaker]    |
+
+This event occurs when you visit Hugo's mansion in Darilsheid and recieve the swordians. Speak with the old man in the house to the left. The old man, named "Bad Pun Man," shares that he loves puns, as long as they are of good caliber. Stahn impresses him, but Mary gives Stahn a hard time about his terrible jokes. Completing the event gives your the "Breaker" title for Mary.
 
 
 
 ![](stahn-guide/sub009_1.png)  
-You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/destiny-dc/stahn-guide?id=sub-event-081-Fayte).
+▲ You will need the [Breaker] title for the "Fayte" event [Side-event 081](projects/destiny-dc/stahn-guide?id=side-event-081-Fayte).
 
 ---
 
-## [Sub-event #010 - Alleged Mother?]
+## Side-event #010 - Alleged Mother?
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.09 Taking Hugo’s Request ~ No.12 Straylize Temple cleared    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Mary's title [Home Cook]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Taking Hugo’s Request ~ No.12 Straylize Temple cleared    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Mary's title [Home Cook]    |
+
+This event only appears for a short time, so it's best to complete it PRIOR TO heading to Staylize Temple. Visit the dining room in Seinegald Castle, which is located at the end of the corridor on the left side of the first floor. A child will shout "mother," leading Stahn and the party to wonder for a moment if this child is Mary's (?). In the end, it all turns out to be a misunderstanding. 
 
 
 
@@ -160,30 +197,34 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #011 - Draconis Crewman's Family 1]
+## Side-event #011 - Draconis Crewman's Family 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.09 Taking Hugo’s Request ~ No.37 End of part 1    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Taking Hugo’s Request ~ No.37 End of part 1    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+This event is available during the above period and occurs when you enter the two-story home behind the Darilsheid inn. Stahn and the party will encounter a mother scolding (?) her child as he pretends to be a member of the Draconis' crew. The woman shares with the party that her husband, who serves upon the Draconis, has yet to return. When Rutee attempts to tell the woman the fate of the Draconis, Leon intervenes. Leon (?) expresses concern for her husband's safety, but leaves without telling her about the crash. 
 
 
 
 ![](stahn-guide/sub011_1.png)  
-▲ You can get the conclusion to this event in "Draconis Crewman's Family 2" [Sub 124](projects/destiny-dc/stahn-guide?id=sub-event-124-Draconis-Crewman's-Family-2). 
+▲ You can get the conclusion to this event in "Draconis Crewman's Family 2" [Side-event 124](projects/destiny-dc/stahn-guide?id=side-event-124-Draconis-Crewman's-Family-2). 
 
 ---
 
-## [Sub-event #012 - Dark Wings 1]
+## Side-event #012 - Dark Wings 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Armeida   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.10 Arriving in Armeida ~ No.12 Straylize Temple Cleared    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.10 Arriving in Armeida ~ No.12 Straylize Temple Cleared    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+The "Dark Wings," whom you met in Janos, appear before Stahn and others once again in this side-event. You trigger this event by visiting the plaza at the far side of Armeida. While this is the first of eight side-events, there is no specific order in which to view the events staring these three "lens hunters." No items or titles are obtained either, but their antics are worth seeing through to the very end. 
 
 
 
@@ -192,14 +233,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #013 - Lovers' Quarrels]
+## Side-event #013 - Lovers' Quarrels
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Armeida   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.10 Arriving in Armeida ~ No.44 Oberon Secret Factory clear    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Food strap [Fried Rice]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.10 Arriving in Armeida ~ No.44 Oberon Secret Factory clear    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Food strap [Fried Rice]    |
+
+Upon entering the grocery store in Armeida, Mary is informed that due to the laziness of the store owner's husband, the available ingredients leave much to be desired. Mary tries to offer advice to help them get the situation under control, but only time will tell if this will assist in replenishing the grocerers shelves.
 
 
 
@@ -208,14 +251,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #014 - Life Saver]
+## Side-event #014 - Life Saver
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Armeida   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.12 Arrival at Straylize Temple ~ No.14 Before arriving in Cherik    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Item [Life Bottle] x2    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.12 Arrival at Straylize Temple ~ No.14 Before arriving in Cherik    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Life Bottle] x2    |
+
+Visiting the plaza in Armedia during this you will encounter one the Seven Generals, General Lewein. Speaking to him will trigger an event where you learn about an unexpected connection between Stahn's grandfather, Thomas Aileron, and the General Lewein. 
 
 
 
@@ -224,14 +269,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #015 - Philia's First Time in Junkland]
+## Side-event #015 - Philia's First Time in Junkland
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Junkland   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Junkland   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.15 Arrival at Baruk's Office ~ No.54 Fight against Ilene    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.15 Arrival at Baruk's Office ~ No.54 Fight against Ilene    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+Junkland doesn't need to visited until towards the end of the story in case you just want to advance the main plot. However, to view this side-event, you need to visit Junkland very early in the story. Near the armorer in Junkland, Philia is unable to handle the power stench in the air and falls ill. Do not fret - this event has no bearing on her actual status in game.
 
 
 
@@ -240,46 +287,52 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #016 - Yearning to Join the Dark Wings 1]
+## Side-event #016 - Yearning to Join the Dark Wings 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Calviola   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Calviola   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.16 Arriving in Calviola ~ No.19 Before arriving at Neustadt    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.16 Arriving in Calviola ~ No.19 Before arriving at Neustadt    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+To trigger this event, speak with a young boy with green hair near a large pool of water to the right of the entrance of Calviola. You will start the story of a boy named Toshu who has run away from home in order to join the Black Wings. The continuation of this story does not occur until this event is cleared. 
 
 
 
 ![](stahn-guide/sub016_1.png)  
-▲ Toshu doesn't suspect the Dark Wings real identity. The second event will reveal what happened after that [Sub 075](projects/destiny-dc/stahn-guide?id=sub-event-075-Yearning-to-join-the-Dark-Wings-2).
+▲ Toshu doesn't suspect the Dark Wings real identity. The second event will reveal what happened after that [Side-event 075](projects/destiny-dc/stahn-guide?id=side-event-075-Yearning-to-join-the-Dark-Wings-2).
 
 ---
 
-## [Sub-event #017 - Calviola's Elena 1]
+## Side-event #017 - Calviola's Elena 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Calviola   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Calviola   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.16 Arriving in Calviola ~ No.19 Before arriving at Neustadt    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.16 Arriving in Calviola ~ No.19 Before arriving at Neustadt    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+This event occurs when speaking with Elena, who is in a house to the left of the Oberon Corportation building in Valviola. She asks the party to assis her in finding her father, who is half Calviolan and half Seingegaldian. If you do not complete (trigger?) this side-event, the second part, [Calviola's Elena 2], WILL NOT occur. 
 
 
 
 ![](stahn-guide/sub017_1.png)  
-▲ Completing "Bird in a Cage?" [Sub 077](projects/destiny-dc/stahn-guide?id=sub-event-077-Bird-in-a-Cage?) is mandatory to trigger this chains of events.
+▲ Completing "Bird in a Cage?" [Side-event 077](projects/destiny-dc/stahn-guide?id=side-event-077-Bird-in-a-Cage?) is mandatory to trigger this chains of events.
 
 ---
 
-## [Sub-event #018 - The Pickpocket Incident]
+## Side-event #018 - The Pickpocket Incident
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Calviola   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Calviola   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.18 Calviola Temple Cleared ~ No.19 Before arriving at Neustadt    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.18 Calviola Temple Cleared ~ No.19 Before arriving at Neustadt    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+This even occurs if you try to leave Calviola through the northern exit with lens. A boy bumps into Stahn and the others. Rutee immediately regocnizes him as a lens pickpocket and presses him for answers. After a heated exchange, the boy eventually runs off with your lens. (?)
 
 
 
@@ -288,14 +341,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #019 - Dark Wings 2]
+## Side-event #019 - Dark Wings 2
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Cherik   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cherik   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.18 Calviola Temple Cleared ~ No.19 Before arriving at Neustadt    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.18 Calviola Temple Cleared ~ No.19 Before arriving at Neustadt    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+Visit the square close to where the Baruk Foundation(?) is located in Cherik to encounter the Black Wings. Approaching them causes an event to occur where they claim they are heros to the people of the city. However, they are ignored and are offered no fanfare. No matter what they try, they cannot grab the attention of anyone and are not taken seriously. 
 
 
 
@@ -304,14 +359,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #020 - Sibling 1]
+## Side-event #020 - Sibling 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.20 Arriving in Neustadt ~ No.20 Before entering Ilene's house    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.20 Arriving in Neustadt ~ No.20 Before entering Ilene's house    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+Talking to the girl on the bridge connected to the Oberon Lens shop in Neustadt. She is worried about how she treated her step brother. Rutee shares her opinion that they are still siblings, even if they aren't related by blood.  The girl doesn't understand what Rutee says and leaves. You must complete this even before the next event, [Sibling 2], can occur. You have a very short window to complete these, so you should do both of them when you first visit Neustadt. 
 
 
 
@@ -320,14 +377,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #021 - Gaze of Resolve]
+## Side-event #021 - Gaze of Resolve
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.20 Arriving in Neustadt    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Philia's title [Gaze of Resolve]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.20 Arriving in Neustadt    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Philia's title [Gaze of Resolve]    |
+
+This event occurs when you speak with the woman who is standing infront of the Neustadt fountain. When presented with a choice, select "Is this about...me?".  From here a conversation with this woman ensues, where Philia is recognized as a Straylize Priestess. The woman comments on Philia's gaze. The title you receive here is necessary for the secton part of this event series [Maiden's Gaze].
 
 
 
@@ -336,14 +395,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #022 - Sweet Boy]
+## Side-event #022 - Sweet Boy
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.20 Arriving in Neustadt ~ No.22 Arriving in Shiden Territory    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Leon's title [Sweet Boy]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.20 Arriving in Neustadt ~ No.22 Arriving in Shiden Territory    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Leon's title [Sweet Boy]    |
+
+This event occurs when you speak with a young boy sitting on a bench in front of the Softy Kreem stand in Neustadt. During the conversation, select "I have no business with children." Lion will provide an answer to the child's question about food he doesn't like. In order for this event to occur, you must have Leon in your party. 
 
 
 
@@ -352,14 +413,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #023 - Lost Child]
+## Side-event #023 - Lost Child
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.20 Arriving in Neustadt ~ No.20 Before entering Ilene's house    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.20 Arriving in Neustadt ~ No.20 Before entering Ilene's house    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+You can trigger this event by speaking to the lost child near Ilene's house in Neustadt. Due to the child's appearance, Rutee assumes the child is rich and helps to child in hopes of getting a reward. It turns out the child is only borrowing these clothes and is actually quite poor. The window for you to trigger this event is quite short, so make sure to view it before going into Ilene's house. 
 
 
 
@@ -368,62 +431,74 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #024 - "Swatian" User?]
+## Side-event #024 - "Swatian" User?
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.20 Arriving in Neustadt    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Stahn title ["Swatian" User?]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.20 Arriving in Neustadt    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn title ["Swatian" User?]    |
+
+Trigger this even by talking to the boy near the fountain in Neustadt. Upon selecting the choice "You know about the Swordians?," Dymlos scolds Stahn for blurting out such sensative things. Stahn attempts to use his wits to cover up his mistake, sharing instead about the mystic Swatian, used to swat flies.  
 
 
 
 ![](stahn-guide/sub024_1.png)  
-▲ The title obtained is a required for "Fake Swordian" [Sub 138](projects/destiny-dc/stahn-guide?id=sub-event-138-Fake-Swordian)
+▲ The title obtained is a required for "Fake Swordian" [Side-event 138](projects/destiny-dc/stahn-guide?id=side-event-138-Fake-Swordian)
 
 ---
 
-## [Sub-event #025 - Monster Book Appraisal]
+## Side-event #025 - Monster Book Appraisal
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.20 Arriving in Neustadt    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | See Below    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.20 Arriving in Neustadt    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
 
+Make sure to be checking the maximum number of hits displayed when you review the Monster Book as it will be related to other side-events. After you have fought your way to a number over 30, talk to a monster researcher in the Neustadt arena, next to a weapon shop in any city, or next to an armorer in any city. You will receive a War Diary (?). Once you receive the War Diary (?), each time you perform a Definite Strike, a ★ mark will appear to the right of the monster's name in the Monster Book. When you reach 100% for a region, you are awarded one of the items outlined in the table below by a Monster Researcher. 
 
+excel table
 
 ![](stahn-guide/sub025_1.png)  
 
 
 ---
 
-## [Sub-event #026 - Pirate Ship Reward]
+## Side-event #026 - Pirate Ship Reward
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.22 Pirate Ship Cleared ~ No.22 Arriving in Shiden Territory    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | See Below    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.22 Pirate Ship Cleared ~ No.22 Arriving in Shiden Territory    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
 
+After you have cleared the pirate ship, speak with the sailor to the north (?) of Ilene's house. He will give you a reward based on the amount of time you spent clearing the pirate ship.  
 
+|Clear Rank|Reward|
+|-----|-----|
+|Rank 1: within 3 minutes|[Blast Material]|
+|Rank 2: within 5 minutes|[Clear Lens] x50|
+|Rank 3: more than 5 minutes|[Rough Lens] x 100|
 
 ![](stahn-guide/sub026_1.png)  
 ▲ The requirements for obtaining the rewards are listed below.
 
 ---
 
-## [Sub-event #027 - Dark Wings 3]
+## Side-event #027 - Dark Wings 3
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.22 Pirate Ship Cleared ~ No.22 Arriving in Shiden Territory    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.22 Pirate Ship Cleared ~ No.22 Arriving in Shiden Territory    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+This event takes place when you enter the hospital(?) on the left side of the arena. Here you will encounter the Dark Wings yet again. Taking advantage of Kongman's absence, they claim to be the champions of the arena. While there is no reward for this event, seeing them panic when Kongman arrives with Stahn and the others is quite amusing. 
 
 
 
@@ -432,14 +507,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #028 - Sibling 2]
+## Side-event #028 - Sibling 2
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.22 Pirate Ship Cleared ~ No.22 Arriving in Shiden Territory    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.22 Pirate Ship Cleared ~ No.22 Arriving in Shiden Territory    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+This event is triggered by speaking with the same girl on the bridge for [Siblings 1], assuming you completed the first event in the series. After the monster attack, she learns the truth behind Rutee's words.  
 
 
 
@@ -448,14 +525,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #029 - Young Master 1]
+## Side-event #029 - Young Master 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Shiden   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.23 Arriving in Shiden Territory ~ No.28 Before Arriving in Terrazi Territory    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.23 Arriving in Shiden Territory ~ No.28 Before Arriving in Terrazi Territory    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+This event occurs when you speak with a child crying on a bridge in Shiden. This child is starved for attention and has an obnoxiously selfish attitude. Leon cannot stand seeing such a display, especially from such a spoiled brat.
 
 
 
@@ -464,30 +543,34 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #030 - Neat Sister]
+## Side-event #030 - Neat Sister
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Shiden   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.25 Undersea Cave cleared~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Rutee's title [Neat Sister]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.25 Undersea Cave cleared~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Neat Sister]    |
+
+Speak with the girl in front of the Shiden Family mansion and she will compliment Rutee on her beauty. Choose the dialogue option of "Do I have something on my face?" to receive the title of Neat Sister. 
 
 
 
 ![](stahn-guide/sub030_1.png)  
-▲ The title [Neat Sister] is mendatory to trigger the event "Sealed Man" [Sub 108](projects/destiny-dc/stahn-guide?id=sub-event-108-Sealed-Man) 
+▲ The title [Neat Sister] is mendatory to trigger the event "Sealed Man" [Side-event 108](projects/destiny-dc/stahn-guide?id=side-event-108-Sealed-Man) 
 
 ---
 
-## [Sub-event #031 - Dark Wings 4]
+## Side-event #031 - Dark Wings 4
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Shiden   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.25 Arriving in Moreau ~ No.28 Before arriving in Terazzi    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.25 Arriving in Moreau ~ No.28 Before arriving in Terazzi    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+The Dark Wings are back again. This time, they appear in front of the Shiden Family mansion. They claim to be the ones hired to assist. It doesn't take long before the ruse is discovered and the Dark Wings are foiled once again. No reward is given for this side-event
 
 
 
@@ -496,14 +579,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #032 - Michel Shiden]
+## Side-event #032 - Michel Shiden
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Shiden   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.25 Arriving in Moreau ~ No.28 Before arriving in Terazzi    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.25 Arriving in Moreau ~ No.28 Before arriving in Terazzi    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+This event occurs when you go to the bridge at Shiden Port. Johnny is defending a boy who is being questioned by the residents. He will tell you a story about Michel Shiden, the founder of Aquaveil. In order to see this event, you must return to Shiden from Moreau through the underwater caves. 
 
 
 
@@ -512,14 +597,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #033 - Eleanor 1]
+## Side-event #033 - Eleanor 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Moreau   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.27 Clear Moreau's Castle ~ No.28 Before arriving in Terazzi    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.27 Clear Moreau's Castle ~ No.28 Before arriving in Terazzi    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+After clearing Moreau Castle, take a small boat to Johnny's hideout. You will see a scene where Johnny reminises about his childhood friends, Fate and Eleanor. 
 
 
 
@@ -528,14 +615,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #034 - Shiden's Youngest]
+## Side-event #034 - Shiden's Youngest
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Moreau   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.27 Clear Moreau's Castle ~ No.28 Before arriving in Terazzi    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Johnny's title [Shiden's Youngest]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.27 Clear Moreau's Castle ~ No.28 Before arriving in Terazzi    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Johnny's title [Shiden's Youngest]    |
+
+This event is triggered when you speak with the man on the roof of the underground warehouse in Moreau. Choose the dialogue option of "I'm just the clown know as..." to witness a scene where the man shares his disdain for Johnny's lifestyle. Stahn and the others are impressed with how he handles the matter, earning him this title. You will not be able to get to this building using a small boat(?), so you'll need to go on foot. 
 
 
 
@@ -544,14 +633,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #035 - Arthur Shiden]
+## Side-event #035 - Arthur Shiden
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Shiden   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.27 Clear Moreau's Castle ~ No.28 Before arriving in Terazzi    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.27 Clear Moreau's Castle ~ No.28 Before arriving in Terazzi    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+Speaking with Arthur Shiden while Johnny has [Shiden's Youngest] title to trigger this event. You will find Aruthure Shiden in the Shiden Family Mansion. He is despondent as he is no longer a lord. He hopes that Johnny with become the next great king. However, Johnny refuses to listen. 
 
 
 
@@ -560,14 +651,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #036 - Dark Wings 5]
+## Side-event #036 - Dark Wings 5
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Frostheim   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.31 Woodrow & Chelsea joins ~ No.36 Before Greybum's Battle    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.31 Woodrow & Chelsea joins ~ No.36 Before Greybum's Battle    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+Approach the Dark Wings in Frostheim to see additional antics. They claim to be "legendary mercenaries," and indulge in food and drink without intending to pay. They are no match for Master Alba, who cons them into clearing snow from his roof. 
 
 
 
@@ -576,14 +669,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #037 - Rose of Seinegald]
+## Side-event #037 - Rose of Seinegald
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Frostheim   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.31 Woodrow & Chelsea joins ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Leon's title [Rose of Seinegald]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.31 Woodrow & Chelsea joins ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Leon's title [Rose of Seinegald]    |
+
+Speaking to a woman near the entrance of Frostheim triggers this event. If you ignore her, she professes her adoration for Leon, which started as soon as she saw them in Seinegald. She seems to be mistaken that Leon is a girl, not realize the beautiful man before her is the man of her dreams.  
 
 
 
@@ -592,14 +687,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #038 - Cursed Beauty]
+## Side-event #038 - Cursed Beauty
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Frostheim   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.31 Woodrow & Chelsea joins ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Chelsea's title [Cursed Beauty]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.31 Woodrow & Chelsea joins ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Chelsea's title [Cursed Beauty]    |
+
+
 
 
 
@@ -608,14 +705,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #039 - Isaac's Son]
+## Side-event #039 - Isaac's Son
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Cyril   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cyril   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.33 Marie's memories returned    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Woodrow's title [Isaac's Son]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.33 Marie's memories returned    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Woodrow's title [Isaac's Son]    |
+
+
 
 
 
@@ -624,14 +723,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #040 - Former Soldier]
+## Side-event #040 - Former Soldier
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Cyril   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cyril   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.33 Marie's memories returned    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Mary's title [Former Soldier]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.33 Marie's memories returned    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Mary's title [Former Soldier]    |
+
+
 
 
 
@@ -640,14 +741,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #041 - Chris' Old Acquaintance]
+## Side-event #041 - Chris' Old Acquaintance
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Janos   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Janos   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.33 Marie's memories returned No.36 Before Greybum's Battle    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Rutee's blast caliber [Infernal Suffering]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.33 Marie's memories returned No.36 Before Greybum's Battle    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's blast caliber [Infernal Suffering]    |
+
+
 
 
 
@@ -656,14 +759,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #042 - Meeting the Wonder Baker]
+## Side-event #042 - Meeting the Wonder Baker
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Lienea   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.38 Start of part 2 ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.38 Start of part 2 ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -672,14 +777,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #043 - Lienean Man]
+## Side-event #043 - Lienean Man
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Lienea   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.38 Philia joins ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Stahn title [Lienean Man]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.38 Philia joins ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn title [Lienean Man]    |
+
+
 
 
 
@@ -688,14 +795,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #045 - Dalis' Nightmare]
+## Side-event #045 - Dalis' Nightmare
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Cyril   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cyril   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | After Sub-event [Young Master 2]    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After Side-event [Young Master 2]    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -704,14 +813,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #046 - Maiden’s Gaze]
+## Side-event #046 - Maiden’s Gaze
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.39 Arriving in Neustadt    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Philia's title [Maiden’s Gaze]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.39 Arriving in Neustadt    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Philia's title [Maiden’s Gaze]    |
+
+
 
 
 
@@ -720,14 +831,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #047 - Dalis' Wife]
+## Side-event #047 - Dalis' Wife
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Frostheim   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.40 Marie joins  ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Mary's title [Dalis' Wife]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.40 Marie joins  ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Mary's title [Dalis' Wife]    |
+
+
 
 
 
@@ -736,14 +849,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #048 - Topless Man]
+## Side-event #048 - Topless Man
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Frostheim   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.40 Marie joins  ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Kongman's title [Topless Man]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.40 Marie joins  ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Kongman's title [Topless Man]    |
+
+
 
 
 
@@ -752,14 +867,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #049 - Kidult]
+## Side-event #049 - Kidult
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Heidelberg   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Heidelberg   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.41 Woodrow & Chelsea joins ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Chelsea's title [Kidult]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Chelsea's title [Kidult]    |
+
+
 
 
 
@@ -768,14 +885,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #050 - Phandaria's King]
+## Side-event #050 - Phandaria's King
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Heidelberg   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Heidelberg   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.41 Woodrow & Chelsea joins ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Woodrow's title [Phandaria's King]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Woodrow's title [Phandaria's King]    |
+
+
 
 
 
@@ -784,30 +903,34 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #051 - Accidental Resemblance]
+## Side-event #051 - Accidental Resemblance
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Janos   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Janos   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.41 Woodrow & Chelsea joins ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Woodrow's title [Doppelganger], Items see below    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Woodrow's title [Doppelganger], Items see below    |
 
 
+
+excel table
 
 ![](stahn-guide/sub051_1.png)  
 
 
 ---
 
-## [Sub-event #052 - Small Familly 2]
+## Side-event #052 - Small Familly 2
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Harmentz   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.41 Woodrow & Chelsea joins ~ No.45 Before arrival at Radisrol    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~ No.45 Before arrival at Radisrol    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -816,14 +939,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #053 - Dark Wings 6]
+## Side-event #053 - Dark Wings 6
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Armeida   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.41 Woodrow & Chelsea joins ~ No.44 Before arrival at Undersea Caves    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~ No.44 Before arrival at Undersea Caves    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -832,14 +957,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #054 - Ayles' Lament]
+## Side-event #054 - Ayles' Lament
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Straylize Temple   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Straylize Temple   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.41 Woodrow & Chelsea joins ~ No.41 Woodrow & Chelsea joins    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Philia's title [Secret Agent], Philia's blast caliber [Divine Power]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~ No.41 Woodrow & Chelsea joins    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Philia's title [Secret Agent], Philia's blast caliber [Divine Power]    |
+
+
 
 
 
@@ -848,14 +975,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #055 - Philia's Husband]
+## Side-event #055 - Philia's Husband
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Straylize Temple   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Straylize Temple   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.41 Woodrow & Chelsea joins ~ No.41 Woodrow & Chelsea joins    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Philia's title [Divine Wife], Kongman's title [Goddess Challenger]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~ No.41 Woodrow & Chelsea joins    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Philia's title [Divine Wife], Kongman's title [Goddess Challenger]    |
+
+
 
 
 
@@ -864,14 +993,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #056 - Man of Fists]
+## Side-event #056 - Man of Fists
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.41 Woodrow & Chelsea joins ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Kongman's title [Tekken King]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Kongman's title [Tekken King]    |
+
+
 
 
 
@@ -880,14 +1011,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #057 - Chief's Daughter]
+## Side-event #057 - Chief's Daughter
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.41 Woodrow & Chelsea joins ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Philia's title [Jealous Girl]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Philia's title [Jealous Girl]    |
+
+
 
 
 
@@ -896,14 +1029,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #058 - Karma the Adopted Kid]
+## Side-event #058 - Karma the Adopted Kid
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.41 Woodrow & Chelsea joins ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -912,14 +1047,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #059 - Peeping Tom]
+## Side-event #059 - Peeping Tom
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Lienea   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.41 Woodrow & Chelsea joins ~ No.58 Fight against Hugo    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Stahn title [Young Detective]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn title [Young Detective]    |
+
+
 
 
 
@@ -928,14 +1065,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #060 - Ex-Lens Hunter]
+## Side-event #060 - Ex-Lens Hunter
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Cresta   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cresta   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.42 Rutee joins ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Rutee's title [Ex-Lens Hunter]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.42 Rutee joins ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Ex-Lens Hunter]    |
+
+
 
 
 
@@ -944,30 +1083,34 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #061 - Free Man]
+## Side-event #061 - Free Man
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.43 Arriving in Darilsheid ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Various Titles    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.43 Arriving in Darilsheid ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Various Titles    |
 
 
+
+Excel Table
 
 ![](stahn-guide/sub061_1.png)  
 
 
 ---
 
-## [Sub-event #062 - Patriotism 1]
+## Side-event #062 - Patriotism 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.43 Audience with the king ~ No.58 Fight against Hugo    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.43 Audience with the king ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -976,14 +1119,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #063 - The General's Date]
+## Side-event #063 - The General's Date
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.43 Audience with the king ~ No.58 Fight against Hugo    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.43 Audience with the king ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -992,14 +1137,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #064 - Popular General Dryden]
+## Side-event #064 - Popular General Dryden
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.43 Audience with the king ~ No.64 Berselium Acquired    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Mary's title [Wife Networker]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.43 Audience with the king ~ No.64 Berselium Acquired    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Mary's title [Wife Networker]    |
+
+
 
 
 
@@ -1008,14 +1155,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #065 - Popularity Battle]
+## Side-event #065 - Popularity Battle
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.43 Audience with the king ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Woodrow's title [Royal Aura]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.43 Audience with the king ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Woodrow's title [Royal Aura]    |
+
+
 
 
 
@@ -1024,30 +1173,34 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #066 - Kidnapping]
+## Side-event #066 - Kidnapping
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.43 Audience with the king ~ No.43 Before Oberon Hidden Factory    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Item [Magical Aroma]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.43 Audience with the king ~ No.43 Before Oberon Hidden Factory    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Magical Aroma]    |
 
 
+
+Boss Info Table
 
 ![](stahn-guide/sub066_1.png)  
 
 
 ---
 
-## [Sub-event #067 - Triva]
+## Side-event #067 - Triva
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Harmentz   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.43 Audience with the king ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Philia's title [Trivia Queen], Woodrow's title [Original King of Trivia]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.43 Audience with the king ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Philia's title [Trivia Queen], Woodrow's title [Original King of Trivia]    |
+
+
 
 
 
@@ -1056,14 +1209,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #068 - Old Friend]
+## Side-event #068 - Old Friend
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Harmentz   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.43 Audience with the king ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Rutee's blast caliber [Life Discharge], 5000 Gald    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.43 Audience with the king ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's blast caliber [Life Discharge], 5000 Gald    |
+
+
 
 
 
@@ -1072,30 +1227,34 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #069 - Darzen's Soliloquy]
+## Side-event #069 - Darzen's Soliloquy
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Heidelberg   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Heidelberg   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.43 Audience with the king ~ No.58 Fight against Hugo    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.43 Audience with the king ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
 
+
+Excel Table
 
 ![](stahn-guide/sub069_1.png)  
 
 
 ---
 
-## [Sub-event #070 - Miawster]
+## Side-event #070 - Miawster
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Cresta   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cresta   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.44 Arriving in Oberon's Secret Factory ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Philia's title [Bomb Alchemist]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.44 Arriving in Oberon's Secret Factory ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Philia's title [Bomb Alchemist]    |
+
+
 
 
 
@@ -1104,14 +1263,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #071 - Lady Chelsea]
+## Side-event #071 - Lady Chelsea
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Radisrol   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Radisrol   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Chelsea's title [Little Lady]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Chelsea's title [Little Lady]    |
+
+
 
 
 
@@ -1120,30 +1281,34 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #072 - Chelsea Meets Woodrow]
+## Side-event #072 - Chelsea Meets Woodrow
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Torn's Cabin   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Torn's Cabin   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance ~ No.72 Lens collecting completed    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | See Below    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.72 Lens collecting completed    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
 
 
+
+excel table for reward
 
 ![](stahn-guide/sub072_1.png)  
 
 
 ---
 
-## [Sub-event #073 - Seinegald's King Succession]
+## Side-event #073 - Seinegald's King Succession
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1152,14 +1317,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #074 - Soldier's Advance 2]
+## Side-event #074 - Soldier's Advance 2
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1168,14 +1335,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #075 - Yearning to join the Dark Wings 2]
+## Side-event #075 - Yearning to join the Dark Wings 2
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Calviola   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Calviola   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1184,14 +1353,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #076 - Calviola's Elena 2]
+## Side-event #076 - Calviola's Elena 2
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Calviola   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Calviola   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Philia's title [Bomb Alchemist]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Philia's title [Bomb Alchemist]    |
+
+
 
 
 
@@ -1200,14 +1371,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #077 - Bird in a Cage?]
+## Side-event #077 - Bird in a Cage?
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Janos   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Janos   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Item [Gain Material]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Gain Material]    |
+
+
 
 
 
@@ -1216,14 +1389,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #078 - I Like Sweet Things]
+## Side-event #078 - I Like Sweet Things
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1232,14 +1407,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #079 - Mother's Face: Leon]
+## Side-event #079 - Mother's Face: Leon
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1248,14 +1425,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #080 - City Hero]
+## Side-event #080 - City Hero
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Kongman's title [City Hero]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Kongman's title [City Hero]    |
+
+
 
 
 
@@ -1264,14 +1443,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #081 - Fayte]
+## Side-event #081 - Fayte
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Moreau   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1280,14 +1461,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #082 - Princess Rhianna]
+## Side-event #082 - Princess Rhianna
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Moreau   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Item [Rapid Material]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Rapid Material]    |
+
+
 
 
 
@@ -1296,14 +1479,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #083 - Lilith's Promise]
+## Side-event #083 - Lilith's Promise
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Lienea   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Stahn's title [Arena Champion], Lilith joins    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn's title [Arena Champion], Lilith joins    |
+
+
 
 
 
@@ -1312,14 +1497,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #084 - Bacchus' Resolution]
+## Side-event #084 - Bacchus' Resolution
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Lienea   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Lilith's title [Flame Girl]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Lilith's title [Flame Girl]    |
+
+
 
 
 
@@ -1328,14 +1515,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #085 - New General]
+## Side-event #085 - New General
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1344,14 +1533,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #086 - PokeDragon 1]
+## Side-event #086 - PokeDragon 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Lienea   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance ~ No.73 Before entering Dycroft    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Lilith's title [Dragon Nurturer]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.73 Before entering Dycroft    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Lilith's title [Dragon Nurturer]    |
+
+
 
 
 
@@ -1360,30 +1551,34 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #087 - Hide and Seek]
+## Side-event #087 - Hide and Seek
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Cresta   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cresta   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Rutee's title [Eldest Orphan]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Eldest Orphan]    |
 
 
+
+Multiple Graphics
 
 ![](stahn-guide/sub087_1.png)  
 
 
 ---
 
-## [Sub-event #088 - My name is...]
+## Side-event #088 - My name is...
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Cresta   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cresta   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1392,14 +1587,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #089 - Jonathan the Sheep 1]
+## Side-event #089 - Jonathan the Sheep 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Lienea   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.47 Hidden Temple cleared ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.47 Hidden Temple cleared ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1408,14 +1605,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #090 - Jonathan the Sheep 2]
+## Side-event #090 - Jonathan the Sheep 2
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Radisrol (Aethersphere)   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Radisrol (Aethersphere)   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | None    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | None    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1424,14 +1623,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #091 - Small Family 3]
+## Side-event #091 - Small Family 3
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Harmentz   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.51 Fight Against Baruk ~ No.58 Fight against Hugo    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.51 Fight Against Baruk ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1440,14 +1641,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #092 - Dark Wings 7]
+## Side-event #092 - Dark Wings 7
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Armeida   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.59 Arriving in Darilsheid ~ No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.59 Arriving in Darilsheid ~ No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1456,14 +1659,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #093 - Jonathan the Sheep 3]
+## Side-event #093 - Jonathan the Sheep 3
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Lienea   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Resting at an Inn ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Resting at an Inn ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1472,14 +1677,16 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #094 - Mother's Face: Rutee]
+## Side-event #094 - Mother's Face: Rutee
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Cresta   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cresta   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Resting at an Inn ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Rutee's title [Gald Maiden]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Resting at an Inn ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Gald Maiden]    |
+
+
 
 
 
@@ -1488,30 +1695,34 @@ You will need the [Breaker] title for the "Fayte" event [Sub 081](projects/desti
 
 ---
 
-## [Sub-event #095 - Mother's Face: Chris]
+## Side-event #095 - Mother's Face: Chris
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Resting at an Inn ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Rutee's title [Mother-like]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Resting at an Inn ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Mother-like]    |
 
 This event occurs when you talk to the maid at Hugo's mansion in Darilsheid after you have completed "Mother's Face: Leon" (sub 79) and "Rutee" (sub 94). The maid will give you a diary written in her youth by Chris, the mother of Leon and Rutee, and you will be able to look at the contents of the diary, which are a little embarrassing.
+
+
 
 ![](stahn-guide/sub095_1.png)  
 
 
 ---
 
-## [Sub-event #096 - Lens Diviner]
+## Side-event #096 - Lens Diviner
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Traveler's Lodge   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Traveler's Lodge   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Resting at an Inn ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Resting at an Inn ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1520,14 +1731,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #097 - Marian]
+## Side-event #097 - Marian
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1536,14 +1749,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #098 - Hugo's Memory]
+## Side-event #098 - Hugo's Memory
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1552,14 +1767,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #099 - Poker Face]
+## Side-event #099 - Poker Face
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Torn's Cabin   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Torn's Cabin   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Chelsea's title [Actress Guise]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Chelsea's title [Actress Guise]    |
+
+
 
 
 
@@ -1568,14 +1785,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #100 - Homesickness]
+## Side-event #100 - Homesickness
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Janos   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Janos   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1584,14 +1803,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #101 - Be Yourself]
+## Side-event #101 - Be Yourself
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Armeida   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~ No.64 Berselium acquired    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~ No.64 Berselium acquired    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1600,14 +1821,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #102 - Batista's Memory]
+## Side-event #102 - Batista's Memory
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Calviola   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Calviola   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1616,14 +1839,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #103 - Irene's Memory]
+## Side-event #103 - Irene's Memory
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1632,14 +1857,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #104 - Kong Theatre]
+## Side-event #104 - Kong Theatre
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Kongman's title [☆Star☆]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Kongman's title [☆Star☆]    |
+
+
 
 
 
@@ -1648,14 +1875,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #105 - Neustadt]
+## Side-event #105 - Neustadt
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1664,14 +1893,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #106 - Rembrandt's Memory]
+## Side-event #106 - Rembrandt's Memory
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1680,30 +1911,34 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #107 - Meeting with Sakuraba]
+## Side-event #107 - Meeting with Sakuraba
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Shiden   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Johnny's title [Live Musician], Weapon [Guitar]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Johnny's title [Live Musician], Weapon [Guitar]    |
 
 
+
+Excel Table
 
 ![](stahn-guide/sub107_1.png)  
 
 
 ---
 
-## [Sub-event #108 - Sealed Man]
+## Side-event #108 - Sealed Man
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Shiden   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Johnny's title [Sealed Man]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Johnny's title [Sealed Man]    |
+
+
 
 
 
@@ -1712,14 +1947,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #109 - Young Master 2]
+## Side-event #109 - Young Master 2
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Shiden   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Item [Absorb Material]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Absorb Material]    |
+
+
 
 
 
@@ -1728,14 +1965,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #110 - Tiberius's Memory]
+## Side-event #110 - Tiberius's Memory
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Moreau   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1744,14 +1983,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #111 - SISTER?]
+## Side-event #111 - SISTER?
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Frostheim   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Chelsea's title [Innocent]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Chelsea's title [Innocent]    |
+
+
 
 
 
@@ -1760,14 +2001,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #112 - The Perfect Couple]
+## Side-event #112 - The Perfect Couple
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Harmentz   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~ No.64 Berselium acquired    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~ No.64 Berselium acquired    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1776,14 +2019,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #113 - Hot Springs Event 1]
+## Side-event #113 - Hot Springs Event 1
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Frostheim   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1792,14 +2037,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #114 - Hot Springs Event 2]
+## Side-event #114 - Hot Springs Event 2
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Frostheim   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Various Titles    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Various Titles    |
+
+
 
 
 
@@ -1808,14 +2055,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #115 - Dalis and Mary]
+## Side-event #115 - Dalis and Mary
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Cyril   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cyril   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1824,14 +2073,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #116 - Gambler Rutee]
+## Side-event #116 - Gambler Rutee
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Heidelberg   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Heidelberg   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Rutee's title [Gambler Rutee]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Gambler Rutee]    |
+
+
 
 
 
@@ -1840,14 +2091,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #117 - Greybum's Memory]
+## Side-event #117 - Greybum's Memory
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Heidelberg   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Heidelberg   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1856,14 +2109,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #118 - Queen Chelsea]
+## Side-event #118 - Queen Chelsea
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Heidelberg   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Heidelberg   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1872,14 +2127,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #119 - Blizzard Bowl]
+## Side-event #119 - Blizzard Bowl
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Heidelberg   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Heidelberg   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Unique [Fairy Necklace]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Unique [Fairy Necklace]    |
+
+
 
 
 
@@ -1888,14 +2145,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #120 - Missing Uncle Bob]
+## Side-event #120 - Missing Uncle Bob
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Lienea   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1904,14 +2163,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #121 - Rutee's Birthday]
+## Side-event #121 - Rutee's Birthday
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Cresta   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cresta   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Rutee's title [Forever Young]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Forever Young]    |
+
+
 
 
 
@@ -1920,14 +2181,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #122 - Baruk's Memory]
+## Side-event #122 - Baruk's Memory
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Cherik   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cherik   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -1936,14 +2199,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #123 - Patriotism 2]
+## Side-event #123 - Patriotism 2
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Avitus Draconis acquired ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Johnny's title [Royal Clown]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Johnny's title [Royal Clown]    |
+
+
 
 
 
@@ -1952,14 +2217,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #124 - Draconis Crewman's Family 2]
+## Side-event #124 - Draconis Crewman's Family 2
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Avitus Draconis acquired ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Stahn title [Gentle Liar], Rutee's title [Realist]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn title [Gentle Liar], Rutee's title [Realist]    |
+
+
 
 
 
@@ -1968,14 +2235,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #125 - Soldier's Advance 3]
+## Side-event #125 - Soldier's Advance 3
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Avitus Draconis acquired ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Rutee's title [Honest Girl], Unique [Steal Gloves]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Honest Girl], Unique [Steal Gloves]    |
+
+
 
 
 
@@ -1984,14 +2253,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #126 - Lens Panic]
+## Side-event #126 - Lens Panic
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Avitus Draconis acquired ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Rutee's title [Invisible Hand]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Invisible Hand]    |
+
+
 
 
 
@@ -2000,14 +2271,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #127 - Small Family 4]
+## Side-event #127 - Small Family 4
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Harmentz   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Avitus Draconis acquired ~ No.72 Lens collecting completed    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~ No.72 Lens collecting completed    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -2016,14 +2289,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #128 - Switcheroo]
+## Side-event #128 - Switcheroo
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Avitus Draconis acquired ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Kongman's title [Man in Love]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Kongman's title [Man in Love]    |
+
+
 
 
 
@@ -2032,14 +2307,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #129 - Kongman's Origin Story]
+## Side-event #129 - Kongman's Origin Story
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Avitus Draconis acquired ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -2048,14 +2325,16 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #130 - Eleanor 2]
+## Side-event #130 - Eleanor 2
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Moreau   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Avitus Draconis acquired ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Johnny's title [Sorrowful Musician]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Johnny's title [Sorrowful Musician]    |
+
+
 
 
 
@@ -2064,30 +2343,34 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 ---
 
-## [Sub-event #131 - Oath to Leon]
+## Side-event #131 - Oath to Leon
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Avitus Draconis acquired ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Armor [Battle Tunic]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Armor [Battle Tunic]    |
 
 The event occurs when Johnny has the title "Sorrowful Musician" equipped and talks to a fish vendor in the Darilsheid's port. The fish vendor tells Stahn and his friends that he lost his friend at sea and urges them to go back to the place where they lost their friend. They follow his words to the shore of the island where Oberon's hidden factory is located and find Leon's cape washed up on the beach.
+
+
 
 ![](stahn-guide/sub131_1.png)  
 Stahn and his team renewed their resolve to save the world rather than wallow in their sorrow.
 
 ---
 
-## [Sub-event #132 - Great Detective Stahn]
+## Side-event #132 - Great Detective Stahn
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Moreau   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Avitus Draconis acquired ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Stahn title [Great Detective!]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn title [Great Detective!]    |
+
+
 
 
 
@@ -2096,46 +2379,52 @@ Stahn and his team renewed their resolve to save the world rather than wallow in
 
 ---
 
-## [Sub-event #133 - Life-threatening Situation]
+## Side-event #133 - Life-threatening Situation
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Lienea   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Avitus Draconis acquired ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Stahn title [Destiny's Child]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn title [Destiny's Child]    |
 
-This sub-event occurs when the title "Man in Love" is set on Kongman and he talks to Bacchus, who is standing in front his house. They begin to talk passionately about what love is. They are visited by General Lewein of the Seven Generals. After listening to their conversation, he tells Bacchus that he was in love with Thomas' wife, and that he regrets that he never told her how he felt.
+This side-event occurs when the title "Man in Love" is set on Kongman and he talks to Bacchus, who is standing in front his house. They begin to talk passionately about what love is. They are visited by General Lewein of the Seven Generals. After listening to their conversation, he tells Bacchus that he was in love with Thomas' wife, and that he regrets that he never told her how he felt.
+
+
 
 ![](stahn-guide/sub133_1.png)  
 The title obtained is a condition for the "Parenthood" Sub Event (→P351).
 
 ---
 
-## [Sub-event #134 - Parents]
+## Side-event #134 - Parents
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Shiden   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Avitus Draconis acquired ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | 100 Gald    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | 100 Gald    |
 
 This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's Child" titles he can trigger a scene in Johnny's Mansion. The scene shows an exchange between Johnny's mother, who treats him like a child when he returns to his hometown after a long absence, and Johnny, who treats his mother ill out of embarrassment. After Stan and his friends see this and chastise Johnny for not understanding the importance of parents, his mother gives him 100 Gald as pocket money for his remorse.
+
+
 
 ![](stahn-guide/sub134_1.png)  
 
 
 ---
 
-## [Sub-event #135 - Food Book Appraisal]
+## Side-event #135 - Food Book Appraisal
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Food Sack Master's Haven   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Food Sack Master's Haven   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Avitus Draconis acquired ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | See Below    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
+
+
 
 
 
@@ -2144,14 +2433,16 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## [Sub-event #136 - Hidden Calvalisians]
+## Side-event #136 - Hidden Calvalisians
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Junkland   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Junkland   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.66 Lumina Draconis acquired ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Various items    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.66 Lumina Draconis acquired ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Various items    |
+
+
 
 
 
@@ -2160,14 +2451,16 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## [Sub-event #137 - Dark Wings 8]
+## Side-event #137 - Dark Wings 8
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Armeida   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.68 Lens collecting starts ~ No.72 Lens collecting completed    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.68 Lens collecting starts ~ No.72 Lens collecting completed    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -2176,14 +2469,16 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## [Sub-event #138 - Fake Swordians]
+## Side-event #138 - Fake Swordians
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Straylize Temple   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Straylize Temple   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.68 Lens collecting starts ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Stahn title [Genuine Master], Item [Chaser Material]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.68 Lens collecting starts ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn title [Genuine Master], Item [Chaser Material]    |
+
+
 
 
 
@@ -2192,14 +2487,16 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## [Sub-event #139 - Former Lovers]
+## Side-event #139 - Former Lovers
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Swordian R&D Lab   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Swordian R&D Lab   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.68 Lens collecting starts ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Item [Advance Material]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.68 Lens collecting starts ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Advance Material]    |
+
+
 
 
 
@@ -2208,14 +2505,16 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## [Sub-event #140 - Small Family 5]
+## Side-event #140 - Small Family 5
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Harmentz   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.73 Arriving in Dycroft    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Item [Magical Aroma]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Magical Aroma]    |
+
+
 
 
 
@@ -2224,14 +2523,16 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## [Sub-event #141 - Clown]
+## Side-event #141 - Clown
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Shiden   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.73 Arriving in Dycroft    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Johnny's blast caliber [Layer Sphere]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Johnny's blast caliber [Layer Sphere]    |
+
+
 
 
 
@@ -2240,14 +2541,16 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## [Sub-event #142 - Jonathan the Sheep 4]
+## Side-event #142 - Jonathan the Sheep 4
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Lienea   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.73 Arriving in Dycroft    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Item [Apple]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Apple]    |
+
+
 
 
 
@@ -2256,14 +2559,16 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## [Sub-event #143 - PokeDragon 2]
+## Side-event #143 - PokeDragon 2
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Lienea   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.73 Arriving in Dycroft    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Armor [Dragon Armor]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Armor [Dragon Armor]    |
+
+
 
 
 
@@ -2272,14 +2577,16 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## [Sub-event #144 - Lovely Katz]
+## Side-event #144 - Lovely Katz
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Katz Village   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Katz Village   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.73 Arriving in Dycroft    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Mary's title [Cat-Lover]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Mary's title [Cat-Lover]    |
+
+
 
 
 
@@ -2288,14 +2595,16 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## [Sub-event #145 - Lost Pet]
+## Side-event #145 - Lost Pet
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Frostheim   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.73 Arriving in Dycroft    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | 3000 Gald    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | 3000 Gald    |
+
+
 
 
 
@@ -2304,62 +2613,70 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 ---
 
-## [Sub-event #146 - Movie Viewer]
+## Side-event #146 - Movie Viewer
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-New%20Game+-informational?style=for-the-badge&color=blue)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Katz Village   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Katz Village   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | New Game Plus    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | New Game Plus    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-This is a new game+ sub-event. It occurs when you load the clear data and talk to the blue-costumed bunny standing near "Noko" at the Katz Base. You can watch all the movies in the game, including the opening and ending.
+This is a new game+ side-event. It occurs when you load the clear data and talk to the blue-costumed bunny standing near "Noko" at the Katz Base. You can watch all the movies in the game, including the opening and ending.
+
+
 
 ![](stahn-guide/sub146_1.png)  
 
 
 ---
 
-## [Sub-event #147 - He's me, I'm him, and that guy...who's that guy?]
+## Side-event #147 - He's me, I'm him, and that guy...who's that guy?
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
+![](https://img.shields.io/badge/-New%20Game+-informational?style=for-the-badge&color=blue)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Katz Village   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Katz Village   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | New Game Plus    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | New Game Plus    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-This is also a sub-event that can only be viewed on a new game+. The event occurs when you talk to the sleeping cat in the rocket at the Katz Base after you have obtained all the titles. Suddenly Stahn and his friends are struck by lightning and everyone is freaky fridays.
+This is also a side-event that can only be viewed on a new game+. The event occurs when you talk to the sleeping cat in the rocket at the Katz Base after you have obtained all the titles. Suddenly Stahn and his friends are struck by lightning and everyone is freaky fridays.
+
+
 
 ![](stahn-guide/sub147_1.png)  
 
 
 ---
 
-## [Sub-event #148 - Skit Viewer]
+## Side-event #148 - Skit Viewer
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Katz Village   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Katz Village   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.73 Arriving in Dycroft    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
 The NPC named "Noko" on the right side of the entrance to the Katz Base is a mysterious creature that will show you all the skits again. Rare skits can be viewed if they have already occurred. The conditions under which all rare chats occur are as listed below.
+
+
 
 ![](stahn-guide/sub148_1.png)  
 
 
 ---
 
-## [Sub-event #149 - Procurement Quest]
+## Side-event #149 - Procurement Quest
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Around the world   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Around the world   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.04 Arriving in Janos ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | See Below    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.04 Arriving in Janos ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
+
+
 
 
 
@@ -2368,14 +2685,16 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## [Sub-event #150 - Race Game]
+## Side-event #150 - Race Game
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.20 Arriving in Neustadt ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | See Below    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.20 Arriving in Neustadt ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
+
+
 
 
 
@@ -2384,14 +2703,16 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## [Sub-event #151 - Rock Rally]
+## Side-event #151 - Rock Rally
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Around the world   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Around the world   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | After arriving in each locations ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | See Below    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After arriving in each locations ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
+
+
 
 
 
@@ -2400,14 +2721,16 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## [Sub-event #152 - Arena]
+## Side-event #152 - Arena
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.39 Arriving in Neustadt ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | See each page    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.39 Arriving in Neustadt ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See each page    |
+
+
 
 
 
@@ -2416,14 +2739,16 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## [Sub-event #153 - Wild Shot]
+## Side-event #153 - Wild Shot
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.41 Woodrow & Chelsea joins ~ No.58 Fight against Hugo    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | See Below    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
+
+
 
 
 
@@ -2432,14 +2757,16 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## [Sub-event #154 - His Majesty's Drums]
+## Side-event #154 - His Majesty's Drums
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Avitus Draconis acquired ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Stahn title [Stahndum], Johnny's title [Johnny Beats]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn title [Stahndum], Johnny's title [Johnny Beats]    |
+
+
 
 
 
@@ -2448,14 +2775,16 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## [Sub-event #155 - ToD Quiz]
+## Side-event #155 - ToD Quiz
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Harmentz   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | See table    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Various Titles    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | See table    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Various Titles    |
+
+
 
 
 
@@ -2464,14 +2793,16 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## [Sub-event #156 - Sunken Ship Dungeon]
+## Side-event #156 - Sunken Ship Dungeon
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.46 Ritora's appearance ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+
+
 
 
 
@@ -2480,14 +2811,16 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## [Sub-event #157 - Four Secrets of the World]
+## Side-event #157 - Four Secrets of the World
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Straylize Temple and others   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Straylize Temple and others   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.47 Hidden Temple cleared ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | See Below    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.47 Hidden Temple cleared ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
+
+
 
 
 
@@ -2496,14 +2829,16 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## [Sub-event #158 - Ecological Survey]
+## Side-event #158 - Ecological Survey
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Darilsheid   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.62 Arriving in Swordian R&D Lab    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | See Below    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.62 Arriving in Swordian R&D Lab    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
+
+
 
 
 
@@ -2512,14 +2847,16 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## [Sub-event #159 - Discovery Points]
+## Side-event #159 - Discovery Points
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Around the world   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Around the world   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.38 Discovery Book acquired ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | Lilith's title [Caretaker], Rest of the party [NatuRanger]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.38 Discovery Book acquired ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Lilith's title [Caretaker], Rest of the party [NatuRanger]    |
+
+
 
 
 
@@ -2528,14 +2865,16 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 ---
 
-## [Sub-event #160 - Search for the Gentlemens]
+## Side-event #160 - Search for the Gentlemens
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Example-informational?style=for-the-badge&color=orange)
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=blue) | Neustadt   |
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=blue) | No.61 Avitus Draconis acquired ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=blue)   | see right    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | see right    |
+
+
 
 
 
