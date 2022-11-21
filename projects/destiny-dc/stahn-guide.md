@@ -2496,7 +2496,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 
 ![](stahn-guide/sub137_1.png)  
-
+▲ The three decided to live in the village of Almeida.
 
 ---
 
@@ -2514,7 +2514,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 
 ![](stahn-guide/sub138_1.png)  
-
+▲ Stahn and his team easily defeat the thieves and show that they are true Master Swordians.
 
 ---
 
@@ -2550,7 +2550,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 
 ![](stahn-guide/sub140_1.png)  
-
+▲ The reward of the event is a pretty rare item [Magical Aroma]
 
 ---
 
