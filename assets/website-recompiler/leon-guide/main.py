@@ -15,7 +15,7 @@ if __name__ == "__main__":
     MD_ENTRY_TEMPLATE = """
 ## Side-Quest #{sub_leon} - {english_title}
 
-{missable} {multipart} {new_game+} {leon_exclusive}
+{missable} {multipart} {new_game} {leon_exclusive}
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | {english_location}   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -31,14 +31,14 @@ if __name__ == "__main__":
 """
 
     # 1 - LOAD DATA + MAP COLUMN NAMES TO VARIABLE NAMES (in the template) =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
-    dataframe = pandas.read_csv(GUIDE_PATH, encoding='utf-8')
+    dataframe = pandas.read_csv(GUIDE_PATH, encoding='utf-8', converters={'Sub Leon' : str})
     rename_map = {
         # from : to
         "Sub Leon"                : "sub_leon",
         "English Title"      : "english_title",
         "Missable"           : "missable",
         "Multipart"          : "multipart",
-        "New Game+"          : "new_game+",
+        "New Game+"          : "new_game",
         "Leon's Side Exclusive" : "leon_exclusive",
         "English Location"   : "english_location",
         "English Period"     : "english_period",

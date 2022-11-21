@@ -6,7 +6,7 @@ import pandas
 # main
 if __name__ == "__main__":
 
-    # 0 - DEFINE CONSTS =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+    # 0 - DEFINE CONSTS
     GUIDE_PATH = "..\..\destiny-dc\stahn-guide\csv\stahn-guide.csv"
     OUT_PATH = "..\..\..\projects\destiny-dc\stahn-guide.md"
     TITLE = "# Stahn's Side - Side-Quest Guide\n"
@@ -15,7 +15,7 @@ if __name__ == "__main__":
     MD_ENTRY_TEMPLATE = """
 ## Side-Quest #{sub} - {english_title}
 
-{missable} {multipart} {new_game+}
+{missable} {multipart} {new_game}
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | {english_location}   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -30,15 +30,15 @@ if __name__ == "__main__":
 {english_image_text}
 """
 
-    # 1 - LOAD DATA + MAP COLUMN NAMES TO VARIABLE NAMES (in the template) =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
-    dataframe = pandas.read_csv(GUIDE_PATH, encoding='utf-8')
+    # 1 - LOAD DATA + MAP COLUMN NAMES TO VARIABLE NAMES (in the template) 
+    dataframe = pandas.read_csv(GUIDE_PATH, encoding='utf-8', converters={'Sub' : str})
     rename_map = {
         # from : to
         "Sub"                : "sub",
         "English Title"      : "english_title",
         "Missable"           : "missable",
         "Multipart"          : "multipart",
-        "New Game+"          : "new_game+",
+        "New Game+"          : "new_game",
         "English Location"   : "english_location",
         "English Period"     : "english_period",
         "English Reward"     : "english_reward",
@@ -50,7 +50,7 @@ if __name__ == "__main__":
     # keep only relevant columns + rename then for replacement 
     filtered_dataframe = dataframe[list(rename_map.keys())].rename(columns=rename_map, errors="raise")  # `errors="raise"` will let you know if you try to rename a column that does not exists
     filtered_dataframe = filtered_dataframe.fillna("")
-    # 2 - PREPROCESS DATA TO MAKE IT PRETTIER =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+    # 2 - PREPROCESS DATA TO MAKE IT PRETTIER
 
     ## change nan location, period and reward for None
     repl_filter = lambda s: "None" if s in ["", "-"] else s # https://stackoverflow.com/questions/21608228/conditional-replace-pandas
@@ -59,7 +59,7 @@ if __name__ == "__main__":
     filtered_dataframe['english_reward'] = filtered_dataframe['english_reward'].map(repl_filter)
 
     pretty_df = filtered_dataframe
-    # 3 - FOR EACH ROW, GENERATE AN ENTRY =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+    # 3 - FOR EACH ROW, GENERATE AN ENTRY
     all_entries = []
     
     for index, row in pretty_df.iterrows():
@@ -69,7 +69,7 @@ if __name__ == "__main__":
         new_entry = MD_ENTRY_TEMPLATE.format(**row) #  funky python woohoo - https://stackoverflow.com/a/30646873 - replace placeholder by corresponding value in row
         all_entries.append(new_entry)
 
-    # 4 - WRITE OUTPUT TO FILE =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+    # 4 - WRITE OUTPUT TO FILE 
     data = TITLE + SEPARATOR.join(all_entries)
     with open(OUT_PATH, 'w', encoding='utf-8') as f:
         f.write(data)
