@@ -9,7 +9,7 @@
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.04 Arriving in Janos ~ No.15 Before arriving in Cherik    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-This event occurs when you talk to the man in front of the inn in Janos. He tells you that he has been staying in Janos for several years without being able to return to Phandaria since he lost his passport. He begs you to sell him your passport, but of course you can't. This man also appears in "The Bird in the Cage" [Side-Quest 077](projects/destiny-dc/stahn-guide?id=Side-Quest-077-bird-in-a-cage). 
+This event occurs when you talk to the man in front of the inn in Janos. He tells you that he has been staying in Janos for several years without being able to return to Phandaria since he lost his passport. He begs you to sell him your passport, but of course you can't. This man also appears in "The Bird in the Cage" [Side-Quest #077](projects/destiny-dc/stahn-guide?id=Side-Quest-077-bird-in-a-cage). 
 
 
 
@@ -139,7 +139,7 @@ In the plaza just after passing under Seingald Castle's gate, talk to the soldie
 
 
 ![](stahn-guide/sub007_1.png)  
-▲ The [Greedy Witch] title is necessary to trigger Marian's Event [Side-Quest 097](projects/destiny-dc/stahn-guide?id=Side-Quest-097-Marian). 
+▲ The [Greedy Witch] title is necessary to trigger Marian's Event [Side-Quest #097](projects/destiny-dc/stahn-guide?id=Side-Quest-097-Marian). 
 
 ---
 
@@ -175,7 +175,7 @@ This event occurs when you visit Hugo's mansion in Darilsheid and receive the sw
 
 
 ![](stahn-guide/sub009_1.png)  
-▲ You will need the [Breaker] title for the "Fayte" event [Side-Quest 081](projects/destiny-dc/stahn-guide?id=Side-Quest-081-Fayte).
+▲ You will need the [Breaker] title for the "Fayte" event [Side-Quest #081](projects/destiny-dc/stahn-guide?id=Side-Quest-081-Fayte).
 
 ---
 
@@ -211,7 +211,7 @@ This event is available during the above period and occurs when you enter the tw
 
 
 ![](stahn-guide/sub011_1.png)  
-▲ You can get the conclusion to this event in "Draconis Crewman's Family 2" [Side-Quest 124](projects/destiny-dc/stahn-guide?id=Side-Quest-124-Draconis-Crewman's-Family-2). 
+▲ You can get the conclusion to this event in "Draconis Crewman's Family 2" [Side-Quest #124](projects/destiny-dc/stahn-guide?id=Side-Quest-124-Draconis-Crewman's-Family-2). 
 
 ---
 
@@ -301,7 +301,7 @@ To trigger this event, speak with a young boy with green hair near a large pool 
 
 
 ![](stahn-guide/sub016_1.png)  
-▲ Toshu doesn't suspect the Dark Wings real identity. The second event will reveal what happened after that [Side-Quest 075](projects/destiny-dc/stahn-guide?id=Side-Quest-075-Yearning-to-join-the-Dark-Wings-2).
+▲ Toshu doesn't suspect the Dark Wings real identity. The second event will reveal what happened after that [Side-Quest #075](projects/destiny-dc/stahn-guide?id=Side-Quest-075-Yearning-to-join-the-Dark-Wings-2).
 
 ---
 
@@ -319,7 +319,7 @@ This event occurs when speaking with Elena, who is in a house to the left of the
 
 
 ![](stahn-guide/sub017_1.png)  
-▲ Completing "Bird in a Cage?" [Side-Quest 077](projects/destiny-dc/stahn-guide?id=Side-Quest-077-Bird-in-a-Cage?) is mandatory to trigger this chains of events.
+▲ Completing "Bird in a Cage?" [Side-Quest #077](projects/destiny-dc/stahn-guide?id=Side-Quest-077-Bird-in-a-Cage?) is mandatory to trigger this chains of events.
 
 ---
 
@@ -445,7 +445,7 @@ Trigger this even by talking to the boy near the fountain in Neustadt. Upon sele
 
 
 ![](stahn-guide/sub024_1.png)  
-▲ The title obtained is a required for "Fake Swordian" [Side-Quest 138](projects/destiny-dc/stahn-guide?id=Side-Quest-138-Fake-Swordian)
+▲ The title obtained is a required for "Fake Swordian" [Side-Quest #138](projects/destiny-dc/stahn-guide?id=Side-Quest-138-Fake-Swordian)
 
 ---
 
@@ -460,7 +460,20 @@ Trigger this even by talking to the boy near the fountain in Neustadt. Upon sele
 
 Make sure to be checking the maximum number of hits displayed when you review the Monster Book as it will be related to other Side-Quests. After you have fought your way to a number over 30, talk to a monster researcher in the Neustadt arena, next to a weapon shop in any city, or next to an armorer in any city. You will receive a War Diary (?). Once you receive the War Diary (?), each time you perform a Definite Strike, a ★ mark will appear to the right of the monster's name in the Monster Book. When you reach 100% for a region, you are awarded one of the items outlined in the table below by a Monster Researcher. 
 
-excel table
+|        Condition        |        Reward        |
+|        -----       |        -----        |
+|        Seinegald area complete        |        Item [Zexceed Material]        |
+|        Seinegald area  complete        |        Unique [Seinegald Belt]        |
+|        Fitzgald area  complete        |        Item [Variable Material]        |
+|        Fitzgald area  complete        |        Unique [Fitzgald Belt]        |
+|        Calvalese area  complete        |        Unique [Grimm Bow]        |
+|        Calvalese area  complete        |        Unique [Calvalese Belt]        |
+|        Aquaveil area  complete        |        Unique [Aquaveil Belt]        |
+|        Aquaveil area  complete        |        Foodstrap [Fish Hot Pot]        |
+|        Phandaria area  complete        |        Unique [Revolution Bandana]        |
+|        Phandaria area  complete        |        Unique [Phandaria Belt]        |
+|        All areas complete        |        Unique [Grimm Gauntlets]        |
+|        All areas complete        |        Unique [World Champion Belt]|
 
 ![](stahn-guide/sub025_1.png)  
 
@@ -557,7 +570,7 @@ Speak with the girl in front of the Shiden Family mansion and she will complimen
 
 
 ![](stahn-guide/sub030_1.png)  
-▲ The title [Neat Sister] is mendatory to trigger the event "Sealed Man" [Side-Quest 108](projects/destiny-dc/stahn-guide?id=Side-Quest-108-Sealed-Man) 
+▲ The title [Neat Sister] is mendatory to trigger the event "Sealed Man" [Side-Quest #108](projects/destiny-dc/stahn-guide?id=Side-Quest-108-Sealed-Man) 
 
 ---
 
@@ -570,7 +583,7 @@ Speak with the girl in front of the Shiden Family mansion and she will complimen
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.25 Arriving in Moreau ~ No.28 Before arriving in Terazzi    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-The Dark Wings are back again. This time, they appear in front of the Shiden Family mansion. They claim to be the ones hired to assist. It doesn't take long before the ruse is discovered and the Dark Wings are foiled once again. No reward is given for this Side-Quest
+The Dark Wings are back again. This time, they appear in front of the Shiden family mansion. They claim to be the ones hired to assist. It doesn't take long before the ruse is discovered and the Dark Wings are foiled once again. No reward is given for this Side-Quest
 
 
 
@@ -593,7 +606,7 @@ This event occurs when you go to the bridge at Shiden Port. Johnny is defending 
 
 
 ![](stahn-guide/sub032_1.png)  
-
+▲ When Johnny told them about his ancestors, it made them realize how futile they quarrel his.
 
 ---
 
@@ -604,14 +617,14 @@ This event occurs when you go to the bridge at Shiden Port. Johnny is defending 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.27 Clear Moreau's Castle ~ No.28 Before arriving in Terazzi    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Meteorite]    |
 
 After clearing Moreau Castle, take a small boat to Johnny's hideout. You will see a scene where Johnny reminisces about his childhood friends, Fate and Eleanor. 
 
 
 
 ![](stahn-guide/sub033_1.png)  
-
+▲ After seeing this event, you can get a [Meteorite] by examining the samurai armor on the wall.
 
 ---
 
@@ -629,7 +642,7 @@ This event is triggered when you speak with the man on the roof of the undergrou
 
 
 ![](stahn-guide/sub034_1.png)  
-
+▲ If you choose the option above during the conversation, you can get Johnny's title [Shiden's Youngest]
 
 ---
 
@@ -647,7 +660,7 @@ Speaking with Arthur Shiden while Johnny has [Shiden's Youngest] title to trigge
 
 
 ![](stahn-guide/sub035_1.png)  
-
+▲ He was ousted from his position as lord after the theft of the treasured sword.
 
 ---
 
@@ -665,7 +678,7 @@ Approach the Dark Wings in Frostheim to see additional antics. They claim to be 
 
 
 ![](stahn-guide/sub036_1.png)  
-
+▲ The three of them are completely enticed by Alba's story and head for the roof to remove the snow with renewed enthusiasm.
 
 ---
 
@@ -683,7 +696,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 ![](stahn-guide/sub037_1.png)  
-
+▲ The event end without Leon beign able to clear the "misunderstanding."
 
 ---
 
@@ -701,7 +714,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 ![](stahn-guide/sub038_1.png)  
-
+▲ The title obtained here is necessary to trigger "Princess Rhianna" [Side-Quest #082](projects/destiny-dc/stahn-guide?id=Side-Quest-082-Princess-Rhianna) 
 
 ---
 
@@ -719,7 +732,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 ![](stahn-guide/sub039_1.png)  
-
+▲ The title obtained here is necessary to trigger "Popularity Battle" [Side-Quest #065](projects/destiny-dc/stahn-guide?id=Side-Quest-065-Popularity-Battle) 
 
 ---
 
@@ -737,7 +750,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 ![](stahn-guide/sub040_1.png)  
-
+▲ He tells a few stories about Marie when they were in the army.
 
 ---
 
@@ -755,7 +768,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 ![](stahn-guide/sub041_1.png)  
-
+▲ This event is short lived so it's better to do it before Mary's memory has returned.
 
 ---
 
@@ -773,7 +786,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 ![](stahn-guide/sub042_1.png)  
-
+▲ This food shop as a huge selection of different bread type food like sandwiches etc.
 
 ---
 
@@ -791,7 +804,25 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 ![](stahn-guide/sub043_1.png)  
+▲ If she recognizes Stahn as  "a man," he'll earn the title [Lienean Man]
 
+---
+
+## Side-Quest #044 - Community Old Man
+
+  
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Traveler's Lodge   |
+| :--------------------------------------------------------------------------------------- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.38 Departure from the village of Lieane    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Portrait Option    |
+
+This old man used to be linked to a defunct website where you could enter passwords to unlock in-game rewards. However, much like any other site from the early 2000’s, it was dead by the time the Director’s Cut version of the game was released. He now unlocks the alternate portrait option in the Customize menu.
+
+
+
+![](stahn-guide/sub044_1.png)  
+▲ That's how the website use to look and here's the internet archive link https://web.archive.org/web/20070114131308/http://namco-ch.net:80/to-destiny/pc_game.html
 
 ---
 
@@ -809,7 +840,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 ![](stahn-guide/sub045_1.png)  
-
+▲ This is what moé hell would looks like, poor Dalis.
 
 ---
 
@@ -827,7 +858,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 ![](stahn-guide/sub046_1.png)  
-
+▲ The title obtained here is necessary to trigger "Chief's Daughter" [Side-Quest #057](projects/destiny-dc/stahn-guide?id=Side-Quest-057-Chief's-Daughter) 
 
 ---
 
@@ -837,7 +868,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.40 Marie joins  ~    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.40 Mary joins  ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Mary's title [Dalis' Wife]    |
 
 
@@ -855,7 +886,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.40 Marie joins  ~    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.40 Mary joins  ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Kongman's title [Topless Man]    |
 
 
@@ -863,7 +894,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 ![](stahn-guide/sub048_1.png)  
-
+▲ The title obtained here is necessary to trigger "Kong Theatre" [Side-Quest #104](projects/destiny-dc/stahn-guide?id=Side-Quest-104-Kong-Theatre) 
 
 ---
 
@@ -881,7 +912,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 ![](stahn-guide/sub049_1.png)  
-
+▲ The title obtained here is necessary to trigger "Homesickness" [Side-Quest #100](projects/destiny-dc/stahn-guide?id=Side-Quest-100-Homesickness) 
 
 ---
 
@@ -899,7 +930,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 ![](stahn-guide/sub050_1.png)  
-
+▲ The title obtained here is necessary to trigger "Dalis and Mary" [Side-Quest #115](projects/destiny-dc/stahn-guide?id=Side-Quest-115-Dalis-and-Mary) 
 
 ---
 
@@ -917,7 +948,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 excel table
 
 ![](stahn-guide/sub051_1.png)  
-
+▲ Woodrow need to be the onscreen character to trigger each scenes.
 
 ---
 
@@ -935,7 +966,7 @@ excel table
 
 
 ![](stahn-guide/sub052_1.png)  
-
+▲ This Side-Quest is easy to miss so make sure to go back as soon as you can.
 
 ---
 
@@ -971,7 +1002,7 @@ excel table
 
 
 ![](stahn-guide/sub054_1.png)  
-
+▲ That event is pretty important since it not only gives a new title it also gives a new Blast Calibur
 
 ---
 
@@ -989,7 +1020,7 @@ excel table
 
 
 ![](stahn-guide/sub055_1.png)  
-
+▲ The title obtained here is necessary to trigger "Greybum's Memory" [Side-Quest #117](projects/destiny-dc/stahn-guide?id=Side-Quest-117-Greybum's-Memory) 
 
 ---
 
@@ -1007,7 +1038,7 @@ excel table
 
 
 ![](stahn-guide/sub056_1.png)  
-
+▲ It seems that the champion who inspired Kongman was also a bare-knuckle fighter.
 
 ---
 
@@ -1025,7 +1056,7 @@ excel table
 
 
 ![](stahn-guide/sub057_1.png)  
-
+▲ She used to be madly in love with Stahn but unfortunatly she discovered DestinyTinder™ and found another man.
 
 ---
 
@@ -1043,7 +1074,7 @@ excel table
 
 
 ![](stahn-guide/sub058_1.png)  
-
+▲ By becoming a bully himself, Kongman encourages Karma to have a strong heart.
 
 ---
 
@@ -1061,7 +1092,7 @@ excel table
 
 
 ![](stahn-guide/sub059_1.png)  
-
+▲ If you walk behind Thomas' house you can talk to a NPC there.
 
 ---
 
@@ -1079,7 +1110,7 @@ excel table
 
 
 ![](stahn-guide/sub060_1.png)  
-
+▲ The sisters tell Rutee, who is concerned about the orphanage, to put her health first.
 
 ---
 
@@ -2087,7 +2118,7 @@ Excel Table
 
 
 ![](stahn-guide/sub116_1.png)  
-
+▲ Stahn wins a bet and wins big. However, his joy is short-lived, as he then loses a lot of money.
 
 ---
 
@@ -2357,7 +2388,7 @@ The event occurs when Johnny has the title "Sorrowful Musician" equipped and tal
 
 
 ![](stahn-guide/sub131_1.png)  
-Stahn and his team renewed their resolve to save the world rather than wallow in their sorrow.
+▲ Stahn and his team renewed their resolve to save the world rather than wallow in their sorrow.
 
 ---
 
@@ -2393,7 +2424,7 @@ This Side-Quest occurs when the title "Man in Love" is set on Kongman and he tal
 
 
 ![](stahn-guide/sub133_1.png)  
-The title obtained is a condition for the "Parenthood" Sub Event (→P351).
+▲ The title obtained is a condition for the "Parents" [Side-Quest #134](projects/destiny-dc/stahn-guide?id=Side-Quest-134-Parents) 
 
 ---
 
@@ -2807,7 +2838,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 
 ![](stahn-guide/sub156_1.png)  
-
+▲ If you proceed to the waters northeast of Neustadt, you will automatically switch to the map of the Sunken Ship.
 
 ---
 
@@ -2861,7 +2892,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 
 ![](stahn-guide/sub159_1.png)  
-
+▲ Discovery points found at each location will be listed in the [Discovery Book] with illustrations.
 
 ---
 
@@ -2879,9 +2910,9 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 
 ![](stahn-guide/sub160_1.png)  
-The pictures shows where the gentlemen's will appear. The hat will be hidden on the world map until you get close enough.
+▲ The pictures shows where the gentlemen's will appear. The hat will be hidden on the world map until you get close enough.
 
-If you win, it will be recorded in the Monster Book.
+▲ If you win, it will be recorded in the Monster Book.
 
 ---
 
@@ -2894,12 +2925,12 @@ If you win, it will be recorded in the Monster Book.
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+Talk to one of the soldier in Terazzi, and he will tell the group how Chartier was chosen for the treasured sword. Note that this will not occur unless Rutee and Johnny are present.
 
 
 
 ![](stahn-guide/sub161_1.png)  
-
+▲ Chaliter had a tough time, watch this exclusive event to see how he felt.
 
 ---
 
@@ -2912,12 +2943,12 @@ If you win, it will be recorded in the Monster Book.
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+This side-quest occurs when you return to Stahn's house in the village of Lienea and examine his bed. Stan and Lilith, who lost their parents at an early age, discuss their feelings for them. If you want to know more about the bond between the two siblings, experience this event.
 
 
 
 ![](stahn-guide/sub162_1.png)  
-
+▲ Compared to Lilith, who misses her parents, Stan is quite calm. watch this exclusive event to find out why.
 
 ---
 
@@ -2930,7 +2961,7 @@ If you win, it will be recorded in the Monster Book.
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Saffron]    |
 
-
+You can trigger this side-quest if you stay at the inn in Frostheim. Lilith hears about the Tilso Forest from the innkeeper and heads there alone, uber known to the rest of the group. From this point on, Lilith will be the only party member until the end of the event, so make sure she is well-equipped. When she enters a dead end near the save point in the forest, two Treant will appear from behind her. After defeating them, return to Frostheim to complete the quest and obtain the [Saffron].
 
 
 

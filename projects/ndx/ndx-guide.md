@@ -1,0 +1,1 @@
+# Tales of Phantasia Narikiri Dungeon X - Side-Quest Guide

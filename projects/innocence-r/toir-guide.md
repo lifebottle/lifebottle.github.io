@@ -1,0 +1,1 @@
+# Tales of Innocence R - Side-Quest Guide
