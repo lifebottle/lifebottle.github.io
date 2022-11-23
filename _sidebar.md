@@ -1,7 +1,5 @@
 <!-- docs/_sidebar.md -->
 
-* [HOME](./)
-
 * [Projects](./projects/index)
 
   * [Tales of Destiny DC](./projects/destiny-dc/index)
