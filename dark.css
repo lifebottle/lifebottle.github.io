@@ -346,9 +346,9 @@ body.sticky .sidebar,body.sticky .sidebar-toggle{
 .markdown-section tr{
     border-top:1px solid #ccc
 }
-.markdown-section p.tip,.markdown-section tr:nth-child(2n){
+/* .markdown-section p.tip,.markdown-section tr:nth-child(2n){
     background-color:#666666
-}
+} */
 .markdown-section p.tip{
     border-bottom-right-radius:2px;
     border-left:4px solid #f66;
