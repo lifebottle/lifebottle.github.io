@@ -2689,9 +2689,68 @@ This is also a Side-Quest that can only be viewed on a new game+. The event occu
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-The NPC named "Noko" on the right side of the entrance to the Katz Base is a mysterious creature that will show you all the skits again. Rare skits can be viewed if they have already occurred. The conditions under which all rare chats occur are as listed below.
+The NPC named "Noko" on the right side of the entrance to the Katz Base is a mysterious creature that will show you all the skits again. Rare skits can be viewed if they have already occurred. The conditions under which all of them occur are as listed below.
 
-
+|        Rare Skit Names        |        Trigger        |
+|        -----------------------        |        ----------------------------------        |
+|        Ode to Leviathan        |        After No.58 Fight against Hugo & Ride the Leviathan with Johnny        |
+|        Harsh Reality        |        First time you fight Lilith in the arena and lose        |
+|        I'm a Bit Nervous        |        When Lilith joins        |
+|        Burning Glare        |        After watching the skit "I'm a Bit Nervous"        |
+|        EX Burning Glare        |        After watching the skit "Burning Glare"        |
+|        You're the Future Champion!?        |        After watching the skit "EX Burning Glare"        |
+|        War of the Women?        |        After watching the skit "You're the Future Champion!?"        |
+|        The Key to Strength        |        After watching the skit "War of the Women?"        |
+|        Legendary Champion        |        After watching the skit "The Key to Strength"        |
+|        Female Friendship?        |        After watching the skit "Legendary Champion"        |
+|        Ghosts of the Past        |        Defeat Barbatos        |
+|        Enthralling Brilliance        |        After No.58 Fight against Hugo & possessed Gald is over 1,000,000        |
+|        The Life of a Lens Hunter        |        Have 990 of all Lens types        |
+|        I Hate This!        |        After No.58 Fight against Hugo & possessed Gald is 0        |
+|        I'm Stuffed!        |        Number of time the Foodsack used is over 110        |
+|        You Need to Recover        |        After No.58 Fight against Hugo & battle end with Stahn KO        |
+|        Don't Get Confused!        |        After No.58 Fight against Hugo & battle end with Rutee KO        |
+|        Common Sense        |        Leon is in the party & battle end with Philia KO        |
+|        A Token of Apology        |        After No.58 Fight against Hugo & battle end with Woodrow KO        |
+|        Potential Substitute?        |        Battle end with Leon KO        |
+|        Personal Responsibility        |        After No.58 Fight against Hugo & battle end with Chelsea KO        |
+|        Positive and Negative Words        |        Leon is in the party & battle end with Mary KO        |
+|        Are We Forgetting Something?        |        After No.58 Fight against Hugo & battle end with Kongman KO        |
+|        I Know How You're Feeling        |        After No.58 Fight against Hugo & battle end with Johnny KO        |
+|        Older Brother's Feelings        |        Battle end with Lilith KO        |
+|        Thank You, Everyone!        |        Complete the [Battle Record] and talk to the Monster Researcher in the arena        |
+|        Mary's Dream        |        Complete the [Food Book]        |
+|        Did They Lose Their Name?        |        After No.58 Fight against Hugo & Philia used [Philia Bomb] more than 100 times        |
+|        I Love Sleeping        |        180 seconds after Stahn is set as Support        |
+|        Searching for Gald        |        180 seconds after Rutee is set as Support        |
+|        I've Got Your Back        |        180 seconds after Philia is set as Support        |
+|        Intuition on the Field?        |        180 seconds after Woodrow is set as Support        |
+|        Surprisingly Suited for Command        |        180 seconds after Leon is set as Support        |
+|        I'm Enjoying This        |        180 seconds after Mary is set as Support        |
+|        Growing Seeds Is Fun        |        180 seconds after Chelsea  is set as Support        |
+|        Merits and Demerits        |        180 seconds after Johnny is set as Support        |
+|        Tireless Effort Is the Secret to Victory        |        180 seconds after Kongman is set as Support        |
+|        The Fun After Battle        |        180 seconds after Lilith is set as Support        |
+|        Big Sis' Secret!        |        After completing the "Hide and Seek" [Side-Quest #087](projects/destiny-dc/stahn-guide?id=Side-Quest-087-Hide-and-Seek)         |
+|        Race - 1        |        No.20 Arriving in Neustadt & completing the "Race Game" [Side-Quest #150](projects/destiny-dc/stahn-guide?id=Side-Quest-150-Race-Game)         |
+|        Race - 2        |        After No.61 Reynolds returns & completing "Race Game" [Side-Quest #150](projects/destiny-dc/stahn-guide?id=Side-Quest-150-Race-Game)         |
+|        Question!        |        After completing the "Triva" [Side-Quest #067](projects/destiny-dc/stahn-guide?id=Side-Quest-067-Triva)         |
+|        Ready!        |        After watching the skit "Question!"        |
+|        Absolutely Correct!        |        After completing the "ToD Quiz" [Side-Quest #155](projects/destiny-dc/stahn-guide?id=Side-Quest-155-ToD-Quiz)         |
+|        Still Practicing        |        After watching the skit "Absolutely Correct!"        |
+|        Expedition Stahn        |        Complete the [Discovery Book]        |
+|        Fortune - 1        |        After completing the "Lens Diviner"  [Side-Quest #096](projects/destiny-dc/stahn-guide?id=Side-Quest-096-Lens-Diviner)         |
+|        Fortune - 2        |        After watching the skit "Fortune - 1"        |
+|        Fortune - 3        |        After watching the skit "Fortune - 2"        |
+|        Fortune - 4        |        After watching the skit "Fortune - 3"        |
+|        Fortune - 5        |        After watching the skit "Fortune - 4"        |
+|        Fortune - 6        |        After watching the skit "Fortune - 5"        |
+|        Fortune - 7        |        After watching the skit "Fortune - 6"        |
+|        "Batista Bomb"        |        After completing the "Batista's Memory" [Side-Quest #102](projects/destiny-dc/stahn-guide?id=Side-Quest-102-Batista's-Memory)         |
+|        Philia's True Feelings        |        After completing the "Batista's Memory" [Side-Quest #102](projects/destiny-dc/stahn-guide?id=Side-Quest-102-Batista's-Memory)         |
+|        A Time for Dreaming        |        After completing the "Queen Chelsea" [Side-Quest #118](projects/destiny-dc/stahn-guide?id=Side-Quest-118-Queen-Chelsea)         |
+|        He's Me, I'm Him, so He's...        |        After completing the "He's Me, I'm Him, so He's..." [Side-Quest #147](projects/destiny-dc/stahn-guide?id=Side-Quest-147-He's-Me,-I'm-Him,-so-He's..)         |
+|        Rembrandt's Talent        |        No.58 Entering Belcrant        |
 
 ![](stahn-guide/sub148_1.png)  
 
