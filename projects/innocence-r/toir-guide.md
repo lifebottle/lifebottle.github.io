@@ -1,6 +1,6 @@
 # Tales of Innocence R - Side-Quest Guide
 
-## Side-Quest #001 - Tony’s diary
+## Side-Quest #001 - Tony’s Diary
 
   
 
@@ -17,7 +17,7 @@
 
 ---
 
-## Side-Quest #002 - Hasta’s spear skit
+## Side-Quest #002 - Hasta’s Spear
 
   
 
@@ -51,7 +51,7 @@
 
 ---
 
-## Side-Quest #004 - Karaage potato
+## Side-Quest #004 - Karaage Potato
 
   
 
