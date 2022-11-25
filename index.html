@@ -59,7 +59,7 @@
       search: 'auto',
 
       alias: {
-            '/.*/_sidebar.md': '/_sidebar.md'
+        '/.*/_sidebar.md': '/_sidebar.md'
         },
 
       charty: {
@@ -100,12 +100,20 @@
               return this.origin.code.apply(this, arguments);
             }
         }
+      },
+      editLink: {
+        text: '<img src="https://img.shields.io/badge/-Edit this Page-informational?style=for-the-badge&color=red">',
+        // text: '<span style="color: limegreen;">Edit this document</span>',
+        repo: 'https://github.com/lifebottle/lifebottle.github.io/edit/main/',
+        // repo: 'https://github.com/cyrilf/docsify-edit-link/edit/master/docs/',
+        cssClass: 'docsify-edit-link m-0'
       }
     }
   </script>
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 
   <!-- plugins -->
+  <script src="//unpkg.com/docsify-edit-link@^1"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <!-- <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script> -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
