@@ -83,7 +83,7 @@ This event occurs when you encounter a man who seems to know Stahn in from of th
 
 The Heroes of Seinegald are known as the "Seven Generals." You will encounter rumors about them in various places. Once you have heard them all, head to the audience chamber within Seinegald Castle to witness an assembly of the Seven Generals. The locations where the rumors can be encountered are listed below.
 
-|Town|Location|Npc Name|
+|![](https://img.shields.io/badge/-Town-informational?style=for-the-badge&color=lightgrey)|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgrey)|![](https://img.shields.io/badge/-Npc%20Name-informational?style=for-the-badge&color=lightgrey)|
 |-----|-----|-----|
 |Janos|Innkeeper's bar|Waitress|
 |Harmentz|The house below the armorer's shop|Young Mother|
@@ -109,7 +109,7 @@ The Heroes of Seinegald are known as the "Seven Generals." You will encounter ru
 
 There is a vending machine on the second floor of the Darilsheid Inn that offers capsule toys for 200 Gald. Some of the available toys are rare, so if you have a few Gald to spare, you should try your luck! The following table shows the items that are available and the probability of obtaining them. 
 
-|Item            |Probability|
+|![](https://img.shields.io/badge/-Item-informational?style=for-the-badge&color=lightgrey)|![](https://img.shields.io/badge/-Probability-informational?style=for-the-badge&color=lightgrey)|
 |----------------|-----------|
 |Apple Gel       |30%        |
 |Oberol C        |20%        |
