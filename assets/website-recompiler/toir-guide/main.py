@@ -24,9 +24,10 @@ if __name__ == "__main__":
 
 {english_main_text}
 
-{excel_table}
-
+![](toir-guide/sub{sub}_1.png)  
 {english_image_text}
+
+{excel_table}
 """
 
     # 1 - LOAD DATA + MAP COLUMN NAMES TO VARIABLE NAMES (in the template) 

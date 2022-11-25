@@ -33,8 +33,8 @@ span.emoji{
     font-size:1.2em
 }
 .progress{
-    background-color:#ea6f5a;
-    background-color:var(--theme-color,#ea6f5a);
+    background-color:#2e93f8;
+    background-color:var(--theme-color,#2e93f8);
     height:2px;
     left:0;
     position:fixed;
@@ -45,8 +45,8 @@ span.emoji{
     z-index:999999
 }
 .search .search-keyword,.search a:hover{
-    color:#ea6f5a;
-    color:var(--theme-color,#ea6f5a)
+    color:#2e93f8;
+    color:var(--theme-color,#2e93f8)
 }
 .search .search-keyword{
     font-style:normal;
@@ -58,7 +58,7 @@ body,html{
 body{
     -moz-osx-font-smoothing:grayscale;
     -webkit-font-smoothing:antialiased;
-    color:#c8c8c8;
+    color:#CDD9e5;
     font-family:Source Sans Pro,Helvetica Neue,Arial,sans-serif;
     font-size:15px;
     letter-spacing:0;
@@ -115,12 +115,12 @@ li input[type=checkbox]{
     transition:color .3s
 }
 .app-nav a.active,.app-nav a:hover{
-    color:#ea6f5a;
-    color:var(--theme-color,#ea6f5a)
+    color:#2e93f8;
+    color:var(--theme-color,#2e93f8)
 }
 .app-nav a.active{
-    border-bottom:2px solid #ea6f5a;
-    border-bottom:2px solid var(--theme-color,#ea6f5a)
+    border-bottom:2px solid #2e93f8;
+    border-bottom:2px solid var(--theme-color,#2e93f8)
 }
 .app-nav li{
     display:inline-block;
@@ -176,9 +176,9 @@ li input[type=checkbox]{
     animation:octocat-wave .56s ease-in-out
 }
 .github-corner svg{
-    color:#3f3f3f;
-    fill:#ea6f5a;
-    fill:var(--theme-color,#ea6f5a);
+    color:#22272e;
+    fill:#2e93f8;
+    fill:var(--theme-color,#2e93f8);
     height:80px;
     width:80px
 }
@@ -198,7 +198,7 @@ main.hidden{
     transition:all .3s
 }
 .anchor span{
-    color:#c8c8c8
+    color:#CDD9e5
 }
 .anchor:hover{
     text-decoration:underline
@@ -286,8 +286,8 @@ main.hidden{
     opacity:.4
 }
 .sidebar-toggle span{
-    background-color:#ea6f5a;
-    background-color:var(--theme-color,#ea6f5a);
+    background-color:#2e93f8;
+    background-color:var(--theme-color,#2e93f8);
     display:block;
     margin-bottom:4px;
     width:16px;
@@ -360,7 +360,7 @@ body.sticky .sidebar,body.sticky .sidebar-toggle{
 .markdown-section p.tip:before{
     background-color:#f66;
     border-radius:100%;
-    color:#3f3f3f;
+    color:#22272e;
     content:"!";
     font-family:Dosis,Source Sans Pro,Helvetica Neue,Arial,sans-serif;
     font-size:14px;
@@ -377,7 +377,7 @@ body.sticky .sidebar,body.sticky .sidebar-toggle{
     background-color:#efefef
 }
 .markdown-section p.tip em{
-    color:#c8c8c8
+    color:#CDD9e5
 }
 .markdown-section p.warn{
     background:rgba(234,111,90,.1);
@@ -482,7 +482,7 @@ section.cover.show{
     display:flex
 }
 section.cover.has-mask .mask{
-    background-color:#3f3f3f;
+    background-color:#22272e;
     opacity:.8;
     position:absolute;
     top:0;
@@ -534,11 +534,11 @@ section.cover ul{
 }
 section.cover .cover-main>p:last-child a{
     border-radius:2rem;
-    border:1px solid #ea6f5a;
-    border-color:var(--theme-color,#ea6f5a);
+    border:1px solid #2e93f8;
+    border-color:var(--theme-color,#2e93f8);
     box-sizing:border-box;
-    color:#ea6f5a;
-    color:var(--theme-color,#ea6f5a);
+    color:#2e93f8;
+    color:var(--theme-color,#2e93f8);
     display:inline-block;
     font-size:1.05rem;
     letter-spacing:.1rem;
@@ -548,8 +548,8 @@ section.cover .cover-main>p:last-child a{
     transition:all .15s ease
 }
 section.cover .cover-main>p:last-child a:last-child{
-    background-color:#ea6f5a;
-    background-color:var(--theme-color,#ea6f5a);
+    background-color:#2e93f8;
+    background-color:var(--theme-color,#2e93f8);
     color:#fff
 }
 section.cover .cover-main>p:last-child a:last-child:hover{
@@ -560,25 +560,25 @@ section.cover .cover-main>p:last-child a:hover{
     color:inherit
 }
 section.cover blockquote>p>a{
-    border-bottom:2px solid #ea6f5a;
-    border-bottom:2px solid var(--theme-color,#ea6f5a);
+    border-bottom:2px solid #2e93f8;
+    border-bottom:2px solid var(--theme-color,#2e93f8);
     transition:color .3s
 }
 section.cover blockquote>p>a:hover{
-    color:#ea6f5a;
-    color:var(--theme-color,#ea6f5a)
+    color:#2e93f8;
+    color:var(--theme-color,#2e93f8)
 }
 .sidebar,body{
-    background-color:#3f3f3f
+    background-color:#22272e
 }
 .sidebar{
-    color:#c8c8c8
+    color:#CDD9e5
 }
 .sidebar li{
     margin:6px 15px 6px 0
 }
 .sidebar ul li a{
-    color:#c8c8c8;
+    color:#CDD9e5;
     font-size:14px;
     overflow:hidden;
     text-decoration:none;
@@ -592,8 +592,8 @@ section.cover blockquote>p>a:hover{
     padding:0
 }
 .sidebar ul li.active>a{
-    color:#ea6f5a;
-    color:var(--theme-color,#ea6f5a);
+    color:#2e93f8;
+    color:var(--theme-color,#2e93f8);
     font-weight:600
 }
 .markdown-section h1,.markdown-section h2,.markdown-section h3,.markdown-section h4,.markdown-section strong{
@@ -601,8 +601,8 @@ section.cover blockquote>p>a:hover{
     font-weight:600
 }
 .markdown-section a{
-    color:#ea6f5a;
-    color:var(--theme-color,#ea6f5a);
+    color:#2e93f8;
+    color:var(--theme-color,#2e93f8);
     font-weight:600
 }
 .markdown-section h1{
@@ -638,8 +638,8 @@ section.cover blockquote>p>a:hover{
     padding-left:1.5rem
 }
 .markdown-section blockquote{
-    border-left:4px solid #ea6f5a;
-    border-left:4px solid var(--theme-color,#ea6f5a);
+    border-left:4px solid #2e93f8;
+    border-left:4px solid var(--theme-color,#2e93f8);
     color:#858585;
     margin:2em 0;
     padding-left:20px
@@ -697,8 +697,8 @@ section.cover blockquote>p>a:hover{
     color:#2973b7
 }
 .token.string{
-    color:#ea6f5a;
-    color:var(--theme-color,#ea6f5a)
+    color:#2e93f8;
+    color:var(--theme-color,#2e93f8)
 }
 .token.selector{
     color:#6679cc
@@ -710,8 +710,8 @@ section.cover blockquote>p>a:hover{
     color:#22a2c9
 }
 .token.attr-value,.token.control,.token.directive,.token.unit{
-    color:#ea6f5a;
-    color:var(--theme-color,#ea6f5a)
+    color:#2e93f8;
+    color:var(--theme-color,#2e93f8)
 }
 .token.keyword{
     color:#e96900
@@ -787,5 +787,5 @@ pre:after{
 input[type=search]{
     background:#4f4f4f;
     border-color:#4f4f4f;
-    color:#c8c8c8
+    color:#CDD9e5
 }
