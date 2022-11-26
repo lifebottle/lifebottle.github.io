@@ -3,8 +3,8 @@ import os
  
 print("Shrink images in the folder")
 folder = r"..\..\projects\destiny-dc\leon-guide"
-w = int('640')
-h = int('480')
+w = int('320')
+h = int('240')
 for i in os.listdir(folder):
     file = f"{folder}\\{i}"
     im = Image.open(file)
