@@ -22,7 +22,7 @@ There is a vending machine on the second floor of the Darilsheid Inn that offers
 |Life bottle     |4%         |
 |Peach Gel       |3%         |
 
-![](leon-guide/sub_leon001_1.png)  
+![](leon-guide/sub001_1.png)  
 
 
 ---
@@ -48,7 +48,7 @@ The Heroes of Seinegald are known as the "Seven Generals." You will encounter ru
 |Darilshield|Harbor|Meat Merchant|
 |Armeida|The islet at the lower right of the village|Kid|
 
-![](leon-guide/sub_leon002_1.png)  
+![](leon-guide/sub002_1.png)  
 ▲ That's Darilsheid tax money at work.
 
 ---
@@ -66,7 +66,7 @@ Like the "Small Family" event mentioned above, this event also has multiple part
 
 
 
-![](leon-guide/sub_leon003_1.png)  
+![](leon-guide/sub003_1.png)  
 ▲ He's not the man Rutee needs, of course, so he got easily rejected.
 
 ---
@@ -84,7 +84,7 @@ This event occurs when you encounter a man who seems to know Stahn in from of th
 
 
 
-![](leon-guide/sub_leon004_1.png)  
+![](leon-guide/sub004_1.png)  
 
 
 ---
@@ -102,7 +102,7 @@ In the plaza just after passing under Seingald Castle's gate, talk to the soldie
 
 
 
-![](leon-guide/sub_leon005_1.png)  
+![](leon-guide/sub005_1.png)  
 ▲ The [Greedy Witch] title is necessary to trigger Marian's Event [Side-Quest 097](projects/destiny-dc/stahn-guide?id=Side-Quest-097-Marian). 
 
 ---
@@ -120,7 +120,7 @@ Between the period listed above, a Side-Quest will occur after heading to Reynol
 
 
 
-![](leon-guide/sub_leon006_1.png)  
+![](leon-guide/sub006_1.png)  
 
 
 ---
@@ -138,7 +138,7 @@ This event occurs when you visit Hugo's mansion in Darilsheid and recieve the sw
 
 
 
-![](leon-guide/sub_leon007_1.png)  
+![](leon-guide/sub007_1.png)  
 ▲ You will need the [Breaker] title for the "Fayte" event [Side-Quest 081](projects/destiny-dc/stahn-guide?id=Side-Quest-081-Fayte).
 
 ---
@@ -156,7 +156,7 @@ This event only appears for a short time, so it's best to complete it PRIOR TO h
 
 
 
-![](leon-guide/sub_leon008_1.png)  
+![](leon-guide/sub008_1.png)  
 
 
 ---
@@ -174,7 +174,7 @@ This event is available during the above period and occurs when you enter the tw
 
 
 
-![](leon-guide/sub_leon009_1.png)  
+![](leon-guide/sub009_1.png)  
 ▲ You can get the conclusion to this event in "Draconis Crewman's Family 2" [Side-Quest 124](projects/destiny-dc/stahn-guide?id=Side-Quest-124-Draconis-Crewman's-Family-2). 
 
 ---
@@ -192,7 +192,7 @@ This is a five part event and where each one is mandatory for the next one. The 
 
 
 
-![](leon-guide/sub_leon010_1.png)  
+![](leon-guide/sub010_1.png)  
 ▲ You can even witness the moment when the young birds leave their nests.
 
 ---
@@ -210,7 +210,7 @@ This event occurs when you talk to the man in front of the inn in Janos. He tell
 
 
 
-![](leon-guide/sub_leon011_1.png)  
+![](leon-guide/sub011_1.png)  
 
 
 ---
@@ -228,7 +228,7 @@ The "Dark Wings," whom you met in Janos, appear before Stahn and others once aga
 
 
 
-![](leon-guide/sub_leon012_1.png)  
+![](leon-guide/sub012_1.png)  
 
 
 ---
@@ -246,7 +246,7 @@ Upon entering the grocery store in Armeida, Mary is informed that due to the laz
 
 
 
-![](leon-guide/sub_leon013_1.png)  
+![](leon-guide/sub013_1.png)  
 ▲ After the first conversation, go out of the shop and re enter to trigger the second part.
 
 ---
@@ -264,7 +264,7 @@ Visiting the plaza in Armedia during this you will encounter one the Seven Gener
 
 
 
-![](leon-guide/sub_leon014_1.png)  
+![](leon-guide/sub014_1.png)  
 ▲ The period to do this sidequest is really short so make sure to stop after clearing the Straylize Temple
 
 ---
@@ -282,7 +282,7 @@ Junkland doesn't need to visited until towards the end of the story in case you 
 
 
 
-![](leon-guide/sub_leon015_1.png)  
+![](leon-guide/sub015_1.png)  
 ▲ The best time to trigger this event is to go directly after leaving Cherik and before entering Calviola.
 
 ---
@@ -300,7 +300,7 @@ To trigger this event, speak with a young boy with green hair near a large pool 
 
 
 
-![](leon-guide/sub_leon016_1.png)  
+![](leon-guide/sub016_1.png)  
 ▲ Toshu doesn't suspect the Dark Wings real identity. The second event will reveal what happened after that [Side-Quest 075](projects/destiny-dc/stahn-guide?id=Side-Quest-075-Yearning-to-join-the-Dark-Wings-2).
 
 ---
@@ -318,7 +318,7 @@ This event occurs when speaking with Elena, who is in a house to the left of the
 
 
 
-![](leon-guide/sub_leon017_1.png)  
+![](leon-guide/sub017_1.png)  
 ▲ Completing "Bird in a Cage?" [Side-Quest 077](projects/destiny-dc/stahn-guide?id=Side-Quest-077-Bird-in-a-Cage?) is mandatory to trigger this chains of events.
 
 ---
@@ -336,7 +336,7 @@ This even occurs if you try to leave Calviola through the northern exit with len
 
 
 
-![](leon-guide/sub_leon018_1.png)  
+![](leon-guide/sub018_1.png)  
 ▲ The party learns from a bystander that the kid is from Junkland
 
 ---
@@ -354,7 +354,7 @@ Visit the square close to where the Baruk Foundation(?) is located in Cherik to 
 
 
 
-![](leon-guide/sub_leon019_1.png)  
+![](leon-guide/sub019_1.png)  
 
 
 ---
@@ -372,7 +372,7 @@ Talking to the girl on the bridge connected to the Oberon Lens shop in Neustadt.
 
 
 
-![](leon-guide/sub_leon020_1.png)  
+![](leon-guide/sub020_1.png)  
 ▲ Rutee asks the troubled girl for her honest thoughts and feelings.
 
 ---
@@ -390,7 +390,7 @@ This event occurs when you speak with the woman who is standing infront of the N
 
 
 
-![](leon-guide/sub_leon021_1.png)  
+![](leon-guide/sub021_1.png)  
 
 
 ---
@@ -408,7 +408,7 @@ This event occurs when you speak with a young boy sitting on a bench in front of
 
 
 
-![](leon-guide/sub_leon022_1.png)  
+![](leon-guide/sub022_1.png)  
 ▲ The boy discovers Leon's hidden taste for sweets.
 
 ---
@@ -426,7 +426,7 @@ You can trigger this event by speaking to the lost child near Ilene's house in N
 
 
 
-![](leon-guide/sub_leon023_1.png)  
+![](leon-guide/sub023_1.png)  
 ▲ Unfortunately Rutee's scheme didn't pay out and the mother left without even saying thanks.
 
 ---
@@ -444,7 +444,7 @@ Trigger this even by talking to the boy near the fountain in Neustadt. Upon sele
 
 
 
-![](leon-guide/sub_leon024_1.png)  
+![](leon-guide/sub024_1.png)  
 ▲ The title obtained is a required for "Fake Swordian" [Side-Quest 138](projects/destiny-dc/stahn-guide?id=Side-Quest-138-Fake-Swordian)
 
 ---
@@ -462,7 +462,7 @@ Make sure to be checking the maximum number of hits displayed when you review th
 
 
 
-![](leon-guide/sub_leon025_1.png)  
+![](leon-guide/sub025_1.png)  
 
 
 ---
@@ -480,7 +480,7 @@ Make sure to be checking the maximum number of hits displayed when you review th
 
 
 
-![](leon-guide/sub_leon026_1.png)  
+![](leon-guide/sub026_1.png)  
 
 
 ---
@@ -498,7 +498,7 @@ Occurs when you talk to Lienea's food shop during the period. You will see a fun
 
 
 
-![](leon-guide/sub_leon027 _1.png)  
+![](leon-guide/sub027 _1.png)  
 
 
 ---
@@ -520,7 +520,7 @@ After you have cleared the pirate ship, speak with the sailor to the north (?) o
 |Rank 2: within 5 minutes|[Clear Lens] x50|
 |Rank 3: more than 5 minutes|[Rough Lens] x 100|
 
-![](leon-guide/sub_leon028_1.png)  
+![](leon-guide/sub028_1.png)  
 ▲ The requirements for obtaining the rewards are listed below.
 
 ---
@@ -538,7 +538,7 @@ This event takes place when you enter the hospital(?) on the left side of the ar
 
 
 
-![](leon-guide/sub_leon029_1.png)  
+![](leon-guide/sub029_1.png)  
 ▲ This event is only accessible after the pirate ship and before Kongman leave the party at the port. 
 
 ---
@@ -556,7 +556,7 @@ This event is triggered by speaking with the same girl on the bridge for [Siblin
 
 
 
-![](leon-guide/sub_leon030_1.png)  
+![](leon-guide/sub030_1.png)  
 ▲ Even though she had been struggling with the fact that they were not her true siblings, the unprecedented incident seems to have opened her eyes.
 
 ---
@@ -574,7 +574,7 @@ This event occurs when you speak with a child crying on a bridge in Shiden. This
 
 
 
-![](leon-guide/sub_leon031_1.png)  
+![](leon-guide/sub031_1.png)  
 ▲ The kid's attitude is unbearable for Leon since he had a tough upbringing 
 
 ---
@@ -592,7 +592,7 @@ Speak with the girl in front of the Shiden Family mansion and she will complimen
 
 
 
-![](leon-guide/sub_leon032_1.png)  
+![](leon-guide/sub032_1.png)  
 ▲ The title [Neat Sister] is mendatory to trigger the event "Sealed Man" [Side-Quest 108](projects/destiny-dc/stahn-guide?id=Side-Quest-108-Sealed-Man) 
 
 ---
@@ -610,7 +610,7 @@ The Dark Wings are back again. This time, they appear in front of the Shiden Fam
 
 
 
-![](leon-guide/sub_leon033_1.png)  
+![](leon-guide/sub033_1.png)  
 
 
 ---
@@ -628,7 +628,7 @@ This event occurs when you go to the bridge at Shiden Port. Johnny is defending 
 
 
 
-![](leon-guide/sub_leon034_1.png)  
+![](leon-guide/sub034_1.png)  
 
 
 ---
@@ -646,7 +646,7 @@ After clearing Moreau Castle, take a small boat to Johnny's hideout. You will se
 
 
 
-![](leon-guide/sub_leon035_1.png)  
+![](leon-guide/sub035_1.png)  
 
 
 ---
@@ -664,7 +664,7 @@ This event is triggered when you speak with the man on the roof of the undergrou
 
 
 
-![](leon-guide/sub_leon036_1.png)  
+![](leon-guide/sub036_1.png)  
 
 
 ---
@@ -682,7 +682,7 @@ Speaking with Arthur Shiden while Johnny has [Shiden's Youngest] title to trigge
 
 
 
-![](leon-guide/sub_leon037_1.png)  
+![](leon-guide/sub037_1.png)  
 
 
 ---
@@ -700,7 +700,7 @@ Approach the Dark Wings in Frostheim to see additional antics. They claim to be 
 
 
 
-![](leon-guide/sub_leon038_1.png)  
+![](leon-guide/sub038_1.png)  
 
 
 ---
@@ -718,7 +718,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](leon-guide/sub_leon039_1.png)  
+![](leon-guide/sub039_1.png)  
 
 
 ---
@@ -736,7 +736,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](leon-guide/sub_leon040_1.png)  
+![](leon-guide/sub040_1.png)  
 
 
 ---
@@ -754,7 +754,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](leon-guide/sub_leon041_1.png)  
+![](leon-guide/sub041_1.png)  
 
 
 ---
@@ -772,7 +772,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](leon-guide/sub_leon042_1.png)  
+![](leon-guide/sub042_1.png)  
 
 
 ---
@@ -790,7 +790,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](leon-guide/sub_leon043_1.png)  
+![](leon-guide/sub043_1.png)  
 
 
 ---
@@ -808,7 +808,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](leon-guide/sub_leon044_1.png)  
+![](leon-guide/sub044_1.png)  
 
 
 ---
@@ -826,7 +826,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](leon-guide/sub_leon045_1.png)  
+![](leon-guide/sub045_1.png)  
 
 
 ---
@@ -844,7 +844,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](leon-guide/sub_leon046_1.png)  
+![](leon-guide/sub046_1.png)  
 
 
 ---
@@ -862,7 +862,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](leon-guide/sub_leon047_1.png)  
+![](leon-guide/sub047_1.png)  
 
 
 ---
@@ -880,7 +880,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](leon-guide/sub_leon048_1.png)  
+![](leon-guide/sub048_1.png)  
 
 
 ---
@@ -898,7 +898,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](leon-guide/sub_leon049_1.png)  
+![](leon-guide/sub049_1.png)  
 
 
 ---
@@ -916,7 +916,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](leon-guide/sub_leon050_1.png)  
+![](leon-guide/sub050_1.png)  
 
 
 ---
@@ -934,7 +934,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](leon-guide/sub_leon051_1.png)  
+![](leon-guide/sub051_1.png)  
 
 
 ---
@@ -952,7 +952,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](leon-guide/sub_leon052_1.png)  
+![](leon-guide/sub052_1.png)  
 
 
 ---
@@ -970,7 +970,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](leon-guide/sub_leon053_1.png)  
+![](leon-guide/sub053_1.png)  
 
 
 ---
@@ -988,7 +988,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 
-![](leon-guide/sub_leon054_1.png)  
+![](leon-guide/sub054_1.png)  
 
 
 ---
@@ -1006,7 +1006,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 excel table
 
-![](leon-guide/sub_leon055_1.png)  
+![](leon-guide/sub055_1.png)  
 
 
 ---
@@ -1024,7 +1024,7 @@ excel table
 
 excel table
 
-![](leon-guide/sub_leon056_1.png)  
+![](leon-guide/sub056_1.png)  
 
 
 ---
@@ -1042,5 +1042,5 @@ excel table
 
 
 
-![](leon-guide/sub_leon057_1.png)  
+![](leon-guide/sub057_1.png)  
 

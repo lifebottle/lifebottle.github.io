@@ -26,7 +26,7 @@ if __name__ == "__main__":
 
 {excel_table}
 
-![](leon-guide/sub_leon{sub_leon}_1.png)  
+![](leon-guide/sub{sub_leon}_1.png)  
 {english_image_text}
 """
 
