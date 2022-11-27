@@ -53,7 +53,17 @@ xdelta3 -e -s original.iso patched.iso patch.xdelta
 The `-e` is to compress, `-s` is the source.
 
 ## Mac
-Use the command line to download xdelta3.
+Use the command line to download xdelta3.  Alternatively, try the [python-xdelta3ui](https://github.com/pnvnd/python-xdelta3ui) (beta) script.
+
+### Creating and Applying xDelta3 Patch (Mac)
+
+```zsh
+brew install xdelta
+git clone https://github.com/pnvnd/python-xdelta3ui.git
+python3 xdelta3ui.py
+```
+
+![](https://raw.githubusercontent.com/pnvnd/python-xdelta3ui/main/xdelta3ui_03.png)
 
 ## Android
 Use online patching service.
