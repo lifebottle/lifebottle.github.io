@@ -4,6 +4,9 @@
 Use xDelta GUI.  Alternatively, try the [python-xdelta3ui](https://github.com/pnvnd/python-xdelta3ui) (beta).
 
 ### Applying xDelta3 Patch (Windows)
+
+[![Alt text](https://img.youtube.com/vi/Kx5pPlKWjQE/0.jpg)](https://www.youtube.com/watch?v=Kx5pPlKWjQE)
+
 1. Get xdeltaUI from https://www.romhacking.net/utilities/598/
 1. Open xdeltaUI.exe
 1. Select original ISO file
