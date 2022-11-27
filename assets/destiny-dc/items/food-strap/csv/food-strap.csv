@@ -1,0 +1,899 @@
+"Japanese","English"
+"//Text $1BA218
+#WRITE(ptr,$191D98)
+[Sign_3]おにぎり[END]
+","//Text $1BA218
+#WRITE(ptr,$191D98)
+[Sign_3]Rice Balls[END]
+"
+"//Text $1BA1C8
+#WRITE(ptr,$191D9C)
+おにぎりが出るストラップ。[LINE]
+愛情を込めて丁寧に握りました。[LINE]
+旅のお供に最適。[END]
+","//Text $1BA1C8
+#WRITE(ptr,$191D9C)
+Strap with some Rice Balls.[LINE]
+Carefully molded with love.[LINE]
+One's best traveling companion.[END]"
+"//Text $1BA180
+#WRITE(ptr,$191DC8)
+[Sign_3]サンドイッチ[END]
+","//Text $1BA180
+#WRITE(ptr,$191DC8)
+[Sign_3]Sandwich[END]
+"
+"//Text $1BA120
+#WRITE(ptr,$191DCC)
+サンドイッチが出るストラップ。[LINE]
+野菜とハムをサンドしたもの。[LINE]
+どこでも手軽に食べられます。[END]
+","//Text $1BA120
+#WRITE(ptr,$191DCC)
+Strap with a vegetable and ham[LINE]
+sandwich. Can be easily eaten[LINE]
+anywhere.[END]
+"
+"//Text $1BA0C8
+#WRITE(ptr,$191DF8)
+[Sign_3]ハンバーガー[END]
+","//Text $1BA0C8
+#WRITE(ptr,$191DF8)
+[Sign_3]Hamburger[END]
+"
+"//Text $1BA068
+#WRITE(ptr,$191DFC)
+ハンバーガーが出るストラップ。[LINE]
+ジューシーなハンバーグをパンで[LINE]
+挟みました。ボリューム満点！[END]
+","//Text $1BA068
+#WRITE(ptr,$191DFC)
+Strap with a Hamburger. A juicy[LINE]
+beef patty between two buns...[LINE]
+Very filling![END]
+"
+"//Text $1BA020
+#WRITE(ptr,$191E28)
+[Sign_3]ホットドッグ[END]
+","//Text $1BA020
+#WRITE(ptr,$191E28)
+[Sign_3]Hotdog[END]
+"
+"//Text $1B9FC0
+#WRITE(ptr,$191E2C)
+ホットドッグが出るストラップ。[LINE]
+細長いパンに切れ目を入れ、温めた[LINE]
+ソーセージをはさんだもの。[END]
+","//Text $1B9FC0
+#WRITE(ptr,$191E2C)
+Strap with a Hotdog. Hot sausage[LINE]
+in a lengthwise-cut long bun.[LINE]
+[END]
+"
+"//Text $1B9F88
+#WRITE(ptr,$191E58)
+[Sign_3]ブリトー[END]
+","//Text $1B9F88
+#WRITE(ptr,$191E58)
+[Sign_3]Burrito[END]
+"
+"//Text $1B9F30
+#WRITE(ptr,$191E5C)
+ブリトーが出るストラップ。[LINE]
+ライス・肉・豆・野菜などの具を[LINE]
+トルティーヤで巻いたもの。[END]
+","//Text $1B9F30
+#WRITE(ptr,$191E5C)
+Strap with a Burrito. Rice, meat,[LINE]
+beans, and vegetables wrapped[LINE]
+in a tortilla.[END]
+"
+"//Text $1B9EF8
+#WRITE(ptr,$191E88)
+[Sign_3]ケバブ[END]
+","//Text $1B9EF8
+#WRITE(ptr,$191E88)
+[Sign_3]Kebab[END]
+"
+"//Text $1B9EA0
+#WRITE(ptr,$191E8C)
+ケバブが出るストラップ。[LINE]
+串に刺した肉をゆっくりと回しなが[LINE]
+らじっくり焼き上げたもの。[END]
+","//Text $1B9EA0
+#WRITE(ptr,$191E8C)
+Strap with a Kebab. Slowly and[LINE]
+carefully roasted skewered[LINE]
+meat.[END]
+"
+"//Text $1B9E68
+#WRITE(ptr,$191EB8)
+[Sign_3]いなり寿司[END]
+","//Text $1B9E68
+#WRITE(ptr,$191EB8)
+[Sign_3]Inarizushi[END]
+"
+"//Text $1B9E10
+#WRITE(ptr,$191EBC)
+いなり寿司が出るストラップ。[LINE]
+甘く煮た油揚げの中にすし飯を詰め[LINE]
+たもの。お子様にも人気。[END]
+","//Text $1B9E10
+#WRITE(ptr,$191EBC)
+Strap with an Inarizushi. Sushi with[LINE]
+sweet boiled, deep-fried, vinegared[LINE]
+tofu. Popular with children.[END]
+"
+"//Text $1B9DD8
+#WRITE(ptr,$191EE8)
+[Sign_3]一夜漬け[END]
+","//Text $1B9DD8
+#WRITE(ptr,$191EE8)
+[Sign_3]Pickled Vegetables[END]
+"
+"//Text $1B9D90
+#WRITE(ptr,$191EEC)
+一夜漬けが出るストラップ。[LINE]
+一夜で漬けた漬物。[LINE]
+あっさりして食べやすい。[END]
+","//Text $1B9D90
+#WRITE(ptr,$191EEC)
+Strap with a Pickled Vegetables.[LINE]
+Vegetables pickled overnight.[LINE]
+Easy to eat.[END]
+"
+"//Text $1B9D58
+#WRITE(ptr,$191F18)
+[Sign_3]お茶漬け[END]
+","//Text $1B9D58
+#WRITE(ptr,$191F18)
+[Sign_3]Ochazuke[END]
+"
+"//Text $1B9CF8
+#WRITE(ptr,$191F1C)
+お茶漬けが出るストラップ。[LINE]
+ご飯に薄味のだし汁をかけて食べる[LINE]
+もの。さらさらっとかっ込めます。[END]
+","//Text $1B9CF8
+#WRITE(ptr,$191F1C)
+Strap with an Ochazuke. Rice with[LINE]
+flavored tea-based broth. Gulped[LINE]
+down with a slurping sound.[END]
+"
+"//Text $1B9CC0
+#WRITE(ptr,$191F48)
+[Sign_3]チャーハン[END]
+","//Text $1B9CC0
+#WRITE(ptr,$191F48)
+[Sign_3]Fried Rice[END]
+"
+"//Text $1B9C60
+#WRITE(ptr,$191F4C)
+チャーハンが出るストラップ。[LINE]
+肉や野菜・卵などをまぜて油で炒め[LINE]
+味をつけた焼き飯。単品でも満足。[END]
+","//Text $1B9C60
+#WRITE(ptr,$191F4C)
+Strap with Fried Rice. Rice fried[LINE]
+in oil with meat and vegetables.[LINE]
+Simple but filling.[END]
+"
+"//Text $1B9C20
+#WRITE(ptr,$191F78)
+[Sign_3]オムライス[END]
+","//Text $1B9C20
+#WRITE(ptr,$191F78)
+[Sign_3]Omelette Rice[END]
+"
+"//Text $1B9BC0
+#WRITE(ptr,$191F7C)
+オムライスが出るストラップ。[LINE]
+ケチャップご飯にトロトロ卵を被せ[LINE]
+たもの。子供たちの大好物。[END]
+","//Text $1B9BC0
+#WRITE(ptr,$191F7C)
+Strap with Omelette Rice. Ketchuppy[LINE]
+Rice folded in an Omelette. A favorite[LINE]
+of children.[END]
+"
+"//Text $1B9B78
+#WRITE(ptr,$191FA8)
+[Sign_3]カレーライス[END]
+","//Text $1B9B78
+#WRITE(ptr,$191FA8)
+[Sign_3]Curry Rice[END]
+"
+"//Text $1B9B18
+#WRITE(ptr,$191FAC)
+カレーライスが出るストラップ。[LINE]
+リンゴとハチミツ入り。甘くて少し[LINE]
+スパイシー。家庭の味です。[END]
+","//Text $1B9B18
+#WRITE(ptr,$191FAC)
+Strap with Curry Rice. Made with[LINE]
+apple and honey. Sweet but slightly[LINE]
+spicy. Tastes like home.[END]
+"
+"//Text $1B9AE0
+#WRITE(ptr,$191FD8)
+[Sign_3]オムハヤシ[END]
+","//Text $1B9AE0
+#WRITE(ptr,$191FD8)
+[Sign_3]Omelette[END]
+"
+"//Text $1B9A78
+#WRITE(ptr,$191FDC)
+オムハヤシが出るストラップ。[LINE]
+オムライスとハヤシライスの合体！[LINE]
+ボリュームタップリで贅沢な味です。[END]
+","//Text $1B9A78
+#WRITE(ptr,$191FDC)
+Strap with Minced Meat Omelette. A fusion[LINE]
+between Minced Meat Rice and Omelette[LINE]
+Rice. Voluminous and extravagant in taste.[END]
+"
+"//Text $1B9A40
+#WRITE(ptr,$192008)
+[Sign_3]パエリア[END]
+","//Text $1B9A40
+#WRITE(ptr,$192008)
+[Sign_3]Paella[END]
+"
+"//Text $1B99E0
+#WRITE(ptr,$19200C)
+パエリアが出るストラップ。[LINE]
+米に肉や魚介類を入れ、オリーブ油[LINE]
+とサフランを加えて煮込んだもの。[END]
+","//Text $1B99E0
+#WRITE(ptr,$19200C)
+Strap with a Paella. Contains rice,[LINE]
+meat, and seafood, stewed with[LINE]
+olive oil and saffron.[END]
+"
+"//Text $1B99A0
+#WRITE(ptr,$192038)
+[Sign_3]オリエンタルライス[END]
+","//Text $1B99A0
+#WRITE(ptr,$192038)
+[Sign_3]Oriental Rice[END]
+"
+"//Text $1B9948
+#WRITE(ptr,$19203C)
+オリエンタルライスが出るストラップ。[LINE]
+にらと豚バラ肉をご飯にのせ[LINE]
+たもの。スタミナ抜群！[END]
+","//Text $1B9948
+#WRITE(ptr,$19203C)
+Strap with Oriental Rice.[LINE]
+Rice with chives and pork[LINE]
+rib. Packed with stamina.[END]
+"
+"//Text $1B9908
+#WRITE(ptr,$192068)
+[Sign_3]マフィン[END]
+","//Text $1B9908
+#WRITE(ptr,$192068)
+[Sign_3]Muffin[END]
+"
+"//Text $1B98A8
+#WRITE(ptr,$19206C)
+マフィンが出るストラップ。[LINE]
+ふくらませた小さな丸い菓子パン。[LINE]
+生クリームをつけるのもお勧め。[END]
+","//Text $1B98A8
+#WRITE(ptr,$19206C)
+Strap with a Muffin. Small, round, and [LINE]
+puffy sweet pastry. The one stuffed with [LINE]
+fresh cream is recommended.[END]
+"
+"//Text $1B9870
+#WRITE(ptr,$192098)
+[Sign_3]キムチ[END]
+","//Text $1B9870
+#WRITE(ptr,$192098)
+[Sign_3]Kimchi[END]
+"
+"//Text $1B9820
+#WRITE(ptr,$19209C)
+キムチが出るストラップ。[LINE]
+辛いものが苦手な人は要注意。[LINE]
+匂いも味も刺激的。[END]
+","//Text $1B9820
+#WRITE(ptr,$19209C)
+Strap with Kimchi. Those who can't [LINE]
+handle spicy stuff be cautious. Has[LINE]
+a stimulating smell and taste.[END]
+"
+"//Text $1B97E0
+#WRITE(ptr,$1920C8)
+[Sign_3]肉まん[END]
+","//Text $1B97E0
+#WRITE(ptr,$1920C8)
+[Sign_3]Meat Bun[END]
+"
+"//Text $1B9788
+#WRITE(ptr,$1920CC)
+肉まんが出るストラップ。[LINE]
+一口食べれば口いっぱいに肉汁が！[LINE]
+寒い日は食べたくなる一品。[END]
+","//Text $1B9788
+#WRITE(ptr,$1920CC)
+Strap with a Meat Bun. Fills the mouth[LINE]
+with meat juices when bit into. The sort[LINE]
+of stuff one wants to eat on cold days.[END]
+"
+"//Text $1B9750
+#WRITE(ptr,$1920F8)
+[Sign_3]ロコモコ[END]
+","//Text $1B9750
+#WRITE(ptr,$1920F8)
+[Sign_3]Loco Moco[END]
+"
+"//Text $1B96F0
+#WRITE(ptr,$1920FC)
+ロコモコが出るストラップ。[LINE]
+ご飯の上にハンバーグと目玉焼き。[LINE]
+シンプルだけどめちゃうまい！[END]
+","//Text $1B96F0
+#WRITE(ptr,$1920FC)
+Strap with Loco Moco. Rice topped[LINE]
+with steak and a sunny-side up[LINE]
+egg. Simple, but delicious.[END]
+"
+"//Text $1B96B8
+#WRITE(ptr,$192128)
+[Sign_3]牛丼[END]
+","//Text $1B96B8
+#WRITE(ptr,$192128)
+[Sign_3]Beef Bowl[END]
+"
+"//Text $1B9660
+#WRITE(ptr,$19212C)
+牛丼が出るストラップ。[LINE]
+牛肉をネギなどと煮て、汁とともに[LINE]
+どんぶり飯に。忘れられない味。[END]
+","//Text $1B9660
+#WRITE(ptr,$19212C)
+Strap with a Beef Bowl. Rice bowl[LINE]
+topped with stewed meat and green[LINE]
+onions. Unforgettable taste.[END]
+"
+"//Text $1B9628
+#WRITE(ptr,$192158)
+[Sign_3]親子丼[END]
+","//Text $1B9628
+#WRITE(ptr,$192158)
+[Sign_3]Oyakodon[END]
+"
+"//Text $1B95D0
+#WRITE(ptr,$19215C)
+親子丼が出るストラップ。[LINE]
+甘く煮た鶏肉を卵でとじました。[LINE]
+白飯と一緒にお食べください。[END]
+","//Text $1B95D0
+#WRITE(ptr,$19215C)
+Strap with an Oyakodon. Rice topped[LINE]
+with stewed chicken and egg in a bowl.[LINE]
+Please eat it with rice.[END]
+"
+"//Text $1B9598
+#WRITE(ptr,$192188)
+[Sign_3]海鮮丼[END]
+","//Text $1B9598
+#WRITE(ptr,$192188)
+[Sign_3]Seafood Bowl[END]
+"
+"//Text $1B9538
+#WRITE(ptr,$19218C)
+海鮮丼が出るストラップ。[LINE]
+新鮮な魚介類をご飯の上へ。季節に[LINE]
+よって素材も変わる。贅沢な一品。[END]
+","//Text $1B9538
+#WRITE(ptr,$19218C)
+Strap with a Seafood Bowl. Rice topped[LINE]
+with fresh seafood. Its ingredients change[LINE]
+with the seasons. A luxurious dish.[END]
+"
+"//Text $1B94F8
+#WRITE(ptr,$1921B8)
+[Sign_3]クラムチャウダー[END]
+","//Text $1B94F8
+#WRITE(ptr,$1921B8)
+[Sign_3]Clam Chowder[END]
+"
+"//Text $1B9490
+#WRITE(ptr,$1921BC)
+クラムチャウダーが出るストラップ。[LINE]
+ハマグリとベーコン・野菜などを[LINE]
+煮込んだスープ。寒い日にどうぞ。[END]
+","//Text $1B9490
+#WRITE(ptr,$1921BC)
+Strap with Clam Chowder. Soup with[LINE]
+simmered clams, bacon, and various[LINE]
+vegetables. Wonderful on cold days.[END]
+"
+"//Text $1B9450
+#WRITE(ptr,$1921E8)
+[Sign_3]リゾット[END]
+","//Text $1B9450
+#WRITE(ptr,$1921E8)
+[Sign_3]Risotto[END]
+"
+"//Text $1B93F8
+#WRITE(ptr,$1921EC)
+リゾットが出るストラップ。[LINE]
+油で炒めた米に肉や魚、キノコで炒[LINE]
+めたスープを含ませたもの。[END]
+","//Text $1B93F8
+#WRITE(ptr,$1921EC)
+Strap with a Risotto. Rice, meat,[LINE]
+fish, and mushrooms stir-fried[LINE]
+in oil.[END]
+"
+"//Text $1B93B0
+#WRITE(ptr,$192218)
+[Sign_3]ビーフストロガノフ[END]
+","//Text $1B93B0
+#WRITE(ptr,$192218)
+[Sign_3]Beef Stroganoff[END]
+"
+"//Text $1B9348
+#WRITE(ptr,$19221C)
+ビーフストロガノフが出るストラップ。[LINE]
+牛肉をサワークリームのソースで煮[LINE]
+込んだもの。贅沢で上品なお味。[END]
+","//Text $1B9348
+#WRITE(ptr,$19221C)
+Strap with Beef Stroganoff. Beef[LINE]
+stewed in sour cream sauce. Has[LINE]
+an extravagant and luxurious flavor.[END]
+"
+"//Text $1B9300
+#WRITE(ptr,$192248)
+[Sign_3]ミートソース[END]
+","//Text $1B9300
+#WRITE(ptr,$192248)
+[Sign_3]Meat Sauce[END]
+"
+"//Text $1B92A8
+#WRITE(ptr,$19224C)
+ミートソースが出るストラップ。[LINE]
+タマネギとひき肉はたっぷりと。[LINE]
+ソースの跳ねに要注意。[END]
+","//Text $1B92A8
+#WRITE(ptr,$19224C)
+Strap with Meat Sauce. Packed[LINE]
+with onion and ground meant.[LINE]
+Beware of splashing.[END]
+"
+"//Text $1B9268
+#WRITE(ptr,$192278)
+[Sign_3]グラタン[END]
+","//Text $1B9268
+#WRITE(ptr,$192278)
+[Sign_3]Gratin[END]
+"
+"//Text $1B9208
+#WRITE(ptr,$19227C)
+グラタンが出るストラップ。[LINE]
+たっぷり具材にたっぷりチーズ。焦[LINE]
+げたチーズの香りは空腹を誘います。[END]
+","//Text $1B9208
+#WRITE(ptr,$19227C)
+Strap with Gratin. A plethora of ingredients[LINE]
+bathed in cheese. The smell of scorched[LINE]
+cheese wets one's appetite.[END]
+"
+"//Text $1B91D0
+#WRITE(ptr,$1922A8)
+[Sign_3]グラスパ[END]
+","//Text $1B91D0
+#WRITE(ptr,$1922A8)
+[Sign_3]Spaghetti Gratin[END]
+"
+"//Text $1B9178
+#WRITE(ptr,$1922AC)
+グラスパが出るストラップ。[LINE]
+グラタンとスパゲッティを同時に[LINE]
+楽しめる逸品！まずは一口。[END]
+","//Text $1B9178
+#WRITE(ptr,$1922AC)
+Strap with Spaghetti Gratin. Allows[LINE]
+one to enjoy Spaghetti and Gratin [LINE]
+at the same time. Give it a try.[END]
+"
+"//Text $1B9140
+#WRITE(ptr,$1922D8)
+[Sign_3]ハンバーグ[END]
+","//Text $1B9140
+#WRITE(ptr,$1922D8)
+[Sign_3]Hamburger Steak[END]
+"
+"//Text $1B90E0
+#WRITE(ptr,$1922DC)
+ハンバーグが出るストラップ。[LINE]
+つけ合わせは甘く煮たにんじんを。[LINE]
+よく捏ねるほど美味しくなります。[END]
+","//Text $1B90E0
+#WRITE(ptr,$1922DC)
+Strap with a Hamburger Steak.[LINE]
+Simmered with carrots. Well[LINE]
+kneaded to deliciousness.[END]
+"
+"//Text $1B9098
+#WRITE(ptr,$192308)
+[Sign_3]ステーキ[END]
+","//Text $1B9098
+#WRITE(ptr,$192308)
+[Sign_3]Steak[END]
+"
+"//Text $1B9040
+#WRITE(ptr,$19230C)
+ステーキが出るストラップ。[LINE]
+厚く切った肉をただ焼くだけ！[LINE]
+肉の素晴らしさが実感できます。[END]
+","//Text $1B9040
+#WRITE(ptr,$19230C)
+Strap with a Steak. Just a grilled[LINE]
+slab of meat. One can feel the[LINE]
+splendor of meat coming off it.[END]
+"
+"//Text $1B8FF8
+#WRITE(ptr,$192338)
+[Sign_3]お好み焼き[END]
+","//Text $1B8FF8
+#WRITE(ptr,$192338)
+[Sign_3]Okonomiyaki[END]
+"
+"//Text $1B8F98
+#WRITE(ptr,$19233C)
+お好み焼きが出るストラップ。[LINE]
+水で溶いた小麦粉にお好みの具を。[LINE]
+トッピングにかつお節と青ノリを。[END]
+","//Text $1B8F98
+#WRITE(ptr,$19233C)
+Strap with an Okonomiyaki. Fried batter[LINE]
+garnished to one's preferences. Top it[LINE]
+with Nori and and bonito slices.[END]
+"
+"//Text $1B8F60
+#WRITE(ptr,$192368)
+[Sign_3]すき焼き[END]
+","//Text $1B8F60
+#WRITE(ptr,$192368)
+[Sign_3]Sukiyaki[END]
+"
+"//Text $1B8F00
+#WRITE(ptr,$19236C)
+すき焼きが出るストラップ。[LINE]
+牛肉を鉄鍋で甘辛く焼いて煮たもの。[LINE]
+お米と一緒に食べても合います。[END]
+","//Text $1B8F00
+#WRITE(ptr,$19236C)
+Strap with Sukiyaki.Simmered[LINE]
+sweet-salty beef in an iron pot.[LINE]
+Also goes well with rice.[END]
+"
+"//Text $1B8EC8
+#WRITE(ptr,$192398)
+[Sign_3]お刺身[END]
+","//Text $1B8EC8
+#WRITE(ptr,$192398)
+[Sign_3]Sashimi[END]
+"
+"//Text $1B8E70
+#WRITE(ptr,$19239C)
+お刺身が出るストラップ。[LINE]
+新鮮な魚介類を薄く切ったもの。[LINE]
+プリプリとした身がたまらない。[END]
+","//Text $1B8E70
+#WRITE(ptr,$19239C)
+Strap with Sashimi. Fresh thinly[LINE]
+sliced seafood. Irresistibly tender.[LINE]
+[END]
+"
+"//Text $1B8E30
+#WRITE(ptr,$1923C8)
+[Sign_3]舟盛り[END]
+","//Text $1B8E30
+#WRITE(ptr,$1923C8)
+[Sign_3]Sushi Boat[END]
+"
+"//Text $1B8DD0
+#WRITE(ptr,$1923CC)
+舟盛りが出るストラップ。[LINE]
+新鮮な魚介類を伝統にのっとって[LINE]
+盛りつけました。まだ生きてます。[END]
+","//Text $1B8DD0
+#WRITE(ptr,$1923CC)
+Strap with a Sushi Boat.[LINE]
+Traditionally arranged fresh[LINE]
+seafood. Still alive.[END]
+"
+"//Text $1B8D90
+#WRITE(ptr,$1923F8)
+[Sign_3]フルーツパフェ[END]
+","//Text $1B8D90
+#WRITE(ptr,$1923F8)
+[Sign_3]Fruit Parfait[END]
+"
+"//Text $1B8D28
+#WRITE(ptr,$1923FC)
+フルーツパフェが出るストラップ。[LINE]
+色々なフルーツを生クリームや[LINE]
+アイスにトッピング。甘くてウマイ。[END]
+","//Text $1B8D28
+#WRITE(ptr,$1923FC)
+Strap with a Fruit Parfait. Topped[LINE]
+with fruits, cream, and ice cream.[LINE]
+Deliciously sweet.[END]
+"
+"//Text $1B8CE8
+#WRITE(ptr,$192428)
+[Sign_3]フルーツチーズ[END]
+","//Text $1B8CE8
+#WRITE(ptr,$192428)
+[Sign_3]Fruit Cheese[END]
+"
+"//Text $1B8C80
+#WRITE(ptr,$19242C)
+フルーツチーズが出るストラップ。[LINE]
+すり潰したフルーツと牛乳を混ぜて[LINE]
+チーズにする。おやつにピッタリ！[END]
+","//Text $1B8C80
+#WRITE(ptr,$19242C)
+Strap with Fruit Cheese. Cheese[LINE]
+mixed with milk and mashed fruit.[LINE]
+Perfect for a snack![END]
+"
+"//Text $1B8C38
+#WRITE(ptr,$192458)
+[Sign_3]フルーツとうふ[END]
+","//Text $1B8C38
+#WRITE(ptr,$192458)
+[Sign_3]Fruit Tofu[END]
+"
+"//Text $1B8BD8
+#WRITE(ptr,$19245C)
+フルーツとうふが出るストラップ。[LINE]
+とうふとフルーツを混ぜた、[LINE]
+なんともいえない食感の食べ物。[END]
+","//Text $1B8BD8
+#WRITE(ptr,$19245C)
+Strap with Fruit Tofu. A mix[LINE]
+of tofu with fruits. Has an [LINE]
+indescribable texture.[END]
+"
+"//Text $1B8BA0
+#WRITE(ptr,$192488)
+[Sign_3]肉鍋[END]
+","//Text $1B8BA0
+#WRITE(ptr,$192488)
+[Sign_3]Hot Pot[END]
+"
+"//Text $1B8B48
+#WRITE(ptr,$19248C)
+肉鍋が出るストラップ。[LINE]
+お肉がメインの鍋。肉の出汁が[LINE]
+たまりません。残りはうどんでも。[END]
+","//Text $1B8B48
+#WRITE(ptr,$19248C)
+Strap with a Hot Pot. Meat hot pot.[LINE]
+Filled with meat stock. Leftover[LINE]
+soup can be eaten with Udon.[END]
+"
+"//Text $1B8B10
+#WRITE(ptr,$1924B8)
+[Sign_3]魚鍋[END]
+","//Text $1B8B10
+#WRITE(ptr,$1924B8)
+[Sign_3]Fish Hot Pot[END]
+"
+"//Text $1B8AB8
+#WRITE(ptr,$1924BC)
+魚鍋が出るストラップ。[LINE]
+魚がメインの鍋。魚の出汁がたまり[LINE]
+ません。残りは雑炊にどうぞ。[END]
+","//Text $1B8AB8
+#WRITE(ptr,$1924BC)
+Strap with a Fish Hot Pot. Filled[LINE]
+with fish stock. Leftover soup can[LINE]
+be eaten with Rice.[END]
+"
+"//Text $1B8A78
+#WRITE(ptr,$1924E8)
+[Sign_3]まんぼうの串焼き[END]
+","//Text $1B8A78
+#WRITE(ptr,$1924E8)
+[Sign_3]Sunfish Skewers[END]
+"
+"//Text $1B8A30
+#WRITE(ptr,$1924EC)
+まんぼうの串焼きが出るストラップ。[LINE]
+美味しく食べる事が大事です。[LINE]
+[END]
+","//Text $1B8A30
+#WRITE(ptr,$1924EC)
+Strap with a Sunfish Skewer. Because[LINE]
+eating delicious stuff is important.[END]
+"
+"//Text $1B89F0
+#WRITE(ptr,$192518)
+[Sign_3]みそおでん[END]
+","//Text $1B89F0
+#WRITE(ptr,$192518)
+[Sign_3]Miso Oden[END]
+"
+"//Text $1B8988
+#WRITE(ptr,$19251C)
+みそおでんが出るストラップ。[LINE]
+甘みのある上質な味噌たれが口の中[LINE]
+で染み渡る。お酒の共にも最適です。[END]
+","//Text $1B8988
+#WRITE(ptr,$19251C)
+Strap with Miso Oden. The sweetness[LINE]
+of fine miso sauce spreads in one's[LINE]
+mouth. Goes well with sake.[END]
+"
+"//Text $1B8948
+#WRITE(ptr,$192548)
+[Sign_3]マーボーカレー[END]
+","//Text $1B8948
+#WRITE(ptr,$192548)
+[Sign_3]Mabo Curry[END]
+"
+"//Text $1B88E8
+#WRITE(ptr,$19254C)
+マーボーカレーが出るストラップ。[LINE]
+軍に伝わる秘伝の味。二つの辛味が[LINE]
+織り成す究極のハーモニー！[END]
+","//Text $1B88E8
+#WRITE(ptr,$19254C)
+Strap with Mabo Curry. A secret handed[LINE]
+down by the military. The utmost harmony[LINE]
+between pungent and spicy![END]
+"
+"//Text $1B88A8
+#WRITE(ptr,$192578)
+[Sign_3]カチカチおにぎり[END]
+","//Text $1B88A8
+#WRITE(ptr,$192578)
+[Sign_3]Crunchy Riceball[END]
+"
+"//Text $1B8858
+#WRITE(ptr,$19257C)
+カチカチおにぎりが出るストラップ。[LINE]
+歯が弱い人は要注意。[LINE]
+顎が鍛えられます。[END]
+","//Text $1B8858
+#WRITE(ptr,$19257C)
+Strap with a Crunchy Riceball.[LINE]
+People with weak teeth beware.[LINE]
+Tempers one's jaw.[END]
+"
+"//Text $1B8818
+#WRITE(ptr,$1925A8)
+[Sign_3]パサパサンドイッチ[END]
+","//Text $1B8818
+#WRITE(ptr,$1925A8)
+[Sign_3]Dry Sandwich[END]
+"
+"//Text $1B87B8
+#WRITE(ptr,$1925AC)
+パサパサンドイッチが出るストラップ。[LINE]
+なるべく早くに食べましょう。[LINE]
+喉につまってしょうがない。[END]
+","//Text $1B87B8
+#WRITE(ptr,$1925AC)
+Strap with a Dry Sandwich. Eat it[LINE]
+as quickly as possible. Getting it[LINE]
+stuck in your throat is inevitable.[END]
+"
+"//Text $1B8778
+#WRITE(ptr,$1925D8)
+[Sign_3]圧縮ハンバーガー[END]
+","//Text $1B8778
+#WRITE(ptr,$1925D8)
+[Sign_3]Squashed Burger[END]
+"
+"//Text $1B8710
+#WRITE(ptr,$1925DC)
+圧縮ハンバーガーが出るストラップ。[LINE]
+誰かのお尻の下敷きになったに違い[LINE]
+ない。食べやすくはなりました。[END]
+","//Text $1B8710
+#WRITE(ptr,$1925DC)
+Strap with a Squashed Burger. Not[LINE]
+much different from a sat-on burger.[LINE]
+Easy to eat.[END]
+"
+"//Text $1B86D8
+#WRITE(ptr,$192608)
+[Sign_3]炭ドッグ[END]
+","//Text $1B86D8
+#WRITE(ptr,$192608)
+[Sign_3]Burned Dog[END]
+"
+"//Text $1B8680
+#WRITE(ptr,$19260C)
+炭ドッグが出るストラップ。[LINE]
+焼きすぎた！すっかり焦げた[LINE]
+ソーセージは苦い味がした。[END]
+","//Text $1B8680
+#WRITE(ptr,$19260C)
+Strap with a Burned Dog.[LINE]
+Overcooked! A bitter and[LINE]
+completely burned sausage.[END]
+"
+"//Text $1B8640
+#WRITE(ptr,$192638)
+[Sign_3]しなしなブリトー[END]
+","//Text $1B8640
+#WRITE(ptr,$192638)
+[Sign_3]Soggy Burrito[END]
+"
+"//Text $1B85E0
+#WRITE(ptr,$19263C)
+しなしなブリトーが出るストラップ。[LINE]
+だいぶ時間が過ぎちゃった？[LINE]
+溶けて固くなったチーズが悲しい。[END]
+","//Text $1B85E0
+#WRITE(ptr,$19263C)
+Strap with a Soggy Burrito.[LINE]
+Left out for too long. Sadly,[LINE]
+the melted cheese solidified.[END]
+"
+"//Text $1B85B0
+#WRITE(ptr,$192668)
+[Sign_3]半生ケバブ[END]
+","//Text $1B85B0
+#WRITE(ptr,$192668)
+[Sign_3]Half-baked Kebab[END]
+"
+"//Text $1B8550
+#WRITE(ptr,$19266C)
+半生ケバブが出るストラップ。[LINE]
+お肉はしっかり焼いてください。[LINE]
+お腹が痛くなりませんように……[END]
+","//Text $1B8550
+#WRITE(ptr,$19266C)
+Strap with a Half-baked Kebab.[LINE]
+Please, cook meat properly. So[LINE]
+you won't hurt your stomach....[END]
+"
+"//Text $1B8518
+#WRITE(ptr,$192698)
+[Sign_3]闇丼[END]
+","//Text $1B8518
+#WRITE(ptr,$192698)
+[Sign_3]Dark Bowl[END]
+"
+"//Text $1B84B8
+#WRITE(ptr,$19269C)
+闇丼が出るストラップ。[LINE]
+様々なものがつっこまれた恐怖の丼。[LINE]
+まずい日もあれば美味い日もある？[END]
+","//Text $1B84B8
+#WRITE(ptr,$19269C)
+Strap with a Dark Bowl. Dreaded Bowl[LINE]
+filled with mystery ingredients. Some[LINE]
+days it's good, some days it's bad.[END]
+"
+"//Text $1B8480
+#WRITE(ptr,$1926C8)
+[Sign_3]闇鍋[END]
+","//Text $1B8480
+#WRITE(ptr,$1926C8)
+[Sign_3]Dark Pot[END]
+"
+"//Text $1B8430
+#WRITE(ptr,$1926CC)
+闇鍋が出るストラップ。[LINE]
+何が入っているのかわからない！[LINE]
+食べる時は暗闇で。[END]
+","//Text $1B8430
+#WRITE(ptr,$1926CC)
+Strap with a Dark Pot. No one[LINE]
+knows what's inside it. Better[LINE]
+eaten in the dark.[END]
+"

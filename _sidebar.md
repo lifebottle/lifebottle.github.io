@@ -11,7 +11,7 @@
       - [Armor](./projects/destiny-dc/items/armor.md)     
       - [Unique](./projects/destiny-dc/items/unique.md)
       - [Jewel](./projects/destiny-dc/items/accessory.md)      
-      - [Food Strap](./projects/destiny-dc/items/food.md)
+      - [Food Strap](./projects/destiny-dc/items/food-strap.md)
       - [Key](./projects/destiny-dc/items/key.md)      
     - [Books](./projects/destiny-dc/books/index)
       - [World Map](./projects/destiny-dc/books/world-map.md)
