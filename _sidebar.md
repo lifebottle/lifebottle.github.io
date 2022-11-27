@@ -7,7 +7,7 @@
     - [Leon's Side - Side-Quest Guide](./projects/destiny-dc/leon-guide.md)
     - [Items](./projects/destiny-dc/items/index)
       - [Item](./projects/destiny-dc/items/item.md)
-      - [Weapon](./projects/destiny-dc/items/weapons.md)
+      - [Weapon](./projects/destiny-dc/items/weapon.md)
       - [Armor](./projects/destiny-dc/items/armor.md)     
       - [Unique](./projects/destiny-dc/items/unique.md)
       - [Jewel](./projects/destiny-dc/items/jewel.md)      

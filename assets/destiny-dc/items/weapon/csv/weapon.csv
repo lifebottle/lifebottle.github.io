@@ -1,0 +1,1675 @@
+"Japanese","English"
+"//Text $1B2CD0
+#WRITE(ptr,$18DD2C)
+[Sign_Sword]ディムロス[END]
+","//Text $1B2CD0
+#WRITE(ptr,$18DD2C)
+[Sign_Sword]Dymlos[END]
+"
+"//Text $1B2C80
+#WRITE(ptr,$18DD30)
+火属性の知能ある剣。[LINE]
+人格は、熱血漢の切り込み隊長。[LINE]
+ディムロス・ティンバー。[END]
+","//Text $1B2C80
+#WRITE(ptr,$18DD30)
+Swordian of Fire. Leader of an[LINE]
+army. His full name is Dymlos[LINE]
+Timber.[END]
+"
+"//Text $1B2C70
+#WRITE(ptr,$18DD68)
+[Sign_Sword]アトワイト[END]
+","//Text $1B2C70
+#WRITE(ptr,$18DD68)
+[Sign_Sword]Atwight[END]
+"
+"//Text $1B2C20
+#WRITE(ptr,$18DD6C)
+水属性の知能ある剣。[LINE]
+人格は、激情を秘めた理知的な女性。[LINE]
+アトワイト・エックス。[END]
+","//Text $1B2C20
+#WRITE(ptr,$18DD6C)
+Swordian of Water. A fierce and[LINE]
+intelligent woman. Her full name[LINE]
+name is Atwight Ecks.[END]
+"
+"//Text $1B2C10
+#WRITE(ptr,$18DDA4)
+[Sign_Sword]クレメンテ[END]
+","//Text $1B2C10
+#WRITE(ptr,$18DDA4)
+[Sign_Sword]Clemente[END]
+"
+"//Text $1B2BC0
+#WRITE(ptr,$18DDA8)
+光属性の知能ある剣。[LINE]
+人格は、知識と経験のある老人。[LINE]
+ラヴィル・クレメンテ。[END]
+","//Text $1B2BC0
+#WRITE(ptr,$18DDA8)
+Swordian of Light. A wise old[LINE]
+man. His full name is Laville[LINE]
+Clemente.[END]
+"
+"//Text $1B2BA8
+#WRITE(ptr,$18DDE0)
+[Sign_Sword]イクティノス[END]
+","//Text $1B2BA8
+#WRITE(ptr,$18DDE0)
+[Sign_Sword]Igtenos[END]
+"
+"//Text $1B2B50
+#WRITE(ptr,$18DDE4)
+風属性の知能ある剣。[LINE]
+人格は、知性と合理性を持った男性。[LINE]
+イクティノス・マイナード。[END]
+","//Text $1B2B50
+#WRITE(ptr,$18DDE4)
+Swordian of Wind. A rational[LINE]
+and intelligent man. His full [LINE]
+name is Igtenos Mindarde.[END]
+"
+"//Text $1B2B38
+#WRITE(ptr,$18DE1C)
+[Sign_Sword]シャルティエ[END]
+","//Text $1B2B38
+#WRITE(ptr,$18DE1C)
+[Sign_Sword]Chaltier[END]
+"
+"//Text $1B2AE0
+#WRITE(ptr,$18DE20)
+地属性の知能ある剣。[LINE]
+人格は、才能に恵まれた若き青年。[LINE]
+ピエール・ド・シャルティエ。[END]
+","//Text $1B2AE0
+#WRITE(ptr,$18DE20)
+Swordian of Earth.[LINE]
+A gifted young man, his full name is[LINE]
+Pierre de Chaltier.[END]
+"
+"//Text $1B2AC8
+#WRITE(ptr,$18DE58)
+[Sign_Sword]ナイトブレイド[END]
+","//Text $1B2AC8
+#WRITE(ptr,$18DE58)
+[Sign_Sword]Knight Blade[END]
+"
+"//Text $1B2A80
+#WRITE(ptr,$18DE5C)
+各国の軍隊に採用されている剣。[LINE]
+シンプルな作りで非常に扱いやすい。[LINE]
+[END]
+","//Text $1B2A80
+#WRITE(ptr,$18DE5C)
+A sword adopted by the armed[LINE]
+forces of many countries.[LINE]
+Easy to use.[END]
+"
+"//Text $1B2A68
+#WRITE(ptr,$18DE94)
+[Sign_Sword]ロイヤルブレイド[END]
+","//Text $1B2A68
+#WRITE(ptr,$18DE94)
+[Sign_Sword]Royal Blade[END]
+"
+"//Text $1B2A18
+#WRITE(ptr,$18DE98)
+ファンダリア王家に伝わる名剣。[LINE]
+見た目の豪華さとは裏腹に、[LINE]
+鋭い切れ味を持つ。[END]
+","//Text $1B2A18
+#WRITE(ptr,$18DE98)
+A famous sword handed down from[LINE]
+the Royal Family of Phandaria.[LINE]
+Looks sharp.[END]
+"
+"//Text $1B2A08
+#WRITE(ptr,$18DED0)
+[Sign_Sword]古びた剣[END]
+","//Text $1B2A08
+#WRITE(ptr,$18DED0)
+[Sign_Sword]Artifact[END]
+"
+"//Text $1B29A0
+#WRITE(ptr,$18DED4)
+飛行竜の船倉に厳重保管されていた、[LINE]
+変わった形の妙に手になじむ剣。[LINE]
+何か得体の知れない力を感じる……[END]
+","//Text $1B29A0
+#WRITE(ptr,$18DED4)
+An oddly shaped sword and comfy in the hand.[LINE]
+It was kept on the Draconis.[LINE]
+A powerful aura can be felt[END]
+"
+"//Text $1B2988
+#WRITE(ptr,$18DF0C)
+[Sign_Sword]ストーンアックス[END]
+","//Text $1B2988
+#WRITE(ptr,$18DF0C)
+[Sign_Sword]Stone Axe[END]
+"
+"//Text $1B2940
+#WRITE(ptr,$18DF10)
+石を削って作られた石製の斧。[LINE]
+すでに時代遅れの武器だが[LINE]
+人の進化の証。[END]
+","//Text $1B2940
+#WRITE(ptr,$18DF10)
+A knapped stone axe.[LINE]
+Although obsolete, it's[LINE]
+still a human milestone.[END]"
+"//Text $1B2928
+#WRITE(ptr,$18DF48)
+[Sign_Sword]ブロンズアックス[END]
+","//Text $1B2928
+#WRITE(ptr,$18DF48)
+[Sign_Sword]Bronze Axe[END]
+"
+"//Text $1B28E0
+#WRITE(ptr,$18DF4C)
+耐食性の優れた銅製の斧。[LINE]
+天地戦争時代から使われていた[LINE]
+優秀な金属。[END]
+","//Text $1B28E0
+#WRITE(ptr,$18DF4C)
+An axe made of copper with excellent[LINE]
+erosion resistance. Metal that has been[LINE]
+used since the age of the Aeth'er War.[END]
+"
+"//Text $1B28C8
+#WRITE(ptr,$18DF84)
+[Sign_Sword]アイアンアックス[END]
+","//Text $1B28C8
+#WRITE(ptr,$18DF84)
+[Sign_Sword]Iron Axe[END]
+"
+"//Text $1B2888
+#WRITE(ptr,$18DF88)
+さまざまな構造物に使われる[LINE]
+鉄製の斧。[LINE]
+もっとも身近な金属。[END]
+","//Text $1B2888
+#WRITE(ptr,$18DF88)
+An axe made of iron. Metal that is[LINE]
+used in a variety of structures.[LINE]
+The most common metal.[END]
+"
+"//Text $1B2870
+#WRITE(ptr,$18DFC0)
+[Sign_Sword]スチールアックス[END]
+","//Text $1B2870
+#WRITE(ptr,$18DFC0)
+[Sign_Sword]Steel Axe[END]
+"
+"//Text $1B2840
+#WRITE(ptr,$18DFC4)
+鉄に炭素を混ぜてできる合金。[LINE]
+鋼製の斧。[LINE]
+[END]
+","//Text $1B2840
+#WRITE(ptr,$18DFC4)
+An axe made of steel. Steel is[LINE]
+an alloy formed by mixing iron[LINE]
+with carbon.[END]
+"
+"//Text $1B2828
+#WRITE(ptr,$18DFFC)
+[Sign_Sword]チタンアックス[END]
+","//Text $1B2828
+#WRITE(ptr,$18DFFC)
+[Sign_Sword]Titanium Axe[END]
+"
+"//Text $1B27D8
+#WRITE(ptr,$18E000)
+さまざまな用途に使われる[LINE]
+チタン製の斧。[LINE]
+非常に軽く、並外れた耐食性を持つ。[END]
+","//Text $1B27D8
+#WRITE(ptr,$18E000)
+This axe is used for a variety[LINE]
+of tasks. It is very light, with[LINE]
+incredible corrosion resistance.[END]
+"
+"//Text $1B27C0
+#WRITE(ptr,$18E038)
+[Sign_Sword]シルバーアックス[END]
+","//Text $1B27C0
+#WRITE(ptr,$18E038)
+[Sign_Sword]Silver Axe[END]
+"
+"//Text $1B2790
+#WRITE(ptr,$18E03C)
+銀細工で装飾された斧。[LINE]
+白い輝きが美しい。[LINE]
+[END]
+","//Text $1B2790
+#WRITE(ptr,$18E03C)
+An axe adorned with silverwork.[LINE]
+It has a beautiful white shine.[LINE]
+[END]
+"
+"//Text $1B2778
+#WRITE(ptr,$18E074)
+[Sign_Sword]ゴールドアックス[END]
+","//Text $1B2778
+#WRITE(ptr,$18E074)
+[Sign_Sword]Gold Axe[END]
+"
+"//Text $1B2740
+#WRITE(ptr,$18E078)
+金をふんだんに混ぜて作られた斧。[LINE]
+別名「豪華な斧」。[LINE]
+[END]
+","//Text $1B2740
+#WRITE(ptr,$18E078)
+An axe made by using a rich[LINE]
+mixture of gold. Known as the[LINE]
+""Luxurious Axe"".[END]
+"
+"//Text $1B2728
+#WRITE(ptr,$18E0B0)
+[Sign_Sword]ミスリルアックス[END]
+","//Text $1B2728
+#WRITE(ptr,$18E0B0)
+[Sign_Sword]Mithril Axe[END]
+"
+"//Text $1B26E0
+#WRITE(ptr,$18E0B4)
+ミスリルを用いて鍛え上げた斧。[LINE]
+ドワーフ族の芸術作品といわれる。[LINE]
+[END]
+","//Text $1B26E0
+#WRITE(ptr,$18E0B4)
+An axe forged out of mithril.[LINE]
+It is said to be a product of[LINE]
+the Dwarves.[END]
+"
+"//Text $1B26C8
+#WRITE(ptr,$18E0EC)
+[Sign_Sword]ハンドアックス[END]
+","//Text $1B26C8
+#WRITE(ptr,$18E0EC)
+[Sign_Sword]Hand Axe[END]
+"
+"//Text $1B2680
+#WRITE(ptr,$18E0F0)
+非常に扱いやすい小型の斧。[LINE]
+少し力があれば片手でも軽々[LINE]
+扱うことが可能。[END]
+","//Text $1B2680
+#WRITE(ptr,$18E0F0)
+A small, very easy-to-use small[LINE]
+axe. You don't need to be very[LINE]
+strong to wield it in one hand.[END]
+"
+"//Text $1B2668
+#WRITE(ptr,$18E128)
+[Sign_Sword]バトルアックス[END]
+","//Text $1B2668
+#WRITE(ptr,$18E128)
+[Sign_Sword]Battle Axe[END]
+"
+"//Text $1B2628
+#WRITE(ptr,$18E12C)
+切れ味鋭い肉厚の斧。[LINE]
+その名の通り、[LINE]
+戦闘用に特化されている。[END]
+","//Text $1B2628
+#WRITE(ptr,$18E12C)
+A thick-tapered axe with a sharp[LINE]
+edge. As its name suggests, it is[LINE]
+optimized for battle.[END]
+"
+"//Text $1B2610
+#WRITE(ptr,$18E164)
+[Sign_Sword]グレートアックス[END]
+","//Text $1B2610
+#WRITE(ptr,$18E164)
+[Sign_Sword]Great Axe[END]
+"
+"//Text $1B25B0
+#WRITE(ptr,$18E168)
+この斧を初めて見たキコリが、[LINE]
+「グレートだ！」と叫んだことから[LINE]
+この名がついた。切れ味も抜群。[END]
+","//Text $1B25B0
+#WRITE(ptr,$18E168)
+A famous lumberjack once praised this[LINE]
+axe with the words: ""Wow! It's great!"",[LINE]
+which was how it received its name.[END]
+"
+"//Text $1B2598
+#WRITE(ptr,$18E1A0)
+[Sign_Sword]クレセントアックス[END]
+","//Text $1B2598
+#WRITE(ptr,$18E1A0)
+[Sign_Sword]Crescent Axe[END]
+"
+"//Text $1B2548
+#WRITE(ptr,$18E1A4)
+三日月の形を模した斧。[LINE]
+乳白色の刃は闇で振るうと[LINE]
+より月のように見えるらしい。[END]
+","//Text $1B2548
+#WRITE(ptr,$18E1A4)
+An axe shaped like a crescent moon.[LINE]
+This milky-white blade more resembles[LINE]
+a moon when wielded in the dark.[END]
+"
+"//Text $1B2530
+#WRITE(ptr,$18E1DC)
+[Sign_Sword]ヘッドアックス[END]
+","//Text $1B2530
+#WRITE(ptr,$18E1DC)
+[Sign_Sword]Head Axe[END]
+"
+"//Text $1B24D8
+#WRITE(ptr,$18E1E0)
+刃の反対側に尻尾のように伸びた[LINE]
+切っ先が特徴の斧。[LINE]
+地面に突き刺すために使われる。[END]
+","//Text $1B24D8
+#WRITE(ptr,$18E1E0)
+An axe with an edge that extends to[LINE]
+the other side of the blade. Used for[LINE]
+thrusting into the ground.[END]
+"
+"//Text $1B24C0
+#WRITE(ptr,$18E218)
+[Sign_Sword]ストライクアックス[END]
+","//Text $1B24C0
+#WRITE(ptr,$18E218)
+[Sign_Sword]Strike Axe[END]
+"
+"//Text $1B2480
+#WRITE(ptr,$18E21C)
+対剣士用に作られた斧。[LINE]
+刃の隙間は剣を引っ掛け[LINE]
+折るためのもの。[END]
+","//Text $1B2480
+#WRITE(ptr,$18E21C)
+An axe designed to fight swordsmen.[LINE]
+Hook and break swords by using the[LINE]
+gap in its edge.[END]
+"
+"//Text $1B2468
+#WRITE(ptr,$18E254)
+[Sign_Sword]ドライビンアックス[END]
+","//Text $1B2468
+#WRITE(ptr,$18E254)
+[Sign_Sword]Driving Axe[END]
+"
+"//Text $1B2410
+#WRITE(ptr,$18E258)
+特徴的な薄く丸い刃を持つ斧。[LINE]
+力のない者が振るっても[LINE]
+容易く肉を裂けられるほど鋭い。[END]
+","//Text $1B2410
+#WRITE(ptr,$18E258)
+An axe characterized by its thin,[LINE]
+round edge. Easily cuts through[LINE]
+flesh, even with little strength.[END]
+"
+"//Text $1B23F8
+#WRITE(ptr,$18E290)
+[Sign_Sword]レアアックス[END]
+","//Text $1B23F8
+#WRITE(ptr,$18E290)
+[Sign_Sword]Rare Axe[END]
+"
+"//Text $1B23A0
+#WRITE(ptr,$18E294)
+名工ギースの魂がこもった[LINE]
+無二の傑作。きわめて希少価値が[LINE]
+高く、戦士たちの憧れの斧。[END]
+","//Text $1B23A0
+#WRITE(ptr,$18E294)
+A masterpiece filled with the soul[LINE]
+of master craftsman Giese. It's [LINE]
+valuable. A warrior's dream axe.[END]
+"
+"//Text $1B2388
+#WRITE(ptr,$18E2CC)
+[Sign_Sword]トマホークアックス[END]
+","//Text $1B2388
+#WRITE(ptr,$18E2CC)
+[Sign_Sword]Tomahawk Axe[END]
+"
+"//Text $1B2338
+#WRITE(ptr,$18E2D0)
+「切るための道具」[LINE]
+という意味の名を持つ斧。[LINE]
+扱いが上手ければ投げることも可能。[END]
+","//Text $1B2338
+#WRITE(ptr,$18E2D0)
+An axe whose name means ""A tool[LINE]
+for cutting.""If you're skillful, you can[LINE]
+throw it.[END]
+"
+"//Text $1B2320
+#WRITE(ptr,$18E308)
+[Sign_Sword]ポールアックス[END]
+","//Text $1B2320
+#WRITE(ptr,$18E308)
+[Sign_Sword]Poleaxe[END]
+"
+"//Text $1B22E0
+#WRITE(ptr,$18E30C)
+非常に重く、鋭い切っ先を持つ斧。[LINE]
+重装備の鎧でさえ打ち砕ける。[LINE]
+[END]
+","//Text $1B22E0
+#WRITE(ptr,$18E30C)
+A heavy axe with a sharp cutting[LINE]
+edge. Shatters even the heaviest[LINE]
+of armors.[END]
+"
+"//Text $1B22C0
+#WRITE(ptr,$18E344)
+[Sign_Sword]ジャッドバラアックス[END]
+","//Text $1B22C0
+#WRITE(ptr,$18E344)
+[Sign_Sword]Jedburgh Axe[END]
+"
+"//Text $1B2278
+#WRITE(ptr,$18E348)
+先端が槍状になっている斧。[LINE]
+斬るだけでなく[LINE]
+刺すこともできる優秀な斧。[END]
+","//Text $1B2278
+#WRITE(ptr,$18E348)
+An axe with a spear-shaped tip.[LINE]
+Not only can it cut, but it can[LINE]
+also stab.[END]
+"
+"//Text $1B2260
+#WRITE(ptr,$18E380)
+[Sign_Sword]ロコッバーアックス[END]
+","//Text $1B2260
+#WRITE(ptr,$18E380)
+[Sign_Sword]Lochaber Axe[END]
+"
+"//Text $1B2220
+#WRITE(ptr,$18E384)
+斧刃と鈎爪を併せ持つ斧。[LINE]
+馬上の敵を引きずり下ろすのに有効。[LINE]
+[END]
+","//Text $1B2220
+#WRITE(ptr,$18E384)
+An axe with an edge and a[LINE]
+hooked claw. Used to drag[LINE]
+down foes on horseback.[END]
+"
+"//Text $1B2208
+#WRITE(ptr,$18E3BC)
+[Sign_Sword]アイアックス[END]
+","//Text $1B2208
+#WRITE(ptr,$18E3BC)
+[Sign_Sword]Eye Axe[END]
+"
+"//Text $1B21C8
+#WRITE(ptr,$18E3C0)
+斧頭が目の形をしていることから[LINE]
+この名がつけられた大型の斧。[LINE]
+[END]
+","//Text $1B21C8
+#WRITE(ptr,$18E3C0)
+An axe whose name is taken[LINE]
+from its eye-shaped axe head.[LINE]
+[END]
+"
+"//Text $1B21B0
+#WRITE(ptr,$18E3F8)
+[Sign_Sword]イプシロンアックス[END]
+","//Text $1B21B0
+#WRITE(ptr,$18E3F8)
+[Sign_Sword]Epsilon Axe[END]
+"
+"//Text $1B2160
+#WRITE(ptr,$18E3FC)
+アイアックスを[LINE]
+より扱いやすくした斧。[LINE]
+攻撃力もアップし軽量化も図られた。[END]
+","//Text $1B2160
+#WRITE(ptr,$18E3FC)
+An improved Eye Axe that is easier[LINE]
+to handle. The attack power has[LINE]
+increased and it weighs less.[END]
+"
+"//Text $1B2148
+#WRITE(ptr,$18E434)
+[Sign_Sword]ガイアアックス[END]
+","//Text $1B2148
+#WRITE(ptr,$18E434)
+[Sign_Sword]Gaia Axe[END]
+"
+"//Text $1B2100
+#WRITE(ptr,$18E438)
+大地の名で呼ばれる斧。[LINE]
+華奢な形状からは想像できない[LINE]
+威力を持つ。[END]
+","//Text $1B2100
+#WRITE(ptr,$18E438)
+An axe named after the Earth itself.[LINE]
+Its slender shape belies its power.[LINE]
+[END]
+"
+"//Text $1B20E8
+#WRITE(ptr,$18E470)
+[Sign_Sword]グリムアックス[END]
+","//Text $1B20E8
+#WRITE(ptr,$18E470)
+[Sign_Sword]Grimm Axe[END]
+"
+"//Text $1B2098
+#WRITE(ptr,$18E474)
+伝説に登場する幻想の力を秘めた斧。[LINE]
+口伝を書物にまとめた兄弟の名を[LINE]
+冠する。[END]
+","//Text $1B2098
+#WRITE(ptr,$18E474)
+An axe with legendary powers that appears[LINE]
+in folklore. It bears the name of the brothers[LINE]
+who recorded oral traditions.[END]
+"
+"//Text $1B2088
+#WRITE(ptr,$18E4AC)
+[Sign_Sword]ガノ[END]
+","//Text $1B2088
+#WRITE(ptr,$18E4AC)
+[Sign_Sword]Gano[END]
+"
+"//Text $1B2048
+#WRITE(ptr,$18E4B0)
+三日月型の斧頭が特徴の戦斧。[LINE]
+少ない金属で作ることが可能な斧。[LINE]
+[END]
+","//Text $1B2048
+#WRITE(ptr,$18E4B0)
+An axe with a crescent-shaped head.[LINE]
+It can be made with a small amount[LINE]
+of metal.[END]
+"
+"//Text $1B2038
+#WRITE(ptr,$18E4E8)
+[Sign_Sword]ショカ[END]
+","//Text $1B2038
+#WRITE(ptr,$18E4E8)
+[Sign_Sword]Shoka[END]
+"
+"//Text $1B1FF0
+#WRITE(ptr,$18E4EC)
+金属で強化することで[LINE]
+強度を上げた斧。[LINE]
+日常の道具としても使用可能。[END]
+","//Text $1B1FF0
+#WRITE(ptr,$18E4EC)
+An axe reinforced with metal[LINE]
+for extra strength. Can be[LINE]
+used as an everyday tool.[END]
+"
+"//Text $1B1FE0
+#WRITE(ptr,$18E524)
+[Sign_Sword]セルティス[END]
+","//Text $1B1FE0
+#WRITE(ptr,$18E524)
+[Sign_Sword]Celtis[END]
+"
+"//Text $1B1F98
+#WRITE(ptr,$18E528)
+斧頭がノミのようになっている斧。[LINE]
+見た目の優美さと異なり、[LINE]
+刃先は鋭い。[END]
+","//Text $1B1F98
+#WRITE(ptr,$18E528)
+An axe with a chisel-shaped head.[LINE]
+Contrary to its graceful appearance,[LINE]
+it's actually quite sharp.[END]
+"
+"//Text $1B1F88
+#WRITE(ptr,$18E560)
+[Sign_Sword]タバール[END]
+","//Text $1B1F88
+#WRITE(ptr,$18E560)
+[Sign_Sword]Tabar[END]
+"
+"//Text $1B1F40
+#WRITE(ptr,$18E564)
+タフレンズが埋め込まれた[LINE]
+半月型の斧。豪華な作りだが[LINE]
+切れ味は鋭い。[END]
+","//Text $1B1F40
+#WRITE(ptr,$18E564)
+A half-moon shaped axe with[LINE]
+a tough lens embedded. It's[LINE]
+luxurious, but sharp.[END]
+"
+"//Text $1B1F30
+#WRITE(ptr,$18E59C)
+[Sign_Sword]タバンジル[END]
+","//Text $1B1F30
+#WRITE(ptr,$18E59C)
+[Sign_Sword]Tabangil[END]
+"
+"//Text $1B1EE0
+#WRITE(ptr,$18E5A0)
+植物のような装飾をされた戦斧。[LINE]
+装飾のわりに軽量なため、[LINE]
+殴打武器としても優秀。[END]
+","//Text $1B1EE0
+#WRITE(ptr,$18E5A0)
+A battle axe decorated to look[LINE]
+like a plant. It's light, but is an[LINE]
+excellent tool for  bludgeoning.[END]
+"
+"//Text $1B1ED0
+#WRITE(ptr,$18E5D8)
+[Sign_Sword]タンギ[END]
+","//Text $1B1ED0
+#WRITE(ptr,$18E5D8)
+[Sign_Sword]Tangi[END]
+"
+"//Text $1B1E78
+#WRITE(ptr,$18E5DC)
+刃が上向きになっている斧。[LINE]
+透明感のある美しい刃は、[LINE]
+祭事用に使われていた時の名残。[END]
+","//Text $1B1E78
+#WRITE(ptr,$18E5DC)
+An axe with an upturned blade.[LINE]
+Its beautiful, clear blade is a[LINE]
+remnant from its use in rituals.[END]
+"
+"//Text $1B1E68
+#WRITE(ptr,$18E614)
+[Sign_Sword]ブローバー[END]
+","//Text $1B1E68
+#WRITE(ptr,$18E614)
+[Sign_Sword]Bullova[END]
+"
+"//Text $1B1E20
+#WRITE(ptr,$18E618)
+三日月型の幅広い斧頭を持つ戦斧。[LINE]
+敵を切断するのに特化している。[LINE]
+[END]
+","//Text $1B1E20
+#WRITE(ptr,$18E618)
+A battle axe with a broad, crescent[LINE]
+shaped head. Specializes in cutting[LINE]
+down foes.[END]
+"
+"//Text $1B1E08
+#WRITE(ptr,$18E650)
+[Sign_Sword]ルベリエアックス[END]
+","//Text $1B1E08
+#WRITE(ptr,$18E650)
+[Sign_Sword]Reverie Axe[END]
+"
+"//Text $1B1DB8
+#WRITE(ptr,$18E654)
+空想を意味する斧。[LINE]
+手にした者の想いを力に変える。[LINE]
+選ばれた者のみが手にできる。[END]
+","//Text $1B1DB8
+#WRITE(ptr,$18E654)
+An axe that signifies a fantasy. It[LINE]
+transforms the user's thoughts into[LINE]
+power. Only the chosen may wield it.[END]
+"
+"//Text $1B1DA8
+#WRITE(ptr,$18E68C)
+[Sign_Sword]さつまいも[END]
+","//Text $1B1DA8
+#WRITE(ptr,$18E68C)
+[Sign_Sword]Potato[END]
+"
+"//Text $1B1D60
+#WRITE(ptr,$18E690)
+食物繊維が豊富なさつまいも。[LINE]
+低温でじっくり加熱すると[LINE]
+甘みが増す。[END]
+","//Text $1B1D60
+#WRITE(ptr,$18E690)
+Sweet potatoes are rich in fiber.[LINE]
+Cook it at low temperatures to[LINE]
+increase its sweetness.[END]
+"
+"//Text $1B1D48
+#WRITE(ptr,$18E6C8)
+[Sign_Sword]ウッドアロー[END]
+","//Text $1B1D48
+#WRITE(ptr,$18E6C8)
+[Sign_Sword]Wood Bow[END]
+"
+"//Text $1B1D10
+#WRITE(ptr,$18E6CC)
+木製の小型弓。[LINE]
+初心者用の弓として広く扱われる。[LINE]
+[END]
+","//Text $1B1D10
+#WRITE(ptr,$18E6CC)
+A small wooden bow.[LINE]
+A beginner's best friend.[LINE]
+[END]
+"
+"//Text $1B1CF8
+#WRITE(ptr,$18E704)
+[Sign_Sword]スチールアロー[END]
+","//Text $1B1CF8
+#WRITE(ptr,$18E704)
+[Sign_Sword]Steel Bow[END]
+"
+"//Text $1B1CC8
+#WRITE(ptr,$18E708)
+鉄に炭素を混ぜてできる合金、[LINE]
+鋼製の小型弓。[LINE]
+[END]
+","//Text $1B1CC8
+#WRITE(ptr,$18E708)
+A small bow made of steel.[LINE]
+[LINE]
+[END]
+"
+"//Text $1B1CB0
+#WRITE(ptr,$18E740)
+[Sign_Sword]チタンアロー[END]
+","//Text $1B1CB0
+#WRITE(ptr,$18E740)
+[Sign_Sword]Titanium Bow[END]
+"
+"//Text $1B1C80
+#WRITE(ptr,$18E744)
+さまざまな用途に使われる、[LINE]
+チタン製の小型弓。[LINE]
+[END]
+","//Text $1B1C80
+#WRITE(ptr,$18E744)
+A small bow made of titanium.[LINE]
+It is very versatile.[LINE]
+[END]
+"
+"//Text $1B1C68
+#WRITE(ptr,$18E77C)
+[Sign_Sword]シルバーアロー[END]
+","//Text $1B1C68
+#WRITE(ptr,$18E77C)
+[Sign_Sword]Silver Bow[END]
+"
+"//Text $1B1C38
+#WRITE(ptr,$18E780)
+銀細工で装飾された小型弓。[LINE]
+白い輝きが美しい。[LINE]
+[END]
+","//Text $1B1C38
+#WRITE(ptr,$18E780)
+A small bow decorated with[LINE]
+silver. It shines beautifully. [LINE]
+[END]
+"
+"//Text $1B1C20
+#WRITE(ptr,$18E7B8)
+[Sign_Sword]ゴールドアロー[END]
+","//Text $1B1C20
+#WRITE(ptr,$18E7B8)
+[Sign_Sword]Gold Bow[END]
+"
+"//Text $1B1BE8
+#WRITE(ptr,$18E7BC)
+８割が金で作られた小型弓。[LINE]
+別名「豪華な小型弓」。[LINE]
+[END]
+","//Text $1B1BE8
+#WRITE(ptr,$18E7BC)
+A small bow made of 80 percent gold.[LINE]
+Also known as ""The Beautiful Bow.""[LINE]
+[END]
+"
+"//Text $1B1BD0
+#WRITE(ptr,$18E7F4)
+[Sign_Sword]ミスリルアロー[END]
+","//Text $1B1BD0
+#WRITE(ptr,$18E7F4)
+[Sign_Sword]Mithril Bow[END]
+"
+"//Text $1B1B88
+#WRITE(ptr,$18E7F8)
+ミスリルを用いて鍛え上げた小型弓。[LINE]
+ドワーフ族の芸術作品といわれる。[LINE]
+[END]
+","//Text $1B1B88
+#WRITE(ptr,$18E7F8)
+Weaved out of the finest mithril,[LINE]
+this small bow is a work of art[LINE]
+created by dwarven craftsmen.[END]
+"
+"//Text $1B1B70
+#WRITE(ptr,$18E830)
+[Sign_Sword]ハンターアロー[END]
+","//Text $1B1B70
+#WRITE(ptr,$18E830)
+[Sign_Sword]Hunter Bow[END]
+"
+"//Text $1B1B38
+#WRITE(ptr,$18E834)
+猟師が好んで使う弓の小型版。[LINE]
+安価な割りに性能は高い。[LINE]
+[END]
+","//Text $1B1B38
+#WRITE(ptr,$18E834)
+A smaller version of a hunter's bow.[LINE]
+Good performance at an affordable[LINE]
+price![END]
+"
+"//Text $1B1B20
+#WRITE(ptr,$18E86C)
+[Sign_Sword]バトルアロー[END]
+","//Text $1B1B20
+#WRITE(ptr,$18E86C)
+[Sign_Sword]Battle Bow[END]
+"
+"//Text $1B1AD0
+#WRITE(ptr,$18E870)
+その名の通り戦闘に特化した小型弓。[LINE]
+強度があり、敵の攻撃を受けても[LINE]
+歪みにくい。[END]
+","//Text $1B1AD0
+#WRITE(ptr,$18E870)
+A combat oriented bow.[LINE]
+Holds together even when[LINE]
+struck by enemy attacks.[END]
+"
+"//Text $1B1AB8
+#WRITE(ptr,$18E8A8)
+[Sign_Sword]キラーアロー[END]
+","//Text $1B1AB8
+#WRITE(ptr,$18E8A8)
+[Sign_Sword]Killer Bow[END]
+"
+"//Text $1B1A90
+#WRITE(ptr,$18E8AC)
+一撃必中。[LINE]
+暗殺に特化された小型弓。[LINE]
+[END]
+","//Text $1B1A90
+#WRITE(ptr,$18E8AC)
+It only takes one shot. A small[LINE]
+bow made for assassins.[LINE]
+[END]
+"
+"//Text $1B1A78
+#WRITE(ptr,$18E8E4)
+[Sign_Sword]グリフィンアロー[END]
+","//Text $1B1A78
+#WRITE(ptr,$18E8E4)
+[Sign_Sword]Griffin Bow[END]
+"
+"//Text $1B1A28
+#WRITE(ptr,$18E8E8)
+鷹の爪を模した弧を描いた小型弓。[LINE]
+天高く飛ぶ鳥も射ぬけると[LINE]
+言われている。[END]
+","//Text $1B1A28
+#WRITE(ptr,$18E8E8)
+A small bow with an arch that resembles[LINE]
+a griffin's claw. It is said to be able to[LINE]
+shoot birds flying high in the sky.[END]
+"
+"//Text $1B1A18
+#WRITE(ptr,$18E920)
+[Sign_Sword]レアアロー[END]
+","//Text $1B1A18
+#WRITE(ptr,$18E920)
+[Sign_Sword]Rare Bow[END]
+"
+"//Text $1B19C0
+#WRITE(ptr,$18E924)
+名工ギースの魂がこもった[LINE]
+無二の傑作。きわめて希少価値が[LINE]
+高く、戦士たちの憧れの小型弓。[END]
+","//Text $1B19C0
+#WRITE(ptr,$18E924)
+An unparalleled masterpiece that contains[LINE]
+the soul of Giese, a master craftsman.[LINE]
+An irreplaceable treasure to any archer.[END]"
+"//Text $1B19A8
+#WRITE(ptr,$18E95C)
+[Sign_Sword]クレインアロー[END]
+","//Text $1B19A8
+#WRITE(ptr,$18E95C)
+[Sign_Sword]Crane Bow[END]
+"
+"//Text $1B1970
+#WRITE(ptr,$18E960)
+全てのパーツを異なった木材で[LINE]
+組み合わせた小型弓。[LINE]
+[END]
+","//Text $1B1970
+#WRITE(ptr,$18E960)
+A small meshwork bow made [LINE]
+from a variety of woods.[LINE]
+[END]
+"
+"//Text $1B1958
+#WRITE(ptr,$18E998)
+[Sign_Sword]エルヴンアロー[END]
+","//Text $1B1958
+#WRITE(ptr,$18E998)
+[Sign_Sword]Elven Bow[END]
+"
+"//Text $1B1918
+#WRITE(ptr,$18E99C)
+エルフ族が愛用したと言われている[LINE]
+小型弓。羽のように軽い。[LINE]
+[END]
+","//Text $1B1918
+#WRITE(ptr,$18E99C)
+A small bow said to be used by[LINE]
+elves. It is as light as a feather.[LINE]
+[END]
+"
+"//Text $1B1900
+#WRITE(ptr,$18E9D4)
+[Sign_Sword]クレセントアロー[END]
+","//Text $1B1900
+#WRITE(ptr,$18E9D4)
+[Sign_Sword]Crescent Bow[END]
+"
+"//Text $1B18A8
+#WRITE(ptr,$18E9D8)
+三日月の形を模した小型弓。[LINE]
+その美しさに獣たちも動きを止める。[LINE]
+と、言われている。[END]
+","//Text $1B18A8
+#WRITE(ptr,$18E9D8)
+A small bow in the shape of a crescent[LINE]
+moon. It is said that even the mightiest[LINE]
+beasts are paralyzed by its beauty.[END]
+"
+"//Text $1B1890
+#WRITE(ptr,$18EA10)
+[Sign_Sword]ベルセルクアロー[END]
+","//Text $1B1890
+#WRITE(ptr,$18EA10)
+[Sign_Sword]Berserk Bow[END]
+"
+"//Text $1B1838
+#WRITE(ptr,$18EA14)
+無敵を誇った弓兵が使用していた、[LINE]
+と言われる弓の小型版。[LINE]
+別名「狂戦士の弓」小型版。[END]
+","//Text $1B1838
+#WRITE(ptr,$18EA14)
+A smaller version of ""The Madman's Bow.""[LINE]
+The originals were owned by archers who[LINE]
+claimied to be invincible.[END]
+"
+"//Text $1B1820
+#WRITE(ptr,$18EA4C)
+[Sign_Sword]グリムアロー[END]
+","//Text $1B1820
+#WRITE(ptr,$18EA4C)
+[Sign_Sword]Grimm Bow[END]
+"
+"//Text $1B17D0
+#WRITE(ptr,$18EA50)
+伝説に登場する幻想の力を秘めた[LINE]
+小型弓。口伝を書物にまとめた[LINE]
+兄弟の名を冠する。[END]
+","//Text $1B17D0
+#WRITE(ptr,$18EA50)
+An small bow named after two Brothers.[LINE]
+Its power of illusion may make you feel[LINE]
+like you are the huntsman himself.[END]
+"
+"//Text $1B17B0
+#WRITE(ptr,$18EA88)
+[Sign_Sword]スカーレットニードル[END]
+","//Text $1B17B0
+#WRITE(ptr,$18EA88)
+[Sign_Sword]Scarlet Needle[END]
+"
+"//Text $1B1750
+#WRITE(ptr,$18EA8C)
+情熱的で美しい女戦士が愛用して[LINE]
+いた弓の小型版。針の穴をも通す[LINE]
+ことから、この名がつけられた。[END]
+","//Text $1B1750
+#WRITE(ptr,$18EA8C)
+A smaller bow used by passionate and[LINE]
+beautiful female warriors. Its precision[LINE]
+could thread a needle.[END]
+"
+"//Text $1B1738
+#WRITE(ptr,$18EAC4)
+[Sign_Sword]ストライクイーグル[END]
+","//Text $1B1738
+#WRITE(ptr,$18EAC4)
+[Sign_Sword]Strike Eagle[END]
+"
+"//Text $1B1700
+#WRITE(ptr,$18EAC8)
+必殺必中。稲妻のような速さで[LINE]
+狙った獲物を貫く小型弓。[LINE]
+[END]
+","//Text $1B1700
+#WRITE(ptr,$18EAC8)
+What a deadly shot! This small bow [LINE]
+fires arrows at lightning speed![LINE]
+[END]
+"
+"//Text $1B16E8
+#WRITE(ptr,$18EB00)
+[Sign_Sword]ソウルスティール[END]
+","//Text $1B16E8
+#WRITE(ptr,$18EB00)
+[Sign_Sword]Soulsteal[END]
+"
+"//Text $1B16A0
+#WRITE(ptr,$18EB04)
+この弓で射抜いた者の魂を吸い上げ[LINE]
+所有者の力にすると言われている。[LINE]
+[END]
+","//Text $1B16A0
+#WRITE(ptr,$18EB04)
+A diabolical weapon that turns[LINE]
+the souls of those it slays into[LINE]
+power for its wielder.[LINE]
+[END]
+"
+"//Text $1B1680
+#WRITE(ptr,$18EB3C)
+[Sign_Sword]セレスティアルスター[END]
+","//Text $1B1680
+#WRITE(ptr,$18EB3C)
+[Sign_Sword]Celestial Star[END]
+"
+"//Text $1B1630
+#WRITE(ptr,$18EB40)
+遥か昔に落ちた隕石から作られた[LINE]
+小型弓。その素材の成分は[LINE]
+解明されていない。[END]
+","//Text $1B1630
+#WRITE(ptr,$18EB40)
+A small bow made from an ancient[LINE]
+meteorite. Its unique craftsmanship[LINE]
+baffles tradesmen to this day.[END]
+"
+"//Text $1B1610
+#WRITE(ptr,$18EB78)
+[Sign_Sword]フォーチューンアロー[END]
+","//Text $1B1610
+#WRITE(ptr,$18EB78)
+[Sign_Sword]Fortune Bow[END]
+"
+"//Text $1B15B8
+#WRITE(ptr,$18EB7C)
+運命を意味する小型弓。[LINE]
+手にした者の望む運命を呼び寄せる。[LINE]
+選ばれた者のみが手にできる。[END]
+","//Text $1B15B8
+#WRITE(ptr,$18EB7C)
+A small bow that symbolizes destiny. Those[LINE]
+who use it can bend fate to their will. Only[LINE]
+those who are worthy may wield it.[END]
+"
+"//Text $1B15A8
+#WRITE(ptr,$18EBB4)
+[Sign_Sword]きゅうり[END]
+","//Text $1B15A8
+#WRITE(ptr,$18EBB4)
+[Sign_Sword]Cucumber[END]
+"
+"//Text $1B1558
+#WRITE(ptr,$18EBB8)
+いぼがチクチクするものほど新鮮な証。[LINE]
+未熟なうちに収穫するのがポイント。[LINE]
+[END]
+","//Text $1B1558
+#WRITE(ptr,$18EBB8)
+The more prickly the warts, the more[LINE]
+fresh they are. The key is to harvest[LINE]
+them while they are still immature.[END]
+
+"
+"//Text $1B1540
+#WRITE(ptr,$18EBF0)
+[Sign_Sword]アイアンナックル[END]
+","//Text $1B1540
+#WRITE(ptr,$18EBF0)
+[Sign_Sword]Iron Knuckle[END]
+"
+"//Text $1B1510
+#WRITE(ptr,$18EBF4)
+さまざまな構造物に使われる[LINE]
+鉄製のナックル。[LINE]
+[END]
+","//Text $1B1510
+#WRITE(ptr,$18EBF4)
+Knuckles made of iron.[LINE]
+[LINE]
+[END]
+"
+"//Text $1B14F8
+#WRITE(ptr,$18EC2C)
+[Sign_Sword]チタンナックル[END]
+","//Text $1B14F8
+#WRITE(ptr,$18EC2C)
+[Sign_Sword]Titanium Knuckle[END]
+"
+"//Text $1B14C8
+#WRITE(ptr,$18EC30)
+さまざまな用途に使われる[LINE]
+チタン製のナックル。[LINE]
+[END]
+","//Text $1B14C8
+#WRITE(ptr,$18EC30)
+Knuckles made of titanium.[LINE]
+They are very versatile.[LINE]
+[END]
+"
+"//Text $1B14B0
+#WRITE(ptr,$18EC68)
+[Sign_Sword]シルバーナックル[END]
+","//Text $1B14B0
+#WRITE(ptr,$18EC68)
+[Sign_Sword]Silver Knuckle[END]
+"
+"//Text $1B1478
+#WRITE(ptr,$18EC6C)
+銀細工で装飾されたナックル。[LINE]
+白い輝きが美しい。[LINE]
+[END]
+","//Text $1B1478
+#WRITE(ptr,$18EC6C)
+Knuckles decorated with silver.[LINE]
+Reminiscent of a pure white glove.[LINE]
+[END]
+"
+"//Text $1B1460
+#WRITE(ptr,$18ECA4)
+[Sign_Sword]ゴールドナックル[END]
+","//Text $1B1460
+#WRITE(ptr,$18ECA4)
+[Sign_Sword]Gold Knuckle[END]
+"
+"//Text $1B1428
+#WRITE(ptr,$18ECA8)
+金をふんだんに混ぜて作られた。[LINE]
+別名「豪華な拳」。[LINE]
+[END]
+","//Text $1B1428
+#WRITE(ptr,$18ECA8)
+Knuckles made with a large portion of gold.[LINE]
+They are also known as ""The Fabulous Fists.""[LINE]
+[END]
+"
+"//Text $1B1410
+#WRITE(ptr,$18ECE0)
+[Sign_Sword]ミスリルナックル[END]
+","//Text $1B1410
+#WRITE(ptr,$18ECE0)
+[Sign_Sword]Mithril Knuckle[END]
+"
+"//Text $1B13D0
+#WRITE(ptr,$18ECE4)
+ミスリルを用いて鍛え上げた。[LINE]
+ドワーフ族の芸術作品といわれる。[LINE]
+[END]
+","//Text $1B13D0
+#WRITE(ptr,$18ECE4)
+Weaved out of the finest mithril,[LINE]
+these knuckles are works of art[LINE]
+created by dwarven craftsmen.[END]
+"
+"//Text $1B13B8
+#WRITE(ptr,$18ED1C)
+[Sign_Sword]パワーナックル[END]
+","//Text $1B13B8
+#WRITE(ptr,$18ED1C)
+[Sign_Sword]Power Knuckle[END]
+"
+"//Text $1B1378
+#WRITE(ptr,$18ED20)
+拳の部分を厚く強化したナックル。[LINE]
+素の拳より３割増で強くなる。[LINE]
+[END]
+","//Text $1B1378
+#WRITE(ptr,$18ED20)
+These reinforced knuckles are 30%[LINE]
+more durable than your bare fists![LINE]
+[END]
+"
+"//Text $1B1360
+#WRITE(ptr,$18ED58)
+[Sign_Sword]ニードルナックル[END]
+","//Text $1B1360
+#WRITE(ptr,$18ED58)
+[Sign_Sword]Needle Knuckle[END]
+"
+"//Text $1B1308
+#WRITE(ptr,$18ED5C)
+殴るより刺すことに重点を置いた[LINE]
+ナックル。針の分リーチが長いので[LINE]
+大振りな人にお勧め。[END]
+","//Text $1B1308
+#WRITE(ptr,$18ED5C)
+Knuckles focused on stabbing rather than[LINE]
+punching. The length of the needles makes[LINE]
+it better for people with large swings.[END]
+"
+"//Text $1B12F0
+#WRITE(ptr,$18ED94)
+[Sign_Sword]ダイヤナックル[END]
+","//Text $1B12F0
+#WRITE(ptr,$18ED94)
+[Sign_Sword]Diamond Knuckle[END]
+"
+"//Text $1B12A0
+#WRITE(ptr,$18ED98)
+ダイヤを磨き刃にした美しい[LINE]
+ナックル。鋭くて硬いため、[LINE]
+とてつもなく痛い。[END]
+","//Text $1B12A0
+#WRITE(ptr,$18ED98)
+Beautiful knuckles with diamond polished[LINE]
+blades. Sharp, hard, and hurts like hell![LINE]
+[END]
+"
+"//Text $1B1288
+#WRITE(ptr,$18EDD0)
+[Sign_Sword]レアナックル[END]
+","//Text $1B1288
+#WRITE(ptr,$18EDD0)
+[Sign_Sword]Rare Knuckle[END]
+"
+"//Text $1B1228
+#WRITE(ptr,$18EDD4)
+名工ギースの魂がこもった[LINE]
+無二の傑作。きわめて希少価値が[LINE]
+高く、戦士たちの憧れのナックル。[END]
+","//Text $1B1228
+#WRITE(ptr,$18EDD4)
+An unparalleled masterpiece that contains[LINE]
+the soul of Giese, a master craftsman.[LINE]
+An irreplaceable treasure to any warrior.[END]
+"
+"//Text $1B1210
+#WRITE(ptr,$18EE0C)
+[Sign_Sword]ベアナックル[END]
+","//Text $1B1210
+#WRITE(ptr,$18EE0C)
+[Sign_Sword]Bear Knuckle[END]
+"
+"//Text $1B11C8
+#WRITE(ptr,$18EE10)
+熊の手を模したナックル。[LINE]
+使用されている獣毛は本物で、[LINE]
+ちょっと臭い。[END]
+","//Text $1B11C8
+#WRITE(ptr,$18EE10)
+Ready to fight bear handed?[LINE]
+The fur is from an actual bear![LINE]
+It's a bit smelly...[END]
+"
+"//Text $1B11B0
+#WRITE(ptr,$18EE48)
+[Sign_Sword]ドラゴンナックル[END]
+","//Text $1B11B0
+#WRITE(ptr,$18EE48)
+[Sign_Sword]Dragon Knuckle[END]
+"
+"//Text $1B1150
+#WRITE(ptr,$18EE4C)
+アクアヴェイルの伝説に登場する、[LINE]
+ドラゴンをイメージしたナックル。[LINE]
+鉤爪があり、引掻くのも有効。[END]
+","//Text $1B1150
+#WRITE(ptr,$18EE4C)
+Knuckles made in the image of a dragon[LINE]
+from Aquaveil legends. It will bite into[LINE]
+and tear apart your opponents.[END]
+"
+"//Text $1B1138
+#WRITE(ptr,$18EE84)
+[Sign_Sword]カイザーナックル[END]
+","//Text $1B1138
+#WRITE(ptr,$18EE84)
+[Sign_Sword]Kaiser Knuckle[END]
+"
+"//Text $1B10F0
+#WRITE(ptr,$18EE88)
+初代チャンピオンが愛用していたと[LINE]
+言われている由緒あるナックル。[LINE]
+[END]
+","//Text $1B10F0
+#WRITE(ptr,$18EE88)
+Venerable knuckles that were said to[LINE]
+have been used by the first champion.[LINE]
+[END]
+"
+"//Text $1B10D8
+#WRITE(ptr,$18EEC0)
+[Sign_Sword]グリムナックル[END]
+","//Text $1B10D8
+#WRITE(ptr,$18EEC0)
+[Sign_Sword]Grimm Knuckle[END]
+"
+"//Text $1B1080
+#WRITE(ptr,$18EEC4)
+伝説に登場する幻想の力を秘めた[LINE]
+ナックル。口伝を書物にまとめた[LINE]
+兄弟の名を冠する。[END]
+","//Text $1B1080
+#WRITE(ptr,$18EEC4)
+Knuckles with the power of illusions.[LINE]
+It bears the name of two brothers[LINE]
+who transcribed many legends.[END]
+"
+"//Text $1B1070
+#WRITE(ptr,$18EEFC)
+[Sign_Sword]ヴェノム[END]
+","//Text $1B1070
+#WRITE(ptr,$18EEFC)
+[Sign_Sword]Venom[END]
+"
+"//Text $1B1018
+#WRITE(ptr,$18EF00)
+悪意を意味するナックル。[LINE]
+角で切り裂き、毒を注いで敵の[LINE]
+動きを麻痺させる凶悪な武器。[END]
+","//Text $1B1018
+#WRITE(ptr,$18EF00)
+Knuckles of pure malice. This weapon[LINE]
+tears flesh with its horns, then pours in[LINE]
+a paralyzing poison.[END]
+"
+"//Text $1B1000
+#WRITE(ptr,$18EF38)
+[Sign_Sword]ウィズティース[END]
+","//Text $1B1000
+#WRITE(ptr,$18EF38)
+[Sign_Sword]Ivory Fang[END]
+"
+"//Text $1B0FA8
+#WRITE(ptr,$18EF3C)
+どこで殴っても敵に致命傷を[LINE]
+与える恐ろしいナックル。[LINE]
+「威力組織」の意味を有する。[END]
+","//Text $1B0FA8
+#WRITE(ptr,$18EF3C)
+Terrifying knuckles that will deal a lethal[LINE]
+blow no matter where they hit. It's name[LINE]
+means ""A Powerful Organization.""[END]
+"
+"//Text $1B0F90
+#WRITE(ptr,$18EF74)
+[Sign_Sword]ゴッドウェポン[END]
+","//Text $1B0F90
+#WRITE(ptr,$18EF74)
+[Sign_Sword]God Weapon[END]
+"
+"//Text $1B0F50
+#WRITE(ptr,$18EF78)
+神の兵器と名付けられたナックル。[LINE]
+輝く拳は全ての悪を打ち砕く。[LINE]
+[END]
+","//Text $1B0F50
+#WRITE(ptr,$18EF78)
+Knuckles that are akin to God's wrath.[LINE]
+These shining fists crush all evil.[LINE]
+[END]
+"
+"//Text $1B0F38
+#WRITE(ptr,$18EFB0)
+[Sign_Sword]ウォルトナックル[END]
+","//Text $1B0F38
+#WRITE(ptr,$18EFB0)
+[Sign_Sword]Volt Knuckle[END]
+"
+"//Text $1B0EE0
+#WRITE(ptr,$18EFB4)
+世界を意味するナックル。[LINE]
+望めば世界を牛耳る力を得る。[LINE]
+選ばれた者のみが手にできる。[END]
+","//Text $1B0EE0
+#WRITE(ptr,$18EFB4)
+These knuckles represent the world. With[LINE]
+their power, you could conquer all. Only[LINE]
+the mightiest of men can wield them.[END]
+"
+"//Text $1B0ED0
+#WRITE(ptr,$18EFEC)
+[Sign_Sword]マンドリン[END]
+","//Text $1B0ED0
+#WRITE(ptr,$18EFEC)
+[Sign_Sword]Mandolin[END]
+"
+"//Text $1B0E90
+#WRITE(ptr,$18EFF0)
+撥弦楽器のひとつ。[LINE]
+鼈甲やセルロイド製の爪で弾いて[LINE]
+演奏する。[END]
+","//Text $1B0E90
+#WRITE(ptr,$18EFF0)
+An offshoot of the lute. Its stings[LINE]
+are plucked with a pick made of a[LINE]
+tortoiseshell.[END]
+"
+"//Text $1B0E80
+#WRITE(ptr,$18F028)
+[Sign_Sword]琵琶[END]
+","//Text $1B0E80
+#WRITE(ptr,$18F028)
+[Sign_Sword]Biwa[END]
+"
+"//Text $1B0E30
+#WRITE(ptr,$18F02C)
+口琴の一種。[LINE]
+アクアヴェイルで流行した楽器。[LINE]
+針のような鉄を指で弾いて鳴らす。[END]
+","//Text $1B0E30
+#WRITE(ptr,$18F02C)
+An instrument popularized in Aquaveil. It[LINE]
+is usually plucked with a bachi instead of[LINE]
+fingers and is often used when storytelling.[END]
+"
+"//Text $1B0E20
+#WRITE(ptr,$18F064)
+[Sign_Sword]リュート[END]
+","//Text $1B0E20
+#WRITE(ptr,$18F064)
+[Sign_Sword]Lute[END]
+"
+"//Text $1B0DE0
+#WRITE(ptr,$18F068)
+撥弦楽器のひとつ。[LINE]
+二本一組みに張られた[LINE]
+多数の弦をもつ。[END]
+","//Text $1B0DE0
+#WRITE(ptr,$18F068)
+The instrument of a Bard.[LINE]
+It has many strings that[LINE]
+are strung in pairs.[END]
+"
+"//Text $1B0DD0
+#WRITE(ptr,$18F0A0)
+[Sign_Sword]ギター[END]
+","//Text $1B0DD0
+#WRITE(ptr,$18F0A0)
+[Sign_Sword]Guitar[END]
+"
+"//Text $1B0D80
+#WRITE(ptr,$18F0A4)
+撥弦楽器のひとつ。[LINE]
+左手の指で弦を押さえて音程を調え、[LINE]
+爪やピックで弦を弾く。[END]
+","//Text $1B0D80
+#WRITE(ptr,$18F0A4)
+The instruments of stars.[LINE]
+You press down the strings[LINE]
+and pluck them with a pick.[END]
+"
+"//Text $1B0D70
+#WRITE(ptr,$18F0DC)
+[Sign_Sword]三味線[END]
+","//Text $1B0D70
+#WRITE(ptr,$18F0DC)
+[Sign_Sword]Shamisen[END]
+"
+"//Text $1B0D28
+#WRITE(ptr,$18F0E0)
+撥弦楽器のひとつ。[LINE]
+棹に貼った三弦を撥を用いて奏する。[LINE]
+ぺんぺん。[END]
+","//Text $1B0D28
+#WRITE(ptr,$18F0E0)
+A string instrument originally from Aquaveil.[LINE]
+Its three strings are plucked with a plectrum.[LINE]
+Peng! Peng![END]
+"
+"//Text $1B0D08
+#WRITE(ptr,$18F118)
+[Sign_Sword]インフィニティギター[END]
+","//Text $1B0D08
+#WRITE(ptr,$18F118)
+[Sign_Sword]Infinity Guitar[END]
+"
+"//Text $1B0CB0
+#WRITE(ptr,$18F11C)
+無限を意味するギター。[LINE]
+その音色は銀河の彼方まで届く。[LINE]
+選ばれた者のみが手にできる。[END]
+","//Text $1B0CB0
+#WRITE(ptr,$18F11C)
+A guitar of infinite potential. Its tone[LINE]
+reaches the depths of space. It can[LINE]
+only be wielded by the chosen one.[END]
+"
+"//Text $1B0C98
+#WRITE(ptr,$18F154)
+[Sign_Sword]とうもろこし[END]
+","//Text $1B0C98
+#WRITE(ptr,$18F154)
+[Sign_Sword]Corn[END]
+"
+"//Text $1B0C50
+#WRITE(ptr,$18F158)
+実に含まれる糖分が多い[LINE]
+とうもろこし。[LINE]
+新鮮なうちに食べるほど甘い。[END]
+","//Text $1B0C50
+#WRITE(ptr,$18F158)
+Corn with high sugar content in the kernels.[LINE]
+The fresher it is, the sweeter it is.[LINE]
+[END]
+"
+"//Text $1B0C40
+#WRITE(ptr,$18F190)
+[Sign_Sword]鉄のおたま[END]
+","//Text $1B0C40
+#WRITE(ptr,$18F190)
+[Sign_Sword]Iron Ladle[END]
+"
+"//Text $1B0BF8
+#WRITE(ptr,$18F194)
+どこの家庭にもある一般的なおたま。[LINE]
+叩かれたらそれなりに痛いです。[LINE]
+[END]
+","//Text $1B0BF8
+#WRITE(ptr,$18F194)
+A common ladle found in every home.[LINE]
+A standard for corporal punishment.[LINE]
+[END]
+"
+"//Text $1B0BE8
+#WRITE(ptr,$18F1CC)
+[Sign_Sword]銅のおたま[END]
+","//Text $1B0BE8
+#WRITE(ptr,$18F1CC)
+[Sign_Sword]Copper Ladle[END]
+"
+"//Text $1B0BA8
+#WRITE(ptr,$18F1D0)
+ちょっと高価な銅製のおたま。[LINE]
+銅は熱伝導率が高いのですが……[LINE]
+[END]
+","//Text $1B0BA8
+#WRITE(ptr,$18F1D0)
+A rather expensive copper ladle. Wait,[LINE]
+doesn't copper conduct a lot of heat?[LINE]
+[END]
+"
+"//Text $1B0B98
+#WRITE(ptr,$18F208)
+[Sign_Sword]銀のおたま[END]
+","//Text $1B0B98
+#WRITE(ptr,$18F208)
+[Sign_Sword]Silver Ladle[END]
+"
+"//Text $1B0B60
+#WRITE(ptr,$18F20C)
+珍しい銀製のおたま。[LINE]
+銀製品はこまめなお手入れが肝心！[LINE]
+[END]
+","//Text $1B0B60
+#WRITE(ptr,$18F20C)
+A rare Silver Ladle. Make sure to[LINE]
+take care of your silverware![LINE]
+[END]
+"
+"//Text $1B0B50
+#WRITE(ptr,$18F244)
+[Sign_Sword]金のおたま[END]
+","//Text $1B0B50
+#WRITE(ptr,$18F244)
+[Sign_Sword]Gold Ladle[END]
+"
+"//Text $1B0B10
+#WRITE(ptr,$18F248)
+金持ちの証し！金製のおたま。[LINE]
+調理道具というより飾り用。[LINE]
+[END]
+","//Text $1B0B10
+#WRITE(ptr,$18F248)
+A ladle made of gold, to flex your[LINE]
+Gald. Disclaimer: Not for cooking.[LINE]
+[END]
+"
+"//Text $1B0AF0
+#WRITE(ptr,$18F280)
+[Sign_Sword]ファナティックおたま[END]
+","//Text $1B0AF0
+#WRITE(ptr,$18F280)
+[Sign_Sword]Fanatic Ladle[END]
+"
+"//Text $1B0A98
+#WRITE(ptr,$18F284)
+熱狂的な料理ファンのための[LINE]
+究極のおたま。実際に[LINE]
+料理が美味しくなるかどうかは不明。[END]
+","//Text $1B0A98
+#WRITE(ptr,$18F284)
+An unrivaled ladle for cooking enthusiasts![LINE]
+I'm not certain it will make your food taste[LINE]
+any better...[END]
+"
+"//Text $1B0A88
+#WRITE(ptr,$18F2BC)
+[Sign_Sword]にんじん[END]
+","//Text $1B0A88
+#WRITE(ptr,$18F2BC)
+[Sign_Sword]Carrot[END]
+"
+"//Text $1B0A38
+#WRITE(ptr,$18F2C0)
+カロテンを豊富に含むにんじん。[LINE]
+バターや油で調理すると[LINE]
+吸収が促進される。[END]
+","//Text $1B0A38
+#WRITE(ptr,$18F2C0)
+Carrots are rich in carotene.[LINE]
+Absorbtion is improved if you[LINE]
+cook it in butter or oil.[END]
+"

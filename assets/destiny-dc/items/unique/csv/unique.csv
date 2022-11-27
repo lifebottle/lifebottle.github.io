@@ -1,0 +1,1578 @@
+"Japanese","English"
+"//Text $1B83F0
+#WRITE(ptr,$191208)
+[Sign_1]レザーガントレット[END]
+","//Text $1B83F0
+#WRITE(ptr,$191208)
+[Sign_1]Leather Gauntlets[END]
+"
+"//Text $1B83A8
+#WRITE(ptr,$19120C)
+革で繋ぎ合わせたガントレット。[LINE]
+軽くてそこそこ丈夫。[LINE]
+見習剣士の必需品。[END]
+","//Text $1B83A8
+#WRITE(ptr,$19120C)
+Gauntlets strung together with leather. [LINE]
+Light and reasonably strong. Essential[LINE]
+for apprentice swordsmen. [END]
+"
+"//Text $1B8388
+#WRITE(ptr,$191228)
+[Sign_1]ブロンズガントレット[END]
+","//Text $1B8388
+#WRITE(ptr,$191228)
+[Sign_1]Bronze Gauntlet[END]
+"
+"//Text $1B8338
+#WRITE(ptr,$19122C)
+薄い銅板で作られたガントレット。[LINE]
+天地戦争時代から使われていた、[LINE]
+伝統ある篭手。[END]
+","//Text $1B8338
+#WRITE(ptr,$19122C)
+Gauntlets made of thin bronze.[LINE]
+Traditionally used since the age[LINE]
+of the Aeth'er War.[END]"
+"//Text $1B8318
+#WRITE(ptr,$191248)
+[Sign_1]アイアンガントレット[END]
+","//Text $1B8318
+#WRITE(ptr,$191248)
+[Sign_1]Iron Gauntlets[END]
+"
+"//Text $1B82D0
+#WRITE(ptr,$19124C)
+鉄板で作られたガントレット。[LINE]
+重いが堅くて丈夫。[LINE]
+もっとも身近な金属。[END]
+","//Text $1B82D0
+#WRITE(ptr,$19124C)
+Gauntlets made of iron, the most[LINE]
+familiar of metals. Sturdy and[LINE]
+tough, but heavy.[END]"
+"//Text $1B82B0
+#WRITE(ptr,$191268)
+[Sign_1]スチールガントレット[END]
+","//Text $1B82B0
+#WRITE(ptr,$191268)
+[Sign_1]Steel Gauntlets[END]
+"
+"//Text $1B8278
+#WRITE(ptr,$19126C)
+鋼板で作られたガントレット。[LINE]
+騎士見習たちの愛用品。[LINE]
+[END]
+","//Text $1B8278
+#WRITE(ptr,$19126C)
+Gauntlets made of several[LINE]
+steel plates. A favorite of[LINE]
+knight apprentices.[END]"
+"//Text $1B8260
+#WRITE(ptr,$191288)
+[Sign_1]チタンガントレット[END]
+","//Text $1B8260
+#WRITE(ptr,$191288)
+[Sign_1]Titanium Gauntlets[END]
+"
+"//Text $1B8218
+#WRITE(ptr,$19128C)
+チタン合金で強化したガントレット。[LINE]
+非常に軽く、並外れた耐食性を持つ。[LINE]
+[END]
+","//Text $1B8218
+#WRITE(ptr,$19128C)
+Gauntlets strengthened with a[LINE]
+titanium alloy. Very light and[LINE]
+corrosion resistant.[END]"
+"//Text $1B81F8
+#WRITE(ptr,$1912A8)
+[Sign_1]シルバーガントレット[END]
+","//Text $1B81F8
+#WRITE(ptr,$1912A8)
+[Sign_1]Silver Gauntlets[END]
+"
+"//Text $1B81C0
+#WRITE(ptr,$1912AC)
+銀細工で装飾されたガントレット。[LINE]
+白い輝きが美しい。[LINE]
+[END]
+","//Text $1B81C0
+#WRITE(ptr,$1912AC)
+Gauntlets decorated with silverwork.[LINE]
+Has a beautiful luster.[LINE]
+[END]"
+"//Text $1B81A0
+#WRITE(ptr,$1912C8)
+[Sign_1]ゴールドガントレット[END]
+","//Text $1B81A0
+#WRITE(ptr,$1912C8)
+[Sign_1]Gold Gauntlets[END]
+"
+"//Text $1B8160
+#WRITE(ptr,$1912CC)
+金細工で装飾したガントレット。[LINE]
+別名「豪華なガントレット」。[LINE]
+[END]
+","//Text $1B8160
+#WRITE(ptr,$1912CC)
+Gauntlets decorated with gold.[LINE]
+Also known as the ""Opulent[LINE]
+Gauntlets.""[END]"
+"//Text $1B8140
+#WRITE(ptr,$1912E8)
+[Sign_1]ミスリルガントレット[END]
+","//Text $1B8140
+#WRITE(ptr,$1912E8)
+[Sign_1]Mithril Gauntlet[END]
+"
+"//Text $1B8100
+#WRITE(ptr,$1912EC)
+ミスリル細工のガントレット。[LINE]
+ドワーフ族の芸術作品といわれる。[LINE]
+[END]
+","//Text $1B8100
+#WRITE(ptr,$1912EC)
+Gauntlets decorated with[LINE]
+Mithril. Considered to be[LINE]
+a Dwarven work of art.[END]"
+"//Text $1B80E0
+#WRITE(ptr,$191308)
+[Sign_1]ハイパーガントレット[END]
+","//Text $1B80E0
+#WRITE(ptr,$191308)
+[Sign_1]Hyper Gauntlets[END]
+"
+"//Text $1B8090
+#WRITE(ptr,$19130C)
+獅子の牙と火鼠の皮で加工した[LINE]
+ガントレット。[LINE]
+百獣の王の力が込められている。[END]
+","//Text $1B8090
+#WRITE(ptr,$19130C)
+Gauntlets made with lion teeth and[LINE]
+fire rat skin. Imbued with the power[LINE]
+of the King of Beasts.[END]"
+"//Text $1B8078
+#WRITE(ptr,$191328)
+[Sign_1]レアガントレット[END]
+","//Text $1B8078
+#WRITE(ptr,$191328)
+[Sign_1]Rare Gauntlets[END]
+"
+"//Text $1B5880
+#WRITE(ptr,$19132C)
+名工ギースの魂のこもった[LINE]
+無二の傑作。[LINE]
+きわめて希少価値が高い。[END]
+","//Text $1B5880
+#WRITE(ptr,$19132C)
+Masterpiece imbued with the soul[LINE]
+of Giese. Extremely valuable.[LINE]
+[END]
+"
+"//Text $1B8060
+#WRITE(ptr,$191348)
+[Sign_1]バトルガントレット[END]
+","//Text $1B8060
+#WRITE(ptr,$191348)
+[Sign_1]Battle Gauntlets[END]
+"
+"//Text $1B8000
+#WRITE(ptr,$19134C)
+戦闘用に特化したガントレット。[LINE]
+機能性が良いだけではなく、[LINE]
+装備者の力を限界まで引き上げる。[END]
+","//Text $1B8000
+#WRITE(ptr,$19134C)
+Gauntlets made specially for combat.[LINE]
+Not only functional, but also has the[LINE]
+power to push past one's limits.[END]"
+"//Text $1B7FE8
+#WRITE(ptr,$191368)
+[Sign_1]グリムガントレット[END]
+","//Text $1B7FE8
+#WRITE(ptr,$191368)
+[Sign_1]Grimm Gauntlets[END]
+"
+"//Text $1B7F90
+#WRITE(ptr,$19136C)
+伝説に登場する幻想の力を秘めた[LINE]
+ガントレット。口伝を書物に[LINE]
+まとめた兄弟の名を冠する。[END]
+","//Text $1B7F90
+#WRITE(ptr,$19136C)
+Gauntlets imbued with the hidden power[LINE]
+of fantasies. Named after the brothers[LINE]
+who collected oral traditions.[END]"
+"//Text $1B7F78
+#WRITE(ptr,$191388)
+[Sign_1]レザーグローブ[END]
+","//Text $1B7F78
+#WRITE(ptr,$191388)
+[Sign_1]Leather Gloves[END]
+"
+"//Text $1B7F30
+#WRITE(ptr,$19138C)
+革で繋ぎ合わせたグローブ。[LINE]
+少し固いが丈夫で安全。[LINE]
+女性の旅のお供に。[END]
+","//Text $1B7F30
+#WRITE(ptr,$19138C)
+Bound together by leather. Somewhat stiff,[LINE]
+but strong gloves. A regular companion of[LINE]
+female travellers.[END]"
+"//Text $1B7F18
+#WRITE(ptr,$1913A8)
+[Sign_1]プリティグローブ[END]
+","//Text $1B7F18
+#WRITE(ptr,$1913A8)
+[Sign_1]Pretty Gloves[END]
+"
+"//Text $1B7EC0
+#WRITE(ptr,$1913AC)
+まふまふの毛で作られたファーが[LINE]
+ついてる可愛い手袋。[LINE]
+寒くてもお洒落したいあなたへ。[END]
+","//Text $1B7EC0
+#WRITE(ptr,$1913AC)
+Cute mittens made of soft fur.[LINE]
+For those who are stylish but[LINE]
+feel cold.[END]"
+"//Text $1B7EA8
+#WRITE(ptr,$1913C8)
+[Sign_1]ホワイトグローブ[END]
+","//Text $1B7EA8
+#WRITE(ptr,$1913C8)
+[Sign_1]White Gloves[END]
+"
+"//Text $1B7E48
+#WRITE(ptr,$1913CC)
+シルクで作られた美しいグローブ。[LINE]
+滑らかな手触りに上品な刺繍。[LINE]
+身に付けるだけであなたも淑女に。[END]
+","//Text $1B7E48
+#WRITE(ptr,$1913CC)
+Beautiful gloves made of silk.[LINE]
+Elegant and soft to the touch.[LINE]
+You too can be a lady.[END]"
+"//Text $1B7E30
+#WRITE(ptr,$1913E8)
+[Sign_1]ムーングローブ[END]
+","//Text $1B7E30
+#WRITE(ptr,$1913E8)
+[Sign_1]Moon Gloves[END]
+"
+"//Text $1B7DD8
+#WRITE(ptr,$1913EC)
+月夜を意匠して作られたグローブ。[LINE]
+聖なる月の力が宿っている。[LINE]
+クロークとセットでどうぞ。[END]
+","//Text $1B7DD8
+#WRITE(ptr,$1913EC)
+Gloves designed after a moonlit night.[LINE]
+Endowed with the moon's holy power.[LINE]
+Goes well with its cloak.[END]"
+"//Text $1B7DC0
+#WRITE(ptr,$191408)
+[Sign_1]スターグローブ[END]
+","//Text $1B7DC0
+#WRITE(ptr,$191408)
+[Sign_1]Star Gloves[END]
+"
+"//Text $1B7D68
+#WRITE(ptr,$19140C)
+星を意匠して作られたグローブ。[LINE]
+指先はまるで流星のよう。[LINE]
+クロークとセットでどうぞ。[END]
+","//Text $1B7D68
+#WRITE(ptr,$19140C)
+Gloves designed after a star. Its[LINE]
+fingertips look like falling stars.[LINE]
+Goes well with its cloak.[END]"
+"//Text $1B7D50
+#WRITE(ptr,$191428)
+[Sign_1]ルーングローブ[END]
+","//Text $1B7D50
+#WRITE(ptr,$191428)
+[Sign_1]Rune Gloves[END]
+"
+"//Text $1B7CF8
+#WRITE(ptr,$19142C)
+慈愛のルーンが刺繍されたグローブ。[LINE]
+触れる者全てを癒す力を、[LINE]
+身に付けた者に与える。[END]
+","//Text $1B7CF8
+#WRITE(ptr,$19142C)
+Gloves embroidered with the Love[LINE]
+rune. Imbues one with the power[LINE]
+to heal with a touch.[END]"
+"//Text $1B7CE0
+#WRITE(ptr,$191448)
+[Sign_1]ミスティグローブ[END]
+","//Text $1B7CE0
+#WRITE(ptr,$191448)
+[Sign_1]Misty Gloves[END]
+"
+"//Text $1B7C88
+#WRITE(ptr,$19144C)
+原料や生成が不明なグローブ。[LINE]
+見る角度により色が変化する。[LINE]
+クロークとセットでどうぞ。[END]
+","//Text $1B7C88
+#WRITE(ptr,$19144C)
+Gloves made from unknown materials.[LINE]
+Its colors change with viewing angle.[LINE]
+Goes well with its cloak.[END]"
+"//Text $1B7C70
+#WRITE(ptr,$191468)
+[Sign_1]ミスリルグローブ[END]
+","//Text $1B7C70
+#WRITE(ptr,$191468)
+[Sign_1]Mithril Gloves[END]
+"
+"//Text $1B7C30
+#WRITE(ptr,$19146C)
+ミスリル細工のグローブ。[LINE]
+ドワーフ族の芸術作品といわれる。[LINE]
+[END]
+","//Text $1B7C30
+#WRITE(ptr,$19146C)
+Gloves decorated with Mithril.[LINE]
+Considered to be a Dwarven[LINE]
+work of art.[END]"
+"//Text $1B7C18
+#WRITE(ptr,$191488)
+[Sign_1]スティールグローブ[END]
+","//Text $1B7C18
+#WRITE(ptr,$191488)
+[Sign_1]Steal Gloves[END]
+"
+"//Text $1B7BC0
+#WRITE(ptr,$19148C)
+伝承で伝わる伝説の義賊が使って[LINE]
+いたグローブ。気配を絶ち相手の[LINE]
+懐を掠め取る神業を得る。[END]
+","//Text $1B7BC0
+#WRITE(ptr,$19148C)
+Gloves said to have been worn by[LINE]
+a legendary thief. Allows one to[LINE]
+pickpocket even hidden targets.[END]"
+"//Text $1B7BA8
+#WRITE(ptr,$1914A8)
+[Sign_1]グリムグローブ[END]
+","//Text $1B7BA8
+#WRITE(ptr,$1914A8)
+[Sign_1]Grimm Gloves[END]
+"
+"//Text $1B7B50
+#WRITE(ptr,$1914AC)
+伝説に登場する幻想の力を秘めた[LINE]
+グローブ。口伝を書物にまとめた[LINE]
+兄弟の名を冠する。[END]
+","//Text $1B7B50
+#WRITE(ptr,$1914AC)
+Gloves imbued with the hidden power of[LINE]
+fantasies. Named after the brothers who[LINE]
+collected oral traditions into a book.[END]"
+"//Text $1B7B38
+#WRITE(ptr,$1914C8)
+[Sign_1]ストレイネックレス[END]
+","//Text $1B7B38
+#WRITE(ptr,$1914C8)
+[Sign_1]Stray Necklace[END]
+"
+"//Text $1B7AE8
+#WRITE(ptr,$1914CC)
+ストレイライズ神殿の司祭に[LINE]
+与えられるネックレス。[LINE]
+集中力を高める効果がある。[END]
+","//Text $1B7AE8
+#WRITE(ptr,$1914CC)
+Necklace given to the priests of[LINE]
+the Straylize temple. Increases[LINE]
+the wearers concentration.[END]"
+"//Text $1B7AC8
+#WRITE(ptr,$1914E8)
+[Sign_1]ウィズダムネックレス[END]
+","//Text $1B7AC8
+#WRITE(ptr,$1914E8)
+[Sign_1]Wisdom Necklace[END]
+"
+"//Text $1B7A60
+#WRITE(ptr,$1914EC)
+地の精霊の加護を受けたネックレス。[LINE]
+揺るがぬ冷静な心を与える。[LINE]
+地属性晶術のダメージがアップする。[END]
+","//Text $1B7A60
+#WRITE(ptr,$1914EC)
+Necklace imbued with the Earth Spirits.[LINE]
+Gives one unshakable composure.[LINE]
+Increases the damage of [Sign_Earth] spells.[END]"
+"//Text $1B7A40
+#WRITE(ptr,$191508)
+[Sign_1]アバタールネックレス[END]
+","//Text $1B7A40
+#WRITE(ptr,$191508)
+[Sign_1]Avatar Necklace[END]
+"
+"//Text $1B79D0
+#WRITE(ptr,$19150C)
+風の精霊の加護を受けたネックレス。[LINE]
+理想を現実へと導く行動力を与える。[LINE]
+風属性晶術のダメージがアップする。[END]
+","//Text $1B79D0
+#WRITE(ptr,$19150C)
+Necklace imbued with the Wind Spirits.[LINE]
+Gives the drive to make dreams real.[LINE]
+Increases the damage of [Sign_Wind] spells.[END]"
+"//Text $1B79B0
+#WRITE(ptr,$191528)
+[Sign_1]アーケインネックレス[END]
+","//Text $1B79B0
+#WRITE(ptr,$191528)
+[Sign_1]Arcane Necklace[END]
+"
+"//Text $1B7948
+#WRITE(ptr,$19152C)
+火の精霊の加護を受けたネックレス。[LINE]
+神秘なる者の声を聞く力を与える。[LINE]
+火属性晶術のダメージがアップする。[END]
+","//Text $1B7948
+#WRITE(ptr,$19152C)
+Necklace imbued with the Fire Spirits.[LINE]
+Makes one hear hidden voices.[LINE]
+Increases the damage of [Sign_Fire] spells.[END]"
+"//Text $1B7930
+#WRITE(ptr,$191548)
+[Sign_1]マジカルネックレス[END]
+","//Text $1B7930
+#WRITE(ptr,$191548)
+[Sign_1]Magical Necklace[END]
+"
+"//Text $1B78C8
+#WRITE(ptr,$19154C)
+水の精霊の加護を受けたネックレス。[LINE]
+精神力をより鋭く研ぎ澄まされる。[LINE]
+水属性晶術のダメージがアップする。[END]
+","//Text $1B78C8
+#WRITE(ptr,$19154C)
+Necklace imbued with the Water Spirits.[LINE]
+Sharpens one's willpower. Increases the[LINE]
+damage of [Sign_Water] spells.[END]"
+"//Text $1B78B0
+#WRITE(ptr,$191568)
+[Sign_1]マインドネックレス[END]
+","//Text $1B78B0
+#WRITE(ptr,$191568)
+[Sign_1]Mind Necklace[END]
+"
+"//Text $1B7848
+#WRITE(ptr,$19156C)
+光の精霊の加護を受けたネックレス。[LINE]
+心に秘めた力を増加させる。[LINE]
+光属性晶術のダメージがアップする。[END]
+","//Text $1B7848
+#WRITE(ptr,$19156C)
+Necklace imbued with the Light Spirits.[LINE]
+Heightens one's power to keep secrets.[LINE]
+Increases the damage of [Sign_Light] spells.[END]"
+"//Text $1B7830
+#WRITE(ptr,$191588)
+[Sign_1]メンタルネックレス[END]
+","//Text $1B7830
+#WRITE(ptr,$191588)
+[Sign_1]Mental Necklace[END]
+"
+"//Text $1B77D0
+#WRITE(ptr,$19158C)
+大地母神の祝福を受けたネックレス。[LINE]
+大いなる祝福と深い慈愛を。[LINE]
+地属性晶術の詠唱時間が減少する。[END]
+","//Text $1B77D0
+#WRITE(ptr,$19158C)
+Necklace imbued with the Earth Spirits and[LINE]
+Goddess' blessings and love. Decreases[LINE]
+the casting time of [Sign_Earth] spells.[END]"
+"//Text $1B77B0
+#WRITE(ptr,$1915A8)
+[Sign_1]トランキルネックレス[END]
+","//Text $1B77B0
+#WRITE(ptr,$1915A8)
+[Sign_1]Tranquil Necklace[END]
+"
+"//Text $1B7750
+#WRITE(ptr,$1915AC)
+風の王の祝福を受けたネックレス。[LINE]
+大いなる祝福と歪まぬ心を。[LINE]
+風属性晶術の詠唱時間が減少する。[END]
+","//Text $1B7750
+#WRITE(ptr,$1915AC)
+Necklace imbued with the Lord of Winds'[LINE]
+blessing and warped heart. Decreases[LINE]
+the casting time of [Sign_Wind] spells.[END]"
+"//Text $1B7738
+#WRITE(ptr,$1915C8)
+[Sign_1]ミューズネックレス[END]
+","//Text $1B7738
+#WRITE(ptr,$1915C8)
+[Sign_1]Muse Necklace[END]
+"
+"//Text $1B76D8
+#WRITE(ptr,$1915CC)
+炎の女神の祝福を受けたネックレス。[LINE]
+大いなる祝福と貫く意思を。[LINE]
+火属性晶術の詠唱時間が減少する。[END]
+","//Text $1B76D8
+#WRITE(ptr,$1915CC)
+Necklace imbued with the Fire Goddess'[LINE]
+blessing and impenetrable will. Decreases [LINE]
+the casting time of [Sign_Fire] spells.[END]"
+"//Text $1B76B8
+#WRITE(ptr,$1915E8)
+[Sign_1]フェアリィネックレス[END]
+","//Text $1B76B8
+#WRITE(ptr,$1915E8)
+[Sign_1]Fairy Necklace[END]
+"
+"//Text $1B7658
+#WRITE(ptr,$1915EC)
+海の神の祝福を受けたネックレス。[LINE]
+大いなる祝福と惑わぬ心を。[LINE]
+水属性晶術の詠唱時間が減少する。[END]
+","//Text $1B7658
+#WRITE(ptr,$1915EC)
+Necklace imbued with the Ocean God's[LINE]
+blessing and unwavering heart. [LINE]
+Decreases the casting time of [Sign_Water] spells.[END]"
+"//Text $1B7638
+#WRITE(ptr,$191608)
+[Sign_1]リチュアルネックレス[END]
+","//Text $1B7638
+#WRITE(ptr,$191608)
+[Sign_1]Ritual Necklace[END]
+"
+"//Text $1B75D0
+#WRITE(ptr,$19160C)
+光の大神の祝福を受けたネックレス。[LINE]
+大いなる祝福と永久の忠誠を。[LINE]
+光属性晶術の詠唱時間が減少する。[END]
+","//Text $1B75D0
+#WRITE(ptr,$19160C)
+Necklace imbued with the God of Light's[LINE]
+blessing and eternal integrity. Decreases[LINE]
+the casting time of [Sign_Light] spells.[END]"
+"//Text $1B75C0
+#WRITE(ptr,$191628)
+[Sign_1]セルフボウ[END]
+","//Text $1B75C0
+#WRITE(ptr,$191628)
+[Sign_1]Otto Bow[END]
+"
+"//Text $1B7570
+#WRITE(ptr,$19162C)
+1本の木材で構成された長弓。[LINE]
+弓の道に進むのなら、[LINE]
+まずは自分の弓作りから。[END]
+","//Text $1B7570
+#WRITE(ptr,$19162C)
+Longbow made from a single piece of[LINE]
+lumber. To master the art of archery,[LINE]
+one must craft a bow of their own.[END]"
+"//Text $1B7558
+#WRITE(ptr,$191648)
+[Sign_1]コンポジットボウ[END]
+","//Text $1B7558
+#WRITE(ptr,$191648)
+[Sign_1]Composite Bow[END]
+"
+"//Text $1B7508
+#WRITE(ptr,$19164C)
+複数の材料と材質を合わせた長弓。[LINE]
+軸がぶれず適度に柔軟。[LINE]
+弓に慣れてきた狩人用。[END]
+","//Text $1B7508
+#WRITE(ptr,$19164C)
+Longbow made of several materials.[LINE]
+Moderately flexible. For hunters[LINE]
+familiar with the use of bows.[END]"
+"//Text $1B74F0
+#WRITE(ptr,$191668)
+[Sign_1]ラップドボウ[END]
+","//Text $1B74F0
+#WRITE(ptr,$191668)
+[Sign_1]Wrapped Bow[END]
+"
+"//Text $1B7498
+#WRITE(ptr,$19166C)
+風よりも速く、駆ける獣をも射る。[LINE]
+自らが狩った獣の体の一部を[LINE]
+使用して作るのが伝統。[END]
+","//Text $1B7498
+#WRITE(ptr,$19166C)
+Faster than the wind, it can reach[LINE]
+fleeing prey. Traditionally made[LINE]
+with a part of a hunted animal.[END]"
+"//Text $1B7480
+#WRITE(ptr,$191688)
+[Sign_1]カスタムボウ[END]
+","//Text $1B7480
+#WRITE(ptr,$191688)
+[Sign_1]Custom Bow[END]
+"
+"//Text $1B7428
+#WRITE(ptr,$19168C)
+錬金術から生まれた特殊金属の長弓。[LINE]
+獲物の存在を感知すると、[LINE]
+熱を持って伝えるという。[END]
+","//Text $1B7428
+#WRITE(ptr,$19168C)
+Longbow made from a special[LINE]
+alchemically created metal. Said to[LINE]
+feel a prey's presence by its heat.[END]"
+"//Text $1B7410
+#WRITE(ptr,$1916A8)
+[Sign_1]ラピッドボウ[END]
+","//Text $1B7410
+#WRITE(ptr,$1916A8)
+[Sign_1]Rapid Bow[END]
+"
+"//Text $1B73B8
+#WRITE(ptr,$1916AC)
+草原を駆ける獣よりも速く。[LINE]
+天高く飛ぶ鳥よりも遠くへ。[LINE]
+最高の腕を持つ狩人のための長弓。[END]
+","//Text $1B73B8
+#WRITE(ptr,$1916AC)
+Faster than an animal running through the[LINE]
+fields. Faster than the birds flying through[LINE]
+the skies. Made for experienced hunters.[END]"
+"//Text $1B73A8
+#WRITE(ptr,$1916C8)
+[Sign_1]キラーボウ[END]
+","//Text $1B73A8
+#WRITE(ptr,$1916C8)
+[Sign_1]Killer Bow[END]
+"
+"//Text $1B7368
+#WRITE(ptr,$1916CC)
+一撃必中。[LINE]
+暗殺に特化された長弓。[LINE]
+音もなく放たれる死の一撃。[END]
+","//Text $1B7368
+#WRITE(ptr,$1916CC)
+One hit, one kill. Longbow used[LINE]
+in assassinations. Shoots death[LINE]
+silently.[END]"
+"//Text $1B7358
+#WRITE(ptr,$1916E8)
+[Sign_1]バトルボウ[END]
+","//Text $1B7358
+#WRITE(ptr,$1916E8)
+[Sign_1]Battle Bow[END]
+"
+"//Text $1B7308
+#WRITE(ptr,$1916EC)
+その名の通り戦闘に特化した長弓。[LINE]
+強度もあり、その一撃は敵の装甲を[LINE]
+貫くほど。[END]
+","//Text $1B7308
+#WRITE(ptr,$1916EC)
+Longbow made for use on the[LINE]
+battlefield. Strong enough to[LINE]
+pierce the enemy's armor.[END]"
+"//Text $1B72F8
+#WRITE(ptr,$191708)
+[Sign_1]グリムボウ[END]
+","//Text $1B72F8
+#WRITE(ptr,$191708)
+[Sign_1]Grimm Bow[END]
+"
+"//Text $1B72A8
+#WRITE(ptr,$19170C)
+伝説に登場する幻想の力を秘めた[LINE]
+長弓。口伝を書物にまとめた[LINE]
+兄弟の名を冠する。[END]
+","//Text $1B72A8
+#WRITE(ptr,$19170C)
+Longbow imbued with the hidden power of[LINE]
+fantasies. Named after the brothers who[LINE]
+collected oral traditions into a book.[END]"
+"//Text $1B7298
+#WRITE(ptr,$191728)
+[Sign_1]ねぎ[END]
+","//Text $1B7298
+#WRITE(ptr,$191728)
+[Sign_1]Leek[END]
+"
+"//Text $1B7248
+#WRITE(ptr,$19172C)
+古くから薬用植物として重宝され、[LINE]
+体を温めたり、[LINE]
+疲労回復などの効果がある。[END]
+","//Text $1B7248
+#WRITE(ptr,$19172C)
+Used as a medicinal plant since[LINE]
+ancient times, it warms the body[LINE]
+and relieves fatigue.[END]"
+"//Text $1B7230
+#WRITE(ptr,$191748)
+[Sign_1]リングダガー[END]
+","//Text $1B7230
+#WRITE(ptr,$191748)
+[Sign_1]Ring Dagger[END]
+"
+"//Text $1B71E0
+#WRITE(ptr,$19174C)
+柄頭の形状がリングになっている[LINE]
+短剣。輪に紐を通して[LINE]
+投げて使うことも可能。[END]
+","//Text $1B71E0
+#WRITE(ptr,$19174C)
+A dagger with a ring-shaped[LINE]
+pommel. Attach a wire and[LINE]
+you can throw and reel it in.[END]"
+"//Text $1B71C8
+#WRITE(ptr,$191768)
+[Sign_1]キドニーダガー[END]
+","//Text $1B71C8
+#WRITE(ptr,$191768)
+[Sign_1]Kidney Dagger[END]
+"
+"//Text $1B7168
+#WRITE(ptr,$19176C)
+騎士達が持つ切っ先の尖った短剣。[LINE]
+相手を傷つけることよりも[LINE]
+儀礼的なことで使われる事が多い。[END]
+","//Text $1B7168
+#WRITE(ptr,$19176C)
+A sharp dagger carried by the knights.[LINE]
+It is more often used for ceremonial[LINE]
+purposes than for actual combat.[END]"
+"//Text $1B7150
+#WRITE(ptr,$191788)
+[Sign_1]イヤードダガー[END]
+","//Text $1B7150
+#WRITE(ptr,$191788)
+[Sign_1]Ear Dagger[END]
+"
+"//Text $1B7108
+#WRITE(ptr,$19178C)
+柄頭が耳のような形状をした短剣。[LINE]
+握りやすく、優れた貫通力を持つ。[LINE]
+[END]
+","//Text $1B7108
+#WRITE(ptr,$19178C)
+A dagger with an ear-shaped[LINE]
+pommel. It's easy to grip and[LINE]
+has great piercing power.[END]"
+"//Text $1B70F0
+#WRITE(ptr,$1917A8)
+[Sign_1]パリーイングダガー[END]
+","//Text $1B70F0
+#WRITE(ptr,$1917A8)
+[Sign_1]Parrying Dagger[END]
+"
+"//Text $1B7098
+#WRITE(ptr,$1917AC)
+二刀流剣士の必需品、左手用短剣。[LINE]
+硬い刀身を持ち、[LINE]
+相手の剣を受け止めることも可能。[END]
+","//Text $1B7098
+#WRITE(ptr,$1917AC)
+Left-hand held dagger, a necessity for[LINE]
+ambidextrous swordsmen. Has a sharp[LINE]
+blade and can block enemy attacks.[END]"
+"//Text $1B7080
+#WRITE(ptr,$1917C8)
+[Sign_1]ポニャードダガー[END]
+","//Text $1B7080
+#WRITE(ptr,$1917C8)
+[Sign_1]Poignard Dagger[END]
+"
+"//Text $1B7038
+#WRITE(ptr,$1917CC)
+刺すことに力点を置いた短剣。[LINE]
+決闘で使われる殺傷能力の高い武器。[LINE]
+[END]
+","//Text $1B7038
+#WRITE(ptr,$1917CC)
+A dagger made for thrusting.[LINE]
+When used in a duel it can[LINE]
+inflict severe bloodshed.[END]"
+"//Text $1B7020
+#WRITE(ptr,$1917E8)
+[Sign_1]クリスダガー[END]
+","//Text $1B7020
+#WRITE(ptr,$1917E8)
+[Sign_1]Kris Dagger[END]
+"
+"//Text $1B6FB8
+#WRITE(ptr,$1917EC)
+世界中でもっとも洗練された武器。[LINE]
+刃は両刃で波形にうねっている。[LINE]
+身を守り、邪悪を退ける力を持つ。[END]
+","//Text $1B6FB8
+#WRITE(ptr,$1917EC)
+The world's most refined weapon.[LINE]
+Its double-edged blade undulates.[LINE]
+Protects the user and expels evil.[END]"
+"//Text $1B6FA8
+#WRITE(ptr,$191808)
+[Sign_1]まつたけ[END]
+","//Text $1B6FA8
+#WRITE(ptr,$191808)
+[Sign_1]Mushroom[END]
+"
+"//Text $1B6F60
+#WRITE(ptr,$19180C)
+非常に高価なきのこの王様。[LINE]
+傘が開ききると[LINE]
+香りも味も落ちてしまう。[END]
+","//Text $1B6F60
+#WRITE(ptr,$19180C)
+The utterly expensive king of mushrooms.[LINE]
+Acquires a powerful taste and smell when[LINE]
+its cap opens.[END]"
+"//Text $1B6F48
+#WRITE(ptr,$191828)
+[Sign_1]必勝バンダナ[END]
+","//Text $1B6F48
+#WRITE(ptr,$191828)
+[Sign_1]Triumph Bandana[END]
+"
+"//Text $1B6F08
+#WRITE(ptr,$19182C)
+『必勝』と描かれたバンダナ。[LINE]
+気が引き締まり、攻撃力アップ！[LINE]
+[END]
+","//Text $1B6F08
+#WRITE(ptr,$19182C)
+A ""Certain Victory"" bandana.[LINE]
+Increases attack when worn.[LINE]
+[END]"
+"//Text $1B6EF0
+#WRITE(ptr,$191848)
+[Sign_1]激烈バンダナ[END]
+","//Text $1B6EF0
+#WRITE(ptr,$191848)
+[Sign_1]Fury Bandana[END]
+"
+"//Text $1B6EA8
+#WRITE(ptr,$19184C)
+『激烈』と描かれたバンダナ。[LINE]
+熱毒を防止し、攻撃力を上昇させる。[LINE]
+[END]
+","//Text $1B6EA8
+#WRITE(ptr,$19184C)
+A ""Fury"" bandana. Protects[LINE]
+wearer against poison and[LINE]
+increases attack when worn.[END]"
+"//Text $1B6E90
+#WRITE(ptr,$191868)
+[Sign_1]堅牢バンダナ[END]
+","//Text $1B6E90
+#WRITE(ptr,$191868)
+[Sign_1]Stout Bandana[END]
+"
+"//Text $1B6E48
+#WRITE(ptr,$19186C)
+『堅牢』と描かれたバンダナ。[LINE]
+石化を防止し、防御力を上昇させる。[LINE]
+[END]
+","//Text $1B6E48
+#WRITE(ptr,$19186C)
+A ""Stout"" bandana. Protects wearer[LINE]
+against petrification and increases[LINE]
+defense.[END]"
+"//Text $1B6E30
+#WRITE(ptr,$191888)
+[Sign_1]天空バンダナ[END]
+","//Text $1B6E30
+#WRITE(ptr,$191888)
+[Sign_1]Sky Bandana[END]
+"
+"//Text $1B6DF0
+#WRITE(ptr,$19188C)
+『天空』と描かれたバンダナ。[LINE]
+麻痺を防止し、体力を上昇させる。[LINE]
+[END]
+","//Text $1B6DF0
+#WRITE(ptr,$19188C)
+A ""Sky"" bandana. Protects[LINE]
+wearer against paralysis[LINE]
+and increases endurance.[END]"
+"//Text $1B6DD8
+#WRITE(ptr,$1918A8)
+[Sign_1]覚醒バンダナ[END]
+","//Text $1B6DD8
+#WRITE(ptr,$1918A8)
+[Sign_1]Awakening Bandana[END]
+"
+"//Text $1B6D90
+#WRITE(ptr,$1918AC)
+『覚醒』と描かれたバンダナ。[LINE]
+睡眠を防止し、集中力を上昇させる。[LINE]
+[END]
+","//Text $1B6D90
+#WRITE(ptr,$1918AC)
+An ""Awakening"" bandana. Protects[LINE]
+wearer against sleep and increases[LINE]
+concentration.[END]"
+"//Text $1B6D78
+#WRITE(ptr,$1918C8)
+[Sign_1]疾風バンダナ[END]
+","//Text $1B6D78
+#WRITE(ptr,$1918C8)
+[Sign_1]Gale Bandana[END]
+"
+"//Text $1B6D30
+#WRITE(ptr,$1918CC)
+『疾風』と描かれたバンダナ。[LINE]
+衰弱を防止し、回避率を上昇させる。[LINE]
+[END]
+","//Text $1B6D30
+#WRITE(ptr,$1918CC)
+A ""Gale"" bandana. Protects[LINE]
+wearer against weakness[LINE]
+and increases evasion.[END]"
+"//Text $1B6D18
+#WRITE(ptr,$1918E8)
+[Sign_1]滅殺バンダナ[END]
+","//Text $1B6D18
+#WRITE(ptr,$1918E8)
+[Sign_1]Annihilation Bandana[END]
+"
+"//Text $1B6CD0
+#WRITE(ptr,$1918EC)
+『滅殺』と描かれたバンダナ。[LINE]
+封印を防止し、命中率を上昇させる。[LINE]
+[END]
+","//Text $1B6CD0
+#WRITE(ptr,$1918EC)
+An ""Annihilation"" bandana. Protects[LINE]
+wearer against seal and increases[LINE]
+accuracy.[END]"
+"//Text $1B6CB8
+#WRITE(ptr,$191908)
+[Sign_1]豪傑バンダナ[END]
+","//Text $1B6CB8
+#WRITE(ptr,$191908)
+[Sign_1]Hero Bandana[END]
+"
+"//Text $1B6C80
+#WRITE(ptr,$19190C)
+『豪傑』と描かれたバンダナ。[LINE]
+攻撃力が大幅に上昇する。[LINE]
+[END]
+","//Text $1B6C80
+#WRITE(ptr,$19190C)
+A ""Hero"" bandana. Greatly[LINE]
+increases wearer's attack.[LINE]
+[END]"
+"//Text $1B6C68
+#WRITE(ptr,$191928)
+[Sign_1]革命バンダナ[END]
+","//Text $1B6C68
+#WRITE(ptr,$191928)
+[Sign_1]Revolution Bandana[END]
+"
+"//Text $1B6C10
+#WRITE(ptr,$19192C)
+『革命』と描かれたバンダナ。[LINE]
+どんな事でも揺るがない！[LINE]
+全ての状態異常を防止する。[END]
+","//Text $1B6C10
+#WRITE(ptr,$19192C)
+A ""Revolution"" bandana. Protects[LINE]
+against all ailments. ""Nothing will[LINE] 
+shake me!""[END]"
+"//Text $1B6BF8
+#WRITE(ptr,$191948)
+[Sign_1]レッドリボン[END]
+","//Text $1B6BF8
+#WRITE(ptr,$191948)
+[Sign_1]Red Ribbon[END]
+"
+"//Text $1B6BB0
+#WRITE(ptr,$19194C)
+真っ赤なシンプルなリボン。[LINE]
+女の子の必需品。[LINE]
+火属性耐性を付加する。[END]
+","//Text $1B6BB0
+#WRITE(ptr,$19194C)
+A simple red ribbon. A necessity for[LINE]
+girls. Increases fire resistance.[LINE]
+[END]"
+"//Text $1B6B98
+#WRITE(ptr,$191968)
+[Sign_1]ブルーリボン[END]
+","//Text $1B6B98
+#WRITE(ptr,$191968)
+[Sign_1]Blue Ribbon[END]
+"
+"//Text $1B6B48
+#WRITE(ptr,$19196C)
+水色のプリーツ状リボン。[LINE]
+ちょっとおしゃまな女の子向け。[LINE]
+水属性耐性を付加する。[END]
+","//Text $1B6B48
+#WRITE(ptr,$19196C)
+A light blue pleated ribbon.[LINE]
+Made for precocious girls.[LINE]
+Increases water resistance.[END]"
+"//Text $1B6B30
+#WRITE(ptr,$191988)
+[Sign_1]オレンジリボン[END]
+","//Text $1B6B30
+#WRITE(ptr,$191988)
+[Sign_1]Orange Ribbon[END]
+"
+"//Text $1B6AE0
+#WRITE(ptr,$19198C)
+サテン生地のオレンジリボン。[LINE]
+お姉さんに憧れる女の子へ。[LINE]
+地属性耐性を付加する。[END]
+","//Text $1B6AE0
+#WRITE(ptr,$19198C)
+An orange satin ribbon. For girls[LINE]
+who look up to ladies. Increases[LINE]
+earth resistance.[END]"
+"//Text $1B6AC8
+#WRITE(ptr,$1919A8)
+[Sign_1]グリーンリボン[END]
+","//Text $1B6AC8
+#WRITE(ptr,$1919A8)
+[Sign_1]Green Ribbon[END]
+"
+"//Text $1B6A70
+#WRITE(ptr,$1919AC)
+南国ちっくな緑のリボン。[LINE]
+人とは違った物をつけたい女の子向け。[LINE]
+風属性耐性を付加する。[END]
+","//Text $1B6A70
+#WRITE(ptr,$1919AC)
+A tropical green ribbon. For girls[LINE]
+who want to become different.[LINE]
+Increases wind resistance.[END]
+"
+"//Text $1B6A58
+#WRITE(ptr,$1919C8)
+[Sign_1]ホワイトリボン[END]
+","//Text $1B6A58
+#WRITE(ptr,$1919C8)
+[Sign_1]White Ribbon[END]
+"
+"//Text $1B6A00
+#WRITE(ptr,$1919CC)
+天使のような羽つきリボン。[LINE]
+ワンランク上の女の子になれる！[LINE]
+光属性耐性を付加する。[END]
+","//Text $1B6A00
+#WRITE(ptr,$1919CC)
+Ribbon decorated with angel feathers.[LINE]
+Wearing it makes a girl look classy![LINE]
+Increases light resistance.[END]
+"
+"//Text $1B69E8
+#WRITE(ptr,$1919E8)
+[Sign_1]ブラックリボン[END]
+","//Text $1B69E8
+#WRITE(ptr,$1919E8)
+[Sign_1]Black Ribbon[END]
+"
+"//Text $1B6998
+#WRITE(ptr,$1919EC)
+神秘的な黒いリボン。[LINE]
+大人の女性も越えたいあなたへ。[LINE]
+闇属性耐性を付加する。[END]
+","//Text $1B6998
+#WRITE(ptr,$1919EC)
+A mysterious black ribbon. For those[LINE]
+who want to surpass adult women.[LINE]
+Increases dark resistance.[END]"
+"//Text $1B6980
+#WRITE(ptr,$191A08)
+[Sign_1]ウィアードリボン[END]
+","//Text $1B6980
+#WRITE(ptr,$191A08)
+[Sign_1]Weird Ribbon[END]
+"
+"//Text $1B6920
+#WRITE(ptr,$191A0C)
+子供だけが身に付けられるリボン。[LINE]
+愛と夢と希望がいっぱい。[LINE]
+高ぶる気持ちでいっぱい動ける。[END]
+","//Text $1B6920
+#WRITE(ptr,$191A0C)
+A ribbon for children. Filled with[LINE]
+love, hopes, and dreams. Allows[LINE]
+one to move excitedly.[END]"
+"//Text $1B6908
+#WRITE(ptr,$191A28)
+[Sign_1]フェザーハット[END]
+","//Text $1B6908
+#WRITE(ptr,$191A28)
+[Sign_1]Feather Hat[END]
+"
+"//Text $1B68B0
+#WRITE(ptr,$191A2C)
+大きな羽を飾りにつけた帽子。[LINE]
+洒落た帽子でワンランク上の男を[LINE]
+目指す。それがジョニー流。[END]
+","//Text $1B68B0
+#WRITE(ptr,$191A2C)
+A hat with a large feather for decoration.[LINE]
+decoration. Aiming to be classy with a[LINE]
+stylish hat. That's [Johnny]'s style.[END]
+"
+"//Text $1B6898
+#WRITE(ptr,$191A48)
+[Sign_1]アクレイムハット[END]
+","//Text $1B6898
+#WRITE(ptr,$191A48)
+[Sign_1]Acclaim Hat[END]
+"
+"//Text $1B6838
+#WRITE(ptr,$191A4C)
+強者のみが被ることを許される。[LINE]
+被れば称賛を浴びること間違いなし。[LINE]
+火属性の攻撃属性を付加する。[END]
+","//Text $1B6838
+#WRITE(ptr,$191A4C)
+Only the strong are allowed to wear[LINE]
+it. With it, you're sure to be admired.[LINE]
+Imbues attacks with fire.[END]
+"
+"//Text $1B6820
+#WRITE(ptr,$191A68)
+[Sign_1]エグザイルハット[END]
+","//Text $1B6820
+#WRITE(ptr,$191A68)
+[Sign_1]Exile Hat[END]
+"
+"//Text $1B67B8
+#WRITE(ptr,$191A6C)
+世界を旅する冒険家が被っていたと[LINE]
+言われている帽子。放浪癖がつきます。[LINE]
+地属性の攻撃属性を付加する。[END]
+","//Text $1B67B8
+#WRITE(ptr,$191A6C)
+This hat is said to be worn by adventurers[LINE]
+traveling the world. It gives you wanderlust.[LINE]
+Imbues attacks with earth.[END]
+"
+"//Text $1B67A0
+#WRITE(ptr,$191A88)
+[Sign_1]ハッピーハット[END]
+","//Text $1B67A0
+#WRITE(ptr,$191A88)
+[Sign_1]Happy Hat[END]
+"
+"//Text $1B6738
+#WRITE(ptr,$191A8C)
+老いた魔術師が、帽子が風に飛ば[LINE]
+されないように作った帽子。それが幸せ。[LINE]
+風属性の攻撃属性を付加する。[END]
+","//Text $1B6738
+#WRITE(ptr,$191A8C)
+A sorcerer made this hat so it won't[LINE]
+be blown away by the wind. That's[LINE]
+happiness. Imbues attacks with wind.[END]
+"
+"//Text $1B6720
+#WRITE(ptr,$191AA8)
+[Sign_1]ストリークハット[END]
+","//Text $1B6720
+#WRITE(ptr,$191AA8)
+[Sign_1]Streaked Hat[END]
+"
+"//Text $1B66C0
+#WRITE(ptr,$191AAC)
+常に謎と戦う探求者のための帽子。[LINE]
+答えを導くと頭の上に何かが出る。[LINE]
+水属性の攻撃属性を付加する。[END]
+","//Text $1B66C0
+#WRITE(ptr,$191AAC)
+A hat for a seeker of mysteries. A sign[LINE]
+pops up above your head when you find[LINE]
+the answer. Imbues attacks with water.[END]
+"
+"//Text $1B66A8
+#WRITE(ptr,$191AC8)
+[Sign_1]シンガーハット[END]
+","//Text $1B66A8
+#WRITE(ptr,$191AC8)
+[Sign_1]Singer Hat[END]
+"
+"//Text $1B6648
+#WRITE(ptr,$191ACC)
+かつて「天使の合唱団」と呼ばれた[LINE]
+聖歌隊が被っていた由緒ある帽子。[LINE]
+光属性の攻撃属性を付加する。[END]
+","//Text $1B6648
+#WRITE(ptr,$191ACC)
+A historic hat once worn by the[LINE]
+choir known as ""Angel's Choir"".[LINE]
+Imbues attacks with light.[END]
+"
+"//Text $1B6630
+#WRITE(ptr,$191AE8)
+[Sign_1]シャイフハット[END]
+","//Text $1B6630
+#WRITE(ptr,$191AE8)
+[Sign_1]Sheikh Hat[END]
+"
+"//Text $1B65D0
+#WRITE(ptr,$191AEC)
+その声は、混沌で眠る不死の王をも[LINE]
+魅了する。伝説に残る詩人の帽子。[LINE]
+闇属性の攻撃属性を付加する。[END]
+","//Text $1B65D0
+#WRITE(ptr,$191AEC)
+The hat of a legendary poet. His voice[LINE]
+enchants even the sleeping kings. Imbues[LINE]
+attacks with dark.[END]
+"
+"//Text $1B65B8
+#WRITE(ptr,$191B08)
+[Sign_1]レプリカベルト[END]
+","//Text $1B65B8
+#WRITE(ptr,$191B08)
+[Sign_1]Replica Belt[END]
+"
+"//Text $1B6560
+#WRITE(ptr,$191B0C)
+街を離れるため返還した[LINE]
+チャンピオンベルトのレプリカ。[LINE]
+また取り戻しゃーいいのよ！[END]
+","//Text $1B6560
+#WRITE(ptr,$191B0C)
+A replica of the Champion's belt. He[LINE]
+turned the original in when he left[LINE]
+the city. We can get it back again![END]
+"
+"//Text $1B6548
+#WRITE(ptr,$191B28)
+[Sign_1]フライベルト[END]
+","//Text $1B6548
+#WRITE(ptr,$191B28)
+[Sign_1]Fly Belt[END]
+"
+"//Text $1B6508
+#WRITE(ptr,$191B2C)
+闘技場フライ級を制覇した証。[LINE]
+通常攻撃にダウン効果が少しつく。[LINE]
+[END]
+","//Text $1B6508
+#WRITE(ptr,$191B2C)
+Proof one has conquered the arena's[LINE]
+flyweight division. Normal attacks have[LINE]
+a low chance of downing foes.[END]
+"
+"//Text $1B64F0
+#WRITE(ptr,$191B48)
+[Sign_1]バンタムベルト[END]
+","//Text $1B64F0
+#WRITE(ptr,$191B48)
+[Sign_1]Bantam Belt[END]
+"
+"//Text $1B64A8
+#WRITE(ptr,$191B4C)
+闘技場バンタム級を制覇した証。[LINE]
+通常攻撃にダウン効果がそこそこつく。[LINE]
+[END]
+","//Text $1B64A8
+#WRITE(ptr,$191B4C)
+Proof of having conquered the arena's[LINE]
+heavyweight division. Normal attacks[LINE]
+have a slight chance of downing foes.[END]
+"
+"//Text $1B6490
+#WRITE(ptr,$191B68)
+[Sign_1]ライトベルト[END]
+","//Text $1B6490
+#WRITE(ptr,$191B68)
+[Sign_1]Light Belt[END]
+"
+"//Text $1B6448
+#WRITE(ptr,$191B6C)
+闘技場ライト級を制覇した証。[LINE]
+通常攻撃にダウン効果がだいぶつく。[LINE]
+[END]
+","//Text $1B6448
+#WRITE(ptr,$191B6C)
+Proof of conquering the arena's lightweight[LINE]
+division. Normal attacks have a increased[LINE]
+chance of downing foes.[END]
+"
+"//Text $1B6430
+#WRITE(ptr,$191B88)
+[Sign_1]ミドルベルト[END]
+","//Text $1B6430
+#WRITE(ptr,$191B88)
+[Sign_1]Middle Belt[END]
+"
+"//Text $1B63E8
+#WRITE(ptr,$191B8C)
+闘技場ミドル級を制覇した証。[LINE]
+通常攻撃にダウン効果がけっこうつく。[LINE]
+[END]
+","//Text $1B63E8
+#WRITE(ptr,$191B8C)
+Proof of conquering the arena's middleweight[LINE]
+division. Normal attacks have a high chance[LINE]
+of downing foes.[END]
+"
+"//Text $1B63D0
+#WRITE(ptr,$191BA8)
+[Sign_1]ヘビーベルト[END]
+","//Text $1B63D0
+#WRITE(ptr,$191BA8)
+[Sign_1]Heavy Belt[END]
+"
+"//Text $1B6388
+#WRITE(ptr,$191BAC)
+闘技場ヘビー級を制覇した証。[LINE]
+通常攻撃にダウン効果がかなりつく。[LINE]
+[END]
+","//Text $1B6388
+#WRITE(ptr,$191BAC)
+Proof of conquering the arena's heavyweight[LINE]
+division. Normal attacks have a significant[LINE]
+chance of downing foes.[END]
+"
+"//Text $1B6370
+#WRITE(ptr,$191BC8)
+[Sign_1]チャンピオンベルト[END]
+","//Text $1B6370
+#WRITE(ptr,$191BC8)
+[Sign_1]Champion Belt[END]
+"
+"//Text $1B6328
+#WRITE(ptr,$191BCC)
+闘技場を制覇した者に贈られる[LINE]
+最強の証！[LINE]
+不屈の闘志でピンチを跳ね返す！[END]
+","//Text $1B6328
+#WRITE(ptr,$191BCC)
+The greatest proof for those who have[LINE]
+conquered the arena! Rebound back[LINE]
+when in a pinch with your spirit![END]
+"
+"//Text $1B6310
+#WRITE(ptr,$191BE8)
+[Sign_1]セインガルドベルト[END]
+","//Text $1B6310
+#WRITE(ptr,$191BE8)
+[Sign_1]Seinegald Belt[END]
+"
+"//Text $1B62D8
+#WRITE(ptr,$191BEC)
+セインガルド地方に生息する[LINE]
+モンスターを制覇した証！[LINE]
+[END]
+","//Text $1B62D8
+#WRITE(ptr,$191BEC)
+Proof you conquered all monsters[LINE]
+in the Seinegald region![LINE]
+[END]
+"
+"//Text $1B62B8
+#WRITE(ptr,$191C08)
+[Sign_1]フィッツガルドベルト[END]
+","//Text $1B62B8
+#WRITE(ptr,$191C08)
+[Sign_1]Fitzgald Belt[END]
+"
+"//Text $1B6280
+#WRITE(ptr,$191C0C)
+フィッツガルド地方に生息する[LINE]
+モンスターを制覇した証！[LINE]
+[END]
+","//Text $1B6280
+#WRITE(ptr,$191C0C)
+Proof you conquered all monsters[LINE]
+in the Fitzgald region![LINE]
+[END]
+"
+"//Text $1B6268
+#WRITE(ptr,$191C28)
+[Sign_1]カルバレイスベルト[END]
+","//Text $1B6268
+#WRITE(ptr,$191C28)
+[Sign_1]Calvalese Belt[END]
+"
+"//Text $1B6230
+#WRITE(ptr,$191C2C)
+カルバレイス地方に生息する[LINE]
+モンスターを制覇した証！[LINE]
+[END]
+","//Text $1B6230
+#WRITE(ptr,$191C2C)
+Proof you conquered all monsters[LINE]
+in the Calvalese region![LINE]
+[END]
+"
+"//Text $1B6210
+#WRITE(ptr,$191C48)
+[Sign_1]アクアヴェイルベルト[END]
+","//Text $1B6210
+#WRITE(ptr,$191C48)
+[Sign_1]Aquaveil Belt[END]
+"
+"//Text $1B61D8
+#WRITE(ptr,$191C4C)
+アクアヴェイル地方に生息する[LINE]
+モンスターを制覇した証！[LINE]
+[END]
+","//Text $1B61D8
+#WRITE(ptr,$191C4C)
+Proof you conquered all monsters[LINE]
+in the Aquaveil region![LINE]
+[END]
+"
+"//Text $1B61C0
+#WRITE(ptr,$191C68)
+[Sign_1]ファンダリアベルト[END]
+","//Text $1B61C0
+#WRITE(ptr,$191C68)
+[Sign_1]Phandaria Belt[END]
+"
+"//Text $1B6188
+#WRITE(ptr,$191C6C)
+ファンダリア地方に生息する[LINE]
+モンスターを制覇した証！[LINE]
+[END]
+","//Text $1B6188
+#WRITE(ptr,$191C6C)
+Proof you conquered all monsters[LINE]
+in the Phandaria region![LINE]
+[END]
+"
+"//Text $1B6168
+#WRITE(ptr,$191C88)
+[Sign_1]Ｗチャンピオンベルト[END]
+","//Text $1B6168
+#WRITE(ptr,$191C88)
+[Sign_1]World Champion Belt[END]
+"
+"//Text $1B6118
+#WRITE(ptr,$191C8C)
+全世界のモンスターを制覇した[LINE]
+チャンピオンの証！[LINE]
+どんなことにも屈しなくなる。[END]
+","//Text $1B6118
+#WRITE(ptr,$191C8C)
+The sign of a champion who has[LINE]
+conquered every monster! You[LINE]
+will never yield to any challenge.[END]
+"
+"//Text $1B6108
+#WRITE(ptr,$191CA8)
+[Sign_1]すいか[END]
+","//Text $1B6108
+#WRITE(ptr,$191CA8)
+[Sign_1]Watermelon[END]
+"
+"//Text $1B60B8
+#WRITE(ptr,$191CAC)
+砂漠では水の供給源ともなるすいか。[LINE]
+昔は種も食用として扱われていたとか……[LINE]
+[END]
+","//Text $1B60B8
+#WRITE(ptr,$191CAC)
+It is another source of water in the[LINE]
+desert. In the past, its seeds were[LINE]
+considered edible.[END]
+"
+"//Text $1B60A0
+#WRITE(ptr,$191CC8)
+[Sign_1]鉄のフライパン[END]
+","//Text $1B60A0
+#WRITE(ptr,$191CC8)
+[Sign_1]Iron Frypan[END]
+"
+"//Text $1B6068
+#WRITE(ptr,$191CCC)
+鉄で作られたフライパン。[LINE]
+使い込むほど味が出る。[LINE]
+[END]
+","//Text $1B6068
+#WRITE(ptr,$191CCC)
+A frying pan made of iron.[LINE]
+The more you use it, the[LINE]
+better the flavor.[END]
+"
+"//Text $1B6050
+#WRITE(ptr,$191CE8)
+[Sign_1]銅のフライパン[END]
+","//Text $1B6050
+#WRITE(ptr,$191CE8)
+[Sign_1]Copper Frypan[END]
+"
+"//Text $1B6008
+#WRITE(ptr,$191CEC)
+銅で作られたフライパン。[LINE]
+熱伝導がすばらしい。[LINE]
+料理時間が短縮されます。[END]
+","//Text $1B6008
+#WRITE(ptr,$191CEC)
+A frying pan made of copper.[LINE]
+It has great heat conduction[LINE]
+and reduces cooking time.[END]
+"
+"//Text $1B5FF0
+#WRITE(ptr,$191D08)
+[Sign_1]銀のフライパン[END]
+","//Text $1B5FF0
+#WRITE(ptr,$191D08)
+[Sign_1]Silver Frypan[END]
+"
+"//Text $1B5FA0
+#WRITE(ptr,$191D0C)
+銀で作られたフライパン。[LINE]
+白い輝きが美しい。[LINE]
+焦がしてしまうのがもったいない。[END]
+","//Text $1B5FA0
+#WRITE(ptr,$191D0C)
+A frying pan made of silver.[LINE]
+Has a beautiful white shine.[LINE]
+It's a pity it will be burned.[END]
+"
+"//Text $1B5F88
+#WRITE(ptr,$191D28)
+[Sign_1]金のフライパン[END]
+","//Text $1B5F88
+#WRITE(ptr,$191D28)
+[Sign_1]Gold Frypan[END]
+"
+"//Text $1B5F30
+#WRITE(ptr,$191D2C)
+金で作られたフライパン。[LINE]
+別名「豪華なフライパン」。[LINE]
+これであなたも王族専属シェフ。[END]
+","//Text $1B5F30
+#WRITE(ptr,$191D2C)
+A frying pan made of gold. Also known as[LINE]
+the ""Gorgeous Frying Pan"". Now you too[LINE]
+can be the royal family's personal chef.[END]
+"
+"//Text $1B5F20
+#WRITE(ptr,$191D48)
+[Sign_1]かぶ[END]
+","//Text $1B5F20
+#WRITE(ptr,$191D48)
+[Sign_1]Turnip[END]
+"
+"//Text $1B5ED8
+#WRITE(ptr,$191D4C)
+非常に古くから栽培されている野菜。[LINE]
+漬物にして食べるのが一般的。[LINE]
+[END]
+","//Text $1B5ED8
+#WRITE(ptr,$191D4C)
+A vegetable that has been cultivated[LINE]
+for a very long time. Commonly eaten[LINE]
+pickled as a side dish.[END]
+"
