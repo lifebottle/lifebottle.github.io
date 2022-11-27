@@ -10,7 +10,7 @@
       - [Weapon](./projects/destiny-dc/items/weapons.md)
       - [Armor](./projects/destiny-dc/items/armor.md)     
       - [Unique](./projects/destiny-dc/items/unique.md)
-      - [Jewel](./projects/destiny-dc/items/accessory.md)      
+      - [Jewel](./projects/destiny-dc/items/jewel.md)      
       - [Food Strap](./projects/destiny-dc/items/food-strap.md)
       - [Key](./projects/destiny-dc/items/key.md)      
     - [Books](./projects/destiny-dc/books/index)

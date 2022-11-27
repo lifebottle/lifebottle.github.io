@@ -1,0 +1,981 @@
+"Japanese","English"
+"//Text $1B0A28
+#WRITE(ptr,$18D704)
+[Sign_2]ポイズン[END]
+","//Text $1B0A28
+#WRITE(ptr,$18D704)
+[Sign_2]Poison Charm[END]
+"
+"//Text $1B09F0
+#WRITE(ptr,$18D708)
+ＨＰが減少していく状態異常[LINE]
+「熱毒」を防止する宝石。[LINE]
+[END]
+","//Text $1B09F0
+#WRITE(ptr,$18D708)
+A gem that prevents [Poison], a[LINE]
+status ailment that reduces HP.[LINE]
+[END]
+"
+"//Text $1B09E0
+#WRITE(ptr,$18D720)
+[Sign_2]スリープ[END]
+","//Text $1B09E0
+#WRITE(ptr,$18D720)
+[Sign_2]Sleep Charm[END]
+"
+"//Text $1B09A8
+#WRITE(ptr,$18D724)
+行動不能になる状態異常[LINE]
+「睡眠」を防止する宝石。[LINE]
+[END]
+","//Text $1B09A8
+#WRITE(ptr,$18D724)
+A gem that prevents [Sleep],[LINE]
+a status ailment that renders[LINE]
+you unable to act.[LINE]
+[END]
+"
+"//Text $1B0998
+#WRITE(ptr,$18D73C)
+[Sign_2]ストーン[END]
+","//Text $1B0998
+#WRITE(ptr,$18D73C)
+[Sign_2]Stone Charm[END]
+"
+"//Text $1B0960
+#WRITE(ptr,$18D740)
+行動不能になる状態異常[LINE]
+「石化」を防止する宝石。[LINE]
+[END]
+","//Text $1B0960
+#WRITE(ptr,$18D740)
+A gem that prevents [Petrify],[LINE]
+a status ailment that renders[LINE]
+you unable to act.[LINE]
+[END]
+"
+"//Text $1B0950
+#WRITE(ptr,$18D758)
+[Sign_2]ウェイスト[END]
+","//Text $1B0950
+#WRITE(ptr,$18D758)
+[Sign_2]Weak Charm[END]
+"
+"//Text $1B0918
+#WRITE(ptr,$18D75C)
+ＣＣの回復が遅くなる状態異常[LINE]
+「衰弱」を防止する宝石。[LINE]
+[END]
+","//Text $1B0918
+#WRITE(ptr,$18D75C)
+A gem that prevents [Weak],[LINE]
+a status ailment that slows[LINE]
+CC recovery.[LINE]
+[END]
+"
+"//Text $1B0908
+#WRITE(ptr,$18D774)
+[Sign_2]パラライ[END]
+","//Text $1B0908
+#WRITE(ptr,$18D774)
+[Sign_2]Paralyze Charm[END]
+"
+"//Text $1B08D0
+#WRITE(ptr,$18D778)
+行動時に痺れる状態異常[LINE]
+「マヒ」を防止する宝石。[LINE]
+[END]
+","//Text $1B08D0
+#WRITE(ptr,$18D778)
+A gem that prevents [Paralyze],[LINE]
+a status ailment that paralyzes[LINE]
+you when you take any action.[LINE]
+[END]
+"
+"//Text $1B08C0
+#WRITE(ptr,$18D790)
+[Sign_2]シール[END]
+","//Text $1B08C0
+#WRITE(ptr,$18D790)
+[Sign_2]Seal Charm[END]
+"
+"//Text $1B0888
+#WRITE(ptr,$18D794)
+術技が使用不可になる状態異常[LINE]
+「封印」を防止する宝石。[LINE]
+[END]
+","//Text $1B0888
+#WRITE(ptr,$18D794)
+A gem that prevents [Seal], a[LINE]
+status ailment that prevents[LINE]
+the use of artes.[LINE]
+[END]
+"
+"//Text $1B0878
+#WRITE(ptr,$18D7AC)
+[Sign_2]フレア[END]
+","//Text $1B0878
+#WRITE(ptr,$18D7AC)
+[Sign_2]Flare Charm[END]
+"
+"//Text $1B0838
+#WRITE(ptr,$18D7B0)
+火属性ダメージを半減できる[LINE]
+「火属性耐性」を付加する宝石。[LINE]
+[END]
+","//Text $1B0838
+#WRITE(ptr,$18D7B0)
+A gem that reduces[LINE]
+[Sign_Fire] damage by half.[LINE]
+[END]
+"
+"//Text $1B0828
+#WRITE(ptr,$18D7C8)
+[Sign_2]アクア[END]
+","//Text $1B0828
+#WRITE(ptr,$18D7C8)
+[Sign_2]Aqua Charm[END]
+"
+"//Text $1B07E8
+#WRITE(ptr,$18D7CC)
+水属性ダメージを半減できる[LINE]
+「水属性耐性」を付加する宝石。[LINE]
+[END]
+","//Text $1B07E8
+#WRITE(ptr,$18D7CC)
+A gem that reduces[LINE]
+[Sign_Water] damage by half.[LINE]
+[END]
+"
+"//Text $1B07D8
+#WRITE(ptr,$18D7E4)
+[Sign_2]アース[END]
+","//Text $1B07D8
+#WRITE(ptr,$18D7E4)
+[Sign_2]Earth Charm[END]
+"
+"//Text $1B0798
+#WRITE(ptr,$18D7E8)
+地属性ダメージを半減できる[LINE]
+「地属性耐性」を付加する宝石。[LINE]
+[END]
+","//Text $1B0798
+#WRITE(ptr,$18D7E8)
+A gem that reduces[LINE]
+[Sign_Earth] damage by half.[LINE]
+[END]
+"
+"//Text $1B0788
+#WRITE(ptr,$18D800)
+[Sign_2]ゲイル[END]
+","//Text $1B0788
+#WRITE(ptr,$18D800)
+[Sign_2]Gale Charm[END]
+"
+"//Text $1B0748
+#WRITE(ptr,$18D804)
+風属性ダメージを半減できる[LINE]
+「風属性耐性」を付加する宝石。[LINE]
+[END]
+","//Text $1B0748
+#WRITE(ptr,$18D804)
+A gem that reduces[LINE]
+[Sign_Wind] damage by half.[LINE]
+[END]
+"
+"//Text $1B0738
+#WRITE(ptr,$18D81C)
+[Sign_2]ライト[END]
+","//Text $1B0738
+#WRITE(ptr,$18D81C)
+[Sign_2]Light Charm[END]
+"
+"//Text $1B06F8
+#WRITE(ptr,$18D820)
+光属性ダメージを半減できる[LINE]
+「光属性耐性」を付加する宝石。[LINE]
+[END]
+","//Text $1B06F8
+#WRITE(ptr,$18D820)
+A gem that reduces[LINE]
+[Sign_Light] damage by half.[LINE]
+[END]
+"
+"//Text $1B06E8
+#WRITE(ptr,$18D838)
+[Sign_2]ダーク[END]
+","//Text $1B06E8
+#WRITE(ptr,$18D838)
+[Sign_2]Dark Charm[END]
+"
+"//Text $1B06A8
+#WRITE(ptr,$18D83C)
+闇属性ダメージを半減できる[LINE]
+「闇属性耐性」を付加する宝石。[LINE]
+[END]
+","//Text $1B06A8
+#WRITE(ptr,$18D83C)
+A gem that reduces[LINE]
+[Sign_Dark] damage by half.[LINE]
+[END]
+"
+"//Text $1B0698
+#WRITE(ptr,$18D854)
+[Sign_2]スラッシュ[END]
+","//Text $1B0698
+#WRITE(ptr,$18D854)
+[Sign_2]Slash Charm[END]
+"
+"//Text $1B0658
+#WRITE(ptr,$18D858)
+斬属性ダメージを半減できる[LINE]
+「斬属性耐性」を付加する宝石。[LINE]
+[END]
+","//Text $1B0658
+#WRITE(ptr,$18D858)
+A gem that reduces[LINE]
+[Sign_Slash] damage by half.[LINE]
+[END]
+"
+"//Text $1B0648
+#WRITE(ptr,$18D870)
+[Sign_2]ブロウ[END]
+","//Text $1B0648
+#WRITE(ptr,$18D870)
+[Sign_2]Strike Charm[END]
+"
+"//Text $1B0608
+#WRITE(ptr,$18D874)
+打属性ダメージを半減できる[LINE]
+「打属性耐性」を付加する宝石。[LINE]
+[END]
+","//Text $1B0608
+#WRITE(ptr,$18D874)
+A gem that reduces[LINE]
+[Sign_Strike] damage by half.[LINE]
+[END]
+"
+"//Text $1B05F8
+#WRITE(ptr,$18D88C)
+[Sign_2]ショット[END]
+","//Text $1B05F8
+#WRITE(ptr,$18D88C)
+[Sign_2]Shot Charm[END]
+"
+"//Text $1B05B8
+#WRITE(ptr,$18D890)
+射属性ダメージを半減できる[LINE]
+「射属性耐性」を付加する宝石。[LINE]
+[END]
+","//Text $1B05B8
+#WRITE(ptr,$18D890)
+A gem that reduces[LINE]
+[Sign_Shot] damage by half.[LINE]
+[END]
+"
+"//Text $1B05A8
+#WRITE(ptr,$18D8A8)
+[Sign_2]ソニック[END]
+","//Text $1B05A8
+#WRITE(ptr,$18D8A8)
+[Sign_2]Sonic Charm[END]
+"
+"//Text $1B0568
+#WRITE(ptr,$18D8AC)
+音属性ダメージを半減できる[LINE]
+「音属性耐性」を付加する宝石。[LINE]
+[END]
+","//Text $1B0568
+#WRITE(ptr,$18D8AC)
+A gem that reduces[LINE]
+[Sign_Sonic] damage by half.[LINE]
+[END]
+"
+"//Text $1B0558
+#WRITE(ptr,$18D8C4)
+[Sign_2]アタック[END]
+","//Text $1B0558
+#WRITE(ptr,$18D8C4)
+[Sign_2]Attack Gem[END]
+"
+"//Text $1B0520
+#WRITE(ptr,$18D8C8)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+攻撃力を一定時間上昇する宝石。[LINE]
+[END]
+","//Text $1B0520
+#WRITE(ptr,$18D8C8)
+During battle, press [Square_ani2]＋[Down_blink] to[LINE]
+temporarily increase P. ATK.[LINE]
+[END]
+"
+"//Text $1B0510
+#WRITE(ptr,$18D8E0)
+[Sign_2]マインド[END]
+","//Text $1B0510
+#WRITE(ptr,$18D8E0)
+[Sign_2]Mind Gem[END]
+"
+"//Text $1B04D0
+#WRITE(ptr,$18D8E4)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+術攻撃力を一定時間上昇する宝石。[LINE]
+[END]
+","//Text $1B04D0
+#WRITE(ptr,$18D8E4)
+During battle, press [Square_ani2]＋[Down_blink] to[LINE]
+temporarily increase M. ATK.[LINE]
+[END]
+"
+"//Text $1B04C0
+#WRITE(ptr,$18D8FC)
+[Sign_2]プロテクト[END]
+","//Text $1B04C0
+#WRITE(ptr,$18D8FC)
+[Sign_2]Protect Gem[END]
+"
+"//Text $1B0488
+#WRITE(ptr,$18D900)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+防御力を一定時間上昇する宝石。[LINE]
+[END]
+","//Text $1B0488
+#WRITE(ptr,$18D900)
+During battle, press [Square_ani2]＋[Down_blink] to[LINE]
+temporarily increase P. DEF.[LINE]
+[END]
+"
+"//Text $1B0478
+#WRITE(ptr,$18D918)
+[Sign_2]レジスト[END]
+","//Text $1B0478
+#WRITE(ptr,$18D918)
+[Sign_2]Resist Gem[END]
+"
+"//Text $1B0438
+#WRITE(ptr,$18D91C)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+術防御力を一定時間上昇する宝石。[LINE]
+[END]
+","//Text $1B0438
+#WRITE(ptr,$18D91C)
+During battle, press [Square_ani2]＋[Down_blink] to[LINE]
+temporarily increase M. DEF.[LINE]
+[END]
+"
+"//Text $1B0428
+#WRITE(ptr,$18D934)
+[Sign_2]リカバー[END]
+","//Text $1B0428
+#WRITE(ptr,$18D934)
+[Sign_2]Recover Gem[END]
+"
+"//Text $1B03E8
+#WRITE(ptr,$18D938)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+高確率で状態異常を解除する宝石。[LINE]
+[END]
+","//Text $1B03E8
+#WRITE(ptr,$18D938)
+During battle, press [Square_ani2]＋[Down_blink] for a high[LINE]
+chance to remove status ailments.[LINE]
+[END]
+"
+"//Text $1B03D8
+#WRITE(ptr,$18D950)
+[Sign_2]チェイン[END]
+","//Text $1B03D8
+#WRITE(ptr,$18D950)
+[Sign_2]Chain Gem[END]
+"
+"//Text $1B03A8
+#WRITE(ptr,$18D954)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+ＣＣを１加算する宝石。[LINE]
+[END]
+","//Text $1B03A8
+#WRITE(ptr,$18D954)
+During battle, press [Square_ani2]＋[Down_blink][LINE]
+to increase CC by 1.[LINE]
+[END]
+"
+"//Text $1B0398
+#WRITE(ptr,$18D96C)
+[Sign_2]フラッシュ[END]
+","//Text $1B0398
+#WRITE(ptr,$18D96C)
+[Sign_2]Flash Gem[END]
+"
+"//Text $1B0360
+#WRITE(ptr,$18D970)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+短時間完全回避する宝石。[LINE]
+[END]
+","//Text $1B0360
+#WRITE(ptr,$18D970)
+During battle, press [Square_ani2]＋[Down_blink] to[LINE]
+avoid damage for a short time.[LINE]
+[END]
+"
+"//Text $1B0350
+#WRITE(ptr,$18D988)
+[Sign_2]ブラスト[END]
+","//Text $1B0350
+#WRITE(ptr,$18D988)
+[Sign_2]Blast Gem[END]
+"
+"//Text $1B0318
+#WRITE(ptr,$18D98C)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+ブラストゲージを加算する宝石。[LINE]
+[END]
+","//Text $1B0318
+#WRITE(ptr,$18D98C)
+During battle, press [Square_ani2]＋[Down_blink][LINE]
+to fill up the blast gauge.[LINE]
+[END]
+"
+"//Text $1B0308
+#WRITE(ptr,$18D9A4)
+[Sign_2]サプライ[END]
+","//Text $1B0308
+#WRITE(ptr,$18D9A4)
+[Sign_2]Supply Gem[END]
+"
+"//Text $1B02C8
+#WRITE(ptr,$18D9A8)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+自分以外の味方のＣＣを[LINE]
+加算させる宝石。[END]
+","//Text $1B02C8
+#WRITE(ptr,$18D9A8)
+During battle, press [Square_ani2]＋[Down_blink] to increase[LINE]
+the party's CC except the user's.[LINE]
+[END]
+"
+"//Text $1B02B8
+#WRITE(ptr,$18D9C0)
+[Sign_2]キュア[END]
+","//Text $1B02B8
+#WRITE(ptr,$18D9C0)
+[Sign_2]Cure Gem[END]
+"
+"//Text $1B0288
+#WRITE(ptr,$18D9C4)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+ＨＰを回復する宝石。[LINE]
+[END]
+","//Text $1B0288
+#WRITE(ptr,$18D9C4)
+During battle, press[LINE]
+ [Square_ani2]＋[Down_blink] to restore HP.[LINE]
+[END]
+"
+"//Text $1B0278
+#WRITE(ptr,$18D9DC)
+[Sign_2]フィジカル[END]
+","//Text $1B0278
+#WRITE(ptr,$18D9DC)
+[Sign_2]Physical Gem[END]
+"
+"//Text $1B0238
+#WRITE(ptr,$18D9E0)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+敵の防御を崩す攻撃判定が[LINE]
+発生する宝石。[END]
+","//Text $1B0238
+#WRITE(ptr,$18D9E0)
+During battle, press [Square_ani2]＋[Down_blink] near[LINE]
+an enemy to break his guard.[LINE]
+[END]
+"
+"//Text $1B0228
+#WRITE(ptr,$18D9F8)
+[Sign_2]ディスペル[END]
+","//Text $1B0228
+#WRITE(ptr,$18D9F8)
+[Sign_2]Dispel Gem[END]
+"
+"//Text $1B01F0
+#WRITE(ptr,$18D9FC)
+戦闘中、[Square_ani2]＋[Down_blink]で[LINE]
+減少効果を打ち消す宝石。[LINE]
+[END]
+","//Text $1B01F0
+#WRITE(ptr,$18D9FC)
+During battle, press [Square_ani2]＋[Down_blink][LINE]
+to remove debuffs.[LINE]
+[END]
+"
+"//Text $1B01E0
+#WRITE(ptr,$18DA14)
+[Sign_2]ライズ[END]
+","//Text $1B01E0
+#WRITE(ptr,$18DA14)
+[Sign_2]Rise Gem[END]
+"
+"//Text $1B01C0
+#WRITE(ptr,$18DA18)
+最小ＣＣを１増やす宝石。[LINE]
+[LINE]
+[END]
+","//Text $1B01C0
+#WRITE(ptr,$18DA18)
+Increases min CC by 1.[LINE]
+[LINE]
+[END]
+"
+"//Text $1B01B0
+#WRITE(ptr,$18DA30)
+[Sign_2]エクシード[END]
+","//Text $1B01B0
+#WRITE(ptr,$18DA30)
+[Sign_2]Exceed Gem[END]
+"
+"//Text $1B0190
+#WRITE(ptr,$18DA34)
+最大ＣＣを１増やす宝石。[LINE]
+[LINE]
+[END]
+","//Text $1B0190
+#WRITE(ptr,$18DA34)
+Increases max CC by 1.[LINE]
+[LINE]
+[END]
+"
+"//Text $1B0180
+#WRITE(ptr,$18DA4C)
+[Sign_2]ゼクシード[END]
+","//Text $1B0180
+#WRITE(ptr,$18DA4C)
+[Sign_2]Zexceed Gem[END]
+"
+"//Text $1B0160
+#WRITE(ptr,$18DA50)
+最大ＣＣを２増やす宝石。[LINE]
+[LINE]
+[END]
+","//Text $1B0160
+#WRITE(ptr,$18DA50)
+Increases max CC by 2.[LINE]
+[LINE]
+[END]
+"
+"//Text $1B0150
+#WRITE(ptr,$18DA68)
+[Sign_2]バリアブル[END]
+","//Text $1B0150
+#WRITE(ptr,$18DA68)
+[Sign_2]Variable Gem[END]
+"
+"//Text $1B0128
+#WRITE(ptr,$18DA6C)
+最小ＣＣと最大ＣＣを１増やす宝石。[LINE]
+[LINE]
+[END]
+","//Text $1B0128
+#WRITE(ptr,$18DA6C)
+Increases min and max CC by 1.[LINE]
+[LINE]
+[END]
+"
+"//Text $1B0118
+#WRITE(ptr,$18DA84)
+[Sign_2]フィックス[END]
+","//Text $1B0118
+#WRITE(ptr,$18DA84)
+[Sign_2]Fix Gem[END]
+"
+"//Text $1B00F8
+#WRITE(ptr,$18DA88)
+ＣＣを常に１５にする宝石。[LINE]
+[LINE]
+[END]
+","//Text $1B00F8
+#WRITE(ptr,$18DA88)
+Locks CC to 15.[LINE]
+[LINE]
+[END]
+"
+"//Text $1B00E8
+#WRITE(ptr,$18DAA0)
+[Sign_2]フラット[END]
+","//Text $1B00E8
+#WRITE(ptr,$18DAA0)
+[Sign_2]Flat Gem[END]
+"
+"//Text $1B00C8
+#WRITE(ptr,$18DAA4)
+ＣＣを平均で固定にする宝石。[LINE]
+[LINE]
+[END]
+","//Text $1B00C8
+#WRITE(ptr,$18DAA4)
+Sets the CC to the average[LINE]
+of the min and max CC.[LINE]
+[END]
+"
+"//Text $1B00B8
+#WRITE(ptr,$18DABC)
+[Sign_2]チェイサー[END]
+","//Text $1B00B8
+#WRITE(ptr,$18DABC)
+[Sign_2]Chaser Gem[END]
+"
+"//Text $1B0090
+#WRITE(ptr,$18DAC0)
+クリティカル時にＣＣを＋１する[LINE]
+宝石。[LINE]
+[END]
+","//Text $1B0090
+#WRITE(ptr,$18DAC0)
+A gem that gives +1[LINE]
+CC on critical hits.[LINE]
+[END]
+"
+"//Text $1B0080
+#WRITE(ptr,$18DAD8)
+[Sign_2]ホーリィ[END]
+","//Text $1B0080
+#WRITE(ptr,$18DAD8)
+[Sign_2]Holy Gem[END]
+"
+"//Text $1B0058
+#WRITE(ptr,$18DADC)
+一定時間毎にＨＰが微量回復する[LINE]
+宝石。[LINE]
+[END]
+","//Text $1B0058
+#WRITE(ptr,$18DADC)
+Restores a small amount[LINE]
+of HP over time.[LINE]
+[END]
+"
+"//Text $1B0048
+#WRITE(ptr,$18DAF4)
+[Sign_2]ゲイン[END]
+","//Text $1B0048
+#WRITE(ptr,$18DAF4)
+[Sign_2]Gain Gem[END]
+"
+"//Text $1B0020
+#WRITE(ptr,$18DAF8)
+敵を倒したときにＨＰが回復する[LINE]
+宝石。[LINE]
+[END]
+","//Text $1B0020
+#WRITE(ptr,$18DAF8)
+Restores HP when you[LINE]
+defeat an enemy.[LINE]
+[END]
+"
+"//Text $1B0010
+#WRITE(ptr,$18DB10)
+[Sign_2]ラピッド[END]
+","//Text $1B0010
+#WRITE(ptr,$18DB10)
+[Sign_2]Rapid Gem[END]
+"
+"//Text $1AFFE8
+#WRITE(ptr,$18DB14)
+敵を倒したときにＣＣを＋２する[LINE]
+宝石。[LINE]
+[END]
+","//Text $1AFFE8
+#WRITE(ptr,$18DB14)
+Gain +2 CC when you[LINE]
+defeat an enemy.[LINE]
+[END]
+"
+"//Text $1AFFD8
+#WRITE(ptr,$18DB2C)
+[Sign_2]テンション[END]
+","//Text $1AFFD8
+#WRITE(ptr,$18DB2C)
+[Sign_2]Tension Gem[END]
+"
+"//Text $1AFFA0
+#WRITE(ptr,$18DB30)
+敵を倒したときにブラストゲージが[LINE]
+加算される宝石。[LINE]
+[END]
+","//Text $1AFFA0
+#WRITE(ptr,$18DB30)
+Increases the blast gauge[LINE]
+when you defeat an enemy.[LINE]
+[END]
+"
+"//Text $1AFF90
+#WRITE(ptr,$18DB48)
+[Sign_2]アドバンス[END]
+","//Text $1AFF90
+#WRITE(ptr,$18DB48)
+[Sign_2]Advance Gem[END]
+"
+"//Text $1AFF58
+#WRITE(ptr,$18DB4C)
+エイミングダッシュ中[LINE]
+物理攻撃を防御できる宝石。[LINE]
+[END]
+","//Text $1AFF58
+#WRITE(ptr,$18DB4C)
+Lets you guard physical attacks[LINE]
+during a front step.[LINE]
+[END]
+"
+"//Text $1AFF48
+#WRITE(ptr,$18DB64)
+[Sign_2]ストリクト[END]
+","//Text $1AFF48
+#WRITE(ptr,$18DB64)
+[Sign_2]Strict Gem[END]
+"
+"//Text $1AFEF8
+#WRITE(ptr,$18DB68)
+フラッシュガード[LINE]
+（敵の攻撃をひきつけてガード）[LINE]
+でＣＣが２加算する宝石。[END]
+","//Text $1AFEF8
+#WRITE(ptr,$18DB68)
+A gem that adds 2 CC upon a[LINE]
+Flash Guard. (Guard just before[LINE]
+you receive an attack).[END]
+"
+"//Text $1AFEE8
+#WRITE(ptr,$18DB80)
+[Sign_2]アブソーブ[END]
+","//Text $1AFEE8
+#WRITE(ptr,$18DB80)
+[Sign_2]Absorb Gem[END]
+"
+"//Text $1AFEA0
+#WRITE(ptr,$18DB84)
+フラッシュガード[LINE]
+（敵の攻撃をひきつけてガード）[LINE]
+でＨＰが回復する宝石。[END]
+","//Text $1AFEA0
+#WRITE(ptr,$18DB84)
+A gem that restores HP upon a[LINE]
+Flash Guard. (Guard just before[LINE]
+you receive an attack).[END]
+"
+"//Text $1AFE90
+#WRITE(ptr,$18DB9C)
+[Sign_2]デモンズ[END]
+","//Text $1AFE90
+#WRITE(ptr,$18DB9C)
+[Sign_2]Demon Gem[END]
+"
+"//Text $1AFE60
+#WRITE(ptr,$18DBA0)
+獲得経験値が２倍になる宝石。[LINE]
+ただし……[LINE]
+[END]
+","//Text $1AFE60
+#WRITE(ptr,$18DBA0)
+A gem that doubles the experience[LINE]
+gained. However...[LINE]
+[END]
+"
+"//Text $1AFE50
+#WRITE(ptr,$18DBB8)
+[Sign_2]エッジ[END]
+","//Text $1AFE50
+#WRITE(ptr,$18DBB8)
+[Sign_2]Edge Gem[END]
+"
+"//Text $1AFE20
+#WRITE(ptr,$18DBBC)
+与えるダメージが２倍になる宝石。[LINE]
+ただし……[LINE]
+[END]
+","//Text $1AFE20
+#WRITE(ptr,$18DBBC)
+A gem that doubles damage[LINE]
+dealt. However...[LINE]
+[END]
+"
+"//Text $1AFE08
+#WRITE(ptr,$18DBD4)
+[Sign_2]なりきりスタン[END]
+","//Text $1AFE08
+#WRITE(ptr,$18DBD4)
+[Sign_2]Narikiri Stahn[END]
+"
+"//Text $1AFDE8
+#WRITE(ptr,$18DBD8)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+","//Text $1AFDE8
+#WRITE(ptr,$18DBD8)
+Do you have the power[LINE]
+to impersonate Stahn?[LINE]
+[END]
+"
+"//Text $1AFDD0
+#WRITE(ptr,$18DBF0)
+[Sign_2]なりきりルーティ[END]
+","//Text $1AFDD0
+#WRITE(ptr,$18DBF0)
+[Sign_2]Narikiri Rutee[END]
+"
+"//Text $1AFDE8
+#WRITE(ptr,$18DBF4)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+","//Text $1AFDE8
+#WRITE(ptr,$18DBF4)
+Do you have the power[LINE]
+to impersonate Rutee?[LINE]
+[END]
+"
+"//Text $1AFDB8
+#WRITE(ptr,$18DC0C)
+[Sign_2]なりきりフィリア[END]
+","//Text $1AFDB8
+#WRITE(ptr,$18DC0C)
+[Sign_2]Narikiri Philia[END]
+"
+"//Text $1AFDE8
+#WRITE(ptr,$18DC10)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+","//Text $1AFDE8
+#WRITE(ptr,$18DC10)
+Do you have the power[LINE]
+to impersonate Philia?[LINE]
+[END]
+"
+"//Text $1AFDA0
+#WRITE(ptr,$18DC28)
+[Sign_2]なりきりウッドロウ[END]
+","//Text $1AFDA0
+#WRITE(ptr,$18DC28)
+[Sign_2]Narikiri Woodrow[END]
+"
+"//Text $1AFDE8
+#WRITE(ptr,$18DC2C)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+","//Text $1AFDE8
+#WRITE(ptr,$18DC2C)
+Do you have the power[LINE]
+to impersonate Woodrow?[LINE]
+[END]
+"
+"//Text $1AFD88
+#WRITE(ptr,$18DC44)
+[Sign_2]なりきりリオン[END]
+","//Text $1AFD88
+#WRITE(ptr,$18DC44)
+[Sign_2]Narikiri Leon[END]
+"
+"//Text $1AFDE8
+#WRITE(ptr,$18DC48)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+","//Text $1AFDE8
+#WRITE(ptr,$18DC48)
+Do you have the power[LINE]
+to impersonate Leon?[LINE]
+[END]
+"
+"//Text $1AFD70
+#WRITE(ptr,$18DC60)
+[Sign_2]なりきりマリー[END]
+","//Text $1AFD70
+#WRITE(ptr,$18DC60)
+[Sign_2]Narikiri Mary[END]
+"
+"//Text $1AFDE8
+#WRITE(ptr,$18DC64)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+","//Text $1AFDE8
+#WRITE(ptr,$18DC64)
+Do you have the power[LINE]
+to impersonate Mary?[LINE]
+[END]
+"
+"//Text $1AFD58
+#WRITE(ptr,$18DC7C)
+[Sign_2]なりきりチェルシー[END]
+","//Text $1AFD58
+#WRITE(ptr,$18DC7C)
+[Sign_2]Narikiri Chelsea[END]
+"
+"//Text $1AFDE8
+#WRITE(ptr,$18DC80)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+","//Text $1AFDE8
+#WRITE(ptr,$18DC80)
+Do you have the power[LINE]
+to impersonate Chelsea?[LINE]
+[END]
+"
+"//Text $1AFD40
+#WRITE(ptr,$18DC98)
+[Sign_2]なりきりジョニー[END]
+","//Text $1AFD40
+#WRITE(ptr,$18DC98)
+[Sign_2]Narikiri Johnny[END]
+"
+"//Text $1AFDE8
+#WRITE(ptr,$18DC9C)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+","//Text $1AFDE8
+#WRITE(ptr,$18DC9C)
+Do you have the power[LINE]
+to impersonate Johnny?[LINE]
+[LINE]
+[END]
+"
+"//Text $1AFD28
+#WRITE(ptr,$18DCB4)
+[Sign_2]なりきりコングマン[END]
+","//Text $1AFD28
+#WRITE(ptr,$18DCB4)
+[Sign_2]Narikiri Kongman[END]
+"
+"//Text $1AFDE8
+#WRITE(ptr,$18DCB8)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+","//Text $1AFDE8
+#WRITE(ptr,$18DCB8)
+Do you have the power[LINE]
+to impersonate Kongman?[LINE]
+[LINE]
+[END]
+"
+"//Text $1AFD10
+#WRITE(ptr,$18DCD0)
+[Sign_2]なりきりリリス[END]
+","//Text $1AFD10
+#WRITE(ptr,$18DCD0)
+[Sign_2]Narikiri Lilith[END]
+"
+"//Text $1AFDE8
+#WRITE(ptr,$18DCD4)
+なりきりの力が宿っている？[LINE]
+[LINE]
+[END]
+","//Text $1AFDE8
+#WRITE(ptr,$18DCD4)
+Do you have the power[LINE]
+to impersonate Lilith?[LINE]
+[LINE]
+[END]
+"
