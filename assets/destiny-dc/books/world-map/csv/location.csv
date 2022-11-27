@@ -1,0 +1,987 @@
+"Japanese","English"
+"//Text $1A74F0
+#WRITE(ptr,$189DD0)
+トーンの山小屋[END]
+","//Text $1A74F0
+#WRITE(ptr,$189DD0)
+Torn's Cabin[END]
+"
+"//Text $1A74E0
+#WRITE(ptr,$189DD4)
+Torn's Cabin[END]
+","//Text $1A74E0
+#WRITE(ptr,$189DD4)
+[END]
+"
+"//Text $1A74A0
+#WRITE(ptr,$189DD8)
+雪の山林にある小屋。[LINE]
+弓の名手アルバ・トーンが隠棲している。[END]
+","//Text $1A74A0
+#WRITE(ptr,$189DD8)
+A hut in a snowy mountain forest.[LINE]
+Home to master archer [Alba] Torn.[END]
+"
+"//Text $1A7488
+#WRITE(ptr,$189E08)
+国境の街ジェノス[END]
+","//Text $1A7488
+#WRITE(ptr,$189E08)
+Janos[END]
+"
+"//Text $1A7480
+#WRITE(ptr,$189E0C)
+Janos[END]
+","//Text $1A7480
+#WRITE(ptr,$189E0C)
+[END]
+"
+"//Text $1A7410
+#WRITE(ptr,$189E10)
+ファンダリアの北部にある国境の街。[LINE]
+ジェノスを境に南がファンダリア、[LINE]
+北がセインガルドの領土に分かれている。[END]
+","//Text $1A7410
+#WRITE(ptr,$189E10)
+A border town in the northern part of[LINE]
+Phandaria. Phandaria owns the south[LINE]
+and Seinegald owns the north.[END]
+"
+"//Text $1A73F8
+#WRITE(ptr,$189E40)
+首都ハイデルベルグ[END]
+","//Text $1A73F8
+#WRITE(ptr,$189E40)
+Heidelberg[END]
+"
+"//Text $1A73E8
+#WRITE(ptr,$189E44)
+Heidelberg[END]
+","//Text $1A73E8
+#WRITE(ptr,$189E44)
+[END]
+"
+"//Text $1A7390
+#WRITE(ptr,$189E48)
+ファンダリアの首都。[LINE]
+整備された町並みに降り積もる雪が[LINE]
+人々の喧騒を吸収してくれる。[END]
+","//Text $1A7390
+#WRITE(ptr,$189E48)
+The capital of Phandaria.[LINE]
+The snow on the streets absorbs [LINE]
+the hustle and bustle of the city.[END]
+"
+"//Text $1A7378
+#WRITE(ptr,$189E78)
+首都ダリルシェイド[END]
+","//Text $1A7378
+#WRITE(ptr,$189E78)
+Darilsheid[END]
+"
+"//Text $1A7368
+#WRITE(ptr,$189E7C)
+Darilsheid[END]
+","//Text $1A7368
+#WRITE(ptr,$189E7C)
+[END]
+"
+"//Text $1A7328
+#WRITE(ptr,$189E80)
+セインガルドの首都。[LINE]
+整備された城下町は、人々で賑わっている。[END]
+","//Text $1A7328
+#WRITE(ptr,$189E80)
+Capital of Seinegald.[LINE]
+This well-developed town is filled[LINE]
+with people.[END]
+"
+"//Text $1A7318
+#WRITE(ptr,$189EB0)
+クレスタの街[END]
+","//Text $1A7318
+#WRITE(ptr,$189EB0)
+Cresta[END]
+"
+"//Text $1A7310
+#WRITE(ptr,$189EB4)
+Cresta[END]
+","//Text $1A7310
+#WRITE(ptr,$189EB4)
+[END]
+"
+"//Text $1A72C0
+#WRITE(ptr,$189EB8)
+セインガルドの東部にある街。[LINE]
+郊外の街らしく、ゆっくりとした時間が[LINE]
+流れている。[END]
+","//Text $1A72C0
+#WRITE(ptr,$189EB8)
+A city in the eastern part of[LINE]
+Seinegald. Like other suburban[LINE]
+towns, time passes slowly.[END]
+"
+"//Text $1A72A8
+#WRITE(ptr,$189EE8)
+オベロン秘密工場 [END]
+","//Text $1A72A8
+#WRITE(ptr,$189EE8)
+Oberon's Hidden Factory[END]
+"
+"//Text $1A7290
+#WRITE(ptr,$189EEC)
+Oberon's Hidden Factory[END]
+","//Text $1A7290
+#WRITE(ptr,$189EEC)
+[END]
+"
+"//Text $1A7240
+#WRITE(ptr,$189EF0)
+セインガルドの北東海域の島に造られた[LINE]
+オベロン社の工場。[LINE]
+現在は閉鎖されている。[END]
+","//Text $1A7240
+#WRITE(ptr,$189EF0)
+An Oberon factory built on an island[LINE]
+in the northeastern waters of[LINE]
+Seinegald. It's currently closed.[END]
+"
+"//Text $1A7230
+#WRITE(ptr,$189F20)
+リーネの村[END]
+","//Text $1A7230
+#WRITE(ptr,$189F20)
+Lienea[END]
+"
+"//Text $1A7228
+#WRITE(ptr,$189F24)
+Leane[END]
+","//Text $1A7228
+#WRITE(ptr,$189F24)
+[END]
+"
+"//Text $1A71E0
+#WRITE(ptr,$189F28)
+フィッツガルドの北部にある村。[LINE]
+ほとんどの村民が農業と牧畜を営んでいる。[END]
+","//Text $1A71E0
+#WRITE(ptr,$189F28)
+A village in the northern region of[LINE]
+Fitzgald. Most of the villagers engage[LINE]
+in agriculture or cattle farming.[END]
+"
+"//Text $1A71D0
+#WRITE(ptr,$189F58)
+隠された神殿 [END]
+","//Text $1A71D0
+#WRITE(ptr,$189F58)
+The Hidden Temple [END]
+"
+"//Text $1A71B8
+#WRITE(ptr,$189F5C)
+The Hidden Temple[END]
+","//Text $1A71B8
+#WRITE(ptr,$189F5C)
+[END]
+"
+"//Text $1A7188
+#WRITE(ptr,$189F60)
+フィッツガルドの北部の内湾部にある遺跡。[END]
+","//Text $1A7188
+#WRITE(ptr,$189F60)
+An archaeological site located in[LINE]
+the northern inner bay of Fitzgald.[END]
+"
+"//Text $1A7178
+#WRITE(ptr,$189F90)
+港町チェリク[END]
+","//Text $1A7178
+#WRITE(ptr,$189F90)
+Cherik[END]
+"
+"//Text $1A7170
+#WRITE(ptr,$189F94)
+Cherik[END]
+","//Text $1A7170
+#WRITE(ptr,$189F94)
+[END]
+"
+"//Text $1A7100
+#WRITE(ptr,$189F98)
+カルバレイスの南部にある港町。[LINE]
+厳しい環境のカルバレイスにとって[LINE]
+他国の物資が補給できる港は、まさに生命線。[END]
+","//Text $1A7100
+#WRITE(ptr,$189F98)
+A port town in the southern region of Calvalese.[LINE]
+Supplies from other countries flow through here,[LINE]
+making it a lifeline against the harsh environment.[END]
+"
+"//Text $1A70F0
+#WRITE(ptr,$189FC8)
+首都カルビオラ[END]
+","//Text $1A70F0
+#WRITE(ptr,$189FC8)
+Calviola[END]
+"
+"//Text $1A70E0
+#WRITE(ptr,$189FCC)
+Calviola[END]
+","//Text $1A70E0
+#WRITE(ptr,$189FCC)
+[END]
+"
+"//Text $1A7088
+#WRITE(ptr,$189FD0)
+カルバレイスの首都。[LINE]
+店舗の軒先には、夜になると色とりどりの[LINE]
+ネオンサインが輝く。[END]
+","//Text $1A7088
+#WRITE(ptr,$189FD0)
+Capital of Calvalese.[LINE]
+The store roofs are covered with colorful[LINE]
+neon lights that glow at night.[END]
+"
+"//Text $1A7078
+#WRITE(ptr,$18A000)
+ジャンクランド[END]
+","//Text $1A7078
+#WRITE(ptr,$18A000)
+Junkland[END]
+"
+"//Text $1A7068
+#WRITE(ptr,$18A004)
+Junkland[END]
+","//Text $1A7068
+#WRITE(ptr,$18A004)
+[END]
+"
+"//Text $1A7000
+#WRITE(ptr,$18A008)
+カルバレイスの西部にある街。[LINE]
+堆積した大昔の産業廃棄物の山を再利用して[LINE]
+生活する人々が住んでいる。[END]
+","//Text $1A7000
+#WRITE(ptr,$18A008)
+A city in the western region of Calvalese.[LINE]
+The people there live by reusing piles of[LINE]
+industrial waste from long ago.[END]
+"
+"//Text $1A6FF0
+#WRITE(ptr,$18A038)
+ラディスロウ[END]
+","//Text $1A6FF0
+#WRITE(ptr,$18A038)
+#WRITE(ptr,$18A460)
+Radisrol[END]
+"
+"//Text $1A6FE0
+#WRITE(ptr,$18A03C)
+Radislowe[END]
+","//Text $1A6FE0
+#WRITE(ptr,$18A03C)
+#WRITE(ptr,$18A464)
+[END]
+"
+"//Text $1A6F90
+#WRITE(ptr,$18A040)
+かつて勇名を馳せた船。[LINE]
+現在は海中深くに沈み、[LINE]
+その存在を知る者はいない。[END]
+","//Text $1A6F90
+#WRITE(ptr,$18A040)
+A ship once known for its heroics.[LINE]
+It is now submerged deep in the sea,[LINE]
+and no one knows of its existence.[END]
+"
+"//Text $1A6F80
+#WRITE(ptr,$18A070)
+ハーメンツの村[END]
+","//Text $1A6F80
+#WRITE(ptr,$18A070)
+Harmentz[END]
+"
+"//Text $1A6F70
+#WRITE(ptr,$18A074)
+Harmentz[END]
+","//Text $1A6F70
+#WRITE(ptr,$18A074)
+[END]
+"
+"//Text $1A6F28
+#WRITE(ptr,$18A078)
+セインガルドの西部にある村。[LINE]
+質素な村には不釣合いな大きな屋敷がある。[END]
+","//Text $1A6F28
+#WRITE(ptr,$18A078)
+A village in the western region of[LINE]
+Seinegald. It has a mansion that is[LINE]
+out of place for the humble village.[END]
+"
+"//Text $1A6F18
+#WRITE(ptr,$18A0A8)
+アルメイダの村[END]
+","//Text $1A6F18
+#WRITE(ptr,$18A0A8)
+Armeida[END]
+"
+"//Text $1A6F10
+#WRITE(ptr,$18A0AC)
+Armeida[END]
+","//Text $1A6F10
+#WRITE(ptr,$18A0AC)
+[END]
+"
+"//Text $1A6EC0
+#WRITE(ptr,$18A0B0)
+セインガルドの北部にある村。[LINE]
+ストレイライズ神殿への巡礼者が立ち寄る[LINE]
+憩いの村。[END]
+","//Text $1A6EC0
+#WRITE(ptr,$18A0B0)
+A village in the northern region of[LINE]
+Seinegald. Pilgrims of Straylize Temple[LINE]
+stop by to rest and relax.[END]
+"
+"//Text $1A6EA8
+#WRITE(ptr,$18A0E0)
+ストレイライズ神殿[END]
+","//Text $1A6EA8
+#WRITE(ptr,$18A0E0)
+Straylize Temple[END]
+"
+"//Text $1A6E90
+#WRITE(ptr,$18A0E4)
+Straylize Temple[END]
+","//Text $1A6E90
+#WRITE(ptr,$18A0E4)
+[END]
+"
+"//Text $1A6E38
+#WRITE(ptr,$18A0E8)
+森の奥に整然とたたずむ神殿。[LINE]
+神殿としてだけでなく、研究施設としての[LINE]
+役割も担っている。[END]
+","//Text $1A6E38
+#WRITE(ptr,$18A0E8)
+A temple that stands neatly in the[LINE]
+depths of the forest. It also operates[LINE]
+as a research facility.[END]
+"
+"//Text $1A6E28
+#WRITE(ptr,$18A118)
+サイリルの街[END]
+","//Text $1A6E28
+#WRITE(ptr,$18A118)
+Cyril[END]
+"
+"//Text $1A6E20
+#WRITE(ptr,$18A11C)
+Cyril[END]
+","//Text $1A6E20
+#WRITE(ptr,$18A11C)
+[END]
+"
+"//Text $1A6DB8
+#WRITE(ptr,$18A120)
+ファンダリアの南部にある街。[LINE]
+２年前に王家の軍が派遣されて街は戦場と[LINE]
+化したが、現在は復興を遂げている。[END]
+","//Text $1A6DB8
+#WRITE(ptr,$18A120)
+A city in the southern region of Phandaria.[LINE]
+Two years ago, the city was a battlefield,[LINE]
+but it is now recovering.[END]
+"
+"//Text $1A6DA0
+#WRITE(ptr,$18A150)
+港町スノーフリア[END]
+","//Text $1A6DA0
+#WRITE(ptr,$18A150)
+Frostheim[END]
+"
+"//Text $1A6D90
+#WRITE(ptr,$18A154)
+Snowfreer[END]
+","//Text $1A6D90
+#WRITE(ptr,$18A154)
+[END]
+"
+"//Text $1A6D38
+#WRITE(ptr,$18A158)
+ファンダリアの東部にある港町。[LINE]
+温泉があるため、他国からも湯治目的の[LINE]
+観光客が訪れる。[END]
+","//Text $1A6D38
+#WRITE(ptr,$18A158)
+A port town in the eastern region of Phandaria.[LINE]
+Because of its hot springs, tourists come here[LINE]
+for hot spring therapy.[END]
+"
+"//Text $1A6D28
+#WRITE(ptr,$18A188)
+シデン領[END]
+","//Text $1A6D28
+#WRITE(ptr,$18A188)
+Shiden[END]
+"
+"//Text $1A6D20
+#WRITE(ptr,$18A18C)
+Shiden[END]
+","//Text $1A6D20
+#WRITE(ptr,$18A18C)
+[END]
+"
+"//Text $1A6CE8
+#WRITE(ptr,$18A190)
+アクアヴェイルの北部にある[LINE]
+シデン家が治める領内の街。[END]
+","//Text $1A6CE8
+#WRITE(ptr,$18A190)
+A city in the northern region of Aquaveil.[LINE]
+Its territory is ruled by the Shiden family.[LINE]
+[END]
+"
+"//Text $1A6CD8
+#WRITE(ptr,$18A1C0)
+トウケイ領[END]
+","//Text $1A6CD8
+#WRITE(ptr,$18A1C0)
+Terazzi[END]
+"
+"//Text $1A6CD0
+#WRITE(ptr,$18A1C4)
+Toukei[END]
+","//Text $1A6CD0
+#WRITE(ptr,$18A1C4)
+[END]
+"
+"//Text $1A6C98
+#WRITE(ptr,$18A1C8)
+アクアヴェイルの南部にある[LINE]
+トウケイ家が治める領内の街。[END]
+","//Text $1A6C98
+#WRITE(ptr,$18A1C8)
+A city in the southern region of Aquaveil.[LINE]
+Its territory is ruled by the Terrazi family.[LINE]
+[END]
+"
+"//Text $1A6C88
+#WRITE(ptr,$18A1F8)
+モリュウ領[END]
+","//Text $1A6C88
+#WRITE(ptr,$18A1F8)
+Moreau[END]
+"
+"//Text $1A6C80
+#WRITE(ptr,$18A1FC)
+Moreau[END]
+","//Text $1A6C80
+#WRITE(ptr,$18A1FC)
+[END]
+"
+"//Text $1A6C48
+#WRITE(ptr,$18A200)
+アクアヴェイルの西部にある[LINE]
+モリュウ家が治める領内の街。[END]
+","//Text $1A6C48
+#WRITE(ptr,$18A200)
+A city in the western region of Aquaveil.[LINE]
+Its territory is ruled by the Moreau family.[LINE]
+[END]
+"
+"//Text $1A6C30
+#WRITE(ptr,$18A230)
+ノイシュタットの街[END]
+","//Text $1A6C30
+#WRITE(ptr,$18A230)
+Neustadt[END]
+"
+"//Text $1A6C20
+#WRITE(ptr,$18A234)
+Noischtat[END]
+","//Text $1A6C20
+#WRITE(ptr,$18A234)
+[END]
+"
+"//Text $1A6BD0
+#WRITE(ptr,$18A238)
+フィッツガルドの南部にある新興の街。[LINE]
+闘技場では日夜激闘が繰り広げられている。[END]
+","//Text $1A6BD0
+#WRITE(ptr,$18A238)
+A developing city in the southern[LINE]
+part of Fitzgald. Fierce battles are[LINE]
+fought day and night in the arena.[END]
+"
+"//Text $1A6BB8
+#WRITE(ptr,$18A268)
+海底洞窟(モリュウ領)[END]
+","//Text $1A6BB8
+#WRITE(ptr,$18A268)
+Tidal Cave (Moreau)[END]
+"
+"//Text $1A6BA8
+#WRITE(ptr,$18A26C)
+Sea Cave[END]
+","//Text $1A6BA8
+#WRITE(ptr,$18A26C)
+[END]
+"
+"//Text $1A6B80
+#WRITE(ptr,$18A270)
+シデン領とモリュウ領をつなぐ海底洞窟。[END]
+","//Text $1A6B80
+#WRITE(ptr,$18A270)
+An underwater cave that connects[LINE]
+Shiden and Moreau.[END]
+"
+"//Text $1A6B68
+#WRITE(ptr,$18A2A0)
+海底洞窟(シデン領)[END]
+","//Text $1A6B68
+#WRITE(ptr,$18A2A0)
+Tidal Cave (Shiden)[END]
+"
+"//Text $1A6BA8
+#WRITE(ptr,$18A2A4)
+Sea Cave[END]
+","//Text $1A6BA8
+#WRITE(ptr,$18A2A4)
+[END]
+"
+"//Text $1A6B80
+#WRITE(ptr,$18A2A8)
+シデン領とモリュウ領をつなぐ海底洞窟。[END]
+","//Text $1A6B80
+#WRITE(ptr,$18A2A8)
+An underwater cave that connects[LINE]
+Shiden and Moreau.[END]
+"
+"//Text $1A6B58
+#WRITE(ptr,$18A2D8)
+ティルソの森[END]
+","//Text $1A6B58
+#WRITE(ptr,$18A2D8)
+Tilso Forest[END]
+"
+"//Text $1A6B48
+#WRITE(ptr,$18A2DC)
+Tilso Forest[END]
+","//Text $1A6B48
+#WRITE(ptr,$18A2DC)
+[END]
+"
+"//Text $1A6B18
+#WRITE(ptr,$18A2E0)
+ファンダリア東部と西部をつなぐ雪深い森。[END]
+","//Text $1A6B18
+#WRITE(ptr,$18A2E0)
+A snowy forest that connects[LINE]
+eastern and western Phandaria.[END]
+"
+"//Text $1A6B00
+#WRITE(ptr,$18A310)
+ストレイライズの森[END]
+","//Text $1A6B00
+#WRITE(ptr,$18A310)
+Straylize Forest[END]
+"
+"//Text $1A6AE8
+#WRITE(ptr,$18A314)
+Straylize Forest[END]
+","//Text $1A6AE8
+#WRITE(ptr,$18A314)
+[END]
+"
+"//Text $1A6A80
+#WRITE(ptr,$18A318)
+山のいただきにある森。[LINE]
+神殿へと向かう道のため、神殿関係者以外が[LINE]
+利用する姿を目にする機会は少ない。[END]
+","//Text $1A6A80
+#WRITE(ptr,$18A318)
+A forest at the top of a mountain.[LINE]
+As the main path to Straylize Temple, it [LINE]
+mainly is used by missionaries and priests.[END]"
+"//Text $1A6A68
+#WRITE(ptr,$18A348)
+ソーディアン研究所[END]
+","//Text $1A6A68
+#WRITE(ptr,$18A348)
+Swordian R&D Lab[END]
+"
+"//Text $1A6A50
+#WRITE(ptr,$18A34C)
+Swordian R&D Lab[END]
+","//Text $1A6A50
+#WRITE(ptr,$18A34C)
+[END]
+"
+"//Text $1A69F8
+#WRITE(ptr,$18A350)
+地底深くにある地上軍の研究施設。[LINE]
+ベルクラントの砲撃によって地中から[LINE]
+姿を現した。[END]
+","//Text $1A69F8
+#WRITE(ptr,$18A350)
+A research facility for the Er'ther forces[LINE]
+deep beneath the earth. It was unearth[LINE]
+by Belcrant's bombardment.[END]
+"
+"//Text $1A69E8
+#WRITE(ptr,$18A380)
+旅人の小屋 [END]
+","//Text $1A69E8
+#WRITE(ptr,$18A380)
+Traveler's Lodge[END]
+"
+"//Text $1A69D0
+#WRITE(ptr,$18A384)
+Traveler's Lodge[END]
+","//Text $1A69D0
+#WRITE(ptr,$18A384)
+[END]
+"
+"//Text $1A6988
+#WRITE(ptr,$18A388)
+旅する者が休息に立ち寄る小屋。[LINE]
+ここでは不思議な出会いがあるかも。[END]
+","//Text $1A6988
+#WRITE(ptr,$18A388)
+A hut where travelers stop to rest.[LINE]
+You may have a strange encounter here.[END]
+"
+"//Text $1A6970
+#WRITE(ptr,$18A3B8)
+フードサック仙人の庵  [END]
+","//Text $1A6970
+#WRITE(ptr,$18A3B8)
+Food Sack Master's Haven[END]
+"
+"//Text $1A6950
+#WRITE(ptr,$18A3BC)
+Food Sack Master's Haven[END]
+","//Text $1A6950
+#WRITE(ptr,$18A3BC)
+[END]
+"
+"//Text $1A6928
+#WRITE(ptr,$18A3C0)
+フードサック作りを極めた者が住む庵。[END]
+","//Text $1A6928
+#WRITE(ptr,$18A3C0)
+A haven for those who have mastered[LINE]
+the art of making food sacks.[LINE]
+[END]
+"
+"//Text $1A6918
+#WRITE(ptr,$18A3F0)
+飛行竜     [END]
+","//Text $1A6918
+#WRITE(ptr,$18A3F0)
+Lumina Draconis[END]
+"
+"//Text $1A6908
+#WRITE(ptr,$18A3F4)
+Lumina Draconis[END]
+","//Text $1A6908
+#WRITE(ptr,$18A3F4)
+[END]
+"
+"//Text $1A68D8
+#WRITE(ptr,$18A3F8)
+生態金属ベルセリウムによって造られた[LINE]
+輸送施設。[END]
+","//Text $1A68D8
+#WRITE(ptr,$18A3F8)
+A transport vehicle made of the biometal[LINE]
+Berselium.[END]
+"
+"//Text $1A68C0
+#WRITE(ptr,$18A428)
+ファンダリアの山道[END]
+","//Text $1A68C0
+#WRITE(ptr,$18A428)
+Phandaria Pass[END]
+"
+"//Text $1A68B0
+#WRITE(ptr,$18A42C)
+Phandaria Pass[END]
+","//Text $1A68B0
+#WRITE(ptr,$18A42C)
+[END]
+"
+"//Text $1A6870
+#WRITE(ptr,$18A430)
+ジェノスの街とトーンの山小屋を結ぶ[LINE]
+雪の降り積もった山道。[END]
+","//Text $1A6870
+#WRITE(ptr,$18A430)
+A snow-covered mountain road that[LINE]
+connects Janos with Torn's Cabin.[END]
+"
+"//Text $1A7878
+#WRITE(ptr,$18A468)
+A ship once known for its heroics.[LINE]
+The ship has resurfaced once again to carry[LINE]
+out the blitzkrieg strategy used in the Aeth'er War.[END]
+","//Text $1A7878
+#WRITE
+Radisrol[END]"
+"//Text $1A7878
+#WRITE(ptr,$18A468)
+A ship once known for its heroics.[LINE]
+The ship has resurfaced once again to carry[LINE]
+out the blitzkrieg strategy used in the Aeth'er War.[END]
+","//Text $1A7878
+#WRITE(ptr,$18A468)
+[END]"
+"//Text $1A7878
+#WRITE(ptr,$18A468)
+かつて勇名を馳せた船。[LINE]
+天地戦争で用いた電撃作戦を再び敢行して[LINE]
+外殻に浮上した。[END]
+","//Text $1A7878
+#WRITE(ptr,$18A468)
+A ship once known for its heroics.[LINE]
+The ship has resurfaced once again to carry[LINE]
+out the blitzkrieg strategy used in the Aeth'er War.[END]
+"
+"//Text $1A7868
+#WRITE(ptr,$18A498)
+イグナシー[END]
+","//Text $1A7868
+#WRITE(ptr,$18A498)
+Ignasea[END]
+"
+"//Text $1A7860
+#WRITE(ptr,$18A49C)
+Ignasea[END]
+","//Text $1A7860
+#WRITE(ptr,$18A49C)
+[END]
+"
+"//Text $1A7808
+#WRITE(ptr,$18A4A0)
+ラディスロウから一番近い空中都市。[LINE]
+空中都市同士を結ぶ、転送装置の[LINE]
+ターミナルがある。[END]
+","//Text $1A7808
+#WRITE(ptr,$18A4A0)
+The nearest aerial city from Radisrol.[LINE]
+There is a transporter terminal that[LINE]
+connects the cities.[END]
+"
+"//Text $1A77F8
+#WRITE(ptr,$18A4D0)
+シュサイア[END]
+","//Text $1A77F8
+#WRITE(ptr,$18A4D0)
+Josaia[END]
+"
+"//Text $1A77F0
+#WRITE(ptr,$18A4D4)
+Shusaia[END]
+","//Text $1A77F0
+#WRITE(ptr,$18A4D4)
+[END]
+"
+"//Text $1A77B8
+#WRITE(ptr,$18A4D8)
+イグナシーと転送装置で結ばれている[LINE]
+空中都市のひとつ。[END]
+","//Text $1A77B8
+#WRITE(ptr,$18A4D8)
+One of the aerial cities connected[LINE]
+to Ignasea via a transporter.[END]
+"
+"//Text $1A77A8
+#WRITE(ptr,$18A508)
+ミックハイル[END]
+","//Text $1A77A8
+#WRITE(ptr,$18A508)
+Mikheil[END]
+"
+"//Text $1A77A0
+#WRITE(ptr,$18A50C)
+Mikheil[END]
+","//Text $1A77A0
+#WRITE(ptr,$18A50C)
+[END]
+"
+"//Text $1A7768
+#WRITE(ptr,$18A510)
+空中都市群を空路で結んでいた[LINE]
+浮遊クルーザーがある。[END]
+","//Text $1A7768
+#WRITE(ptr,$18A510)
+An Aeth'er Cruiser used to link the[LINE]
+aerial cities.[END]
+"
+"//Text $1A7758
+#WRITE(ptr,$18A540)
+ロディオン[END]
+","//Text $1A7758
+#WRITE(ptr,$18A540)
+Rodeon[END]
+"
+"//Text $1A7750
+#WRITE(ptr,$18A544)
+Rodeon[END]
+","//Text $1A7750
+#WRITE(ptr,$18A544)
+[END]
+"
+"//Text $1A77B8
+#WRITE(ptr,$18A548)
+イグナシーと転送装置で結ばれている[LINE]
+空中都市のひとつ。[END]
+","//Text $1A77B8
+#WRITE(ptr,$18A548)
+One of the aerial cities connected[LINE]
+to Ignasea via a transporter.[END]
+"
+"//Text $1A7740
+#WRITE(ptr,$18A578)
+ヘルレイオス[END]
+","//Text $1A7740
+#WRITE(ptr,$18A578)
+Helraios[END]
+"
+"//Text $1A7730
+#WRITE(ptr,$18A57C)
+Helraios[END]
+","//Text $1A7730
+#WRITE(ptr,$18A57C)
+[END]
+"
+"//Text $1A76E8
+#WRITE(ptr,$18A580)
+空中都市群の中でも重要な拠点のひとつ。[LINE]
+天上軍の技術研究施設がある。[END]
+","//Text $1A76E8
+#WRITE(ptr,$18A580)
+One of the most important bases of the[LINE]
+aerial cities. It is home to the technological[LINE]
+research facilities for the Aeth'erian army. [END]
+"
+"//Text $1A76D8
+#WRITE(ptr,$18A5B0)
+アンスズーン[END]
+","//Text $1A76D8
+#WRITE(ptr,$18A5B0)
+Deimos[END]
+"
+"//Text $1A76D0
+#WRITE(ptr,$18A5B4)
+Anszoon[END]
+","//Text $1A76D0
+#WRITE(ptr,$18A5B4)
+[END]
+"
+"//Text $1A77B8
+#WRITE(ptr,$18A5B8)
+イグナシーと転送装置で結ばれている[LINE]
+空中都市のひとつ。[END]
+","//Text $1A77B8
+#WRITE(ptr,$18A5B8)
+One of the aerial cities connected[LINE]
+to Ignasea via a transporter.[END]
+"
+"//Text $1A76C0
+#WRITE(ptr,$18A5E8)
+クラウディス[END]
+","//Text $1A76C0
+#WRITE(ptr,$18A5E8)
+Cloudius[END]
+"
+"//Text $1A76B0
+#WRITE(ptr,$18A5EC)
+Cloudius[END]
+","//Text $1A76B0
+#WRITE(ptr,$18A5EC)
+[END]
+"
+"//Text $1A7668
+#WRITE(ptr,$18A5F0)
+空中都市群の中でも重要な拠点のひとつ。[LINE]
+守護竜のコントロール施設がある。[END]
+","//Text $1A7668
+#WRITE(ptr,$18A5F0)
+One of the most important bases of[LINE]
+the aerial cities. There is a control[LINE]
+facility for the guardian dragons.[END]
+"
+"//Text $1A7658
+#WRITE(ptr,$18A620)
+ダイクロフト[END]
+","//Text $1A7658
+#WRITE(ptr,$18A620)
+Dycroft[END]
+"
+"//Text $1A7650
+#WRITE(ptr,$18A624)
+Dycroft[END]
+","//Text $1A7650
+#WRITE(ptr,$18A624)
+[END]
+"
+"//Text $1A75E8
+#WRITE(ptr,$18A628)
+空中都市群の最重要拠点。[LINE]
+ダイクロフトにある神の眼によって[LINE]
+全ての空中都市の機能が制御されている。[END]
+","//Text $1A75E8
+#WRITE(ptr,$18A628)
+The most important base of the aerial[LINE]
+cities. The functions of all the other cities[LINE]
+are controlled by the Eye of Atamoni here.[END]
+"
+"//Text $1A75D8
+#WRITE(ptr,$18A658)
+ねこにん基地[END]
+","//Text $1A75D8
+#WRITE(ptr,$18A658)
+Katz Village[END]
+"
+"//Text $1A75C8
+#WRITE(ptr,$18A65C)
+Nekonin's Base[END]
+","//Text $1A75C8
+#WRITE(ptr,$18A65C)
+[END]
+"
+"//Text $1A7598
+#WRITE(ptr,$18A660)
+外殻にきてしまったねこにんが造った基地。[END]
+","//Text $1A7598
+#WRITE(ptr,$18A660)
+A village formed by Katz who have[LINE]
+come to the Outer Shell.[END]
+"
+"//Text $1A7588
+#WRITE(ptr,$18A690)
+地上への穴  [END]
+","//Text $1A7588
+#WRITE(ptr,$18A690)
+Hole to the Er'ther Lands[END]
+"
+"//Text $1A7570
+#WRITE(ptr,$18A694)
+Hole to the ground[END]
+","//Text $1A7570
+#WRITE(ptr,$18A694)
+[END]
+"
+"//Text $1A7508
+#WRITE(ptr,$18A698)
+ラディスロウのあった場所を[LINE]
+レンズ砲で打ち抜いてできた穴。[LINE]
+地上と外殻大地を繋ぐ唯一にして希望の道。[END]
+","//Text $1A7508
+#WRITE(ptr,$18A698)
+A hole made by the lens cannon where Radisrol[LINE]
+was once located. It is the only path connecting[LINE]
+the Er'ther Lands and the Outer Shell.[END]
+"
