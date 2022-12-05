@@ -14,7 +14,7 @@ This event occurs when you talk to the man in front of the inn in Janos. He tell
 
 
 ![](stahn-guide/sub001_1.png)  
-
+▲ Unfortunately you can't help him yet.
 
 ---
 
@@ -68,7 +68,7 @@ This event occurs when you encounter a man who seems to know Stahn in from of th
 
 
 ![](stahn-guide/sub004_1.png)  
-
+▲ Try saying the wrong answer with not enough money to buy his apple gel.
 
 ---
 
@@ -107,7 +107,7 @@ The Heroes of Seinegald are known as the "Seven Generals." You will encounter ru
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Taking Hugo’s Request ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See table below    |
 
-There is a vending machine on the second floor of the Darilsheid Inn that offers capsule toys for 200 Gald. Some of the available toys are rare, so if you have a few Gald to spare, you should try your luck! The following table shows the items that are available and the probability of obtaining them. 
+There is a vending machine on the second floor of the Darilsheid Inn that offers capsule toys for 200 Gald. Some of the available items are rare, so if you have a few Gald to spare, you should try your luck! The following table shows the items that are available and the probability of obtaining them. 
 
 |![](https://img.shields.io/badge/-Item-informational?style=for-the-badge&color=lightgrey)|![](https://img.shields.io/badge/-Probability-informational?style=for-the-badge&color=lightgrey)|
 |----------------|-----------|
@@ -121,7 +121,7 @@ There is a vending machine on the second floor of the Darilsheid Inn that offers
 |Peach Gel       |3%         |
 
 ![](stahn-guide/sub006_1.png)  
-
+▲ It's not technically a Side-Quest but since it's hidden in plain sight we felt the need to include it.
 
 ---
 
@@ -157,7 +157,7 @@ Between the period listed above, a Side-Quest will occur after heading to Reynol
 
 
 ![](stahn-guide/sub008_1.png)  
-
+▲ Triggering this Side-Quest is counterintuitive since it requires you to go back to the castle when you have no business there anymore the same is true for the "Alleged Mother"  [Side-Quest #010](projects/destiny-dc/stahn-guide?id=Side-Quest-010-Alleged-Mother?).
 
 ---
 
@@ -188,12 +188,12 @@ This event occurs when you visit Hugo's mansion in Darilsheid and receive the sw
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Taking Hugo’s Request ~ No.12 Straylize Temple cleared    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Mary's title [Home Cook]    |
 
-This event only appears for a short time, so it's best to complete it PRIOR TO heading to Staylize Temple. Visit the dining room in Seinegald Castle, which is located at the end of the corridor on the left side of the first floor. A child will shout "mother," leading Stahn and the party to wonder for a moment if this child is Mary's (?). In the end, it all turns out to be a misunderstanding. 
+This event only appears for a short time, so it's best to complete it PRIOR TO heading to Staylize Temple. Visit the dining room in Seinegald Castle, which is located at the end of the corridor on the left side of the first floor. A child will shout "mother," leading Stahn and the party to wonder for a moment if this child is Mary's. In the end, it all turns out to be a misunderstanding. 
 
 
 
 ![](stahn-guide/sub010_1.png)  
-
+▲ The title for this Side-Quest is super important and you really need to get out of your way to get it since there's no reason to visit this room in the castle at this point.
 
 ---
 
@@ -229,7 +229,7 @@ The "Dark Wings," whom you met in Janos, appear before Stahn and others once aga
 
 
 ![](stahn-guide/sub012_1.png)  
-
+▲ This time they're pretending to be legendary heroes.
 
 ---
 
@@ -319,7 +319,7 @@ This event occurs when speaking with Elena, who is in a house to the left of the
 
 
 ![](stahn-guide/sub017_1.png)  
-▲ Completing "Bird in a Cage?" [Side-Quest #077](projects/destiny-dc/stahn-guide?id=Side-Quest-077-Bird-in-a-Cage?) is mandatory to trigger this chains of events.
+▲ Completing this event is nessesary to trigger the "Bird in a Cage?" [Side-Quest #077](projects/destiny-dc/stahn-guide?id=Side-Quest-077-Bird-in-a-Cage?).
 
 ---
 
@@ -355,7 +355,7 @@ Visit the square close to where the Baruk Foundation(?) is located in Cherik to 
 
 
 ![](stahn-guide/sub019_1.png)  
-
+▲ IMPORTANT this event won't appear if you trigger the cherik port scene before going there, it's really easy to miss!
 
 ---
 
@@ -386,12 +386,12 @@ Talking to the girl on the bridge connected to the Oberon Lens shop in Neustadt.
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.20 Arriving in Neustadt    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Philia's title [Gaze of Resolve]    |
 
-This event occurs when you speak with the woman who is standing in front of the Neustadt fountain. When presented with a choice, select "Is this about...me?".  From here a conversation with this woman ensues, where Philia is recognized as a Straylize Priestess. The woman comments on Philia's gaze. The title you receive here is necessary for the section part of this event series [Maiden's Gaze].
+This event occurs when you speak with the woman who is standing in front of the Neustadt item shop. When presented with a choice, select "Is this about...me?".  From here a conversation with this woman ensues, where Philia is recognized as a Straylize Priestess. The woman comments on Philia's gaze. The title you receive here is necessary for the next part of this event series [Maiden's Gaze].
 
 
 
 ![](stahn-guide/sub021_1.png)  
-
+▲ The title you receive here is necessary for the next part of this event series "Maiden's Gaze [Side-Quest #046](projects/destiny-dc/stahn-guide?id=Side-Quest-046-Maiden's-Gaze)" 
 
 ---
 
@@ -469,7 +469,7 @@ Make sure to be checking the maximum number of hits displayed when you review th
 |        Calvalese area  complete        |        Unique [Grimm Bow]        |
 |        Calvalese area  complete        |        Unique [Calvalese Belt]        |
 |        Aquaveil area  complete        |        Unique [Aquaveil Belt]        |
-|        Aquaveil area  complete        |        Foodstrap [Fish Hot Pot]        |
+|        Aquaveil area  complete        |        Food Strap [Fish Hot Pot]        |
 |        Phandaria area  complete        |        Unique [Revolution Bandana]        |
 |        Phandaria area  complete        |        Unique [Phandaria Belt]        |
 |        All areas complete        |        Unique [Grimm Gauntlets]        |
@@ -491,11 +491,11 @@ Make sure to be checking the maximum number of hits displayed when you review th
 
 After you have cleared the pirate ship, speak with the sailor to the north (?) of Ilene's house. He will give you a reward based on the amount of time you spent clearing the pirate ship.  
 
-|Clear Rank|Reward|
-|-----|-----|
-|Rank 1: within 3 minutes|[Blast Material]|
-|Rank 2: within 5 minutes|[Clear Lens] x50|
-|Rank 3: more than 5 minutes|[Rough Lens] x 100|
+|Rank|Time|Reward|
+|-----|-----|-----|
+|1: within 3 minutes|[Blast Material]|
+|2: within 5 minutes|[Clear Lens] x50|
+|3: more than 5 minutes|[Rough Lens] x 100|
 
 ![](stahn-guide/sub026_1.png)  
 ▲ The requirements for obtaining the rewards are listed below.
@@ -570,7 +570,7 @@ Speak with the girl in front of the Shiden Family mansion and she will complimen
 
 
 ![](stahn-guide/sub030_1.png)  
-▲ The title [Neat Sister] is mendatory to trigger the event "Sealed Man" [Side-Quest #108](projects/destiny-dc/stahn-guide?id=Side-Quest-108-Sealed-Man) 
+▲ The title [Neat Sister] is mandatory to trigger the event "Sealed Man" [Side-Quest #108](projects/destiny-dc/stahn-guide?id=Side-Quest-108-Sealed-Man) 
 
 ---
 
@@ -583,12 +583,12 @@ Speak with the girl in front of the Shiden Family mansion and she will complimen
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.25 Arriving in Moreau ~ No.28 Before arriving in Terazzi    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-The Dark Wings are back again. This time, they appear in front of the Shiden family mansion. They claim to be the ones hired to assist. It doesn't take long before the ruse is discovered and the Dark Wings are foiled once again. No reward is given for this Side-Quest
+The Dark Wings are back again. This time, they appear in front of the Shiden family mansion. They claim to be the ones hired to assist. It doesn't take long before the ruse is discovered and the Dark Wings are foiled once again.
 
 
 
 ![](stahn-guide/sub031_1.png)  
-
+▲ Lot of people haven't seen this event since it requires you to backtrack all the way to Shiden after arriving in Moreau. If you clear Moreau castle you'll miss it. The same is true for the next Side-Quest.
 
 ---
 
@@ -601,7 +601,7 @@ The Dark Wings are back again. This time, they appear in front of the Shiden fam
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.25 Arriving in Moreau ~ No.28 Before arriving in Terazzi    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-This event occurs when you go to the bridge at Shiden Port. Johnny is defending a boy who is being questioned by the residents. He will tell you a story about Michel Shiden, the founder of Aquaveil. In order to see this event, you must return to Shiden from Moreau through the underwater caves. 
+This event occurs when you go to the bridge at Shiden Port. Johnny is defending a boy who is being questioned by the residents. He will tell you a story about Michel Shiden, the founder of Aquaveil. In order to see this event, you must return to Shiden from Moreau through the underwater caves BEFORE you clear Moreau's Castle.
 
 
 
@@ -696,7 +696,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 ![](stahn-guide/sub037_1.png)  
-▲ The event end without Leon beign able to clear the "misunderstanding."
+▲ The event end without Leon being able to clear the "misunderstanding."
 
 ---
 
@@ -709,7 +709,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.31 Woodrow & Chelsea joins ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Chelsea's title [Cursed Beauty]    |
 
-
+This event takes place in the house to the left of the ??? shop found in Frostheim. When offered a choice, choose "Hey, he's kinda cute!" A misunderstanding with the young man leads to quite the conversation between him and Chelsea. 
 
 
 
@@ -724,10 +724,10 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cyril   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.33 Marie's memories returned    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.33 Mary's memories returned    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Woodrow's title [Isaac's Son]    |
 
-
+Talk to the boy near the food store in Cyril to trigger this event. When presented with a choice, choose "Is something wrong, boy?" The boy recognizes Woodrow as the King Isaac's son. Surprised by Woodrows honesty about who he is, the boy realizes just how cool Woodrow really is.
 
 
 
@@ -742,15 +742,15 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cyril   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.33 Marie's memories returned    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.33 Mary's memories returned    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Mary's title [Former Soldier]    |
 
-
+After Mary's memory is restored, talk to the man shoveling snow in Cyril. When presented with a choice, choose "You seem familiar..." The man will share he knew Mary when he was a simple mercenary. 
 
 
 
 ![](stahn-guide/sub040_1.png)  
-▲ He tells a few stories about Marie when they were in the army.
+▲ He tells a few stories about Mary when they were in the army.
 
 ---
 
@@ -760,10 +760,10 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Janos   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.33 Marie's memories returned No.36 Before Greybum's Battle    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's blast caliber [Infernal Suffering]    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.33 Mary's memories returned No.36 Before Greybum's Battle    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Leon's blast caliber [Infernal Suffering]    |
 
-
+This sub event is triggered by speaking with the Janos gate guard during the period mentioed above while Leon is a member of your party. He knew Leon's mother, Chris, and recalls stories of her childhood. This will grant you the blast caliber Infernal Suffering. If you already know this blast caliber, you receive nothing. 
 
 
 
@@ -781,7 +781,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.38 Start of part 2 ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+When Stahn approaches the Grocer in Linea he encounters the mythical Wonder Baker. This individual loves their bread puns. Even Stahn can't help but join in with his own special way of speaking. 
 
 
 
@@ -799,7 +799,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.38 Philia joins ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn title [Lienean Man]    |
 
-
+You will be presented with a choice when Stahn speaks to the Chief's Daughter in Lienea. Choose "Nowhere special..." and she'll notice Philia with Stahn. This makes her see Stahn has grown into a young man. 
 
 
 
@@ -835,12 +835,12 @@ This old man used to be linked to a defunct website where you could enter passwo
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After Side-Quest [Young Master 2]    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+NOTE: References the defunked website and a password obtained from a mini game played on hard difficulty. Once you use the password with the Community Old Man, talk to Dalis in Cyril to experience this event. 
 
 
 
 ![](stahn-guide/sub045_1.png)  
-▲ This is what moé hell would looks like, poor Dalis.
+▲ This is what moé hell would look like, poor Dalis.
 
 ---
 
@@ -853,7 +853,7 @@ This old man used to be linked to a defunct website where you could enter passwo
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.39 Arriving in Neustadt    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Philia's title [Maiden’s Gaze]    |
 
-
+This event will occur when you speak to the woman standing in front of the item shop(?) after completing the [Gaze of Resolve] Side-Quest. Select the choice "You're the woman from before!" She will notice a change in Philia granting her the title. If you haven't completed [Gaze of Resolve], you can leave the area to reset the conversation(?).
 
 
 
@@ -871,7 +871,7 @@ This old man used to be linked to a defunct website where you could enter passwo
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.40 Mary joins  ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Mary's title [Dalis' Wife]    |
 
-
+After Mary rejoins the party in the second part of the game, speak to the woman near the Armor shop in Frostheim. Select the dialogue choice "Who are you...?" and the woman will speak to Mary about Dalis. During the conversation, Mary remembers that this woman was a neighbor who helped care for Dalis.
 
 
 
@@ -889,7 +889,7 @@ This old man used to be linked to a defunct website where you could enter passwo
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.40 Mary joins  ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Kongman's title [Topless Man]    |
 
-
+This event occurs when you speak to the woman near the entrance of Frostheim from the [Rose of Seinegald] event. Select the dialogue choice "Sorry, no autographs on my down time." Watch as she receives an unconventional answer about his choice of attire.
 
 
 
@@ -907,7 +907,7 @@ This old man used to be linked to a defunct website where you could enter passwo
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Chelsea's title [Kidult]    |
 
-
+Speak to the boy at the entrance of Heidleberg to trigger this event. When presented with a choice, choose the dialogue option "Ohohoh, what a rowdy little boy!" Chelsea is in control of the situation until the boy makes fun of her outfit. 
 
 
 
@@ -925,7 +925,7 @@ This old man used to be linked to a defunct website where you could enter passwo
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Woodrow's title [Phandaria's King]    |
 
-
+Speak to the young woman on the second floor of the Heidelberg inn to trigger this event. When presented with dialogue choices, choose "How can I be of assistance?" She shares he desire to seek an audience with the King.  She shares with Woodrow her plight as a result of the recent riots. 
 
 
 
@@ -943,7 +943,7 @@ This old man used to be linked to a defunct website where you could enter passwo
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Woodrow's title [Doppelganger], Items see below    |
 
-
+In this multi-part sub quest, Woodrow is mistaken for someone else by people all over the world. You can trigger this event by speaking with a travler in the tavern in Janos. There are people scattered all over the world as shown in thetable below. Speaking to them will get you more information. The three most important locations are in Janos, Darilsheid, and Neustdat. After speaking with these three, a portait of "Woodrow" will appear in the halls of Heidelberg Castle.  It may help reveal who he is being mistaken for. You can recceive the title of "Doppelganager" when you speak to everyone listed in the table. 
 
 excel table
 
@@ -952,7 +952,7 @@ excel table
 
 ---
 
-## Side-Quest #052 - Small Familly 2
+## Side-Quest #052 - Small Family 2
 
  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
@@ -961,7 +961,7 @@ excel table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~ No.45 Before arrival at Radisrol    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+This is the second part of the "Small Family" series. If you have completed [Small Family 1], simply examine the banner at the Harmentz item(?) shop to start. The period of time is short, so make sure you start the even during the available time.
 
 
 
@@ -979,12 +979,12 @@ excel table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~ No.44 Before arrival at Undersea Caves    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+Head to the central area of Armedia and approach the Dark Wings during the period listed above. They haven't been very successful and are basically screw-ups. They resign themselves to the fact that they can only be themselves in Armedia and decide to settle down.
 
 
 
 ![](stahn-guide/sub053_1.png)  
-
+▲ They've come a long way since their cons days.
 
 ---
 
@@ -997,7 +997,7 @@ excel table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~ No.41 Woodrow & Chelsea joins    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Philia's title [Secret Agent], Philia's blast caliber [Divine Power]    |
 
-
+This event is available after Woodrow and Chelsea rejoin the party. Have Philia speak with Ayles in Stralize Temple with the title Gaze of Resolve set.  Philia asks to know more of the origins of the temple, and is shocked by what Ayles tells her.
 
 
 
@@ -1015,7 +1015,7 @@ excel table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~ No.41 Woodrow & Chelsea joins    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Philia's title [Divine Wife], Kongman's title [Goddess Challenger]    |
 
-
+After Woodrow joins the others, they talk to Ayles within Stralize Temple. Kongman, who is in love with Philia, asks about making Philia his lover. Unfortunately, he is in for a surprise when he learns that she is married - to the Goddess, of course.
 
 
 
@@ -1033,7 +1033,7 @@ excel table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Kongman's title [Tekken King]    |
 
-
+Speaking to a child standing in front of the item shop in Neustadt triggers this event. Some children ask why Kongam only fights with his fists and doesn't use any wepons. He shares with the children a few memories of the champion he idolized as a child.
 
 
 
@@ -1051,12 +1051,12 @@ excel table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Philia's title [Jealous Girl]    |
 
-
+This event will trigger when you speak to a young man in Neustadt's Fountain Square while Philia has the [Maiden's Gaze] title set. He is waiting for woman who turns out to be Stahn's childhood friend, the daughter of the village cheif of Lienea. She has matured and we are witness to her journey in finding love. 
 
 
 
 ![](stahn-guide/sub057_1.png)  
-▲ She used to be madly in love with Stahn but unfortunatly she discovered DestinyTinder™ and found another man.
+▲ She used to be madly in love with Stahn but unfortunately she discovered DestinyTinder™ and found another man.
 
 ---
 
@@ -1069,7 +1069,7 @@ excel table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+This event is triggered when you go north from Ilene's house in Neustadt. Two brothers are tormenting a young kid, Karma. Kongman is there to assist in only the way a champion of the arena can. 
 
 
 
@@ -1087,7 +1087,7 @@ excel table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~ No.58 Fight against Hugo    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn title [Young Detective]    |
 
-
+Stahn must have the [Lienean Man] title set when talking to Thomas in Stahn's house in Lienea. Thomas Suggests Stahn rests at home for a while. While doing so, Stahn hears the screams of his sister, Lilith. She claims there was some one watching her bathing through the window. Stahn, using briliant deductive thinking, is able to gather a group of suspicious characters and find out the creep who has been spying on his sister.
 
 
 
@@ -1105,7 +1105,7 @@ excel table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.42 Rutee joins ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Ex-Lens Hunter]    |
 
-
+An event will be triggered when you speak with one of the nuns at the batck of the Cresta orphanage. Select the dialogue choice "(...I didn't say goodbye to the sister...)" and Rutee will have a heart to heart with her.
 
 
 
@@ -1123,12 +1123,12 @@ excel table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.43 Arriving in Darilsheid ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Various Titles    |
 
-
+Speaking to the prisoner in the right cell in Seinegald castle will trigger this event. He will explain titles and give you a free title of [XX Representative]. Speak with him again to change the title whenever you want. 
 
 Excel Table
 
 ![](stahn-guide/sub061_1.png)  
-
+▲ These titles are mandatory to be able to get the discovery hints from the Retired old man NPC.
 
 ---
 
@@ -1141,7 +1141,7 @@ Excel Table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.43 Audience with the king ~ No.58 Fight against Hugo    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+This event is triggered when you speak to Isard at the Darilsheid port. He tells Stahn and his party of his Aquavalian roots and his concern for that country. This is a missable event. Be sure to do it during the period listed above. 
 
 
 
@@ -1159,12 +1159,12 @@ Excel Table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.43 Audience with the king ~ No.58 Fight against Hugo    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+Speaking to the man behind the inn in Darilsheid while Philia has the title [Jealous Girl] set will trigger this event. They man tells you that Vims of the Seven Generals and Melina like each other and Llewyn, another of the Seven Generals, has grown impatient with them not acting on their feelings and has set them up on a date.   
 
 
 
 ![](stahn-guide/sub063_1.png)  
-
+▲ This random NPC seems to know a whole lot about the inner lives of the seven generals.
 
 ---
 
@@ -1177,12 +1177,12 @@ Excel Table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.43 Audience with the king ~ No.64 Berselium Acquired    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Mary's title [Wife Networker]    |
 
-
+This even will trigger when Mary has the title of [Dalis' Wife] set while speaking to ladies meeting near Darilsheid's Inn. Dryden, the leader of the Seven Generals, may speak harshly to Stahn and the others but the party learns that he is well loved by the people.
 
 
 
 ![](stahn-guide/sub064_1.png)  
-
+▲ Visitiing Dryden in the Dryden in the castle entrance after getting the title will reward you with a special event.
 
 ---
 
@@ -1195,7 +1195,7 @@ Excel Table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.43 Audience with the king ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Woodrow's title [Royal Aura]    |
 
-
+Speak to the thirsty cat girl near the weapon shop in Darilsheid while Woodrow has the [Son of Isaac] title set. Leen, one of the Seven Generals, and Kongman have a special competition. Woodrow, who did not participate, ends up being the one who wins. 
 
 
 
@@ -1211,14 +1211,14 @@ Excel Table
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.43 Audience with the king ~ No.43 Before Oberon Hidden Factory    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Magical Aroma]    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Magical Aroma](projects/destiny-dc/items/item?id=item-magical-aroma)    |
 
-
+Having Mary with the [Former Soldier] title set while visiting the room on the left side of the second floor of Seinegald Castle will trigger this event. Stahn's party will assist in the investigation surrounding the Queen's kidnapping. To complete the event, journey to Staylize Forest and defeat the bandits there. The party learns that Hugo used the bandits as a tactic to delay a response to the theft of the Eye of Atamoni.
 
 Boss Info Table
 
 ![](stahn-guide/sub066_1.png)  
-
+▲ There's a fight with the list below bandits, prepare yourself before entering Straylize Forest.
 
 ---
 
@@ -1231,12 +1231,12 @@ Boss Info Table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.43 Audience with the king ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Philia's title [Trivia Queen], Woodrow's title [Original King of Trivia]    |
 
-
+This event is triggered when speaking with a young boy near the Northern entrance of Harmentz. He will quiz both Philia and Woodrow on their knowledge of the Phandarian King, leading to them earning their titles. They are quite impressed with the child's knowledge.
 
 
 
 ![](stahn-guide/sub067_1.png)  
-
+▲ There's a fight with the list below bandits, prepare yourself before entering Straylize Forest.
 
 ---
 
@@ -1249,12 +1249,12 @@ Boss Info Table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.43 Audience with the king ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's blast caliber [Life Discharge], 5000 Gald    |
 
-
+Speak to the green-haired man at Wat's Mansion in Harmentz while Rutee has the title [Former Lens Hunter] set. He will receive a message from a lens hunter that he is in the temple near Janos. You will see a scene in which Rutee, who was once a wanted criminal, is about to be sold out to Seinegal soldiers.
 
 
 
 ![](stahn-guide/sub068_1.png)  
-
+▲ In the end, Rutee was cooperating with the Seinegard autorities and got him arrested.
 
 ---
 
@@ -1267,12 +1267,12 @@ Boss Info Table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.43 Audience with the king ~ No.58 Fight against Hugo    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+Speaking to the five people listed below while visiting Heidelberg Castle prior to entering the throne room will trigger a request from Woodrow. He will remain here while Stahn and the others speak with Darzen and learn more of Woodrow's parents.
 
 Excel Table
 
 ![](stahn-guide/sub069_1.png)  
-
+▲ If you don't talk to enough of the listed NPC you won't be able to trigger the real ending to this Side-Quest.
 
 ---
 
@@ -1285,7 +1285,7 @@ Excel Table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.44 Arriving in Oberon's Secret Factory ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Philia's title [Bomb Alchemist]    |
 
-
+Speak with the woman at the fountain in Cresta to trigger this event. This woman shares that her pet isn't doing well. Philia offers her some special medicine. However, each time she administers the medicine, the pet's appearance changes!
 
 
 
@@ -1303,12 +1303,12 @@ Excel Table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Chelsea's title [Little Lady]    |
 
-
+This event will play when you enter the room just below the entrance to Radisrol. Being fed up with people thinking of her as a child, she takes the advise of each party member acheiving the ultimate fashion in the process.
 
 
 
 ![](stahn-guide/sub071_1.png)  
-
+▲ You'll acquire the title require for the next Side-Quest listed bellow
 
 ---
 
@@ -1321,12 +1321,12 @@ Excel Table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.72 Lens collecting completed    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
 
-
+Set Chelsea's [Little Lady] title and speak to Alba in his cabin to trigger this event. You will hear the story of when Woodrow and Chelsea met. 
 
 excel table for reward
 
 ![](stahn-guide/sub072_1.png)  
-
+▲ 
 
 ---
 
@@ -1339,7 +1339,7 @@ excel table for reward
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+This event occurs when you talk to the King within the audience chamber of Seinegald Castle after you have completed the [Doug Brothers] event. You will need to ensure Woodrow has the [Older Brother Figure] title set. The King has finally chosen a successor in Ashley of the Seven Generals. However, Ahsley refuses.
 
 
 
@@ -1357,12 +1357,12 @@ excel table for reward
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+After completing the [Soldier's Advance 1] enter the Darilsheid Tavern through the main entrance. Rutee must once again fend off the moves of a clueless soldier.
 
 
 
 ![](stahn-guide/sub074_1.png)  
-
+▲ Rutee finally snaps and threaten the man with her sword
 
 ---
 
@@ -1375,12 +1375,12 @@ excel table for reward
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+After completing [Yearning to join the Dark Wings 1], head back to the large pool of water to the right of the entrance of Calviola. Speak to Toshu to learn what happened with the hopeful apprentance.
 
 
 
 ![](stahn-guide/sub075_1.png)  
-
+▲ Toshu dream finally came true! Never give up never surrender, JUST DO IT.
 
 ---
 
@@ -1398,7 +1398,7 @@ excel table for reward
 
 
 ![](stahn-guide/sub076_1.png)  
-
+▲ "Bird in a Cage?" [Side-Quest #077](projects/destiny-dc/stahn-guide?id=side-quest-077-bird-in-a-cage) requires a title obtain here.
 
 ---
 
@@ -1409,14 +1409,14 @@ excel table for reward
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Janos   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Gain Material]    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Gain Material](projects/destiny-dc/items/item?id=item-gain-material)    |
 
 
 
 
 
 ![](stahn-guide/sub077_1.png)  
-
+▲ Even if you haven't triggered the first part "Lost Passport!" [Side-Quest #001](projects/destiny-dc/stahn-guide?id=side-quest-079-mother39s-face-leon) you can still see this part.
 
 ---
 
@@ -1434,7 +1434,7 @@ excel table for reward
 
 
 ![](stahn-guide/sub078_1.png)  
-
+▲ Leon was only pretending to no like sweet things, unfortunatly he never got to try them.
 
 ---
 
@@ -1452,7 +1452,7 @@ excel table for reward
 
 
 ![](stahn-guide/sub079_1.png)  
-
+▲ This quest "Mother's Face: Leon" [Side-Quest #079](projects/destiny-dc/stahn-guide?id=side-quest-079-mother39s-face-leon) lead to the next part "Mother's Face: Rutee" [Side-Quest #094](projects/destiny-dc/stahn-guide?id=side-quest-079-mother39s-face-leon)
 
 ---
 
@@ -1470,7 +1470,7 @@ excel table for reward
 
 
 ![](stahn-guide/sub080_1.png)  
-
+▲ "I want you to hit me as hard as you can" the man says, but Kongman fists are there to protects.
 
 ---
 
@@ -1488,7 +1488,7 @@ excel table for reward
 
 
 ![](stahn-guide/sub081_1.png)  
-
+▲ The reason for Johnny's clowning around seems to be related to his past with Fayte.
 
 ---
 
@@ -1499,14 +1499,14 @@ excel table for reward
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Rapid Material]    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Rapid Material](projects/destiny-dc/items/item?id=item-rapid-material)    |
 
 
 
 
 
 ![](stahn-guide/sub082_1.png)  
-
+▲ Seems that beign a devoted queen is much harder than it seems.
 
 ---
 
@@ -1524,25 +1524,7 @@ excel table for reward
 
 
 ![](stahn-guide/sub083_1.png)  
-
-
----
-
-## Side-Quest #084 - Bacchus' Resolution
-
-  
-
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
-| :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Lilith's title [Flame Girl]    |
-
-
-
-
-
-![](stahn-guide/sub084_1.png)  
-
+▲ This might seem complicated but having Lilith as a new party member for the rest of the game is definitly worth it.
 
 ---
 
@@ -1560,7 +1542,7 @@ excel table for reward
 
 
 ![](stahn-guide/sub085_1.png)  
-
+▲ Dryden hoped that Leon would become the next general...
 
 ---
 
@@ -1578,7 +1560,7 @@ excel table for reward
 
 
 ![](stahn-guide/sub086_1.png)  
-
+▲ This Side-Quest has a second part with a valuable armor as a reward make sure to do it. Also there's pretty unique dialogue whe you talk to the villager with the dragon in tow.
 
 ---
 
@@ -1614,7 +1596,7 @@ Multiple Graphics
 
 
 ![](stahn-guide/sub088_1.png)  
-
+▲ If you didn't get it yet this is actually an easteregg about Tales of Destiny 2.
 
 ---
 
@@ -1632,7 +1614,7 @@ Multiple Graphics
 
 
 ![](stahn-guide/sub089_1.png)  
-
+▲ There's four part to this Side-Quest but if you miss the first one you'll be locked out of the other three, so make sure to do this one.
 
 ---
 
@@ -1650,7 +1632,7 @@ Multiple Graphics
 
 
 ![](stahn-guide/sub090_1.png)  
-
+▲ Take Radisrol zero-gravity elevator and make sure to do this one too.
 
 ---
 
@@ -1668,7 +1650,7 @@ Multiple Graphics
 
 
 ![](stahn-guide/sub091_1.png)  
-
+▲ This Side-Quest window is short so stop in Harmentz before going to Darilsheid
 
 ---
 
@@ -1686,7 +1668,7 @@ Multiple Graphics
 
 
 ![](stahn-guide/sub092_1.png)  
-
+▲ The Dark Wings realize that they are respected by the villagers and are finally enlightened.
 
 ---
 
@@ -1704,7 +1686,7 @@ Multiple Graphics
 
 
 ![](stahn-guide/sub093_1.png)  
-
+▲ Stahn chases the sheep around, just as he did in the first and second related part.
 
 ---
 
@@ -1722,7 +1704,7 @@ Multiple Graphics
 
 
 ![](stahn-guide/sub094_1.png)  
-
+▲ The diary reveals that Rutee has been a money-grubber since she was a child.
 
 ---
 
@@ -1740,7 +1722,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 
 ![](stahn-guide/sub095_1.png)  
-
+▲ The title [Mother-like] is mandatory to unlock the "Hugo's Memory" [Side-Quest #098](projects/destiny-dc/stahn-guide?id=side-quest-098-hugo39s-memory)
 
 ---
 
@@ -1758,7 +1740,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 
 ![](stahn-guide/sub096_1.png)  
-
+▲ You wont see this NPC anymore but after chatting with her you'll unlock a series of rare skits that are really worth seeign.
 
 ---
 
@@ -1776,7 +1758,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 
 ![](stahn-guide/sub097_1.png)  
-
+▲ Rutee tells her to leave the mansion and stop suffering over Leon death and move on.
 
 ---
 
@@ -1794,7 +1776,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 
 ![](stahn-guide/sub098_1.png)  
-
+▲ The lens reflected the actions of a sad human being who had been deprived of his humanity by Miktran.
 
 ---
 
@@ -1812,7 +1794,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 
 ![](stahn-guide/sub099_1.png)  
-
+▲ If you talk the talk you gotta walk the walk, she's too far gone to tell him the truth now.
 
 ---
 
@@ -1830,7 +1812,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 
 ![](stahn-guide/sub100_1.png)  
-
+▲ After this Side-Quest, you will automatically go back to Torn's Cabin.
 
 ---
 
@@ -1848,7 +1830,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 
 ![](stahn-guide/sub101_1.png)  
-
+▲ Ashley has been struggling with his Royal heritage, but this one experience has put his mind at ease.
 
 ---
 
@@ -1866,7 +1848,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 
 ![](stahn-guide/sub102_1.png)  
-
+▲ As a child, Batista was the complete opposite of the image he portrayed.
 
 ---
 
@@ -1884,7 +1866,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 
 ![](stahn-guide/sub103_1.png)  
-
+▲ In Irene's past, we see her struggling between ideals and reality. She was working hard every day to make her ideals true.
 
 ---
 
@@ -1899,10 +1881,10 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 
 
-
+Excel Table
 
 ![](stahn-guide/sub104_1.png)  
-
+▲ The director will give you five instructions. Concentrate and try not to make any mistakes, that's a good moment to abuse savestates if you want.
 
 ---
 
@@ -1920,7 +1902,7 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 
 
 ![](stahn-guide/sub105_1.png)  
-
+▲ Everybody stops arguing when they realized that the kids are the resonable ones.
 
 ---
 
@@ -1949,14 +1931,14 @@ This event occurs when you talk to the maid at Hugo's mansion in Darilsheid afte
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Johnny's title [Live Musician], Weapon [Guitar]    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Johnny's title [Live Musician], Weapon [Guitar](projects/destiny-dc/items/weapon?id=weapon-guitar)    |
 
 
 
 Excel Table
 
 ![](stahn-guide/sub107_1.png)  
-
+▲ Sakuraba will do a mad jam and you'll be forced to listen, enjoy.
 
 ---
 
@@ -1974,7 +1956,7 @@ Excel Table
 
 
 ![](stahn-guide/sub108_1.png)  
-
+▲ The girl is still sharp as she was with Rutee and can see behind Johnny's mask. 
 
 ---
 
@@ -1992,7 +1974,7 @@ Excel Table
 
 
 ![](stahn-guide/sub109_1.png)  
-
+▲ Watching the second event will reward you with the [Absorb Material](), also this Side Quest is mendatory to unlock "Dalis' Nightmare" [Side Quest #045](projects/destiny-dc/stahn-guide?id=side-quest-045-dalis39-nightmare).
 
 ---
 
@@ -2010,7 +1992,7 @@ Excel Table
 
 
 ![](stahn-guide/sub110_1.png)  
-
+▲ If you are interested in Tiberius' lore check this out.
 
 ---
 
@@ -2028,7 +2010,7 @@ Excel Table
 
 
 ![](stahn-guide/sub111_1.png)  
-
+▲ The title acquired here is necessary to trigger the next Side-Quest "The Perfect Couple" [Side-Quest #112](projects/destiny-dc/stahn-guide?id=side-quest-112-the-perfect-couple).
 
 ---
 
@@ -2046,7 +2028,7 @@ Excel Table
 
 
 ![](stahn-guide/sub112_1.png)  
-
+▲ She's tough on him when others are around but when they're alone you can see her true side, it's what you would call a "Tsundere"
 
 ---
 
@@ -2064,7 +2046,7 @@ Excel Table
 
 
 ![](stahn-guide/sub113_1.png)  
-
+▲ Kongman's plan to entice Stahn to "climb the mountain" is reveal because of his loud mouth.
 
 ---
 
@@ -2079,10 +2061,10 @@ Excel Table
 
 
 
-
+Excel Table
 
 ![](stahn-guide/sub114_1.png)  
-
+▲ The epic conclusion to the hotspring saga.
 
 ---
 
@@ -2100,7 +2082,7 @@ Excel Table
 
 
 ![](stahn-guide/sub115_1.png)  
-
+▲ Dalis tells all to Woodrow and shows him how deeply he loves Mary.
 
 ---
 
@@ -2118,7 +2100,7 @@ Excel Table
 
 
 ![](stahn-guide/sub116_1.png)  
-▲ Stahn wins a bet and wins big. However, his joy is short-lived, as he then loses a lot of money.
+▲ Stahn wins a bet and wins big. However, his joy is short-lived, as he then loses it all.
 
 ---
 
@@ -2136,7 +2118,7 @@ Excel Table
 
 
 ![](stahn-guide/sub117_1.png)  
-
+▲ 
 
 ---
 
@@ -2154,7 +2136,7 @@ Excel Table
 
 
 ![](stahn-guide/sub118_1.png)  
-
+▲ Sneaking up at night to roleplay as the Queen, she truly is drunk on throne fever.
 
 ---
 
@@ -2165,14 +2147,14 @@ Excel Table
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Heidelberg   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Unique [Fairy Necklace]    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Unique [Fairy Necklace](projects/destiny-dc/items/unique?id=unique-fairy-necklace)    |
 
 
 
 
 
 ![](stahn-guide/sub119_1.png)  
-
+▲ If you're the only participant can you still claim you're number one?!
 
 ---
 
@@ -2190,7 +2172,7 @@ Excel Table
 
 
 ![](stahn-guide/sub120_1.png)  
-
+▲ Finding Uncle Bob will require you to progress much further in the game.
 
 ---
 
@@ -2208,7 +2190,7 @@ Excel Table
 
 
 ![](stahn-guide/sub121_1.png)  
-
+▲ "Baruk's Memory" [SideQuest #122](projects/destiny-dc/stahn-guide?id=side-quest-122-baruk39s-memory) requires the title acquired here to trigger.
 
 ---
 
@@ -2226,7 +2208,7 @@ Excel Table
 
 
 ![](stahn-guide/sub122_1.png)  
-
+▲ 
 
 ---
 
@@ -2244,7 +2226,7 @@ Excel Table
 
 
 ![](stahn-guide/sub123_1.png)  
-
+▲ This Side Quest gives us some pretty good lore about the Shiden family.
 
 ---
 
@@ -2262,7 +2244,7 @@ Excel Table
 
 
 ![](stahn-guide/sub124_1.png)  
-
+▲ Spot the difference from the conversation in the first part.
 
 ---
 
@@ -2273,14 +2255,14 @@ Excel Table
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Honest Girl], Unique [Steal Gloves]    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Honest Girl], Unique [Steal Gloves](projects/destiny-dc/items/unique?id=unique-steal-gloves)    |
 
 
 
 
 
 ![](stahn-guide/sub125_1.png)  
-
+▲ This conclude one of the very first multipart quest of the game congrats.
 
 ---
 
@@ -2298,7 +2280,7 @@ Excel Table
 
 
 ![](stahn-guide/sub126_1.png)  
-
+▲ No matter which choice you pick you'll still get the title and be able to redeem lens again.
 
 ---
 
@@ -2316,7 +2298,7 @@ Excel Table
 
 
 ![](stahn-guide/sub127_1.png)  
-
+▲ Remember to stop by and check the progress of this quest.
 
 ---
 
@@ -2334,7 +2316,7 @@ Excel Table
 
 
 ![](stahn-guide/sub128_1.png)  
-
+▲ Kongman can never catch a break.
 
 ---
 
@@ -2352,7 +2334,7 @@ Excel Table
 
 
 ![](stahn-guide/sub129_1.png)  
-
+▲ Kongman tells his backstory to a man who still visits the arena. 
 
 ---
 
@@ -2370,7 +2352,7 @@ Excel Table
 
 
 ![](stahn-guide/sub130_1.png)  
-
+▲ Johnny makes a shocking discovery.
 
 ---
 
@@ -2388,7 +2370,7 @@ The event occurs when Johnny has the title "Sorrowful Musician" equipped and tal
 
 
 ![](stahn-guide/sub131_1.png)  
-▲ Stahn and his team renewed their resolve to save the world rather than wallow in their sorrow.
+▲ Stahn renewed his resolve to save the world rather than wallow in his sorrow.
 
 ---
 
@@ -2406,7 +2388,7 @@ The event occurs when Johnny has the title "Sorrowful Musician" equipped and tal
 
 
 ![](stahn-guide/sub132_1.png)  
-
+▲ There is only one correct answer for each question, but if you make a mistake, you can redo it as many times as you like.
 
 ---
 
@@ -2457,7 +2439,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 
 
-
+Excel Table
 
 ![](stahn-guide/sub135_1.png)  
 
@@ -2475,10 +2457,10 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 
 
-
+Excel Table
 
 ![](stahn-guide/sub136_1.png)  
-
+▲ The sequence is predetermined. If you skip a NPC and talk to another one, the rest of the event won't occur.
 
 ---
 
@@ -2507,7 +2489,7 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Straylize Temple   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.68 Lens collecting starts ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn title [Genuine Master], Item [Chaser Material]    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn title [Genuine Master], Item [Chaser Material](projects/destiny-dc/items/item?id=item-chaser-material)    |
 
 
 
@@ -2525,14 +2507,14 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Swordian R&D Lab   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.68 Lens collecting starts ~    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Advance Material]    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Advance Material](projects/destiny-dc/items/item?id=item-advance-material)    |
 
 
 
 
 
 ![](stahn-guide/sub139_1.png)  
-
+▲ Embarrassed, Dymlos try to interrupt the video.
 
 ---
 
@@ -2543,14 +2525,14 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Harmentz   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Magical Aroma]    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Magical Aroma](projects/destiny-dc/items/item?id=item-magical-aroma)    |
 
 
 
 
 
 ![](stahn-guide/sub140_1.png)  
-▲ The reward of the event is a pretty rare item [Magical Aroma]
+▲ The reward of the event is a pretty rare item [Magical Aroma](projects/destiny-dc/items/item?id=item-magical-aroma).
 
 ---
 
@@ -2561,14 +2543,14 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Johnny's blast caliber [Layer Sphere]    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Johnny's Blast Caliber [Layer Sphere]    |
 
 
 
 
 
 ![](stahn-guide/sub141_1.png)  
-
+▲ If you have already acquired [Layer Sphere] on a previous playthrough, you will not be rewarded after the event.
 
 ---
 
@@ -2579,14 +2561,14 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Apple]    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Apple](projects/destiny-dc/items/item?id=item-apple)    |
 
 
 
 
 
 ![](stahn-guide/sub142_1.png)  
-
+▲ This unfortunately is the end of this Side-Quest, I hoped you liked seeing Satan and his friend Jonathan Interact.
 
 ---
 
@@ -2597,14 +2579,14 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Armor [Dragon Armor]    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Armor [Dragon Armor](projects/destiny-dc/items/armor?id=armor-dragon-armor)    |
 
 
 
 
 
 ![](stahn-guide/sub143_1.png)  
-
+▲ With the exception of Rerise, The [Dragon Armor](projects/destiny-dc/items/armor?id=armor-dragon-armor) can only be obtained with this Side-Quest.
 
 ---
 
@@ -2619,10 +2601,10 @@ This event occurs if Lilith is in the party. After Stahn Acquires the "Destiny's
 
 
 
-
+Multiple Graphics
 
 ![](stahn-guide/sub144_1.png)  
-
+▲ [Cat-Lover] will be added to Mary's title after watching this Side-Quest
 
 ---
 
@@ -2673,7 +2655,7 @@ This is a new game+ Side-Quest. It occurs when you load the clear data and talk 
 
 This is also a Side-Quest that can only be viewed on a new game+. The event occurs when you talk to the sleeping cat in the rocket at the Katz Base after you have obtained all the titles. Suddenly Stahn and his friends are struck by lightning and everyone is freaky fridays.
 
-
+Excel Table
 
 ![](stahn-guide/sub147_1.png)  
 
@@ -2768,10 +2750,10 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 
 
-
+Multiple Tables
 
 ![](stahn-guide/sub149_1.png)  
-
+▲ If you abandon a job you have accepted, you will have to pay a penalty.
 
 ---
 
@@ -2786,7 +2768,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 
 
-
+Multiple Tables + Graphics
 
 ![](stahn-guide/sub150_1.png)  
 
@@ -2804,7 +2786,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 
 
-
+Multiple Graphics
 
 ![](stahn-guide/sub151_1.png)  
 
@@ -2822,10 +2804,10 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 
 
-
+Multiple Graphics
 
 ![](stahn-guide/sub152_1.png)  
-
+▲ There are five ranks. You must clear each rank in order to advance to the next rank.
 
 ---
 
@@ -2840,7 +2822,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 
 
-
+Table + Multiple Graphics
 
 ![](stahn-guide/sub153_1.png)  
 
@@ -2858,7 +2840,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 
 
-
+Multiple Graphics
 
 ![](stahn-guide/sub154_1.png)  
 
@@ -2876,10 +2858,11 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 
 
-
+Multiple Tables
 
 ![](stahn-guide/sub155_1.png)  
-
+▲ After answering all the questions correctly, switch room and talk to him again to play the next level (if the condition is met). 
+▲ The higher the rank, the more answer you have to choose from and the more difficult the game becomes, but the number of questions decreases.
 
 ---
 
@@ -2894,7 +2877,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 
 
-
+Multiple Graphics
 
 ![](stahn-guide/sub156_1.png)  
 ▲ If you proceed to the waters northeast of Neustadt, you will automatically switch to the map of the Sunken Ship.
@@ -2912,7 +2895,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 
 
-
+Full page of boss and other info
 
 ![](stahn-guide/sub157_1.png)  
 
@@ -2930,7 +2913,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 
 
-
+Tables, Maps, and info.
 
 ![](stahn-guide/sub158_1.png)  
 
@@ -2948,7 +2931,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 
 
-
+Tables, Maps, Graphics, and info.
 
 ![](stahn-guide/sub159_1.png)  
 ▲ Discovery points found at each location will be listed in the [Discovery Book] with illustrations.
@@ -2966,7 +2949,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 
 
 
-
+Excel Table and Graphics
 
 ![](stahn-guide/sub160_1.png)  
 ▲ The pictures shows where the gentlemen's will appear. The hat will be hidden on the world map until you get close enough.
@@ -3018,7 +3001,7 @@ This side-quest occurs when you return to Stahn's house in the village of Lienea
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Frostheim   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Saffron]    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Saffron](projects/destiny-dc/items/item?id=item-saffron)    |
 
 You can trigger this side-quest if you stay at the inn in Frostheim. Lilith hears about the Tilso Forest from the innkeeper and heads there alone, uber known to the rest of the group. From this point on, Lilith will be the only party member until the end of the event, so make sure she is well-equipped. When she enters a dead end near the save point in the forest, two Treant will appear from behind her. After defeating them, return to Frostheim to complete the quest and obtain the [Saffron].
 
