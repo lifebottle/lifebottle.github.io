@@ -45,7 +45,7 @@ This is a five part event and where each one is mandatory for the next one. The 
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Leon joins ~ No.15 Before arriving in Cherik    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-Like the "Small Family" event mentioned above, this event also has multiple parts to enjoy. The first part occurs upon entering the Darilsheid pub through the front door. A rowdy Seingald soldier will try to put the moves on Rutee, but an uninterested Rutee immediately rejects him. The rest of the parts of this event have a limited duration for when you can see them, so be sure to check their availability so you don't miss any of them. 
+Like the "Small Family" event mentioned above, this event also has multiple parts to enjoy. The first part occurs upon entering the Darilsheid bar through the front door. A rowdy Seingaldian soldier will try to put the moves on Rutee, but an uninterested Rutee immediately rejects him. The rest of the parts of this event have a limited duration for when you can see them, so be sure to check their availability so you don't miss any of them. 
 
 
 
@@ -63,7 +63,7 @@ Like the "Small Family" event mentioned above, this event also has multiple part
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Taking Hugo’s Request ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn's title [Country Boy]    |
 
-This event occurs when you encounter a man who seems to know Stahn in from of the Darilsheid Item shop. He is friendly and will ask Stahn if he knows him. You should answer honestly that you do not know him. Only the first answer will work, pretending to know the man will force you to Buy [Apple Gel] for 100 gald.
+This event occurs when you encounter a man who seems to know Stahn in from of the Darilsheid Item shop. He is friendly and will ask Stahn if he knows him. You should answer honestly that you do not know him. Only the first answer will work, pretending to know the man will force you to Buy [Apple Gel](projects/destiny-dc/items/item?id=item-apple-gel) for 100 gald.
 
 
 
@@ -107,7 +107,7 @@ The Heroes of Seinegald are known as the "Seven Generals." You will encounter ru
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Taking Hugo’s Request ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See table below    |
 
-There is a vending machine on the second floor of the Darilsheid Inn that offers capsule toys for 200 Gald. Some of the available items are rare, so if you have a few Gald to spare, you should try your luck! The following table shows the items that are available and the probability of obtaining them. 
+There is a vending machine on the second floor of the Darilsheid Inn that offers capsule items for 200 Gald. Some of the available items are rare, so if you have a few Gald to spare, you should try your luck! The following table shows the items that are available and the probability of obtaining them. 
 
 |![](https://img.shields.io/badge/-Item-informational?style=for-the-badge&color=lightgrey)|![](https://img.shields.io/badge/-Probability-informational?style=for-the-badge&color=lightgrey)|
 |----------------|-----------|
@@ -152,12 +152,12 @@ In the plaza just after passing under Seingald Castle's gate, talk to the soldie
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Taking Hugo’s Request ~ No.12 Straylize Temple cleared    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-Between the period listed above, a Side-Quest will occur after heading to Reynold's Laboratory. There you will encounter Ashley of the Seven-Generals. He expresses frustration after learning of Stahn's mission and rushes off to the castle.
+Between the period listed above, a Side-Quest will occur uf you head to Reynold's Laboratory. There you will encounter Ashley of the Seven-Generals. He expresses frustration after learning of Stahn's mission and rushes off to the castle.
 
 
 
 ![](stahn-guide/sub008_1.png)  
-▲ Triggering this Side-Quest is counterintuitive since it requires you to go back to the castle when you have no business there anymore the same is true for the "Alleged Mother"  [Side-Quest #010](projects/destiny-dc/stahn-guide?id=Side-Quest-010-Alleged-Mother?).
+▲ Triggering this Side-Quest is counterintuitive since it requires you to go back to the castle when you have no business there anymore the same is true for the "Alleged Mother"  [Side-Quest #010](projects/destiny-dc/stahn-guide?id=side-quest-010-alleged-mother).
 
 ---
 
@@ -170,7 +170,7 @@ Between the period listed above, a Side-Quest will occur after heading to Reynol
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.09 Taking Hugo’s Request ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Mary's title [Breaker]    |
 
-This event occurs when you visit Hugo's mansion in Darilsheid and receive the swordians. Speak with the old man in the house to the left. The old man, named "Bad Pun Man," shares that he loves puns, as long as they are of good caliber. Stahn impresses him, but Mary gives Stahn a hard time about his terrible jokes. Completing the event gives your the "Breaker" title for Mary.
+This event occurs after you visit Hugo's mansion in Darilsheid and receive the swordians. Speak with the old man in the house to the left in the residencial district. The old man, named "Bad Pun Man," shares that he loves puns, as long as they are of good caliber. Stahn impresses him, but Mary gives Stahn a hard time about his terrible jokes. Completing the event gives your the [Breaker] title for Mary.
 
 
 
@@ -211,7 +211,7 @@ This event is available during the above period and occurs when you enter the tw
 
 
 ![](stahn-guide/sub011_1.png)  
-▲ You can get the conclusion to this event in "Draconis Crewman's Family 2" [Side-Quest #124](projects/destiny-dc/stahn-guide?id=Side-Quest-124-Draconis-Crewman's-Family-2). 
+▲ You can get the conclusion to this event in "Draconis Crewman's Family 2" [Side-Quest #124](projects/destiny-dc/stahn-guide?id=side-quest-124-draconis-crewman39s-family-2). 
 
 ---
 
@@ -224,7 +224,7 @@ This event is available during the above period and occurs when you enter the tw
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.10 Arriving in Armeida ~ No.12 Straylize Temple Cleared    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-The "Dark Wings," whom you met in Janos, appear before Stahn and others once again in this Side-Quest. You trigger this event by visiting the plaza at the far side of Armeida. While this is the first of eight Side-Quests, there is no specific order in which to view the events staring these three "lens hunters." No items or titles are obtained either, but their antics are worth seeing through to the very end. 
+The Dark Wings, whom you met in Janos, appear before Stahn and others once again in this Side-Quest. You trigger this event by visiting the plaza at the far side of Armeida. While this is the first of eight Side-Quests, there is no specific order in which to view the events staring these three "lens hunters." No items or titles are obtained either, but their antics are worth seeing through to the very end. 
 
 
 
@@ -240,7 +240,7 @@ The "Dark Wings," whom you met in Janos, appear before Stahn and others once aga
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.10 Arriving in Armeida ~ No.44 Oberon Secret Factory clear    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Food strap [Fried Rice]    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Food strap [Fried Rice](projects/destiny-dc/items/food-strap?id=food-strap-fried-rice)    |
 
 Upon entering the grocery store in Armeida, Mary is informed that due to the laziness of the store owner's husband, the available ingredients leave much to be desired. Mary tries to offer advice to help them get the situation under control, but only time will tell if this will assist in replenishing the grocers shelves.
 
@@ -258,7 +258,7 @@ Upon entering the grocery store in Armeida, Mary is informed that due to the laz
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Armeida   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.12 Arrival at Straylize Temple ~ No.14 Before arriving in Cherik    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Life Bottle] x2    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Life Bottle](projects/destiny-dc/items/item?id=item-life-bottle) x2    |
 
 Visiting the plaza in Armedia during this you will encounter one the Seven Generals, General Lewein. Speaking to him will trigger an event where you learn about an unexpected connection between Stahn's grandfather, Thomas Aileron, and the General Lewein. 
 
@@ -391,7 +391,7 @@ This event occurs when you speak with the woman who is standing in front of the 
 
 
 ![](stahn-guide/sub021_1.png)  
-▲ The title you receive here is necessary for the next part of this event series "Maiden's Gaze [Side-Quest #046](projects/destiny-dc/stahn-guide?id=Side-Quest-046-Maiden's-Gaze)" 
+▲ The title you receive here is necessary for the next part of this event series "Maiden's Gaze [Side-Quest #046](projects/destiny-dc/stahn-guide?id=side-quest-046-maidens-gaze)" 
 
 ---
 
@@ -445,7 +445,7 @@ Trigger this even by talking to the boy near the fountain in Neustadt. Upon sele
 
 
 ![](stahn-guide/sub024_1.png)  
-▲ The title obtained is a required for "Fake Swordian" [Side-Quest #138](projects/destiny-dc/stahn-guide?id=Side-Quest-138-Fake-Swordian)
+▲ The title obtained is a required for "Fake Swordian" [Side-Quest #138](projects/destiny-dc/stahn-guide?id=side-quest-138-fake-swordians)
 
 ---
 
@@ -493,9 +493,9 @@ After you have cleared the pirate ship, speak with the sailor to the north (?) o
 
 |Rank|Time|Reward|
 |-----|-----|-----|
-|1: within 3 minutes|[Blast Material]|
-|2: within 5 minutes|[Clear Lens] x50|
-|3: more than 5 minutes|[Rough Lens] x 100|
+|1| Less than 3 minutes|[Blast Material](projects/destiny-dc/items/item?id=item-blast-material)|
+|2| Less than 5 minutes|[Clear Lens](projects/destiny-dc/items/key?id=key-clear-lens) x50|
+|3| More than 5 minutes|[Rough Lens](projects/destiny-dc/items/key?id=key-rough-lens) x 100|
 
 ![](stahn-guide/sub026_1.png)  
 ▲ The requirements for obtaining the rewards are listed below.
@@ -617,14 +617,14 @@ This event occurs when you go to the bridge at Shiden Port. Johnny is defending 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.27 Clear Moreau's Castle ~ No.28 Before arriving in Terazzi    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Meteorite]    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Meteorite](projects/destiny-dc/items/item?id=item-meteorite)    |
 
 After clearing Moreau Castle, take a small boat to Johnny's hideout. You will see a scene where Johnny reminisces about his childhood friends, Fate and Eleanor. 
 
 
 
 ![](stahn-guide/sub033_1.png)  
-▲ After seeing this event, you can get a [Meteorite] by examining the samurai armor on the wall.
+▲ After seeing this event, you can get a [Meteorite](projects/destiny-dc/items/item?id=item-meteorite) by examining the samurai armor on the wall.
 
 ---
 
@@ -858,7 +858,7 @@ This event will occur when you speak to the woman standing in front of the item 
 
 
 ![](stahn-guide/sub046_1.png)  
-▲ The title obtained here is necessary to trigger "Chief's Daughter" [Side-Quest #057](projects/destiny-dc/stahn-guide?id=Side-Quest-057-Chief's-Daughter) 
+▲ The title obtained here is necessary to trigger "Chief's Daughter" [Side-Quest #057](projects/destiny-dc/stahn-guide?id=side-quest-057-chief39s-daughter) 
 
 ---
 
@@ -1020,7 +1020,7 @@ After Woodrow joins the others, they talk to Ayles within Stralize Temple. Kongm
 
 
 ![](stahn-guide/sub055_1.png)  
-▲ The title obtained here is necessary to trigger "Greybum's Memory" [Side-Quest #117](projects/destiny-dc/stahn-guide?id=Side-Quest-117-Greybum's-Memory) 
+▲ The title obtained here is necessary to trigger "Greybum's Memory" [Side-Quest #117](projects/destiny-dc/stahn-guide?id=Side-Quest-117-Greybum39s-Memory) 
 
 ---
 
