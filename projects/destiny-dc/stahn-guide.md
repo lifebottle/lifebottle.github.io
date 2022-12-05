@@ -1300,7 +1300,7 @@ Speak with the woman at the fountain in Cresta to trigger this event. This woman
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Radisrol   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~ No.58 Fight against Hugo    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Chelsea's title [Little Lady]    |
 
 This event will play when you enter the room just below the entrance to Radisrol. Being fed up with people thinking of her as a child, she takes the advise of each party member acheiving the ultimate fashion in the process.
@@ -1318,7 +1318,7 @@ This event will play when you enter the room just below the entrance to Radisrol
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Torn's Cabin   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.72 Lens collecting completed    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~ No.72 Lens collecting completed    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
 
 Set Chelsea's [Little Lady] title and speak to Alba in his cabin to trigger this event. You will hear the story of when Woodrow and Chelsea met. 
@@ -1336,10 +1336,10 @@ excel table for reward
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~ No.58 Fight against Hugo    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-This event occurs when you talk to the King within the audience chamber of Seinegald Castle after you have completed the [Doug Brothers] event. You will need to ensure Woodrow has the [Older Brother Figure] title set. The King has finally chosen a successor in Ashley of the Seven Generals. However, Ahsley refuses.
+This event occurs when you talk to the King within the audience chamber of Seinegald Castle after you have completed the "Doug Brothers" [Side-Quest #008](projects/destiny-dc/stahn-guide?id=side-quest-008-doug-brothers) event. You will need to ensure Woodrow has the [Older Brother Figure] title set. The King has finally chosen a successor in Ashley of the Seven Generals. However, Ahsley refuses.
 
 
 
@@ -1354,10 +1354,10 @@ This event occurs when you talk to the King within the audience chamber of Seine
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~ No.58 Fight against Hugo    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-After completing the [Soldier's Advance 1] enter the Darilsheid Tavern through the main entrance. Rutee must once again fend off the moves of a clueless soldier.
+After completing the "Soldier's Advance 1" [Side-Quest #003](projects/destiny-dc/stahn-guide?id=side-quest-003-soldier39s-advance-1) enter the Darilsheid Tavern through the main entrance. Rutee must once again fend off the moves of a clueless soldier.
 
 
 
@@ -1372,10 +1372,10 @@ After completing the [Soldier's Advance 1] enter the Darilsheid Tavern through t
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Calviola   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance~    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-After completing [Yearning to join the Dark Wings 1], head back to the large pool of water to the right of the entrance of Calviola. Speak to Toshu to learn what happened with the hopeful apprentance.
+After completing "Yearning to join the Dark Wings 1" [Side-Quest #016](projects/destiny-dc/stahn-guide?id=side-quest-016-yearning-to-join-the-dark-wings-1), head back to the large pool of water to the right of the entrance of Calviola. Speak to Toshu to learn what happened with the hopeful apprentance.
 
 
 
@@ -1390,7 +1390,7 @@ After completing [Yearning to join the Dark Wings 1], head back to the large poo
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Calviola   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance~    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Philia's title [Bomb Alchemist]    |
 
 
@@ -1408,7 +1408,7 @@ After completing [Yearning to join the Dark Wings 1], head back to the large poo
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Janos   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance~    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Gain Material](projects/destiny-dc/items/item?id=item-gain-material)    |
 
 
@@ -1426,7 +1426,7 @@ After completing [Yearning to join the Dark Wings 1], head back to the large poo
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~ No.58 Fight against Hugo    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
 
@@ -1444,7 +1444,7 @@ After completing [Yearning to join the Dark Wings 1], head back to the large poo
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance~    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
 
@@ -1462,7 +1462,7 @@ After completing [Yearning to join the Dark Wings 1], head back to the large poo
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance~    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Kongman's title [City Hero]    |
 
 
@@ -1480,7 +1480,7 @@ After completing [Yearning to join the Dark Wings 1], head back to the large poo
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~ No.58 Fight against Hugo    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
 
@@ -1498,7 +1498,7 @@ After completing [Yearning to join the Dark Wings 1], head back to the large poo
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Moreau   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~ No.58 Fight against Hugo    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Rapid Material](projects/destiny-dc/items/item?id=item-rapid-material)    |
 
 
@@ -1516,7 +1516,7 @@ After completing [Yearning to join the Dark Wings 1], head back to the large poo
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn's title [Arena Champion], Lilith joins    |
 
 
@@ -1534,7 +1534,7 @@ After completing [Yearning to join the Dark Wings 1], head back to the large poo
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Darilsheid   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~ No.58 Fight against Hugo    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
 
@@ -1552,7 +1552,7 @@ After completing [Yearning to join the Dark Wings 1], head back to the large poo
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.73 Before entering Dycroft    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~ No.73 Before entering Dycroft    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Lilith's title [Dragon Nurturer]    |
 
 
@@ -1570,7 +1570,7 @@ After completing [Yearning to join the Dark Wings 1], head back to the large poo
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cresta   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~ No.58 Fight against Hugo    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Eldest Orphan]    |
 
 
@@ -1588,7 +1588,7 @@ Multiple Graphics
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Cresta   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~ No.58 Fight against Hugo    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~ No.58 Fight against Hugo    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
 
@@ -2872,7 +2872,7 @@ Multiple Tables
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Neustadt   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
 
@@ -2964,7 +2964,7 @@ Excel Table and Graphics
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Terrazi   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's appearance ~    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
 Talk to one of the soldier in Terazzi, and he will tell the group how Chartier was chosen for the treasured sword. Note that this will not occur unless Rutee and Johnny are present.
