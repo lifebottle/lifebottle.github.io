@@ -80,3 +80,26 @@ Then, you want to save the file where `pakcomposer.exe`, `compto.exe`, and all y
 ![](pakcomposer_07.png)
 
 Then, you just double-click on the `.bat` file and it should do the work for you!
+
+## Compile pakcomposer
+You will need Visual Studio Community Edition, which is available [here](https://visualstudio.microsoft.com/vs/community/).
+
+[![How to Compile C# Solutions in Visual Studio](https://img.youtube.com/vi/9BGKwgbgGl0/0.jpg)](https://www.youtube.com/watch?v=9BGKwgbgGl0)
+
+### Step 1
+Download the Repositories and Extract Archive.  The repositories are available here: https://github.com/lifebottle/pakcomposer. To download the repository, click the green Code button and then download as a ZIP file. 
+
+![](pakcomposer_08.png)
+
+Once downloaded, then extract the `.zip` archive with whatever tools you feel like using.
+
+![](pakcomposer_09.png)
+
+### Step 2
+Building `pakcomposer.exe`.  Now that both of the repositories have been downloaded and extracted, it is now time to build the `.exe` files. First we are going to build `pakcomposer.exe`.
+
+Open up the file `pakcomposer.sln` in Visual Studio Community Edition.  
+
+Once opened, all you will need to do is press `CTRL+SHIFT+B` to build `pakcomposer.exe`. The resulting `.exe` will then be in `pakcomposer\bin\Debug`. Easy peasy!
+
+![](pakcomposer_10.png)
