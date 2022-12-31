@@ -46,4 +46,4 @@
   * [Strawberry Perl](./other/strawberry-perl/index)
   * [Apache3](./other/apache3/index)
   * [xdelta](./other/xdelta3/index)
-  * [OBS Studio](./other/obs-studio/index)
+  * [Ghidra](./other/ghidra/index)
