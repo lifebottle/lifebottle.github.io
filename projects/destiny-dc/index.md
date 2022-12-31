@@ -17,6 +17,15 @@ Here's a video showing how to make your down Tales of Destiny DC patch:
 
 [![Tales of Destiny DC - Make Your own Patch!](https://img.youtube.com/vi/HcAoKaqjTgg/0.jpg)](https://www.youtube.com/watch?v=HcAoKaqjTgg)
 
+## ToDDCTools v.1.1
+Get the original tool here: https://www.romhacking.net/utilities/1419 (No source code, unfortunately).
+
+### Un-packing ROM with ToDDCTools v.1.1
+[![ToDDCTools Tales of Destiny - Director's Cut (Unpack ROM)](https://img.youtube.com/vi/FyYQGVAKSUc/0.jpg)](https://www.youtube.com/watch?v=FyYQGVAKSUc)
+
+### Re-packing ROM with ToDDCTools v.1.1
+[![ToDDCTools Tales of Destiny - Director's Cut (Pack ROM)](https://img.youtube.com/vi/O0DNbnFAEIo/0.jpg)](https://www.youtube.com/watch?v=O0DNbnFAEIo)
+
 ## sceWork
 For historical purposes, we'll include some information here on `sceWork`: https://github.com/lifebottle/sceWork
 
