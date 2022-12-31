@@ -1,4 +1,6 @@
 # Tales of Destiny DC
+![](destinydc.png)
+
 This project started on December 13, 2020.
 
 ## A Brief History
