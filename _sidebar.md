@@ -3,6 +3,7 @@
 * [Projects](./projects/index)
 
   * [Tales of Destiny DC](./projects/destiny-dc/index)
+    - [Translation](./projects/destiny-dc/translation.md)
     - [Stahn's Side - Side-Quest Guide](./projects/destiny-dc/stahn-guide.md)
     - [Leon's Side - Side-Quest Guide](./projects/destiny-dc/leon-guide.md)
     - [Items](./projects/destiny-dc/items/index)
