@@ -2096,7 +2096,7 @@ This even occurs when Woodrow has the title **Phandaria's King** set and speakin
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Gambler Rutee]    |
 
-This event will only occur if the last digit of the number of Gald you have is 1 when you stay at the Inn in Heidelberg.  The party is informed that the Inn isn't properly stocked for food and decide to have dinner at the bar. Stahn is enticed to play a game of dice with a traveling gambler, using only a single gald. 
+This event will only occur if the last digit of the number of Gald you have is 1 when you stay at the Inn in Heidelberg. The party is informed that the Inn isn't properly stocked for food and decide to have dinner at the bar. Stahn is enticed to play a game of dice with a traveling gambler, using only a single gald. 
 
 
 
@@ -2114,7 +2114,7 @@ This event will only occur if the last digit of the number of Gald you have is 1
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+After completing the [**Lens Diviner Side Quest**](https://lifebottle.github.io/#/./projects/destiny-dc/stahn-guide?id=side-quest-096-lens-diviner), set Philia's title to **Divine Wife** and examine a bookshelf in the same room as a portait of the Queen in Heidelberg Castle. There, Philia will find a lens that allows her insight into Greybum's true feelings.
 
 
 
@@ -2132,7 +2132,7 @@ This event will only occur if the last digit of the number of Gald you have is 1
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+Set Mary's title to **Wife Networker** and stay at the Heidelberg Inn. That night, Chelsea will be missing. Search for her in Heidelberg Castle and you will find Chelsea in the throne room doing her best queen impression.
 
 
 
@@ -2150,7 +2150,7 @@ This event will only occur if the last digit of the number of Gald you have is 1
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Unique [Fairy Necklace](projects/destiny-dc/items/unique?id=unique-fairy-necklace)    |
 
-
+Set Kongman's title to ☆Star☆ before speaking to the man in red in the hall of Heidelberg Castle.  Kongman will be asked to participate in a contest being held in the  city.
 
 
 
@@ -2168,7 +2168,7 @@ This event will only occur if the last digit of the number of Gald you have is 1
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+Set Stahn's title to **Young Detective** and speak with Aunt Mggie in Lienea. You will learn from her that Uncle Bob is missing. Once you complete the Outer Shell areas, you will be able to find Uncle Bob in the Katz Village.
 
 
 
@@ -2186,7 +2186,7 @@ This event will only occur if the last digit of the number of Gald you have is 1
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Forever Young]    |
 
-
+Set Rutee's title to **Eldest Orphan** and speak with the Sister in the kitchen of the Cresta orphanage. We learn that Rutee shares the birthday with three of the orphans, and conversations ensue trying to determine just how old Rutee really is.
 
 
 
@@ -2204,7 +2204,7 @@ This event will only occur if the last digit of the number of Gald you have is 1
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+After completing the [**Lens Diviner Side Quest**](https://lifebottle.github.io/#/./projects/destiny-dc/stahn-guide?id=side-quest-096-lens-diviner),set Rutee's title to **Forever Young** and inspect a shelf inbetween a safe and a chair in the Baruk Foundation headquarters in Cherik. Rutee and Stahn will find a lense containing Baruk's memories, providing the two of them a chance to reflect on what they saw together.
 
 
 
@@ -2222,7 +2222,7 @@ This event will only occur if the last digit of the number of Gald you have is 1
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Johnny's title [Royal Clown]    |
 
-
+After witnessing the event  [**Patriotism 1**](https://lifebottle.github.io/#/./projects/destiny-dc/stahn-guide?id=side-quest-062-patriotism-1), head to the Darilsheid port with Johnny in your party. Isard will share his feelings over past deeds after hearing Johnny's thoughts.
 
 
 
@@ -2240,7 +2240,7 @@ This event will only occur if the last digit of the number of Gald you have is 1
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn title [Gentle Liar], Rutee's title [Realist]    |
 
-
+Enter the left house behind the Darilsheid Inn to trigger this event. A lost soldier who was thought to have died when the Draconis died will be reunited with his family.
 
 
 
@@ -2258,7 +2258,7 @@ This event will only occur if the last digit of the number of Gald you have is 1
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Honest Girl], Unique [Steal Gloves](projects/destiny-dc/items/unique?id=unique-steal-gloves)    |
 
-
+After completing [**Soldier's Advance 2**](https://lifebottle.github.io/#/./projects/destiny-dc/stahn-guide?id=side-quest-074-soldier39s-advance-2), set Rutee's title to **Realist** prior to returning to the Darilsheid bar.  Rutee wards off the advances of the soldier from Seinegald with her own confession of love.
 
 
 
@@ -2276,7 +2276,7 @@ This event will only occur if the last digit of the number of Gald you have is 1
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Invisible Hand]    |
 
-
+Set Stahn's title to **Kind Liar** prior to speaking with the clerk at the Darilsheid branch of the Oberon Corp. Depending on which dialogue option you choose, the lens exchange rate will change. If you select the option "The rumors are true, but please calm down." the exchange rate will not change. However, if you select the option referencing the delay in the arrival of the Oberon transport, the exchange rate for lens will increase.
 
 
 
@@ -2294,7 +2294,7 @@ This event will only occur if the last digit of the number of Gald you have is 1
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~ No.72 Lens collecting completed    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+This is the fourth sub-event where you check in on the nest above the Harmentz tool shop. In order to activate this event, you must have already seen [**Small Family 3**](https://lifebottle.github.io/#/./projects/destiny-dc/stahn-guide?id=side-quest-091-small-family-3). There is only one more time you'll be able to check in on the nest.
 
 
 
@@ -2312,7 +2312,7 @@ This event will only occur if the last digit of the number of Gald you have is 1
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Kongman's title [Man in Love]    |
 
-
+Set Johnny's title to **"Royal Clown** prior to speaking with the nurse in the Neustadt arena. She is a huge fan of Kongman and looks just like Philia. The party decides to play a trick on Kongman by having the nurse and Philia swap places.
 
 
 
@@ -2330,7 +2330,7 @@ This event will only occur if the last digit of the number of Gald you have is 1
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+This event has three requirements to trigger. First, you must have completed the event [**Man of Fists**](https://lifebottle.github.io/#/./projects/destiny-dc/stahn-guide?id=side-quest-056-man-of-fists). Second, you have completed the event [**Karma the Adopted Kid**](https://lifebottle.github.io/#/./projects/destiny-dc/stahn-guide?id=side-quest-058-karma-the-adopted-kid). Finally, you must set Rutee's title to **Invisible Hand** before entering the spectator area of the Neustadt Arena. You will meet a man near the doorway, which will trigger the event.
 
 
 
@@ -2348,7 +2348,7 @@ This event will only occur if the last digit of the number of Gald you have is 1
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Johnny's title [Sorrowful Musician]    |
 
-
+After witnessing the event [**Eleanor 1**](https://lifebottle.github.io/#/./projects/destiny-dc/stahn-guide?id=side-quest-033-eleanor-1), set Rutee's title to **Honest Girl** and enter the basement of the house where the underground warehouse is located. You will see memories of Johnny and his childhood friend. 
 
 
 
@@ -2384,7 +2384,8 @@ The event occurs when Johnny has the title "Sorrowful Musician" equipped and tal
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn title [Great Detective!]    |
 
-
+This event will trigger when you speak with a woman near Johnny's Hideout in Moreau. Stahn will be tasked to find the truth behind an incident of the soldier who was attacked. Stahn must speak with the people outlined before to gather information on the incident. Once he gathers enough information, speak with the soldier in the square to identify the culprit. In order to reveal who the true culprit is, you must select the three correct reponses from a list of choices.   The first correct choice is "This girl talks to cats in a loud voice." The second choice is "The people who're attacked always
+have two injuries on them." The final choice is "...was you, little girl!" Once Stahn successfully identifies the culprit, he will receive the title **Great Detective!** Receiving this title is one of the conditions for the sub-event [**The Four Secrets of the World**](https://lifebottle.github.io/#/./projects/destiny-dc/stahn-guide?id=side-quest-157-four-secrets-of-the-world).
 
 
 
@@ -2438,7 +2439,7 @@ This event occurs if Lilith is in the party. After Stahn acquires the "Destiny's
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
 
-
+You must find the Food Sack Master on a small island in the south easetern area of Moreau. Realizing his great passion for food, the party will ask him to evaluate your food book. Speaking with give grants the party the food strap "Oriental Rice." In addition, you can get the Lilith exclusive equipment "the frying pan" if you meet the conditions outlined in the table below. 
 
 Excel Table
 
@@ -2456,7 +2457,7 @@ Excel Table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.66 Lumina Draconis acquired ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Various items    |
 
-
+Speak with the young man in Junkland who helped you retrieve the bio-metal Bersilum required to repair the Draconis. He tells you that there are many Calvalisians hiding their true identity all over the world. Visiting all of them around the world **in a specific order** will net Stahn and his friends specific rewards, as outlined on the table below. 
 
 Excel Table
 
@@ -2474,7 +2475,7 @@ Excel Table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.68 Lens collecting starts ~ No.72 Lens collecting completed    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+You must have viewed [**Dark Wings 7**](https://lifebottle.github.io/#/./projects/destiny-dc/stahn-guide?id=side-quest-092-dark-wings-7) and have collected the necessary amount of lens for the integrated lens cannon in order to trigger this event. Enter the square of Armeidia village to witness the Dark Wings finally come to their senses. Though they swindled and lied in the past, they have decided to stay put and protect Armedia. Receiving no fame or fortune, we are able to witness the story of their growth.
 
 
 
@@ -2492,7 +2493,7 @@ Excel Table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.68 Lens collecting starts ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn title [Genuine Master], Item [Chaser Material](projects/destiny-dc/items/item?id=item-chaser-material)    |
 
-
+This even will trigger when Stahn enters Straylize Temple and speaks with Ayles with the title of **Swatian User?** set.  He iforms the party that his lens was taken by some one claiming to be a Swordian Master. The imposters return and the party confront them, teaching them a lesson. 
 
 
 
@@ -2510,7 +2511,7 @@ Excel Table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.68 Lens collecting starts ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Advance Material](projects/destiny-dc/items/item?id=item-advance-material)    |
 
-
+After collecting lens from each location, enter the R&D Laboratory while Stahn has the title **Genuine Master** set. We will be treated with an event where Stahn leans of Dymlos' and Atwights deep connection from 1000 years ago.
 
 
 
@@ -2528,7 +2529,7 @@ Excel Table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Magical Aroma](projects/destiny-dc/items/item?id=item-magical-aroma)    |
 
-
+This is the final opportunity to check in on the nest on the roof of the Harmentz tool shop and requires that [**Small Family 4**](https://lifebottle.github.io/#/./projects/destiny-dc/stahn-guide?id=side-quest-127-small-family-4) has been viewed. Watch in awe as the family of birds you have taken such good care of finally find their wings and leave the nest. A fitting, heartwarming end to a long series of events.
 
 
 
@@ -2546,7 +2547,7 @@ Excel Table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Johnny's Blast Caliber [Layer Sphere]    |
 
-
+Speak with an old woman at the Shiden Port while Johnny has the title **Sealed Man** set. The old woman shares her wisdom on life, as if she can see how much of a free spirit Johnny is. After the conclusion of this event, Johnny learns the Blast Caliber "Layer Sphere," even if he doesn't meet the necessary requirements to learn it naturally. 
 
 
 
@@ -2564,7 +2565,7 @@ Excel Table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Apple](projects/destiny-dc/items/item?id=item-apple)    |
 
-
+If you have seen the [**Jonathan the Sheep 3 event**](https://lifebottle.github.io/#/./projects/destiny-dc/stahn-guide?id=side-quest-093-jonathan-the-sheep-3), you can speak to Thomas at Stahns house in Lienea to trigger the next and final part. After witnessing this event, you will be rewarded for you hard work and dedication with a most coveted of rewards, an apple. 
 
 
 
@@ -2618,7 +2619,7 @@ Multiple Graphics
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.73 Arriving in Dycroft    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | 3000 Gald    |
 
-Set Mary's [Cat-Lover] title and examine the sign in front of the Frostheim's inn. Next talk to the innkeeper and choose "no," this will trigger a mini game where you need to catch ten cats. Good luck, this game can get pretty frustrating and the reward is low. 
+Set Mary's [Cat-Lover] title and examine the sign in front of the Frostheim's inn. Next talk to the innkeeper and choose "no," this will trigger a mini game where you need to catch ten cats. Good luck, this game can get pretty frustrating and the reward is meager. 
 
 
 
@@ -2749,7 +2750,7 @@ The NPC named "Noko" on the right side of the entrance to the Katz Base is a mys
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.04 Arriving in Janos ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
 
-
+In this errand event, you will receive a grade based on delivering a predetermined number of items to various traders around the world. Half of the reward is paid as a start-up fee when the work is undertaken with the first merchant, and the remaining amount is paid by the merchant to whom you are making a delivery to. After the second part of the game begins, if you cmoplete this question at least once, you will receiving one of the following titles. 
 
 Multiple Tables
 
@@ -2767,7 +2768,7 @@ Multiple Tables
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.20 Arriving in Neustadt ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
 
-
+You can race the young boy in the fountain square of Nuestadt by speaking to him. The first race (from the arrival at No.20 arrival at Neustadt) is a piece of cake as long as you don't deviate from the race course. However, the second race (available after No.61 Reynolds' return) is much harder as getting caught by any of the obsticals will have the boy easily overtake you. Itis important to run with a good grasp on both the racecourse and the behavior /  movements of people who may pass by. The rewards will be different on subsequent victories, as shown below. 
 
 Multiple Tables + Graphics
 
@@ -2785,7 +2786,7 @@ Multiple Tables + Graphics
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After arriving in each locations ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
 
-
+This mini-game consists of kicking stones on the overworld to a predetermined location. The game can be played in all regions except Phadaria. Completing this mini-game increases the lens exchange rate for that region of the world. Converting your lens **after** successfully winning the mini-game in a region will increase your gald returns significantly. An overview of Rock Rally play in eah region is below. While you can begin kicking the rock in Seinegald, it provides no reward until you can kick it to Armeida Villiage.
 
 Multiple Graphics
 
@@ -2803,7 +2804,7 @@ Multiple Graphics
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.39 Arriving in Neustadt ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See each page    |
 
-
+The arena is the largest facility in Neustadt. The first part of this scenario, Stahn and Kongman will face off in the area. The second part of the scenario will require you to select a party member to fight in the arena at the reception desk and defeat all the enemy waves with that particular party member. Once you clear the arena with each party member, Rank 4 will unlock as part of the side event [**Lilith's Promise**](https://lifebottle.github.io/#/./projects/destiny-dc/stahn-guide?id=side-quest-083-lilith39s-promise). If you prove victorious in battle against Lilith, she will join your party.
 
 Multiple Graphics
 
@@ -2821,7 +2822,7 @@ Multiple Graphics
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~ No.58 Fight against Hugo    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
 
-
+This is a mini-game in which Chelsea will fire her bow at monsters that appear. This mini-game is available after clearing rank 1 of the arena and after Woodrow rejoins the party in Heidelberg in the second part of the game. Speak with the technician on the left side of the reception desk in the arena to access this mini-game. Ranks are assigned according to the version you play and you will receive a prize baed on your rank. Acheive a rank of B or higher and you'll receive the prizes available to lower ranks. 
 
 Table + Multiple Graphics
 
@@ -2839,7 +2840,7 @@ Table + Multiple Graphics
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Stahn title [Stahndum], Johnny's title [Johnny Beats]    |
 
-
+After playing Wild Shot at least once, speak with the technician to play a new mini-game "His Majesty's Drums." This is a parody of a popular taiko mini-game called "Taiko no Tasujin," and will be played by Stahn, Johnny, and Woodrow. Johnny and Stahn will both play a piece that reminds them of Moreau while Woodrow judges their performance. The tutorial will provide you with instructions on how to play. Since there aren't any difficult roadblocks to play this mini-game, it is recommended to play it as a break during the second half of the game.  
 
 Multiple Graphics
 
@@ -2857,7 +2858,7 @@ Multiple Graphics
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | See table    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Various Titles    |
 
-
+A quiz game that is a continuation of [**Trivia**](https://lifebottle.github.io/#/./projects/destiny-dc/stahn-guide?id=side-quest-067-triva) and is available if you've advanced to No. 61 Reynolds Returns or later. This trivia game takes place in front of Walt's mansion in Harmentz. Woodrow must have the title **Original King of Trivia** set and Philia must have the title **Trivia Quuen** set. The questions and answers for each rank follow below. If you answer all of the questions correctly, you'll receive various quiz related titles
 
 Multiple Tables
 
@@ -2876,7 +2877,7 @@ Multiple Tables
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.46 Ritora's return ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-
+Among the armada that Stahn and his friends defeated, one ship rumored to be filled with treasure has sunk in the waters northeast of Neustadt. You can access this sunken ship after Stahn has the **Arena Champion** title and the party have the necessary vessel to travel feely on the sea. More information is available from a sailor in the Nuestady port, but Stahn must have the **Arena Champion** title set when talking to him. The map below shows that the wreck is two levels, with a small number of rooms on each level. Precious items such as "Magical Aroma" and "Sphere Lens" are everywhere, so try and thoroughly plunder the ship.
 
 Multiple Graphics
 
@@ -2894,7 +2895,7 @@ Multiple Graphics
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.47 Hidden Temple cleared ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
 
-
+Frantz is a researcher from the Tower of Knowledge in Straylize temple seeking the "Four Secrets of the World." Speak with him while Woodrow has the title **Royal Aura** set to trigger Frantz asking the party for help, due to Woodrow's access to ample funds. Once this event starts, you will be able to find the Four Secrets of the World as long as you fulfill the right conditions.
 
 Full page of boss and other info
 
@@ -2912,7 +2913,7 @@ Full page of boss and other info
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.62 Arriving in Swordian R&D Lab    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
 
-
+When you speak with a zoologist in Reynold's laboratoy in Seinegald Castle, he will ask you for assistance in researching how recent events have disturbed the ecology of the birds. He utilizes a special device the can fly in the sky just like birds. In order to complete the research, this device must track and lock on to a bird in flight. There are 52 birds to be surveyed in total. There are many birds in all the regions EXCEPT Phandaria. There are two patterns: a singular bird flying alone or two birds flying together. After completing a successful survey, you will be rewarded with a rare material. Learn the tricks necessary to complete all surveys and you'll be gien 5 rare material
 
 Tables, Maps, and info.
 
@@ -2930,7 +2931,7 @@ Tables, Maps, and info.
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.38 Discovery Book acquired ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Lilith's title [Caretaker], Rest of the party [NatuRanger]    |
 
-
+The "dowsing rod" is a valuable item given to Stahn by Bacchus as he leaves Lienea village in the second part of the game. This special item allos the discroty of mysterious objects scattered around the world called "Discovery Points." Onec discovered, they are recorded in the Discory Book that Bacchus gave you. There are 60 points in total. It will take a lot of patience to discover them all, but will allow you to receive the NatuRanger titles for you party (and the Caretaker title for Lilith).  Additionally, this provides the opportunity to view the rare skit "Expedition Stahn."
 
 Tables, Maps, Graphics, and info.
 
@@ -2948,7 +2949,7 @@ Tables, Maps, Graphics, and info.
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | see right    |
 
-
+Gentlemen are powerful monsters that cannot be encountered randomly while exploring. There are four total gentlemen and to trigger their encounter, you must speak to specific adventurers around the world. First, with the title "Doppleganger" set to Woodrow,  speak with the adventurer to view their picture. If you examine the location shown on the photo, a battle with a Gentleman will occur. If you report to the adventurer that you defeated the Gentlemen, you will be rewarded accordingly. 
 
 Excel Table and Graphics
 
