@@ -25,6 +25,7 @@
   * [Tales of Innocence R](./projects/innocence-r/index)
     - [Side-Quest Guide](./projects/innocence-r/toir-guide.md)
   * [Tales of the Abyss](./projects/abyss/index)
+    - [Shiro no Ashita Book Volume 2](./projects/abyss/shironoashita/ShiroNoAshita.md)
   * [Tales of Legendia](./projects/legendia/index)
   * [Tales of Hearts IE](./projects/hearts-ie/index)
   * [Tales of Hearts](./projects/hearts-ds/index)
