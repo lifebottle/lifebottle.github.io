@@ -1,8 +1,8 @@
 <span
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.00px; height: 876.00px;">![](images/image1.png)</span>
 
-<span class="c0">"...Thus shall Auldrant be destroyed by the miasma and
-turned to dust---"</span>
+"...Thus shall Auldrant be destroyed by the miasma and
+turned to dust---"
 
 <span class="c0">Anise Tatlin was taken aback by the voice that came
 through the cold, snowy air.</span>
