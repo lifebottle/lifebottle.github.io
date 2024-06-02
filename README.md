@@ -13,7 +13,10 @@ Instructions to Edit this site:
 
 # Life Bottle Productions
 Welcome!  Join us on [Discord](https://discord.com/invite/NUvvgUtdXW).
+
 Follow us on [Twitter](https://x.com/LifeBottleProd).
+
+Follow us on [Instagram](https://www.instagram.com/lifebottleproductions).
 
 # Patches
 For a modern experience, check out these patches.
@@ -22,10 +25,10 @@ For a modern experience, check out these patches.
 
 | Release Date | Title | Patch | Instructions | Notes |
 | ------------ | ----- | ----- | ------------ | ----- |
-| 2023-12-11 | [Tales of Destiny: Director's Cut](https://github.com/lifebottle/Tales-of-Destiny-DC/releases) | [v0.1.4](https://github.com/lifebottle/Tales-of-Destiny-DC/releases/download/v0.1.4/TOD_DC_PATCH_v0.1.4.xdelta.zip) | [Video](https://www.youtube.com/watch?v=Kx5pPlKWjQE) or [Site](https://www.lifebottle.org/#/./other/xdelta3/index) | Credits and a few other small things still need completing. |
-| 2021-07-02 | [Tales of Destiny 2](https://github.com/lifebottle/Tales-of-Destiny-2/releases) | [v0.0.24](https://github.com/lifebottle/Tales-of-Destiny-2/releases/download/latest/TOD2_PS2_PATCH.zip) | [Video](https://www.youtube.com/watch?v=Kx5pPlKWjQE) or [Site](https://www.lifebottle.org/#/./other/xdelta3/index) | Story 33% Completed. |
+| 2023-12-11 | [Tales of Destiny: Director's Cut](https://github.com/lifebottle/Tales-of-Destiny-DC/releases) | [Latest](https://github.com/lifebottle/Tales-of-Destiny-DC/releases/latest) | [Video](https://www.youtube.com/watch?v=Kx5pPlKWjQE) or [Site](https://www.lifebottle.org/#/./other/xdelta3/index) | Credits and a few other small things still need completing. |
+| 2021-07-02 | [Tales of Destiny 2](https://github.com/lifebottle/Tales-of-Destiny-2/releases) | [v0.0.24](https://github.com/lifebottle/Tales-of-Destiny-2/releases/download/latest/TOD2_PS2_PATCH.zip) | [Video](https://www.youtube.com/watch?v=Kx5pPlKWjQE) or [Site](https://www.lifebottle.org/#/./other/xdelta3/index) | On Hiatus. Please refer to [Lumina Tales](https://luminatales.net/) for full translation. |
 | 2023-01-22 | [Tales of Innocence R](https://github.com/lifebottle/Tales-of-Innocence-R/releases) | [_decrypt.exe](https://github.com/lifebottle/Tales-of-Innocence-R/releases/download/v0.1.14/toir_patch-DecryptedWithComputer-Jan.22.2023.zip) or [FAGDec](https://github.com/lifebottle/Tales-of-Innocence-R/releases/download/v0.1.14/toir_patch_DecryptedWithVitaHarware-Jan.22.2023.zip) | [Image](https://cdn.discordapp.com/attachments/857033352137539625/878843458608054322/how_to.png) | v0.1.14 |
-| 2023-XX-XX | [Tales of Hearts R - Infinite Evolve](https://github.com/lifebottle/Tales-of-Hearts-R-Infinite-Evolve/releases) | [v0.0.x](https://github.com/lifebottle/Tales-of-Hearts-R-Infinite-Evolve) | coming soon™ | coming soon™ |
+| 2023-XX-XX | [Tales of Hearts R - Infinite Evolve](https://github.com/lifebottle/Tales-of-Hearts-R-Infinite-Evolve/releases) | [v0.0.x](https://github.com/lifebottle/Tales-of-Hearts-R-Infinite-Evolve) | Check Readme | JP original audio and English dub |
 | 2022-11-13 | [Narikiri Dungeon X](https://github.com/lifebottle/Narikiri-Dungeon-X/releases) | [v0.0.4](https://github.com/lifebottle/Narikiri-Dungeon-X/releases/download/0.0.4/NDX_patch_0.0.4.xdelta) | coming soon™ | Menu + Story |
 | 2021-06-14 | [Tales of Rebirth](https://github.com/lifebottle/Tales-of-Rebirth/releases) | [v2021w24a](https://github.com/lifebottle/Tales-of-Rebirth/releases/tag/2021w24a) | coming soon™ | coming soon™ |
 | 20XX-XX-XX | [Tales of Phantasia X](https://github.com/lifebottle/Tales-of-Phantasia-X/releases) | [v0.0.x](https://github.com/lifebottle/Tales-of-Phantasia-X) | coming soon™ | coming soon™ |
