@@ -60,8 +60,8 @@ For a modern experience, check out these patches.
 | 2021-09-27 | [Tales of Symphonia](https://github.com/JulianoW/Tales-of-Symphonia-NGC-Undub/releases) | [Disk 1](https://github.com/JulianoW/Tales-of-Symphonia-NGC-Undub/releases/download/V2.0_BETA/Tales.of.Symphonia.Undub.Disc.1.xdelta3) and [Disk 2](https://github.com/JulianoW/Tales-of-Symphonia-NGC-Undub/releases/download/V2.0_BETA/Tales.of.Symphonia.Undub.Disc.2.xdelta3)| coming soon™ | Gamecube version. | `Julian` |
 | 2023-06-29 | [Tales of Eternia](https://discord.com/channels/818214215365427320/845677992575238224/1123981617971605514) | [Mostly Undub](https://drive.google.com/file/d/1hAqsTuF11WYhGV9AIbeDI03DpxLFh2-J/view?usp=drive_link)| Meant to be applied to the first track disc of each of the three game discs' bin files. | PSX version. | `Trixarian` |
 | 2023-07-26 | [Tales of Legendia](https://github.com/lifebottle/Tales-of-Legendia-Undub/releases/tag/Release) | [ReUndub](https://github.com/lifebottle/Tales-of-Legendia-Undub/releases/download/Release/ToL-ReUndub-1.3.zip) or [PunDub](https://github.com/lifebottle/Tales-of-Legendia-Undub/releases/download/Release/ToL-Pundub-1.2.zip) | Cool | PS2 version. | `Julian`, `Trixarian`, `Ethanol` |
-| 2024-05-21 | Tales of the Abyss | [Latest](https://drive.google.com/drive/folders/1FlbT3046Rr5iU-YVcFTNKj_jrX_2AN72) | coming soon™ | 3DS | `Trixarian` |
-
+| 2024-05-21 | Tales of the Abyss 3DS | [Latest](https://archive.org/details/tales_of_the_abyss_3ds_undub_patch) | coming soon™ | 3DS | `Trixarian`, `Swosho` |
+| 2022-12-91 | Tales of the Abyss PS2 | [Undub](https://github.com/lifebottle/Tales-of-the-Abyss-Undub/releases/tag/v1.0.200/latest)/[Partial Undub](https://drive.google.com/file/d/1xhBghSiSjdgLlAUm80OUJO5aFciqs4K7/view) | coming soon™ | Both undub and partial undub | `Swosho` |
 ## Others
 1. Tales of Eternia - Skit Restore: https://github.com/JulianoW/tales-of-eternia-skit-restore/tree/main
 
