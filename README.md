@@ -18,6 +18,8 @@ Follow us on [Twitter](https://x.com/LifeBottleProd).
 
 Follow us on [Instagram](https://www.instagram.com/lifebottleproductions).
 
+Sub to us on [Youtube](https://www.youtube.com/@LifeBottleProd/featured).
+
 # Patches
 For a modern experience, check out these patches.
 
