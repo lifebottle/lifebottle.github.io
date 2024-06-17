@@ -45,8 +45,7 @@ For a modern experience, check out these patches.
 
 | Release Date | Title | Patch | Instructions | Notes | Credits |
 | ------------ | ----- | ----- | ---- | ----- | ------ |
-| 2023-11-05 | Tales of Innocence R | [Beta](https://www.mediafire.com/file_premium/rbp7rga09frne6g/ToIR_HDtextures_Beta.7z/file) | [Discord link](https://discord.com/channels/818214215365427320/1170759743720132718/1170768761435984043) | For Vita3K. | `PandaVenom` |
-| 2023-12-12 | Tales of Innocence R | [ASTC](https://www.mediafire.com/file/k84h6nj1bx1r1he/PCSG00009.7z/file) | [Discord link](https://discord.com/channels/818214215365427320/1170759743720132718/1184139582569193522) | For Android Vita3K | `PandaVenom`, `macdu` |
+| 2023-12-12 | Tales of Innocence R | [ASTC](https://www.mediafire.com/file/ot3mluj69uz1v4q/PCSG00009_v2_png.7z/file) | [Discord link](https://discord.com/channels/818214215365427320/1170759743720132718/1184139582569193522) | For Android Vita3K and Vita3k | `PandaVenom`, `macdu` |
 | 2023-11-21 | Tales of Hearts R | [Beta](https://www.mediafire.com/file/54su9ulmfsdpew1/ToHR_HDtextures_Beta.7z/file) | [Discord link](https://discord.com/channels/818214215365427320/1170760380394516510/1176682076100100239) | For Vita3K. | `PandaVenom`, `Rin Kiri`, `DRAGONBLEAPIECE`, `Macdu` |
 | 2023-12-12 | Tales of Hearts R | [ASTC](https://www.mediafire.com/file_premium/cxltu6qco9r1bjj/PCSE00429.7z/file) | [Discord link](https://discord.com/channels/818214215365427320/1170760380394516510/1184078951656722575) | For Android Vita3K | `PandaVenom`, `macdu` |
 | 2023-12-02 | Tales of The Abyss | [DDS - Desktop](https://www.mediafire.com/file_premium/67sx4znl39ydtt0/SLUS-21386_TotA_0.99.7z/file) or [PNG - Android](https://www.mediafire.com/file/oysjc6xkjob2ezt/SLUS-21386_TotA_v99_PNG.7z/file) | [Discord link](https://discord.com/channels/818214215365427320/964614110992035940/1180596903428239492) | v0.85 | `PandaVenom` |
