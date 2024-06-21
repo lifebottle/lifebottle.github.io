@@ -64,6 +64,17 @@ For a modern experience, check out these patches.
 | 2023-07-26 | Tales of Legendia | [Github](https://github.com/lifebottle/Tales-of-Legendia-Undub/releases/tag/Release/latest)/[ReUndub](https://github.com/lifebottle/Tales-of-Legendia-Undub/releases/download/Release/ToL-ReUndub-1.4.zip) or [PunDub](https://github.com/lifebottle/Tales-of-Legendia-Undub/releases/download/Release/ToL-PunDub-1.3.zip) | Cool | PS2 version. | `Julian`, `Trixarian`, `Ethanol` |
 | 2024-05-21 | Tales of the Abyss 3DS | [Latest](https://archive.org/details/tales_of_the_abyss_3ds_undub_patch) | coming soon™ | 3DS | `Trixarian`, `Swosho` |
 | 2022-12-91 | Tales of the Abyss PS2 | [Undub](https://github.com/lifebottle/Tales-of-the-Abyss-Undub/releases/tag/v1.0.200/latest) or [Partial Undub](https://drive.google.com/file/d/1xhBghSiSjdgLlAUm80OUJO5aFciqs4K7/view) | coming soon™ | Both undub and partial undub | `Swosho` |
+
+## Mods
+
+| Release Date | Title | Mod | Instructions | Notes | Credits |
+| ------------ | ----- | ----- | ------------ | ----- | ------- |
+| xxxx-xx-xx | Tales of Graces F | coming soon™ | coming soon™ | coming soon™ | x |
+| 2024-06-04 | Tales of the Abyss | [Dsicord](https://discord.com/channels/818214215365427320/977628359620173855/1247634113763213323) | [Dsicord](https://discord.com/channels/818214215365427320/977628359620173855/1247634113763213323) | Extra artes| `U4ick`, `Meebo` |
+| xxxx-xx-xx | Tales of Xillia | coming soon | coming soon™ | coming soon™ | x |
+| xxxx-xx-xx | Tales of Xillia 2 | coming soon | coming soon™ | coming soon™ | x |
+| xxxx-xx-xx | Tales of Symphonia | coming soon | coming soon™ | coming soon™ | x |
+
 ## Others
 1. Tales of Eternia - Skit Restore: https://github.com/JulianoW/tales-of-eternia-skit-restore/tree/main
 
