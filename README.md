@@ -69,7 +69,7 @@ For a modern experience, check out these patches.
 | Release Date | Title | Mod | Instructions | Notes | Credits |
 | ------------ | ----- | ----- | ------------ | ----- | ------- |
 | xxxx-xx-xx | Tales of Graces F | coming soon™ | coming soon™ | coming soon™ | x |
-| 2024-06-04 | Tales of the Abyss | [Dsicord](https://discord.com/channels/818214215365427320/977628359620173855/1247634113763213323) | [Dsicord](https://discord.com/channels/818214215365427320/977628359620173855/1247634113763213323) | Extra artes| `U4ick`, `Meebo` |
+| 2024-06-04 | Tales of the Abyss | [Dsicord](https://discord.com/channels/818214215365427320/977628359620173855/1254936838984962129) | [Dsicord](https://discord.com/channels/818214215365427320/977628359620173855/1254936838984962129) | Extra artes| `U4ick`, `Meebo` |
 | xxxx-xx-xx | Tales of Xillia | coming soon | coming soon™ | coming soon™ | x |
 | xxxx-xx-xx | Tales of Xillia 2 | coming soon | coming soon™ | coming soon™ | x |
 | xxxx-xx-xx | Tales of Symphonia | coming soon | coming soon™ | coming soon™ | x |
