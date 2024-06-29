@@ -29,11 +29,12 @@ For a modern experience, check out these patches.
 | ------------ | ----- | ----- | ------------ | ----- |
 | 2023-12-11 | Tales of Destiny: Director's Cut | [Latest](https://github.com/lifebottle/Tales-of-Destiny-DC/releases/latest) | [Video](https://www.youtube.com/watch?v=Kx5pPlKWjQE) or [Site](https://www.lifebottle.org/#/./other/xdelta3/index) | Credits and a few other small things still need completing. |
 | 2021-07-02 | Tales of Destiny 2 | [Latest](https://github.com/lifebottle/Tales-of-Destiny-2/releases/latest) | [Video](https://www.youtube.com/watch?v=Kx5pPlKWjQE) or [Site](https://www.lifebottle.org/#/./other/xdelta3/index) | On Hiatus. Please refer to [Lumina Tales](https://luminatales.net/) for full translation. |
-| 2023-01-22 | Tales of Innocence R | [Latest](https://github.com/lifebottle/Tales-of-Innocence-R/releases/latest) | [Discord]([https://cdn.discordapp.com/attachments/857033352137539625/878843458608054322/how_to.png](https://discord.com/channels/818214215365427320/857033352137539625/1249491884779372617)) | v0.1.14 |
+| 2023-01-22 | Tales of Innocence R | [Latest](https://github.com/lifebottle/Tales-of-Innocence-R/releases/latest) | [Discord]([https://discord.com/channels/818214215365427320/857033352137539625/1249491884779372617](https://discord.com/channels/818214215365427320/857033352137539625/1249491884779372617)) | v0.1.14 |
 | 2023-12-25 | Tales of Hearts R - Infinite Evolve | [Latest](https://github.com/lifebottle/Tales-of-Hearts-R-Infinite-Evolve/releases/latest) | Check Readme | JP original audio and English dub |
 | 2022-11-13 | Narikiri Dungeon X | [Latest](https://github.com/lifebottle/Narikiri-Dungeon-X/releases/latest) | coming soon™ | Menu + Story |
 | 2021-06-14 | Tales of Rebirth | [Latest](https://github.com/lifebottle/Tales-of-Rebirth/releases/latest) | coming soon™ | coming soon™ |
 | 20XX-XX-XX | Tales of Phantasia X | [Latest](https://github.com/lifebottle/Tales-of-Phantasia-X/releases/latest) | coming soon™ | coming soon™ |
+| 20XX-XX-XX | Tales of Eternia |  coming soon™ | coming soon™ | coming soon™ |
 | 2023-10-09 | Tales of VS. | [Latest](https://github.com/lifebottle/Tales-of-VS/releases/latest) | coming soon™ | For PSP | 
 | 20XX-XX-XX | Tales of Hearts DS | [Latest](https://github.com/lifebottle/Tales-of-Hearts-DS/releases/latest) | coming soon™ | For DS | 
 | 20XX-10-25 | Tales of the World: Radiant Mythology 2 | [Latest](https://github.com/lifebottle/Radiant-Mythology-2/releases/latest) | coming soon™ | Menu Patch, for PSP | 
@@ -69,7 +70,7 @@ For a modern experience, check out these patches.
 | Release Date | Title | Mod | Instructions | Notes | Credits |
 | ------------ | ----- | ----- | ------------ | ----- | ------- |
 | xxxx-xx-xx | Tales of Graces F | coming soon™ | coming soon™ | coming soon™ | x |
-| 2024-06-04 | Tales of the Abyss | [Dsicord](https://discord.com/channels/818214215365427320/977628359620173855/1254936838984962129) | [Dsicord](https://discord.com/channels/818214215365427320/977628359620173855/1254936838984962129) | Extra artes| `U4ick`, `Meebo` |
+| 2024-06-04 | Tales of the Abyss | [Discord](https://discord.com/channels/818214215365427320/977628359620173855/1254936838984962129) | [Discord](https://discord.com/channels/818214215365427320/977628359620173855/1254936838984962129) | Extra artes| `U4ick`, `Meebo` |
 | xxxx-xx-xx | Tales of Xillia | coming soon | coming soon™ | coming soon™ | x |
 | xxxx-xx-xx | Tales of Xillia 2 | coming soon | coming soon™ | coming soon™ | x |
 | xxxx-xx-xx | Tales of Symphonia | coming soon | coming soon™ | coming soon™ | x |
