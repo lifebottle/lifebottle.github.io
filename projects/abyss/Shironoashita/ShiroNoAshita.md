@@ -2,7 +2,7 @@
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.00px; height: 876.00px;">![](images/image1.png)</span>
 
 "...Thus shall Auldrant be destroyed by the miasma and
-turned to dust---"
+turned to dust—"
 
 <span class="c0">Anise Tatlin was taken aback by the voice that came
 through the cold, snowy air.</span>
@@ -13,7 +13,7 @@ Lorelei, whom her own betrayal had killed.</span>
 <span class="c0">The voice trembled weakly, as if it might disappear at
 any moment.</span>
 
-<span class="c3">'Ion---!?'</span>
+<span class="c3"><i>'Ion—!?'</i></span>
 
 <span class="c0">But Anise quickly dismissed the thought. Ion would
 never again recite the Score.</span>
@@ -26,9 +26,9 @@ the Score on the Seventh Fonstone."</span>
 
 <span class="c0">Anise remembered what Ion had said back then.</span>
 
-<span class="c3">'Then, there really is... There really were more
+<span class="c3"><i>'Then, there really is... There really were more
 replicas of the original Ion aside from the Ion I worked for and
-Sync!'</span>
+Sync!'</i></span>
 
 <span class="c0">Anise slipped past Luke fon Fabre and rose as high as
 she could on her tiptoes.</span>
@@ -39,8 +39,8 @@ she could on her tiptoes.</span>
 Score and he collapsed into the snow. A fragment of the Seventh Fonstone
 fell from his hand.</span>
 
-<span class="c3">'Ion ran out of power every time he dispelled the
-Daathic seals---he often collapsed.'</span>
+<span class="c3"><i>'Ion ran out of power every time he dispelled the
+Daathic seals—he often collapsed.'</i></span>
 
 <span class="c5">The Fon Master is naive and easy to trick.</span>
 
@@ -51,14 +51,14 @@ of Ion that way.</span>
 monstrous due to taking in the Seventh Fonon, let out an angry
 voice.</span>
 
-<span class="c0">"Hah hah hah hah hah hah! You must have...read that
+<span class="c0">"Hah hah hah hah hah hah! You must have... read that
 wrong!"</span>
 
 <span class="c0">By the time Anise had started to shout at him, Luke had
 already protected Ion's replica from the Grand Maestro's attack.</span>
 
-<span class="c3">'What should I do...he's going to kill that
-kid!'</span>
+<span class="c3"><i>'What should I do... he's going to kill that
+kid!'</i></span>
 
 <span class="c0">However, thanks to the hyperresonance and the Jewel of
 Lorelei that Luke had, Mohs flew away into the sky.</span>
@@ -70,12 +70,12 @@ inside of Van Grants, began to rampage.</span>
 
 <span class="c0">The replica of Ion was left where he was.</span>
 
-<span class="c0">Not just Van and Legretta, who had flown away on a
-monster, but even Sync, who had been born from the same Score, did not
-show any sign of caring about him.</span>
+<span class="c0">Van and Legretta had flown away on the backs of monsters. 
+Even Sync, who had been born from the same Score as the other replica, showed
+absolutely no regard for him.</span>
 
-<span class="c3">'We're going to have to go to the Radiation Gate now.
-But...then he'll freeze here.'</span>
+<span class="c3"><i>'We're going to have to go to the Radiation Gate now.
+But... then he'll freeze here.'</i></span>
 
 <span class="c0">"Hey..."</span>
 
@@ -86,14 +86,13 @@ into her expression.</span>
 
 <span class="c0">Natalia Luzu Kimlasca Lanvaldear turned to her.</span>
 
-<span class="c0">Anise ran up to the replica, grabbed his hand, which
-was shaking with cold and fear, and brought him before her friends. The
+<span class="c0">Anise ran up to the replica, grabbed his hand—which
+was shaking with cold and fear—and brought him before her friends. The
 poor boy had no shoes and his feet were swollen and red.</span>
 
 <span class="c0">"Is it okay if we take this kid to Daath?"</span>
 
-<span class="c0">At being on the receiving end of everyone's attention,
-the Replica shrank down.</span>
+<span class="c0">The Replica shrank down as everyone's eyes turned to him.</span>
 
 <span class="c0">"Good idea. Okay, let's get him to Daath." Luke was the
 first to agree.</span>
@@ -102,21 +101,21 @@ first to agree.</span>
 looks like Ion?" Guy shrugged his shoulders.</span>
 
 <span class="c0">"Why don't you name him, Anise? He has grown attached
-to you, after all." Tear smiles as she holds his hand firmly.</span>
+to you, after all." Tear smiled as Anise held his hand firmly.</span>
 
-<span class="c3">'A name for this kid...'</span>
+<span class="c3"><i>'A name for this kid...'</i></span>
 
-<span class="c0">Anise looks up once at the replica's profile, then
+<span class="c0">Anise briefly examined the replica's profile, then
 stared at the snow and thought for a moment.</span>
 
-<span class="c0">The pure white snow was like the replica, free of
-impurities and benefits alike.</span>
+<span class="c0">The replica was just like the pure, white snow; he was
+free of both corruption and care alike.</span>
 
 <span class="c0">"...Florian," Anise said and looked up.</span>
 
 <span class="c0">"It means 'innocent one,'" Jade Curtis added.</span>
 
-<span class="c0">"Florian...that is a good name." Natalia nods, and the
+<span class="c0">"Florian... that is a good name." Natalia nods, and the
 replica smiled at the one who named him.</span>
 
 <span class="c0">"Ani...se."</span>
@@ -129,16 +128,16 @@ as he repeated the names over and over again.</span>
 
 <span class="c5">\* \* \*</span>
 
-<span class="c6">'If I were to ask someone in Daath to take care of
-Florian, who should I ask?' </span><span class="c0">Anise thought in the
+<span class="c6"><i>'If I were to ask someone in Daath to take care of
+Florian, who should I ask?'</i> </span><span class="c0">Anise thought in the
 Albiore.</span>
 
 <span class="c0">First, the faces of her parents came to mind, but those
 two still didn't know that Ion had been replaced by a replica. It would
 be confusing to have them meet Florian out of the blue.</span>
 
-<span class="c3">'We're going to fight Van, it's possible that I won't
-be coming back... Who will he be safe with if that happens?'</span>
+<span class="c3"><i>'We're going to fight Van, it's possible that I won't
+be coming back... Who will he be safe with if that happens?'</i></span>
 
 <span class="c0">In the end, she decided to leave it in the hands of the
 Maestro Tritheim. He would be fine.</span>
@@ -159,21 +158,21 @@ Florian."</span>
 
 <span class="c0">Their eyes met.</span>
 
-<span class="c3">'Ion...!'</span>
+<span class="c3"><i>'Ion...!'</i></span>
 
 <span class="c0">Anise wondered why she didn't notice sooner.</span>
 
 <span class="c0">Ion's last words were impossible to get out of her
 mind.</span>
 
-<span class="c5">---You don't have to...watch over me...any
-more...Anise...</span>
+<span class="c5"><i>—You don't have to... watch over me... any
+more... Anise...</i></span>
 
-<span class="c5">Thank you...for everything... My
-most...cherished...</span>
+<span class="c5"><i>Thank you... for everything... My
+most... cherished...</i></span>
 
-<span class="c3">'I wonder if he thought I was just the most important
-Fon Master Guardian before his death. Or...'</span>
+<span class="c3"><i>'I wonder if he thought I was just the most important
+Fon Master Guardian before his death. Or...'</i></span>
 
 <span class="c0">Anise hadn't realized until Ion disappeared that she
 also thought of Ion as irreplaceable. She knew that she shouldn't, but
@@ -190,11 +189,10 @@ chest.</span>
 church, and he blurted out the name he had just been given,
 \"Florian".</span>
 
-<span class="c0">He knew there was such a thing as a name, but he had
-never imagined that he would ever be given one. But he had never
-imagined that he would ever be given one.</span>
+<span class="c0">He knew what a name was, but he had
+never imagined that anyone would ever give him one.</span>
 
-<span class="c0">Until now, he had only existed there as something that
+<span class="c0">Until now, he had only existed there, as something that
 could not be named.</span>
 
 <span class="c0">He stared at his palm. It was the hand Anise had held
@@ -204,8 +202,8 @@ like his hand would never disappear.</span>
 <span class="c0">He could vaguely remember when three naked bodies that
 looked exactly like him had disappeared on hot rocks.</span>
 
-<span class="c6">'None of them had names. Maybe that was why they
-disappeared...'</span>
+<span class="c6"><i>'None of them had names. Maybe that was why they
+disappeared...'</i></span>
 
 <span class="c5">\* \* \*</span>
 
@@ -256,7 +254,7 @@ and fell down.</span>
 <span class="c0">"Hey, are you all right?" Ahmed rushed to hold the boy
 in his arms, but his vacant eyes were sightless.</span>
 
-<span class="c0">"...I'm okay...I'm okay... I..."</span>
+<span class="c0">"...I'm okay... I'm okay... I..."</span>
 
 <span class="c0">"That's enough." Mohs jerked his chin towards a corner.
 "Put those three over there."</span>
@@ -275,16 +273,16 @@ easier." Mohs said to Van with a sarcastic smile. </span>
 <span class="c0">Van chuckled to himself as he recalled the replica of
 Luke fon Fabre that he had once left at Choral Castle.</span>
 
-<span class="c3">'That was certainly terrible, that's for sure. Even if
+<span class="c3"><i>'That was certainly terrible, that's for sure. Even if
 there was nothing wrong with his body, he was like a baby, and he
-couldn't even chew or defecate, let alone walk...'</span>
+couldn't even chew or defecate, let alone walk...'</i></span>
 
 <span class="c0">Van was able to come and go from Duke Fabre's manor,
 acting as Luke's sword instructor. In his opinion, the replica had too
 many personality problems.</span>
 
-<span class="c3">'His blind trust in me makes him easy to
-handle.'</span>
+<span class="c3"><i>'His blind trust in me makes him easy to
+handle.'</i></span>
 
 <span class="c0">This time, however, was different. They had to create a
 complete Fon Master Ion before the time of the original's passing
@@ -316,7 +314,7 @@ Ahmed said.</span>
 <span class="c0">"What the hell!?" Mohs threw his pen to the floor. The
 tip of the pen flew off and made a small scratch on the fifth boy's
 thigh. Vivid red blood dripped down, contrasting the boy's pale skin.
-"Van, enough of this---"</span>
+"Van, enough of this—"</span>
 
 <span class="c0">But Van kept quiet and continued to adjust the
 controls. The boy was put with the other three.</span>
@@ -343,7 +341,7 @@ motion.</span>
 <span class="c0">"How is it?" Van asked as he approached the seventh
 replica.</span>
 
-<span class="c0">"This one...might be good. Please take a look."</span>
+<span class="c0">"This one... might be good. Please take a look."</span>
 
 <span class="c0">At the sound of Ahmed's voice, Mohs slowly opened one
 eye.</span>
@@ -395,7 +393,7 @@ head.</span>
 <span class="c0">As Van approached the five bodies awaiting disposal, he
 looked at them with an absentminded air. Then,</span>
 
-<span class="c0">"It was regrettable...the synchron level was a
+<span class="c0">"It was regrettable... the synchron level was a
 problem," Van said as he tapped his finger against one's
 forehead.</span>
 
@@ -416,7 +414,7 @@ you."</span>
 of Mohs' subordinate, Ahmed.</span>
 
 <span class="c0">"The seventh Ion is going to be the new leader of the
-Order. The rest of these things...will be dying out here."</span>
+Order. The rest of these things... will be dying out here."</span>
 
 <span class="c0">"Let's throw them in as deep as we can. If they all
 burned up, they'd be taken care of in an instant, right?"</span>
@@ -426,7 +424,7 @@ a hot bath in the lava?"</span>
 
 <span class="c0">All the assistants laughed in hushed voices. </span>
 
-<span class="c6">'Hot, bath, lava...'</span><span class="c0"> He
+<span class="c6"><i>'Hot, bath, lava...'</i></span><span class="c0"> He
 repeated to himself. Now that he thought about it, his skin wasn't
 prickling strangely anymore. It was getting hotter and hotter.</span>
 
@@ -447,7 +445,7 @@ this?"</span>
 was with him was lifted up.</span>
 
 <span class="c0">"Hey, hold it's legs," the man said. "We'd better do it
-together---"</span>
+together—"</span>
 
 <span class="c0">"Heave!"</span>
 
@@ -476,7 +474,7 @@ his gaze.</span>
 
 <span class="c0">He felt himself fly through the air.</span>
 
-<span class="c3">'If I don't fall in, I'll get kicked---'</span>
+<span class="c3"><i>'If I don't fall in, I'll get kicked—'</i></span>
 
 <span class="c0">They threw his body as far away as they could, but when
 he still landed on the hot ground, he rolled himself into the volcano's
@@ -493,7 +491,7 @@ closed in.</span>
 <span class="c0">How long had they been doing that? The next thing he
 knew, the darkness was fading.</span>
 
-<span class="c6">'Hot...hot, lava...' </span><span class="c0">He
+<span class="c6"><i>'Hot... hot, lava...'</i> </span><span class="c0">He
 suddenly became aware of the heat searing his skin. He couldn't stand
 the pain anymore and sat up. Looking around, he realized that he was not
 far from where he had been thrown. He must have huddled against the rock
@@ -518,8 +516,8 @@ stopped.</span>
 <span class="c0">"I know you're there. All right, come on up
 here."</span>
 
-<span class="c3">'What should I do? Will he kick me if I go to
-him?'</span>
+<span class="c3"><i>'What should I do? Will he kick me if I go to
+him?'</i></span>
 
 <span class="c0">\"What's wrong? Are you hurt?"</span>
 
@@ -611,7 +609,7 @@ words Sync could not understand.</span>
 <span class="c0">A sharp burning shot through him, and Van's fingers
 began moving as if he were drawing something.</span>
 
-<span class="c0">"UWAAAHH!!" Sync started screaming.</span>
+<span class="c0"><i>"UWAAAHH!!"</i> Sync started screaming.</span>
 
 <span class="c0">The burning agony followed the path Van's finger
 traced. If Sync hadn't been ordered not to move, he would have fled from
@@ -629,8 +627,8 @@ stopped.</span>
 <span class="c0">"All right," Van said, "I'll add another fonic glyph to
 your back next time."</span>
 
-<span class="c3">'What is a fonic glyph, why do I have to feel this
-pain---'</span>
+<span class="c3"><i>'What is a fonic glyph, why do I have to feel this
+pain—'</i></span>
 
 <span class="c0">A jumble of questions, sorrow, and anger welled up
 inside Sync. But the questions only swirled in his chest and he did not
@@ -665,7 +663,7 @@ remained unobstructed.</span>
 <span class="c0">Van laughed into the rays of the morning sun.</span>
 
 <span class="c0">Again, Sync said nothing. He felt cramped and
-suffocated---he felt terribly sick, but he still didn't know how to
+suffocated—he felt terribly sick, but he still didn't know how to
 complain.</span>
 
 <span class="c0">What is this feeling that smoldered in his chest? Was
@@ -738,14 +736,14 @@ teachings of Yulia Jue, the entire organization of Daath, general
 knowledge, the practice of Daathic fonic artes, physical fitness, and
 all the other things necessary for a Fon Master.</span>
 
-<span class="c3">'I guess this is a good start.'</span>
+<span class="c3"><i>'I guess this is a good start.'</i></span>
 
 <span class="c0">Ahmed had to report back to Mohs each day, comparing
 what the replica Ion had learned with the previous day. This has been
 going on for months.</span>
 
-<span class="c3">'Then again, he isn't as strong as he should be. Maybe
-I should have made another one with more athletic ability...'</span>
+<span class="c3"><i>'Then again, he isn't as strong as he should be. Maybe
+I should have made another one with more athletic ability...'</i></span>
 
 <span class="c0">But the Fon Master's passing was imminent. They cannot
 wipe the slate clean now. Since that day when they decided to use the
@@ -755,7 +753,7 @@ seventh replica here, this boy became Fon Master Ion.</span>
 hurt your body, so please force yourself to eat all of your
 dinner."</span>
 
-<span class="c0">"I don\'t...feel very hungry... You said it's called
+<span class="c0">"I don\'t... feel very hungry... You said it's called
 having no appetite..." Ion then smiled and said, "Thank you for your
 concern, Ahmed."</span>
 
@@ -764,7 +762,7 @@ been thinking about it, and I wonder if it would be possible for me to
 meet with the original Fon Master Ion? I would learn quicker if I could
 talk to him in person."</span>
 
-<span class="c0">"That's outrageous!" Ahmed suddenly shouted. Then, he
+<span class="c0">"Don't be absurd!" Ahmed suddenly shouted. Then, he
 spoke quieter. "I'm sorry, excuse me. That's not possible. Of course,
 Fon Master Ion knows about you, and you get your information about him
 through us..."</span>
@@ -776,10 +774,10 @@ enough."</span>
 
 <span class="c0">Ahmed shook his head in dismay.</span>
 
-<span class="c3">'This Fon Master is really docile. Not only is he
+<span class="c3"><i>'This Fon Master is really docile. Not only is he
 pacifistic, he never complains about the cramming we must do for his
 education, and he's always smiling. But there isn't enough of the
-original there...there just isn't.'</span>
+original there... there just isn't.'</i></span>
 
 <span class="c0">After confirming the intelligence level on the data
 table, he immediately looked at the replica and saw he was already
@@ -799,15 +797,15 @@ for simple meals, the place was currently used primarily for his
 contemplation. A passageway heated by the Zaleho volcano lead out to a
 passage ring in the back.</span>
 
-<span class="c3">'It's better than dealing with a continued vacancy,
-even if it is weak in body.'</span>
+<span class="c3"><i>'It's better than dealing with a continued vacancy,
+even if it is weak in body.'</i></span>
 
 <span class="c0">Mohs had been thinking about Ion's replica
 earlier.</span>
 
-<span class="c3">'It would be good if he could perform his Daathic artes
+<span class="c3"><i>'It would be good if he could perform his Daathic artes
 as perfectly as a Fon Master ought to... Well, as long as he isn't
-attacked, it's fine.'</span>
+attacked, it's fine.'</i></span>
 
 <span class="c0">The more information they had, the better, in order to
 use the Fon Master to comply with the Score. When swapping the Fon
@@ -833,7 +831,7 @@ from which he'd heard the sound.</span>
 
 <span class="c0">All he could do was stare in shock</span>
 
-<span class="c3">'This...!'</span>
+<span class="c3"><i>'This...!'</i></span>
 
 <span class="c0">"This is preposterous... How...!"</span>
 
@@ -859,9 +857,9 @@ looked closer.</span>
 the carcass of a fire rat, which lived near the volcano and occasionally
 invaded the laboratory they were in.</span>
 
-<span class="c3">'There would be some vegetation away from the crater.
+<span class="c3"><i>'There would be some vegetation away from the crater.
 If it found muddy water, it could have drunk it. But I doubt it could
-have survived with just that...'</span>
+have survived with just that...'</i></span>
 
 <span class="c0">Fortunately, the fire rat in the replica's hand was
 whole. Mohs decided at this point to stop thinking about whether or not
@@ -883,14 +881,14 @@ eat?"</span>
 <span class="c0">Mohs poured a cup of water and gave it to the replica
 with a scowl on his face.</span>
 
-<span class="c3">'What should I do with him...? Dumping him back into
-the crater doesn't guarantee he'll die...'</span>
+<span class="c3"><i>'What should I do with him...? Dumping him back into
+the crater doesn't guarantee he'll die...'</i></span>
 
 <span class="c0">Though it was dirty, the replica had the same face as
 Fon Master Ion. An idea suddenly occurred to Mohs.</span>
 
-<span class="c3">'Wait a minute. The new Ion is frail...we could keep it
-in case the new one dies.'</span>
+<span class="c3"><i>'Wait a minute. The new Ion is frail... we could keep it
+in case the new one dies.'</i></span>
 
 <span class="c0">Even if his abilities were no good, he should appear to
 be Fon Master Ion from a distance. As long as he could get out of an
@@ -911,7 +909,7 @@ got dumped together, didn't they?"</span>
 
 <span class="c0">The boy's lips moved, searching for words.</span>
 
-<span class="c0">"Three...gone..."</span>
+<span class="c0">"Three... gone..."</span>
 
 <span class="c0">There had been five total, but one must have fallen
 somewhere far away.</span>
@@ -921,9 +919,9 @@ somewhere far away.</span>
 <span class="c0">Mohs kicked a rat that was lying at his feet, as if it
 was dirty.</span>
 
-<span class="c3">'Hmmm, it was Van's ineptitude that led to the creation
+<span class="c3"><i>'Hmmm, it was Van's ineptitude that led to the creation
 of so many failures in the first place. Well, then, I'll let him take
-care of Arrietta.'</span>
+care of Arrietta.'</i></span>
 
 <span class="c0">Nodding in satisfaction at the tumbling rat, Mohs
 headed back to the hidden passageway.</span>
@@ -976,7 +974,7 @@ open his eyes briefly.</span>
 <span class="c0">When he awoke, it was dusk. The other boy was staring
 at him, his eyes wide open.</span>
 
-<span class="c0">"......Ah......"</span>
+<span class="c0">"...Ah..."</span>
 
 <span class="c0">He raised an inarticulate voice, and then he
 disappeared. The boy's hand, which had been clutched in his, disappeared
@@ -1069,9 +1067,9 @@ tree's shade.</span>
 then paused to wipe away at the sweat dripping from under his
 mask.</span>
 
-<span class="c0">"I don't...know what I'm doing this training for.
+<span class="c0">"I don't... know what I'm doing this training for.
 You've taught me a lot, you've drawn a fonic glyph on me so I can
-manipulate the Seventh Fonon as best as I can, but...I was born to be a
+manipulate the Seventh Fonon as best as I can, but... I was born to be a
 substitute for the Fon Master, wasn't I? This kind of training is
 unnecessary for that purpose."</span>
 
@@ -1102,22 +1100,22 @@ twinkled.</span>
 sarcastically. "I'm free. You've gone out of your way to acquire me, but
 it's still up to me whether I live or not."</span>
 
-<span class="c6">'How is that possible---?'</span> Van thought in shock,
-<span class="c3">'A replica would consider suicide...? I never thought
+<span class="c6"><i>'How is that possible—?'</i></span> Van thought in shock,
+<span class="c3"><i>'A replica would consider suicide...? I never thought
 of the possibility. Seems we should have programmed them so that they
-avoid self harm.'</span>
+avoid self harm.'</i></span>
 
 <span class="c0">Van was once again pleased with himself for picking up
 the Sync from the crater. With him, he could learn more about replicas
 than he would ever be able to with Luke.</span>
 
-<span class="c3">'But Sync, I will not let you die until I can no longer
+<span class="c3"><i>'But Sync, I will not let you die until I can no longer
 see value in you. You can throw yourself to the depths of the earth all
-you want, I will always come and pick you up.'</span>
+you want, I will always come and pick you up.'</i></span>
 
 <span class="c0">"Listen, Sync." Van squinted towards the city of Daath,
 which was hidden behind a grove of trees. "Both of us hate the
-Score---in that, you and I are the same."</span>
+Score—in that, you and I are the same."</span>
 
 <span class="c0">"What!?"</span>
 
@@ -1145,7 +1143,7 @@ him."</span>
 while quietly peeking into the room.</span>
 
 <span class="c0">Ion turned his profile toward them, now facing a few
-men---most likely researchers. He looked like he was in the middle of
+men—most likely researchers. He looked like he was in the middle of
 one of his required lectures on how to be the Fon Master. For some
 reason, Ion was smiling, even though he seemed to have an overcrowded
 schedule day after day.</span>
@@ -1154,8 +1152,8 @@ schedule day after day.</span>
 much freedom. But he couldn't understand why he was smiling so
 calmly.</span>
 
-<span class="c3">'I guess it's because he's been chosen as the Fon
-Master's substitute and is being treated well, unlike me.'</span>
+<span class="c3"><i>'I guess it's because he's been chosen as the Fon
+Master's substitute and is being treated well, unlike me.'</i></span>
 
 <span class="c0">Envy welled up inside of Sync. He quickly looked at the
 furnishings in Ion's room.</span>
@@ -1163,8 +1161,8 @@ furnishings in Ion's room.</span>
 <span class="c0">He wasn't officially the Fon Master yet, but the desk,
 bed, and bookshelves were all high-end.</span>
 
-<span class="c3">'Is he really the same replica as me...? I can't
-believe we were made from the same source.'</span>
+<span class="c3"><i>'Is that guy really the same replica as me...? I can't
+believe we were made from the same source.'</i></span>
 
 <span class="c0">At that moment, Ion turned his head towards them, as if
 sensing their presence. Van pulled Sync out of the way just in time to
@@ -1211,10 +1209,10 @@ I go see him in his room anymore!?"</span>
 
 <span class="c0">"It was Mohs."</span>
 
-<span class="c6">'Of course he did,' </span>Van thought. <span
-class="c3">'He's trying to manipulate the next Ion according to his
-will. If he doesn't remove the ones close to the original, it won't add
-up when he switches them---'</span>
+<span class="c6"><i>'Of course he did,'</i> </span>Van thought. <span
+class="c3"><i>'He's trying to manipulate the next Ion according to his
+will. If he doesn't remove the ones close to the original, things won't add
+up when he switches them—'</i></span>
 
 <span class="c0">"Mohs must want him to rest and recuperate."</span>
 
@@ -1231,8 +1229,8 @@ that I want to be with him!"</span>
 Isle of Feres, the girl he had picked up, had somehow grown up to have
 feelings for the Fon Master.</span>
 
-<span class="c6">'I pity her, but I suppose I'll have to deceive her.
-It'll hurt me to lose out on information I could get from her, but...'
+<span class="c6"><i>'I pity her, but I suppose I'll have to deceive her.
+It'll hurt me to lose out on information I could get from her, but...'</i>
 </span><span class="c0">Van thought.</span>
 
 <span class="c0">He recalled that Sync had previously threatened him
@@ -1243,9 +1241,9 @@ after losing her original.</span>
 <span class="c0">Sync observed this exchange closely from behind the
 heavy doors of the chapel.</span>
 
-<span class="c6">'You're the original Fon Master's Guardian...'
-</span>Sync thought. <span class="c3">'What an idiot, you don't even
-know that the Fon Master will die soon.'</span>
+<span class="c6"><i>'You're the original Fon Master's Guardian...'</i>
+</span>Sync thought. <span class="c3"><i>'What an idiot, you don't even
+know that the Fon Master will die soon.'</i></span>
 
 <span class="c0">He twisted his lips as he coldly watched Arrietta.
 Suddenly, Sync heard a sound behind him.</span>
@@ -1258,7 +1256,7 @@ staring at him, snarling low in their throats.</span>
 he had encountered and defeated medium-sized monsters in the woods
 during his training.</span>
 
-<span class="c0">"What the hell...I'll kill you!'"</span>
+<span class="c0">"What the hell... I'll kill you!'"</span>
 
 <span class="c0">Van noticed Sync's killing intent. Arrietta saw that
 the monster was closing in on the boy.</span>
@@ -1268,7 +1266,7 @@ strangely enough, the monsters that had been about to jump on Sync
 suddenly stopped threatening him and began to walk meekly toward
 Arietta.</span>
 
-<span class="c0">"That surprised me...are you keeping them as pets?"
+<span class="c0">"That surprised me... are you keeping them as pets?"
 Sync asked.</span>
 
 <span class="c0">"Huh?" Was all Arietta could say. She looked between
@@ -1280,7 +1278,7 @@ into the sick room," Van said.</span>
 
 <span class="c0">Then, he and Sync left the chapel. When Van returned to
 Sync's side, he spoke in a hushed tone, "You heard her. She is the
-current Fon Master Guardian. That girl...has the ability to communicate
+current Fon Master Guardian. That girl... has the ability to communicate
 with monsters."</span>
 
 <span class="c0">"Communicating with monsters?" Sync asked.</span>
@@ -1320,29 +1318,29 @@ custom-made, of course.</span>
 <span class="c0">"Damn it!" Sync threw the pillow on his hard bed
 against the wall.</span>
 
-<span class="c3">'What's so different between us? I'm the fifth, he's
-the seventh... I was born first! Why didn't they choose me?!'</span>
+<span class="c3"><i>'What's so different between us? I'm the fifth, he's
+the seventh... I was born first! Why didn't they choose me?!'</i></span>
 
 <span class="c0">He felt he was becoming mad with jealousy. He hit the
 bed's wooden frame, kicked the chair, and, lastly, flung off his mask.
 Trembling with rage, he traced the outline of his face with his
 fingers.</span>
 
-<span class="c3">\'We have... the same face... If you don't need me,
-don't keep me alive!'</span>
+<span class="c3">\<i>'We have... the same face... If you don't need me,
+don't keep me alive!'</i></span>
 
 <span class="c0">As his fingers slid on his cheeks, he couldn't resist
 thinking about what he saw in the chapel.</span>
 
-<span class="c3">\'Arietta protects the Fon Master, and is protected by
-her monsters...'</span>
+<span class="c3">\<i>'Arietta protects the Fon Master, and is protected by
+her monsters...'</i></span>
 
 <span class="c0">Sync believed that people spent their lives creating
 bonds with others by protecting them and being protected in
 return.</span>
 
-<span class="c3">'I have no one to protect, and no one will ever protect
-me. I don't have any bond with anyone.'</span>
+<span class="c3"><i>'I have no one to protect, and no one will ever protect
+me. I don't have any bond with anyone.'</i></span>
 
 <span class="c0">He was just alive, completely excluded from this circle
 called the world. No one truly needed him. He had no place to call his
@@ -1352,7 +1350,7 @@ own.</span>
 may blame it on the Score, but it is humans who rely on the Score the
 most.</span>
 
-<span class="c3">'I want revenge, but on whom!?'</span>
+<span class="c3"><i>'I want revenge, but on whom!?'</i></span>
 
 <span class="c0">Sync cursed his foolish existence, that held no hope
 for a future, and wept.</span>
@@ -1430,8 +1428,8 @@ used to being a Fon Master and forget that he was a replica. For a
 replacement lives as a replacement and never feels inferior or
 superior.</span>
 
-Ion got up to return to his private room. <span class="c3">'Here we go.
-I am Ion, the Fon Master who recovered from his illness.'</span>
+Ion got up to return to his private room. <span class="c3"><i>'Here we go.
+I am Ion, the Fon Master who recovered from his illness.'</i></span>
 
 <span class="c0">The smaller the knot between the two strands, the
 better.</span>
@@ -1459,24 +1457,24 @@ was standing at her side, clears his throat.</span>
 <span class="c0">"I'll do my best." Anise instantly bowed her head and
 decided that was all the greeting that was needed.</span>
 
-<span class="c6">'I'm not doing so well with Mohs breathing down my
-neck...'</span> Anise sighed as quietly as she could so no one would
-notice it. <span class="c3">'I'm glad that I'm going to get a little pay
+<span class="c6"><i>'I'm not doing so well with Mohs breathing down my
+neck...'</i></span> Anise sighed as quietly as she could so no one would
+notice it. <span class="c3"><i>'I'm glad that I'm going to get a little pay
 raise by replacing Arrietta as Ion's Fon Master Guardian, but I'll still
-have to...keep an eye on Ion, and that means I'll be under constant
-surveillance, too, right?'</span>
+have to... keep an eye on Ion, and that means I'll be under constant
+surveillance, too, right?'</i></span>
 
 <span class="c0">More than a decade ago, when Anise's good-natured
 parents were struggling with a huge amount of debt, Mohs took over for
 them. Since then, the Tatlin family has been just another one of Mohs'
 assets.</span>
 
-<span class="c6">'My mama and papa are working for free, and now I'm
-Mohs' contact, too...' </span><span class="c0">Anise thought as she
+<span class="c6"><i>'My mama and papa are working for free, and now I'm
+Mohs' contact, too...'</i> </span><span class="c0">Anise thought as she
 stole a glance at Ion's face.</span>
 
-<span class="c3">'This is my first time seeing him up close...but he
-doesn't seem like a bad person.' </span>
+<span class="c3"><i>'This is my first time seeing him up close... but he
+doesn't seem like a bad person.'</i> </span>
 
 <span class="c0">"What are you grinning about?" Mohs interrupted Anise's
 thoughts. </span>
@@ -1492,7 +1490,7 @@ her name was called in a sharp tone.</span>
 
 <span class="c0">Anise nearly jumped. It was Arietta.</span>
 
-<span class="c0">"What is it, Arietta...what do you want?" she replied
+<span class="c0">"What is it, Arietta... what do you want?" she replied
 curtly.</span>
 
 <span class="c0">Arietta gripped Anise's arm and started shaking
@@ -1520,8 +1518,8 @@ instant.</span>
 was sick. And now that he's better again, I can't be with him anymore...
 That's mean!"</span>
 
-<span class="c6">'It's so that Mohs can keep him under
-surveillance,'</span><span class="c0"> Anise almost said, but she
+<span class="c6"><i>'It's so that Mohs can keep him under
+surveillance,'</i></span><span class="c0"> Anise almost said, but she
 restrained herself.</span>
 
 <span class="c0">"Ion doesn't like you, Anise. Ion is my Ion!"</span>
@@ -1555,15 +1553,15 @@ arm and ran off.</span>
 <span class="c0">"What's with her?" Anise rubbed her tingling arm,
 cheeks puffing out. "Ouch."</span>
 
-<span class="c3">'Why was she called by Commandant Van? Did Mohs toss
-her out and make her his problem?'</span>
+<span class="c3"><i>'Why was she called by Commandant Van? Did Mohs toss
+her out and make her his problem?'</i></span>
 
 <span class="c0">"...I have to go back soon," Anise muttered to
 herself.</span>
 
 <span class="c0">She wondered just what kind of person Ion was, that
 Arietta was so enthralled with him. "Arietta likes monsters, so even if
-Ion doesn't look it, maybe he has a wild side to him...no, that can't be
+Ion doesn't look it, maybe he has a wild side to him... no, that can't be
 true."</span>
 
 <span class="c0">Anise thought about the calm face of the Fon Master,
@@ -1683,17 +1681,17 @@ expression turned pained. Sync continued talking.</span>
 <span class="c0">"Anyway, it's a good thing you've joined the
 God-Generals. Congratulations."</span>
 
-<span class="c6">'Totally, congratulations. You don't even realize that
-you've been tricked.' </span>Sync smiled thinly. <span
-class="c3">'Everyone here is just being used by Van at his
-convenience...of course, I'm no different.'</span>
+<span class="c6"><i>'Totally, congratulations. You don't even realize that
+you've been tricked.'</i> </span>Sync smiled thinly. <span
+class="c3"><i>'Everyone here is just being used by Van at his
+convenience... of course, I'm no different.'</i></span>
 
 <span class="c0">Sync recalled the moment Van had asked him to join
 forces with him.</span>
 
 <span class="c5">\* \* \*</span>
 
-<span class="c0">"Both of us hate the Score---in that, you and I are the
+<span class="c0">"Both of us hate the Score—in that, you and I are the
 same."</span>
 
 <span class="c3">"What!?"</span>
@@ -1706,7 +1704,7 @@ matter."</span>
 <span class="c0">"Do you remember Hod?" Van questioned him back.</span>
 
 <span class="c0">"Hod..." Sync thought back, "You mean the island of
-Hod? You taught me about it...it was destroyed because of the Score,
+Hod? You taught me about it... it was destroyed because of the Score,
 right?"</span>
 
 <span class="c0">Van nodded. "That's right. Let me tell you something
@@ -1714,7 +1712,7 @@ special. I used to live on that destroyed island of Hod."</span>
 
 <span class="c0">Sync's eyes widened.</span>
 
-<span class="c0">"I was only eleven years old at the time...it's a
+<span class="c0">"I was only eleven years old at the time... it's a
 wonder I was able to survive." Van lowered his voice as if he was
 telling Sync an important secret, his eyes growing wide.</span>
 
@@ -1739,9 +1737,9 @@ the only hope for a world without the Score."</span>
 
 <span class="c5">\* \* \*</span>
 
-<span class="c6">'How did I reply, again?'</span> Sync smiled wryly as
-he thought back. <span class="c3">'"I don't care." And then I told him I
-agreed---'</span>
+<span class="c6"><i>'How did I reply, again?'</i></span> Sync smiled wryly as
+he thought back. <span class="c3"><i>'"I don't care." And then I told him I
+agreed—'</i></span>
 
 <span class="c0">Sync had no other choice but to agree, being both
 picked up and kept alive by Van. Van knew that, and so he'd made his
@@ -1845,8 +1843,8 @@ herself. "I mean, I used to when my mama made him for me. Now, he's my
 comrade who responds to my fonic frequency..."</span>
 
 <span class="c0">Anise explained what she could using vague terms. She
-called it a "fonic weapon"---and stated that Tokunaga had been turned
-into one by the God-General Dist---and that there was only so much she
+called it a "fonic weapon"—and stated that Tokunaga had been turned
+into one by the God-General Dist—and that there was only so much she
 could share with the mild-mannered Ion.</span>
 
 <span class="c0">"I'll lend him to you whenever you want to play with
@@ -1869,9 +1867,9 @@ back."</span>
 <span class="c0">Even still, Ion had to gesture for her to stay put. He
 walked into the library alone.</span>
 
-<span class="c6">'The smell of books is nice,' </span><span
+<span class="c6"><i>'The smell of books is nice,'</i> </span><span
 class="c0">Ion thought as he took a deep breath. The library smelled of
-ink, paper, and age---all wrapped up in silence.</span>
+ink, paper, and age—all wrapped up in silence.</span>
 
 <span class="c0">Ion liked the library.</span>
 
@@ -1883,10 +1881,10 @@ it again.</span>
 <span class="c0">Ion began to browse through descriptions of past
 wars.</span>
 
-<span class="c3">'War...the Score...the Planet's Memory... Even though
+<span class="c3"><i>'War... the Score... the Planet's Memory... Even though
 the Score is only a single path among many possible futures, it's
 ridiculous to start a war and cause people to lose their lives by making
-the Score absolute...'</span>
+the Score absolute...'</i></span>
 
 <span class="c0">Ion was aware that the Grand Maestro faction was
 thinking of starting a war. If they were to do such a thing just to
@@ -1898,8 +1896,8 @@ Kimlasca-Lanvalder and the Malkuth Empire had already become fragile.
 Or, it may be more correct to say that it never recovered in the mere
 fifteen years since the Hod War.</span>
 
-<span class="c6">'If I don't do something about this, then my existence
-will be a waste,' </span><span class="c0">thought Ion, his lips
+<span class="c6"><i>'If I don't do something about this, then my existence
+will be a waste,'</i> </span><span class="c0">thought Ion, his lips
 pursing.</span>
 
 <span class="c0">How ironic that Mohs, a member of the powerful Grand
@@ -1916,15 +1914,15 @@ sleeping.</span>
 peacefully. Ion watched for a few moments as Tokunaga rose and fell with
 her back.</span>
 
-<span class="c6">'A future with many choices---'</span><span
+<span class="c6"><i>'A future with many choices—'</i></span><span
 class="c0"> Suddenly, the thought Ion had in the library rose to the
 forefront of his mind.</span>
 
-<span class="c6">'There will never be any choices available to me,'
-</span>Ion thought, <span class="c3">'But ordinary people are different
+<span class="c6"><i>'There will never be any choices available to me,'</i>
+</span>Ion thought, <span class="c3"><i>'But ordinary people are different
 from me. The past that they have built up is what makes them
 important... Everyone should have an equal right to live in the future
-they wish for.'</span>
+they wish for.'</i></span>
 
 <span class="c0">Ion brought a blanket from the bed in his private
 office and gently draped it over Anise's back. After thinking for
@@ -1935,7 +1933,7 @@ furrowed.</span>
 
 <span class="c0">She yawned.</span>
 
-<span class="c6">'It's kind of heavy...and hot. Wha, I...fell asleep!?'
+<span class="c6"><i>'It's kind of heavy... and hot. Wha, I... fell asleep!?'</i>
 </span><span class="c0">Anise thought frantically.</span>
 
 <span class="c0">She pushed herself up with a huff, and the blanket on
@@ -1952,9 +1950,9 @@ heavy and hot!"</span>
 
 <span class="c0">Anise's hand froze.</span>
 
-<span class="c3">'Maybe one of them is for...'</span>
+<span class="c3"><i>'Maybe one of them is for...'</i></span>
 
-<span class="c0">"As I thought, Ion...this is slightly..."</span>
+<span class="c0">"As I thought, Ion... this is a little..."</span>
 
 <span class="c0">Still, Anise reached back over her shoulder and lightly
 tapped the stuffed animal, "Good for you, Tokunaga."</span>
@@ -1984,7 +1982,7 @@ Imperial Majesty Peony at Engeve shortly." The Malkuth messenger,
 disguised as a pilgrim, said. "Colonel Jade Curtis, the commander of the
 3rd Division of the Malkuth Empire, will protect you, Fon Master. I
 would like to ask you to enter the Kingdom of Kimlasca-Lanvaldear with
-the Colonel, and request an audience with Ingobert VI---"</span>
+the Colonel, and request an audience with Ingobert VI—"</span>
 
 <span class="c0">"I understand. I will depart at once." Ion did not let
 him finish and nodded clearly to the messenger.</span>
@@ -2002,12 +2000,12 @@ waiting in the corner of the room, pointed to her own face and said, "By
 <span class="c0">"Yes, you're the one I intend to take with me." Ion
 smiled at her.</span>
 
-<span class="c0">Anise shuffled her feet and backed away. "Wai---wait a
+<span class="c0">Anise shuffled her feet and backed away. "Wai—wait a
 moment, Ion."</span>
 
 <span class="c0">"What is it?" Ion asked.</span>
 
-<span class="c0">"That\'s---well, because I'm a girl, I have to prepare
+<span class="c0">"That\'s—well, because I'm a girl, I have to prepare
 for the trip and stuff..."</span>
 
 <span class="c0">Ion tilted his head to the side in confusion.</span>
@@ -2043,7 +2041,7 @@ existence of other replicas.</span>
 <span class="c0">He remembered that there were five others when he was
 born through fomicry. However, he had been told that they had been
 disposed of. They were all made to stand naked on a table, and their
-synchron values were compared with a measuring instrument---all of Ion's
+synchron values were compared with a measuring instrument—all of Ion's
 companions from that time had been killed.</span>
 
 <span class="c0">If eight replicas had been made, the eighth Ion might
@@ -2054,7 +2052,7 @@ been chosen and survived, and that there was no freedom for him to
 decide his future.</span>
 
 <span class="c0">Luke struggled to change himself in spite of his unique
-existence---a perfect isofon coexisting with an original named Asch,
+existence—a perfect isofon coexisting with an original named Asch,
 whose existence was even mentioned in the Closed Score.</span>
 
 <span class="c0">For the first time, Ion realized that there were pieces
@@ -2065,8 +2063,8 @@ change its course now that he understood this.</span>
 
 <span class="c5">\* \* \*</span>
 
-<span class="c6">'Perhaps I was naive to the reality of what it means to
-be the chosen replica---' </span><span class="c0">Ion thought.</span>
+<span class="c6"><i>'Perhaps I was naive to the reality of what it means to
+be the chosen replica—'</i> </span><span class="c0">Ion thought.</span>
 
 <span class="c0">Those thoughts manifested in Ion's mind upon meeting
 another replica of the late Fon Master, a replica he'd thought had been
@@ -2098,8 +2096,8 @@ the person's memories to control him..."</span>
 
 <span class="c0">Ion's words broke off at that point.</span>
 
-<span class="c3">'Only a Fon Master can use a Daathic fonic arte... So,
-Sync must be...'</span>
+<span class="c3"><i>'Only a Fon Master can use a Daathic fonic arte... So,
+Sync must be...'</i></span>
 
 <span class="c0">While his face might be hidden by a mask, Sync must be
 one of the replicas made at the same time as him. Ion was convinced of
@@ -2112,10 +2110,10 @@ them, then only Van could be responsible.</span>
 <span class="c0">Ion wondered why Van would have kept one of his fellow
 replicas. He considered that Van might be planning to use Sync to
 replace him someday. If that was the case, Ion had no guarantee that
-Mohs wasn't trying the same thing---</span>
+Mohs wasn't trying the same thing—</span>
 
 <span class="c0">A replica who had been born to be Ion, but could not
-become him. Ion now wondered how Sync felt about him, the so-called
+become him. Ion started to wonder how Sync felt about him, the so-called
 'chosen winner'.</span>
 
 <span class="c0">He rarely ever saw Sync the Tempest at the Order.
@@ -2145,7 +2143,7 @@ lurking. But he couldn't find him.</span>
 
 <span class="c5">\* \* \*</span>
 
-<span class="c6">'Ion noticed my presence---'</span><span
+<span class="c6"><i>'Ion noticed my presence—'</i></span><span
 class="c0"> Sync had sensed it from his position at the Malkuth
 Consulate in Chesedonia.</span>
 
@@ -2159,15 +2157,15 @@ would expose his appearance, but it certainly seemed to be something
 special. Something that connected the two of them, who were both born
 from the same data.</span>
 
-<span class="c6">'What if it were me in his place...'</span><span
+<span class="c6"><i>'What if it were me in his place...'</i></span><span
 class="c0"> Sync had imagined as he'd watched the ship carrying Luke and
 his party leave the Kaitzur military port.</span>
 
-<span class="c6">'Ion is hiding his true identity. What if I take off
+<span class="c6"><i>'Ion is hiding his true identity. What if I take off
 this mask and appear in front of him? With his little entourage in the
-room, of course...' </span>Sync laughed in the back of his throat at the
-thought. <span class="c3">'Not that I care about the other people, but
-his reaction might be interesting.'</span>
+room, of course...'</i> </span>Sync laughed in the back of his throat at the
+thought. <span class="c3"><i>'Not that I care about the other people, but
+his reaction might be interesting.'</i></span>
 
 <span class="c0">It was some time before the opportunity actually
 presented itself.</span>
@@ -2187,7 +2185,7 @@ deck.</span>
 return to the surface. Sync caught sight of Ion out of the corner of his
 eye as he faced down Luke and the others.</span>
 
-<span class="c6">'Hmph. You can't even fight!' </span><span
+<span class="c6"><i>'Hmph. You can't even fight!'</i> </span><span
 class="c0">He thought scornfully.</span>
 
 <span class="c0">Guy swung his sword down at him. Sync slipped past it
@@ -2196,7 +2194,7 @@ a moment's pause, he uses his Dragon Shot strike arte to engulf Jade,
 Tear, Natalia, and Anise, who were waiting in the rear, lifting them
 high above the deck and slamming them down below.</span>
 
-<span class="c6">'Haha, this is no big deal.' </span><span
+<span class="c6"><i>'Haha, this is a joke,'</i> </span><span
 class="c0">Sync thought as he struck out at Luke and Guy with Absolute's
 ice blades. A burning pain suddenly seared down his back as Luke circled
 behind him.</span>
@@ -2215,7 +2213,7 @@ slumped to his knees in disappointment.</span>
 <span class="c0">"It can't be... There are two Ions...!?"</span>
 
 <span class="c0">Hearing the voice of the Fon Master Guardian, Sync knew
-that the opportunity he had been waiting for had arrived---though,
+that the opportunity he had been waiting for had arrived—though,
 albeit by accident.</span>
 
 <span class="c0">Ion, who had been watching Sync from afar until then,
@@ -2224,24 +2222,24 @@ replica of the Fon Master."</span>
 
 <span class="c0">"Wait! What do you mean 'also'?!" Guy asked.</span>
 
-<span class="c0">"...I am Fon Master Ion's seventh replica---the final
+<span class="c0">"...I am Fon Master Ion's seventh replica—the final
 one."</span>
 
 <span class="c0">"You're a replica!?" Luke was stunned.</span>
 
-<span class="c6">'Luke, you're an easygoing guy who's never thought
-about replicas other than yourself.' </span><span class="c0">Sync
+<span class="c6"><i>'Luke, you're so carefree that you've never thought
+about replicas other than yourself.'</i> </span><span class="c0">Sync
 chuckled to himself through his harsh breaths.</span>
 
 <span class="c0">"I'm sorry Anise. It's only been about two years since
 I was born." Ion lowered his eyes and Anise looked taken aback.</span>
 
 <span class="c0">"Two years... That's when I became one of your
-Guardians... Wait...was Arietta reassigned because you had no memories
+Guardians... Wait... was Arietta reassigned because you had no memories
 of the past?"</span>
 
-<span class="c6">'Look, look, everyone looks so surprised. Serves you
-right,' </span><span class="c0">Sync thought while watching Ion's face.
+<span class="c6"><i>'Look, look, everyone looks so surprised. Serves you
+right,'</i> </span><span class="c0">Sync thought while watching Ion's face.
 However, if one looked at Sync's expression, they'd see nothing but
 pain.</span>
 
@@ -2255,22 +2253,22 @@ the words kept flowing out.</span>
 
 <span class="c0">"I'm nothing but trash, a replica that can't even be
 used as a substitute. A piece of garbage, and yet the only reason I'm
-alive is because Van wants to use me. In the end...only those of us who
+alive is because Van wants to use me. In the end... only those of us who
 are useful are kept alive out of pity."</span>
 
 <span class="c0">Sync pushed himself to his feet and started backing
 away from the group.</span>
 
-<span class="c3">'Yeah...and I might not even be allowed to control when
+<span class="c3"><i>'Yeah... and I might not even be allowed to control when
 I die. Van will keep me in this ridiculous life as long as he sees a use
-for me.'</span>
+for me.'</i></span>
 
 <span class="c0">With one final step, the deck disappeared under his
 feet. Sync fell and sank into the dark sea.</span>
 
 <span class="c5">\* \* \*</span>
 
-<span class="c0">"The future has many paths---" </span>
+<span class="c0">"The future has many paths—" </span>
 
 <span class="c0">Ion spoke those words for himself only.</span>
 
@@ -2282,9 +2280,9 @@ out and he would surely die. That didn't matter to him. Rather, his only
 regret was that he would not be able to save Tear, who had been affected
 by miasma.</span>
 
-<span class="c3">'I should have decided what I wanted to do with my life
+<span class="c3"><i>'I should have decided what I wanted to do with my life
 sooner. I had the means to save Tear, but I spent too long
-waiting...'</span>
+waiting...'</i></span>
 
 <span class="c0">As a replica, I should live indifferently and then die
 indifferently. That was what he thought his true purpose was until he
@@ -2316,10 +2314,10 @@ it wrong."</span>
 <span class="c0">He thought that he wouldn't care when he died. He was
 wrong.</span>
 
-<span class="c3">'I'm crying the same tears that Luke did...why didn't I
+<span class="c3"><i>'I'm crying the same tears that Luke did... why didn't I
 notice them? As long as I live in this world, I want to continue to live
 as proof that I am who I am. I'm sure Sync must have also shed countless
-tears...'</span>
+tears...'</i></span>
 
 <span class="c0">Ion bit his lip, recalling that from that moment on he
 had begun looking for a way to die. He wished he had realized earlier
@@ -2329,9 +2327,9 @@ deaths.</span>
 <span class="c0">Deep inside the Zaleho volcano, which had fallen into
 the Qliphoth, Mohs was waiting for him.</span>
 
-<span class="c3">'I already knew that Anise was being used by this man,
+<span class="c3"><i>'I already knew that Anise was being used by this man,
 but I could do nothing to help her. If I'd been more decisive, I could
-have saved her.'</span>
+have saved her.'</i></span>
 
 <span class="c0">In a cage in the corner of the Sephiroth, he could see
 her parents being held captive. But it was all too late.</span>
@@ -2341,8 +2339,8 @@ exasperated.</span>
 
 <span class="c0">Ion placed his hands on the huge fonstone.</span>
 
-<span class="c3">'I didn't want to use my Seventh Fonons for this.
-Please forgive me, Tear, everyone---'</span>
+<span class="c3"><i>'I didn't want to use my Seventh Fonons for this.
+Please forgive me, Tear, everyone—'</i></span>
 
 <span class="c0">He quietly recited the Score. It seemed like a long,
 long time passed. Eventually, as his consciousness began to fade away,
@@ -2352,7 +2350,7 @@ he heard phantom-like footsteps.</span>
 
 <span class="c0">Luke grabbed Ion by the shoulders and shook him.</span>
 
-<span class="c3">'Luke, everyone...you're here... I'm glad...'</span>
+<span class="c3"><i>'Luke, everyone... you're here... I'm glad...'</i></span>
 
 <span class="c0">Ion collapsed into Luke's arms. But he opened his eyes
 weakly and kept speaking.</span>
@@ -2365,13 +2363,13 @@ power..."</span>
 <span class="c0">"Ion! Stay with me! Don't die!"</span>
 
 <span class="c0">"Luke," Ion called out to his fellow replica. "That was
-my reading of the Score for you... A single path...among your many
+my reading of the Score for you... A single path... among your many
 possible futures..."</span>
 
 <span class="c0">Ion's voice was hoarse, but even still, he tried to
 appeal to him.</span>
 
-<span class="c0">"I know you don't depend on others...but this was the
+<span class="c0">"I know you don't depend on others... but this was the
 only way I could help you."</span>
 
 <span class="c0">"Shut up!" Luke's voice shook. "You've helped us out a
@@ -2384,16 +2382,16 @@ at me like that. There are plenty of replacements for me..."</span>
 me at all! You're the only Ion that went to the Cheagle Woods with
 me!"</span>
 
-<span class="c6">'Thank you,' </span>Ion's smile grew. <span
-class="c3">'Yes... I am the one and only me, and nobody else. So, I have
-a choice---'</span>
+<span class="c6"><i>'Thank you,'</i> </span>Ion's smile grew. <span
+class="c3"><i>'Yes... I am the one and only me, and nobody else. So, I have
+a choice—'</i></span>
 
 <span class="c0">"Tear, come closer..."</span>
 
 <span class="c0">Ion turned his head, and when he saw Tear, he held out
 his hand. Tear knelt down and took it.</span>
 
-<span class="c0">"I will...take the miasma from your body into my
+<span class="c0">"I will... take the miasma from your body into my
 own."</span>
 
 <span class="c0">Ion gently squeezed Tear's hand.</span>
@@ -2412,27 +2410,27 @@ fingers clasped Tear's hand, and their bodies began to glow. The
 purple-stained Seventh Fonon left Tear's body. It converged straight
 into Ion.</span>
 
-<span class="c0">"Don't you see...? This way...Tear is safe."</span>
+<span class="c0">"Don't you see...? This way... Tear is safe."</span>
 
 <span class="c0">His heart was filled with joy. Now he could see it
-clearly: the purpose for which he was born into this world---</span>
+clearly: the purpose for which he was born into this world—</span>
 
 It was not <span class="c6">only</span><span class="c0"> to be used as a
 replica of Fon Master Ion.</span>
 
-<span class="c3">'I am here now for this instant. This is the future I
+<span class="c3"><i>'I am here now for this instant. This is the future I
 have chosen for myself, a pure white future untainted by others'
-ambition. I am... happy...'</span>
+ambition. I am... happy...'</i></span>
 
 <span class="c0">At that moment, Anise approached with her arms hanging
 loosely. Ion noticed her and crinkled his eyes.</span>
 
-<span class="c0">"You don't have to watch over me...any
-more...Anise..."</span>
+<span class="c0">"You don't have to watch over me... any
+more... Anise..."</span>
 
-<span class="c3">'Anise, you and I both had...circumstances beyond our
-control...I didn't intend to deceive you. In fact, it was
-more...'</span>
+<span class="c3"><i>'Anise, you and I both had... circumstances beyond our
+control... I didn't intend to deceive you. In fact, it was
+more...'</i></span>
 
 <span class="c0">A tight sob escaped from Anise's throat. "I'm so sorry,
 Ion! I... I..."</span>
@@ -2441,8 +2439,8 @@ Ion! I... I..."</span>
 kindled the embers of his dying life for the only words he would ever
 utter truly as himself.</span>
 
-<span class="c0">"Thank you...for everything... My
-most...cherished..."</span>
+<span class="c0">"Thank you... for everything... My
+most... cherished..."</span>
 
 <span class="c0">Time stopped.</span>
 
@@ -2468,8 +2466,8 @@ pawn.</span>
 
 <span class="c0">Sync was forced to live once again.</span>
 
-<span class="c3">'Ion...I'm jealous of you. Even if you did die like a
-dog.'</span>
+<span class="c3"><i>'Ion... I'm jealous of you. Even if you did die like a
+dog.'</i></span>
 
 <span class="c0">As a traveling Scorer, Sync gave forbidden readings to
 people while extracting replica data from them. Eventually, the replica
@@ -2489,8 +2487,8 @@ his body, Sync was observing the situation with wary eyes.</span>
 <span class="c0">After Ion's death, Sync felt his hatred becoming more
 and more focused on Luke.</span>
 
-<span class="c3">'It seems that even Asch has recognized that degraded
-replica...but the world still doesn't recognize me.'</span>
+<span class="c3"><i>'It seems that even Asch has recognized that degraded
+replica... but the world still doesn't recognize me.'</i></span>
 
 <span class="c0">As if that wasn't enough, Mohs was forcing another Ion
 replica to read the Seventh Fonstone. He'd kept a leftover scrap from
@@ -2513,7 +2511,7 @@ Luke's incursion."</span>
 with keeping Lorelei under control before it could resume it's
 rampaging.</span>
 
-<span class="c3">'Enough... enough already! Van, I've had...'</span>
+<span class="c3"><i>'Enough... enough already! Van, I've had...'</i></span>
 
 <span class="c0">Sync bit his lip as hard as he could. The oozing blood
 spread bitterly through his mouth.</span>
@@ -2538,12 +2536,12 @@ a raging explosion.</span>
 were safe, protected as if they were wrapped in something
 invisible.</span>
 
-<span class="c0">"Hyperresonance...no, second-order hyperresonance?
+<span class="c0">"Hyperresonance... no, second-order hyperresonance?
 Impossible..." Jade groaned. Luke stared at his hands in
 surprise.</span>
 
 <span class="c0">"The moment I thought about Asch, something in me
-just... It was like when I destroyed Akzeriuth...but I think I can
+just... It was like when I destroyed Akzeriuth... but I think I can
 actually control it..."</span>
 
 <span class="c0">"A second-order hyperresonance. You've got to be
@@ -2556,10 +2554,10 @@ stood before them.</span>
 helping a project like this!?" Anise glared at Sync, her eyes seeming to
 pierce through his mask.</span>
 
-<span class="c0">"I'm not like him. Ion...the seventh Ion was a naive
+<span class="c0">"I'm not like him. Ion... the seventh Ion was a naive
 child." Sync smiled thinly. "I hate the Score. I detest it."</span>
 
-<span class="c0">"Because...you were thrown away?" Luke asked.</span>
+<span class="c0">"Because... you were thrown away?" Luke asked.</span>
 
 <span class="c0">"No, it's because I was born!" Sync immediately fired
 back.</span>
@@ -2577,7 +2575,7 @@ born?" Anise asked.</span>
 
 <span class="c0">"Not a thing." Another quick answer. Sync's lips curled
 up into a strange smile. "I'm empty. But it doesn't matter. I didn't
-care who it was, as long as they would erase the Score---the Seventh
+care who it was, as long as they would erase the Score—the Seventh
 Fonon!"</span>
 
 <span class="c0">Sync continued to speak. "Let's test it. You, or the
@@ -2586,7 +2584,7 @@ empty me. Let's see which side this world wants to survive!"</span>
 <span class="c0">Luke drew his sword, staring straight through his mask
 as Sync began chanting.</span>
 
-<span class="c6">'Is Sync trying to kill himself!?' </span><span
+<span class="c6"><i>'Is Sync trying to kill himself!?'</i> </span><span
 class="c0">Luke thought.</span>
 
 <span class="c0">Which one of them is the world trying to keep alive?
@@ -2597,11 +2595,11 @@ all, he had been struggling with the exact same thing with Asch.</span>
 Guy kicked off the floor. Within the flames of his Stone Dragon Ascent
 arte, Sync took the blade roughly to his small body.</span>
 
-<span class="c0">It was then that Sync turned his chest to Luke.</span>
+<span class="c0">Sync had turned his chest toward Luke's blade.</span>
 
-<span class="c3">'Sync...?'</span>
+<span class="c3"><i>'Sync...?'</i></span>
 
-<span class="c0">He'd heard that Sync had been born with a body far
+<span class="c0">Luke had heard that Sync had been born with a body far
 stronger than Ion's. And yet, wasn't this like Sync was just asking Luke
 to kill him?</span>
 
@@ -2614,12 +2612,12 @@ slender chest.</span>
 
 <span class="c0">Sync stumbled backward and his back slammed into the
 rubble of a pillar. His mask fell from his face.
-"...Van...destroy...Lorelei..."</span>
+"...Van... destroy... Lorelei..."</span>
 
 <span class="c0">The sound of footsteps was quickly becoming distant to
 Sync.</span>
 
-<span class="c6">'Luke and the others must have left,'</span><span
+<span class="c6"><i>'Luke and the others must have left,'</i></span><span
 class="c0"> Sync thought absently.</span>
 
 <span class="c0">Blood spurted from his gutted chest, spreading across
@@ -2632,34 +2630,34 @@ light.</span>
 
 <span class="c0">Sync laughed involuntarily.</span>
 
-<span class="c6">'Finally...finally, I can die,' </span>He thought.<span
-class="c3"> 'Looking back, ever since that day when I climbed that hot
-slope, I've done nothing but dance on Van's strings.'</span>
+<span class="c6"><i>'Finally... finally, I can die,'</i> </span>He thought.<span
+class="c3"> <i>'Looking back, ever since that day when I climbed that hot
+slope, I've done nothing but dance on Van's strings.'</i></span>
 
 <span class="c0">Sync would welcome Lorelei's disappearance, but what
 was the point?</span>
 
-<span class="c3">'It has nothing to do with me...it doesn't matter
-anymore...'</span>
+<span class="c3"><i>'It has nothing to do with me... it doesn't matter
+anymore...'</i></span>
 
 <span class="c0">From the elbow down, Sync's body was
 disappearing.</span>
 
-<span class="c3">'Disappear, all of this damned body... How appropriate
-for me.'</span>
+<span class="c3"><i>'Disappear, all of this damned body... How appropriate
+for me.'</i></span>
 
 <span class="c0">Sync felt happy from the bottom of his heart. That man
 would never know how much Sync had wanted to die.</span>
 
-<span class="c3">'Everything will disappear... Doesn't that fit me, Van?
+<span class="c3"><i>'Everything will disappear... Doesn't that fit me, Van?
 I'm grateful that you gave me a chance to take revenge on the world,
-but...but I don't care about what's going to happen next anymore. I have
+but... but I don't care about what's going to happen next anymore. I have
 finally won in this instant. Me, who had only kept losing until
-now...'</span>
+now...'</i></span>
 
 <span class="c0">Sync's arms were already gone.</span>
 
-<span class="c0">"Now...finally, I can...relax..."</span>
+<span class="c0">"Now... finally, I can... rest..."</span>
 
 <span class="c0">He let out his final breath.</span>
 
@@ -2697,7 +2695,7 @@ quickly sat up upon hearing her voice.</span>
 <span class="c0">She took the replica's hand and beamed with joy at
 seeing him again. His eyes were sparkling.</span>
 
-<span class="c6">'He has the same face as Ion...' </span><span
+<span class="c6"><i>'He has the same face as Ion...'</i> </span><span
 class="c0">Anise quickly chided herself as soon as the thought formed.
 Florian didn't know anything about the original Ion, the other replicas,
 the war, or the Score.</span>
@@ -2712,8 +2710,8 @@ chirped.</span>
 
 <span class="c0">Her laugh made Florian smile.</span>
 
-<span class="c6">'I wonder why... When I am called by my name, I feel
-like I become myself.' </span><span class="c0">Florian put his hand on
+<span class="c6"><i>'I wonder why... When I am called by my name, I feel
+like I become myself.'</i> </span><span class="c0">Florian put his hand on
 his chest. The warmth he felt showed him he was alive, here. The version
 of him without a name was gone forever.</span>
 
@@ -2723,6 +2721,6 @@ head.</span>
 <span class="c3">"I'm Florian!"</span>
 
 <span class="c7 c12">\~THE END\~</span>
----------------------------------------
+—————————————
 
 <span class="c9"></span>
