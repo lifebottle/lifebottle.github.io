@@ -92,7 +92,7 @@ poor boy had no shoes and his feet were swollen and red.</span>
 
 <span class="c0">"Is it okay if we take this kid to Daath?"</span>
 
-<span class="c0">The Replica shrank down as everyone's eyes turned to him.</span>
+<span class="c0">The replica shrank down as everyone's eyes turned to him.</span>
 
 <span class="c0">"Good idea. Okay, let's get him to Daath." Luke was the
 first to agree.</span>
@@ -254,7 +254,7 @@ and fell down.</span>
 <span class="c0">"Hey, are you all right?" Ahmed rushed to hold the boy
 in his arms, but his vacant eyes were sightless.</span>
 
-<span class="c0">"...I'm okay... I'm okay... I..."</span>
+<span class="c0">"...All right... I'm all... I..." the replica repeated.</span>
 
 <span class="c0">"That's enough." Mohs jerked his chin towards a corner.
 "Put those three over there."</span>
