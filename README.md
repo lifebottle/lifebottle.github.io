@@ -59,7 +59,7 @@ For a modern experience, check out these patches.
 
 | Release Date | Title | Patch | Instructions | Notes | Credits |
 | ------------ | ----- | ----- | ------------ | ----- | ------- |
-| 2021-09-27 | Tales of Symphonia | [Link](https://archive.org/details/trix-undub-pundub)/[Disk 1](https://github.com/JulianoW/Tales-of-Symphonia-NGC-Undub/releases/download/V2.0_BETA/Tales.of.Symphonia.Undub.Disc.1.xdelta3) and [Disk 2](https://github.com/JulianoW/Tales-of-Symphonia-NGC-Undub/releases/download/V2.0_BETA/Tales.of.Symphonia.Undub.Disc.2.xdelta3)| coming soon™ | Gamecube version. | `Julian` |
+| 2021-09-27 | Tales of Symphonia | [Link](https://archive.org/details/trix-undub-pundub)| coming soon™ | Gamecube version. | `Julian`, `Trixarian` |
 | 2023-06-29 | Tales of Eternia |  [Discord link](https://discord.com/channels/818214215365427320/845677992575238224/1123981617971605514)/[Mostly Undub](https://drive.google.com/file/d/1hAqsTuF11WYhGV9AIbeDI03DpxLFh2-J/view?usp=drive_link)| Meant to be applied to the first track disc of each of the three game discs' bin files. | PSX version. | `Trixarian` |
 | 2023-07-26 | Tales of Legendia | [Github](https://github.com/lifebottle/Tales-of-Legendia-Undub/releases/tag/Release/latest)/[ReUndub](https://github.com/lifebottle/Tales-of-Legendia-Undub/releases/download/Release/ToL-ReUndub-1.4.zip) or [PunDub](https://github.com/lifebottle/Tales-of-Legendia-Undub/releases/download/Release/ToL-PunDub-1.3.zip) | Cool | PS2 version. | `Julian`, `Trixarian`, `Ethanol` |
 | 2024-05-21 | Tales of the Abyss 3DS | [Latest](https://archive.org/details/tales_of_the_abyss_3ds_undub_patch) | coming soon™ | 3DS | `Trixarian`, `Swosho` |
