@@ -817,7 +817,7 @@ You will be presented with a choice when Stahn speaks to the Chief's Daughter in
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.38 Departure from the village of Lieane    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Portrait Option    |
 
-This old man used to be linked to a defunct website where you could enter passwords to unlock in-game rewards. However, much like any other site from the early 2000’s, it was dead by the time the Director’s Cut version of the game was released. He now unlocks the alternate portrait option in the Customize menu.
+Heading west of Linea you can find a remote small building with an old man inside, this old man used to be linked to a defunct website where you could enter passwords to unlock in-game rewards. However, much like any other site from the early 2000’s, it was dead by the time the Director’s Cut version of the game was released. He now unlocks the alternate portrait option in the Customize menu.
 
 
 
