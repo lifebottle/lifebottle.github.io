@@ -38,8 +38,6 @@ sudo apt install xdelta3
 
 ### Applying xDelta3 Patch (Linux)
 
-[![Alt text](https://img.youtube.com/vi/bODynsUS8cg/0.jpg)](https://www.youtube.com/watch?v=bODynsUS8cg)
-
 ```bash
 xdelta3 -d -s original.iso patch.xdelta patched.iso
 ```
@@ -47,8 +45,6 @@ xdelta3 -d -s original.iso patch.xdelta patched.iso
 The `-d` is to decompress, `-s` is the source.
 
 ### Creating xDelta3 Patch (Linux)
-
-[![Alt text](https://img.youtube.com/vi/SD7f5UPbQTU/0.jpg)](https://www.youtube.com/watch?v=SD7f5UPbQTU)
 
 ```bash
 xdelta3 -e -s original.iso patched.iso patch.xdelta
@@ -69,7 +65,14 @@ python3 xdelta3ui.py
 ![](https://raw.githubusercontent.com/pnvnd/python-xdelta3ui/main/xdelta3ui_03.png)
 
 ## Android
-Use online patching service.
+Use [UniPatcher](https://github.com/btimofeev/UniPatcher/releases) on Android to patch.
+
+1. Install UniPatcher from the Play Store, download the required file and prefered `xdelta` file
+2. Start UniPatcher, tap the Patch file box and select the `xdelta` file
+3. Tap the "Rom" file box and select the file you want to patch
+4. Tap the "Output" file box and just tap save on the name it gives you (it should be `<Your_File> [patched].iso` by default)
+5. Tap the red save icon at the bottom right. A "Patching complete" message should popup if it worked
+6. Now use the patched file
 
 ## iOS
 Use online patching service.
