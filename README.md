@@ -27,7 +27,7 @@ For a modern experience, check out these patches.
 
 | Release Date | Title | Patch | Instructions | Notes |
 | ------------ | ----- | ----- | ------------ | ----- |
-| 2023-12-11 | Tales of Destiny: Director's Cut | [Latest](https://github.com/lifebottle/Tales-of-Destiny-DC/releases/latest) | [Video](https://www.youtube.com/watch?v=Kx5pPlKWjQE) or [Site](https://www.lifebottle.org/#/./other/xdelta3/index) | Credits and a few other small things still need completing. |
+| 2023-12-11 | Tales of Destiny: Director's Cut | [Latest](https://github.com/lifebottle/Tales-of-Destiny-DC/releases/latest) | [Video](https://youtu.be/-DBybx7hg5w) or [Site](https://www.lifebottle.org/#/./other/xdelta3/index) | Credits and a few other small things still need completing. |
 | 2021-07-02 | Tales of Destiny 2 | [Latest](https://github.com/lifebottle/Tales-of-Destiny-2/releases/latest) | [Video](https://www.youtube.com/watch?v=Kx5pPlKWjQE) or [Site](https://www.lifebottle.org/#/./other/xdelta3/index) | On Hiatus. Please refer to [Lumina Tales](https://luminatales.net/) for full translation. |
 | 2023-01-22 | Tales of Innocence R | [Latest](https://github.com/lifebottle/Tales-of-Innocence-R/releases/latest) | [Discord]([https://discord.com/channels/818214215365427320/857033352137539625/1249491884779372617](https://discord.com/channels/818214215365427320/857033352137539625/1249491884779372617)) | v0.1.14 |
 | 2023-12-25 | Tales of Hearts R - Infinite Evolve | [Latest](https://github.com/lifebottle/Tales-of-Hearts-R-Infinite-Evolve/releases/latest) | Check Readme or [Video](https://youtu.be/m0r3hTE7fZs?si=qGwIAbw_h0Mxzj-5)| JP original audio and English dub |
