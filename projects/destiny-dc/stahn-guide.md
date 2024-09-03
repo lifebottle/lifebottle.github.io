@@ -2276,7 +2276,7 @@ After completing [**Soldier's Advance 2**](https://lifebottle.github.io/#/./proj
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Avitus Draconis acquired ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's title [Invisible Hand]    |
 
-Set Stahn's title to **Kind Liar** prior to speaking with the clerk at the Darilsheid branch of the Oberon Corp. Depending on which dialogue option you choose, the lens exchange rate will change. If you select the option "The rumors are true, but please calm down." the exchange rate will not change. However, if you select the option referencing the delay in the arrival of the Oberon transport, the exchange rate for lens will increase.
+Set Stahn's title to **Gentle Liar** prior to speaking with the clerk at the Darilsheid branch of the Oberon Corp. Depending on which dialogue option you choose, the lens exchange rate will change. If you select the option "The rumors are true, but please calm down." the exchange rate will not change. However, if you select the option referencing the delay in the arrival of the Oberon transport, the exchange rate for lens will increase.
 
 
 
