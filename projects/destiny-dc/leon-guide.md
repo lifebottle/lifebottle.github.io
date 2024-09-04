@@ -301,7 +301,7 @@ To trigger this event, speak with a young boy with green hair near a large pool 
 
 
 ![](leon-guide/sub016_1.png)  
-▲ Toshu doesn't suspect the Dark Wings real identity. The second event will reveal what happened after that [Side-Quest 075](projects/destiny-dc/stahn-guide?id=Side-Quest-075-Yearning-to-join-the-Dark-Wings-2).
+▲ Toshu doesn't suspect the Dark Wings real identity. The second event will reveal what happened after that.
 
 ---
 
@@ -314,7 +314,7 @@ To trigger this event, speak with a young boy with green hair near a large pool 
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.16 Arriving in Calviola ~ No.19 Before arriving at Neustadt    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-This event occurs when speaking with Elena, who is in a house to the left of the Oberon Corportation building in Valviola. She asks the party to assis her in finding her father, who is half Calviolan and half Seingegaldian. If you do not complete (trigger?) this Side-Quest, the second part, [Calviola's Elena 2], WILL NOT occur. 
+This event occurs when speaking with Elena, who is in a house to the left of the Oberon Corportation building in Calviola. She asks the party to assist her in finding her father, who is half Calviolan and half Seingaldian. If you do not complete (trigger?) this Side-Quest, the second part, [Calviola's Elena 2], WILL NOT occur. 
 
 
 
@@ -350,7 +350,7 @@ This even occurs if you try to leave Calviola through the northern exit with len
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.18 Calviola Temple Cleared ~ No.19 Before arriving at Neustadt    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-Visit the square close to where the Baruk Foundation(?) is located in Cherik to encounter the Black Wings. Approaching them causes an event to occur where they claim they are heros to the people of the city. However, they are ignored and are offered no fanfare. No matter what they try, they cannot grab the attention of anyone and are not taken seriously. 
+Visit the square close to where the Baruk Foundation is located in Cherik to encounter the Black Wings. Approaching them causes an event to occur where they claim they are heros to the people of the city. However, they are ignored and are offered no fanfare. No matter what they try, they cannot grab the attention of anyone and are not taken seriously. 
 
 
 
@@ -473,8 +473,8 @@ Make sure to be checking the maximum number of hits displayed when you review th
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Around Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | None    |
-| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.20 Arriving at Ilene's house~No.14 Arriving at the Softy Kreem stand    |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Leon's title [Roaming Knight]    |
 
 
 
@@ -485,20 +485,20 @@ Make sure to be checking the maximum number of hits displayed when you review th
 
 ---
 
-## Side-Quest #027  - Meeting the Wonder Baker
+## Side-Quest #027 - Meeting the Wonder Baker
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)    ![](https://img.shields.io/badge/-Leon's%20Side%20Exclusive-informational?style=for-the-badge&color=blue)
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.20 Arriving at Ilene's house~No.14 Arriving at the Softy Kreem stand    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
 Occurs when you talk to Lienea's food shop during the period. You will see a funny exchange between Leon, who thinks it's an ice cream shop, and the Wonder Baker.
 
 
 
-![](leon-guide/sub027 _1.png)  
+![](leon-guide/sub027_1.png)  
 
 
 ---
@@ -534,7 +534,7 @@ After you have cleared the pirate ship, speak with the sailor to the north (?) o
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.22 Pirate Ship Cleared ~ No.22 Arriving in Shiden Territory    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-This event takes place when you enter the hospital(?) on the left side of the arena. Here you will encounter the Dark Wings yet again. Taking advantage of Kongman's absence, they claim to be the champions of the arena. While there is no reward for this event, seeing them panic when Kongman arrives with Stahn and the others is quite amusing. 
+This event takes place when you enter the hospital on the left side of the arena. Here you will encounter the Dark Wings yet again. Taking advantage of Kongman's absence, they claim to be the champions of the arena. While there is no reward for this event, seeing them panic when Kongman arrives with Stahn and the others is quite amusing. 
 
 
 
@@ -611,7 +611,7 @@ The Dark Wings are back again. This time, they appear in front of the Shiden Fam
 
 
 ![](leon-guide/sub033_1.png)  
-
+▲ Lot of people haven't seen this event since it requires you to backtrack all the way to Shiden after arriving in Moreau. If you clear Moreau castle you'll miss it. The same is true for the next Side-Quest.
 
 ---
 
@@ -629,7 +629,7 @@ This event occurs when you go to the bridge at Shiden Port. Johnny is defending 
 
 
 ![](leon-guide/sub034_1.png)  
-
+▲ When Johnny told them about his ancestors, it made them realize how futile their quarrel his.
 
 ---
 
@@ -647,7 +647,7 @@ After clearing Moreau Castle, take a small boat to Johnny's hideout. You will se
 
 
 ![](leon-guide/sub035_1.png)  
-
+▲ After seeing this event, you can get a [Meteorite](projects/destiny-dc/items/item?id=item-meteorite) by examining the samurai armor on the wall.
 
 ---
 
@@ -665,7 +665,7 @@ This event is triggered when you speak with the man on the roof of the undergrou
 
 
 ![](leon-guide/sub036_1.png)  
-
+▲ If you choose the option above during the conversation, you can get Johnny's title [Shiden's Youngest]
 
 ---
 
@@ -683,7 +683,7 @@ Speaking with Arthur Shiden while Johnny has [Shiden's Youngest] title to trigge
 
 
 ![](leon-guide/sub037_1.png)  
-
+▲ He was ousted from his position as lord after the theft of the treasured sword.
 
 ---
 
@@ -701,7 +701,7 @@ Approach the Dark Wings in Frostheim to see additional antics. They claim to be 
 
 
 ![](leon-guide/sub038_1.png)  
-
+▲ The three of them are completely enticed by Alba's story and head for the roof to remove the snow with renewed enthusiasm.
 
 ---
 
@@ -719,7 +719,7 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 
 ![](leon-guide/sub039_1.png)  
-
+▲ The event end without Leon being able to clear the "misunderstanding."
 
 ---
 
@@ -732,12 +732,12 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.31 Woodrow & Chelsea joins ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Chelsea's title [Cursed Beauty]    |
 
-
+This event takes place in the house to the left of the ??? shop found in Frostheim. When offered a choice, choose "Hey, he's kinda cute!" A misunderstanding with the young man leads to quite the conversation between him and Chelsea. 
 
 
 
 ![](leon-guide/sub040_1.png)  
-
+▲ The title obtained here is necessary to trigger "Princess Rhianna" [Side-Quest #082](projects/destiny-dc/stahn-guide?id=Side-Quest-082-Princess-Rhianna) 
 
 ---
 
@@ -750,12 +750,12 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.33 Marie's memories returned    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Woodrow's title [Isaac's Son]    |
 
-
+Talk to the boy near the food store in Cyril to trigger this event. When presented with a choice, choose "Is something wrong, boy?" The boy recognizes Woodrow as the King Isaac's son. Surprised by Woodrows honesty about who he is, the boy realizes just how cool Woodrow really is.
 
 
 
 ![](leon-guide/sub041_1.png)  
-
+▲ The title obtained here is necessary to trigger "Popularity Battle" [Side-Quest #065](projects/destiny-dc/stahn-guide?id=Side-Quest-065-Popularity-Battle) 
 
 ---
 
@@ -768,12 +768,12 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.33 Marie's memories returned    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Mary's title [Former Soldier]    |
 
-
+After Mary's memory is restored, talk to the man shoveling snow in Cyril. When presented with a choice, choose "You seem familiar..." The man will share he knew Mary when he was a simple mercenary. 
 
 
 
 ![](leon-guide/sub042_1.png)  
-
+▲ He tells a few stories about Mary when they were in the army.
 
 ---
 
@@ -783,15 +783,15 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Janos   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.33 Marie's memories returned No.36 Before Greybum's Battle    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.33 Marie's memories returned ~ No.36 Before Greybum's Battle    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Rutee's blast caliber [Infernal Suffering]    |
 
-
+This sub event is triggered by speaking with the Janos gate guard during the period mentioed above while Leon is a member of your party. He knew Leon's mother, Chris, and recalls stories of her childhood. This will grant you the blast caliber Infernal Suffering. If you already know this blast caliber, you receive nothing. 
 
 
 
 ![](leon-guide/sub043_1.png)  
-
+▲ This event is short lived so it's better to do it before Mary's memory has returned.
 
 ---
 
@@ -1002,12 +1002,12 @@ Speaking to a woman near the entrance of Frostheim triggers this event. If you i
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.04 Arriving in Janos ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
 
-
+In this errand event, you will receive a grade based on delivering a predetermined number of items to various traders around the world. Half of the reward is paid as a start-up fee when the work is undertaken with the first merchant, and the remaining amount is paid by the merchant to whom you are making a delivery to. After the second part of the game begins, if you cmoplete this question at least once, you will receiving one of the following titles. 
 
 excel table
 
 ![](leon-guide/sub055_1.png)  
-
+▲ If you abandon a job you have accepted, you will have to pay a Gald penalty.
 
 ---
 
@@ -1020,7 +1020,7 @@ excel table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.20 Arriving in Neustadt ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
 
-
+You can race the young boy in the fountain square of Nuestadt by speaking to him. The first race (from the arrival at No.20 arrival at Neustadt) is a piece of cake as long as you don't deviate from the race course. However, the second race (available after No.61 Reynolds' return) is much harder as getting caught by any of the obsticals will have the boy easily overtake you. Itis important to run with a good grasp on both the racecourse and the behavior /  movements of people who may pass by. The rewards will be different on subsequent victories, as shown below. 
 
 excel table
 
@@ -1038,7 +1038,7 @@ excel table
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After arriving in each locations ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | See Below    |
 
-
+This mini-game consists of kicking stones on the overworld to a predetermined location. The game can be played in all regions except Phadaria. Completing this mini-game increases the lens exchange rate for that region of the world. Converting your lens **after** successfully winning the mini-game in a region will increase your gald returns significantly. An overview of Rock Rally play in eah region is below. While you can begin kicking the rock in Seinegald, it provides no reward until you can kick it to Armeida Villiage.
 
 
 
