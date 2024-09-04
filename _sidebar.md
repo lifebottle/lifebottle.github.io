@@ -30,6 +30,7 @@
   * [Tales of Hearts IE](./projects/hearts-ie/index)
   * [Tales of Hearts](./projects/hearts-ds/index)
   * [Tales of Rebirth](./projects/rebirth/index)
+    - [Side-Quest Guide](./projects/rebirth/rebirth-guide.md)
   * [Narikiri Dungeon X](./projects/ndx/index)
     - [Side-Quest Guide](./projects/ndx/ndx-guide.md)
   * [Radiant Mythology 2](./projects/rm2/index)
