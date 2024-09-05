@@ -6,10 +6,10 @@
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Weapon Shop in Sulz, etc. |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | Part 1: Claire's kidnapping ~ Defeat of Saleh and Tohma at Callegea Castle (first time) |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | Part 2: Claire joins you at Keketto Hostel ~ until you visit Scarabe's house in Belsas |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | Part 3: First arrival at Shaorune's Azure Sanctuary ~ to mediation between Huma and Gajuma in Minal |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | Part 4: During Aunt Poplar's peach pie party |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | ❶ Claire's kidnapping ~ Defeat of Saleh and Tohma at Callegea Castle (first time) |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | ❷ Claire joins you at Keketto Hostel ~ until you visit Scarabe's house in Belsas |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | ❸ First arrival at Shaorune's Azure Sanctuary ~ to mediation between Huma and Gajuma in Minal |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | ❹ During Aunt Poplar's peach pie party |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Sword [Volsung], Title [Oblivious Matchmaker]    |
 
 This event brings Veigue's neighbors, Monica and Steve, together, and if you make it to the end, you will receive the weapon [Volsung] for Veigue. This is a sub-event that can easily be missed, so be careful when it the different parts unlocks. The most problematic is the timing of the second and third visits to the Weapon shop. The second visit requires Claire (with Agathe inside), and the third visit requires Agathe (with Claire inside). In the third case, if Veigue goes out of control, Claire will leave the party, so you must go to Sulz before she does so. 
@@ -19,14 +19,14 @@ This event brings Veigue's neighbors, Monica and Steve, together, and if you mak
 
 
 | ![](https://img.shields.io/badge/-Part-informational?style=for-the-badge&color=lightgray) | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | ![](https://img.shields.io/badge/-Action-informational?style=for-the-badge&color=lightgray) |
-| --------------------------------------------------------------------------------------- | ------------------ | ------------------ |
-| Part 1 | Claire's kidnapping ~ Defeat of Saleh and Tohma at Callegea Castle (first time) | Talk to Steve, the clerk at the Weapon Shop |
-| Part 1 | Claire's kidnapping ~ Defeat of Saleh and Tohma at Callegea Castle (first time) | Talk to Monica in front of the Meeting House |
-| Part 2 | Claire joins you at Keketto Hostel ~ until you visit Scarabe's house in Belsas (Phases 26-43) | Talk to Steve at the Weapon Shop |
-| Part 2 | Claire joins you at Keketto Hostel ~ until you visit Scarabe's house in Belsas (Phases 26-43) | Talk to Monica in front of the Meeting House |
-| Part 3 | First arrival at Shaorune's Azure Sanctuary ~ to mediation between Huma and Gajuma in Minal (Phases 44~51) | Talk to Steve at the Weapon Shop |
-| Part 3 | First arrival at Shaorune's Azure Sanctuary ~ to mediation between Huma and Gajuma in Minal (Phases 44~51) | Talk to Monica in front of the Meeting House |
-| Part 4 | During Aunt Poplar's peach pie party (Phase 53) | Talk to Steve or Monica during the party at Meeting House. |
+| :---------------------------------------------------------------------------------------: | ------------------ | ------------------ |
+| ❶  | Claire's kidnapping ~ Defeat of Saleh and Tohma at Callegea Castle (first time) | Talk to Steve, the clerk at the Weapon Shop |
+| ❶  | Claire's kidnapping ~ Defeat of Saleh and Tohma at Callegea Castle (first time) | Talk to Monica in front of the Meeting House |
+| ❷ | Claire joins you at Keketto Hostel ~ until you visit Scarabe's house in Belsas (Phases 26-43) | Talk to Steve at the Weapon Shop |
+| ❷ | Claire joins you at Keketto Hostel ~ until you visit Scarabe's house in Belsas (Phases 26-43) | Talk to Monica in front of the Meeting House |
+| ❸ | First arrival at Shaorune's Azure Sanctuary ~ to mediation between Huma and Gajuma in Minal (Phases 44~51) | Talk to Steve at the Weapon Shop |
+| ❸ | First arrival at Shaorune's Azure Sanctuary ~ to mediation between Huma and Gajuma in Minal (Phases 44~51) | Talk to Monica in front of the Meeting House |
+| ❹ | During Aunt Poplar's peach pie party (Phase 53) | Talk to Steve or Monica during the party at Meeting House. |
 
 ![](rebirth_guide/sub001_2.png)  
 ▲ If the side-quest is done successful, Steve will give you the weapon [Volsung] during the peach pie party.
