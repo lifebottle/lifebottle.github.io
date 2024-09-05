@@ -2,7 +2,7 @@
 
 ## Side-Quest #001 - Monica and Steve
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red)   
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Weapon Shop in Sulz, etc. |
 | :--------------------------------------------------------------------------------------- | :------------------ |
@@ -35,6 +35,8 @@ This event brings Veigue's neighbors, Monica and Steve, together, and if you mak
 
 ## Side-Quest #002 - Completionist
 
+![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
+
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Minal Gymnasium |
 | :--------------------------------------------------------------------------------------- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | First time in Minal ~ |
@@ -66,6 +68,8 @@ The “Ex-Warrior” NPC in the Minal's gymnasium will give you items according 
 ---
 
 ## Side-Quest #003 - Mobile Library
+
+![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 ---
 
@@ -125,7 +129,7 @@ This event, which takes place in Karez, reveals a secret concerning Militsa's ba
 
 ## Side-Quest #009 - The Stele in Mesechina Caverns
 
-![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
+![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
 ---
 
