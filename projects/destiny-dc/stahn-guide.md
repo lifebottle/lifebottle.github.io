@@ -943,9 +943,21 @@ Speak to the young woman on the second floor of the Heidelberg inn to trigger th
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Woodrow's title [Doppelganger], Items see below    |
 
-In this multi-part sub quest, Woodrow is mistaken for someone else by people all over the world. You can trigger this event by speaking with a traveler at the tavern in Janos. There are people scattered all over the world as shown in the table below. Speaking to them will get you more information. The three most important locations are in Janos, Darilsheid, and Neustdat. After speaking with these three, a portait of "Woodrow" will appear in the halls of Heidelberg Castle.  It may help reveal who he is being mistaken for. You can recceive the title of "Doppelganger" when you speak to everyone listed in the table. 
+In this multi-part sub quest, Woodrow is mistaken for someone else by people all over the world. You can trigger this event by speaking with a traveler at the tavern in Janos. There are people scattered all over the world as shown in the table below. Speaking to them will get you more information. The three most important locations are in Janos, Darilsheid, and Neustadt. After speaking with these three, a portait of "Woodrow" will appear in the halls of Heidelberg Castle.  It may help reveal who he is being mistaken for. You can receive the title of "Doppelganger" when you speak to everyone listed in the table.
 
-excel table
+
+|![](https://img.shields.io/badge/-Town-informational?style=for-the-badge&color=lightgrey)|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgrey)|![](https://img.shields.io/badge/-Npc%20Name-informational?style=for-the-badge&color=lightgrey)|
+|-----|-----|-----|
+| Harmentz | Second screen facing the river |Boy with white bandana|
+| Harmentz | Inside green roof house at the second area | Woman |
+| Darilsheid | Inside house at far left screen (where two shops are) | Man |
+| Darilsheid | Second area going up | Blue haired female Oberon employee |
+| Armeida | Front of equipment shop | Pink dressed little girl |
+| Armeida | Left house on the second area | Pink dressed girl |
+| Neustadt | At the arena entrance | Black haired man with sunglasses |
+| Neustadt | In front of the inn | Blonde ponytail girl |
+| Cresta | Front entrance | Brown haired girl |
+| Cresta | Left of equipment shop | Guy |
 
 ![](stahn-guide/sub051_1.png)  
 ▲ Woodrow need to be the onscreen character to trigger each scenes.
