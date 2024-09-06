@@ -473,15 +473,15 @@ Make sure to be checking the maximum number of hits displayed when you review th
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Around Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.20 Arriving at Ilene's house~No.14 Arriving at the Softy Kreem stand    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.14 Arriving at Ilene's house~No.14 Arriving at the Softy Kreem stand    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Leon's title [Roaming Knight]    |
 
-
+An event you can only check out during the short time Leon is alone. Head north from Neustadt to the forest very close to Linea. There, you will encounter Lilith in battle. If you manage to defeat her (Good luck!), she will temporarily join your party in search of the so called "Legendary Carrot." You'll find this carrot in chest number 21 (→P009). Be ready, because once you take it, Fluffy will attack! You cannot run from this battle. Defeat Fluffy, and then return to Linea to complete this event. Clearing this event will make Lilith available for use in the Arcana Ruins EX Dungeon.
 
 
 
 ![](leon-guide/sub026_1.png)  
-
+▲If you want to abandon your search, return to Neustadt and select "Give it up." ▲Lilith and Fluffy are both powerful foes. It's recommended to have Leon at at least level 35 before taking them on.
 
 ---
 
@@ -491,7 +491,7 @@ Make sure to be checking the maximum number of hits displayed when you review th
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.20 Arriving at Ilene's house~No.14 Arriving at the Softy Kreem stand    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.14 Arriving at Ilene's house~No.14 Arriving at the Softy Kreem stand    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
 Occurs when you talk to Lienea's food shop during the period. You will see a funny exchange between Leon, who thinks it's an ice cream shop, and the Wonder Baker.
@@ -804,12 +804,12 @@ This sub event is triggered by speaking with the Janos gate guard during the per
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.33 Start of Part 2~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Leon's title [Sudden Visitor]    |
 
-
+This event occurs when you speak with Reynolds in his laboratory located at the left corner of Seingald Castle's courtyard. The moment Reynolds sees Leon has just happened to drop by, he gets excited and begs Leon to take part in his experiment. Leon is reluctantly roped into it...
 
 
 
 ![](leon-guide/sub044_1.png)  
-
+◆While it may look like poor Leon won't survive this dangerous experiment, all it does is give him the hiccups...
 
 ---
 
