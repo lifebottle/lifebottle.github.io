@@ -1623,9 +1623,9 @@ This series of events will not trigger uness you have seen the skit "The Pursuit
 
  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Radisrol (Aethersphere)   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea  |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.47 Zero-gravity elevator on Radistrol active |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
 This event is only viewable after completing the first in the series [**Jonathan the Sheep 1**](https://lifebottle.github.io/#/./projects/destiny-dc/stahn-guide?id=side-quest-089-jonathan-the-sheep-1). Speak with Thomas in Lienea to trigger the next event in the series where you will witness Stahn happily chasing sheep. This will unlock the thrid event in the series. 
