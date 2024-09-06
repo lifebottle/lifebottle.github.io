@@ -42,7 +42,7 @@ This event brings Veigue's neighbors, Monica and Steve, together, and if you mak
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | First time in Minal ~ |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Accessory [Demon Spirit] and others (see list) |
 
-The “Ex-Warrior” NPC in the Minal's gymnasium will give you items according to the number of enemies you catalogued in the Battle Book. The items he gives you, known as “XX Spirit,” are special gems that change Veigue's special skills. The “Earliest Period” in the table bellow indicates at what time you will receive the reward if you advance through the game (excluding enemies you fight in events) while keeping the completion of all enemies at 100.
+The “Ex-Warrior” NPC in the Minal's gymnasium will give you items according to the number of enemies you catalogued in the Battle Book. The items he gives you, known as “XX Spirit,” are special gems that change Veigue's special [skills](https://aselia.fandom.com/wiki/ToR_-_Veigue_Lungberg:_Force). The “Earliest Period” in the table bellow indicates at what time you will receive the reward if you advance through the game (excluding enemies you fight in events) while keeping the completion of all enemies at 100.
 
 ■ Items you get from the Completionist
 
