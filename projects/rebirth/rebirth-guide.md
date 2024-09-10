@@ -22,11 +22,11 @@ This event brings Veigue's neighbors, Monica and Steve, together, and if you mak
 | :---------------------------------------------------------------------------------------: | ------------------ | ------------------ |
 | ❶  | Claire's kidnapping ~ Defeat of Saleh and Tohma at Callegea Castle (first time) | Talk to Steve, the clerk at the Weapon Shop |
 | ❶  | Claire's kidnapping ~ Defeat of Saleh and Tohma at Callegea Castle (first time) | Talk to Monica in front of the Meeting House |
-| ❷ | Claire joins you at Keketto Hostel ~ until you visit Scarabe's house in Belsas (Phases 26-43) | Talk to Steve at the Weapon Shop |
-| ❷ | Claire joins you at Keketto Hostel ~ until you visit Scarabe's house in Belsas (Phases 26-43) | Talk to Monica in front of the Meeting House |
-| ❸ | First arrival at Shaorune's Azure Sanctuary ~ to mediation between Huma and Gajuma in Minal (Phases 44~51) | Talk to Steve at the Weapon Shop |
-| ❸ | First arrival at Shaorune's Azure Sanctuary ~ to mediation between Huma and Gajuma in Minal (Phases 44~51) | Talk to Monica in front of the Meeting House |
-| ❹ | During Aunt Poplar's peach pie party (Phase 53) | Talk to Steve or Monica during the party at Meeting House. |
+| ❷ | Claire joins you at Keketto Hostel ~ until you visit Scarabe's house in Belsas (Chapters 26-43) | Talk to Steve at the Weapon Shop |
+| ❷ | Claire joins you at Keketto Hostel ~ until you visit Scarabe's house in Belsas (Chapters 26-43) | Talk to Monica in front of the Meeting House |
+| ❸ | First arrival at Shaorune's Azure Sanctuary ~ to mediation between Huma and Gajuma in Minal (Chapters 44~51) | Talk to Steve at the Weapon Shop |
+| ❸ | First arrival at Shaorune's Azure Sanctuary ~ to mediation between Huma and Gajuma in Minal (Chapters 44~51) | Talk to Monica in front of the Meeting House |
+| ❹ | During Aunt Poplar's peach pie party (Chapter 53) | Talk to Steve or Monica during the party at Meeting House. |
 
 ![](rebirth_guide/sub001_2.png)  
 ▲ If the side-quest is done successful, Steve will give you the weapon [Volsung] during the peach pie party.
@@ -253,6 +253,16 @@ When you try to enter Callegea Castle, Walto passes by and a conversation event 
 
 ## Side-Quest #012 - Hilda's Fortune Telling
 
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Balka Harbor |
+| :---- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After the Trial of Sacred Beast Gilione (Chapter 47~) |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Hilda will be able to tell fortunes. |
+
+Once Hilda has the power of Sacred Beast Gilione, she should visit the fortune teller in Balka Harbor. Switching the lead to Hilda and talking to her will allow her to tell fortunes for her companions from then on. To have a fortune-telling session, simply use the [tarot cards] from the Key Item menu.
+
+![](rebirth_guide/sub012_1.png)  
+▲Hilda can read your fortune about love, health, and wealth. Of course, there is no limit to the number of sessions.
+
 ---
 
 ## Side-Quest #013 - New Weapons in Stock
@@ -334,9 +344,21 @@ If you visit Balka at the point where Yuris's Realm appears, Tytree will suggest
 
 ## Side-Quest #014 - Secret Diary
 
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Balka |
+| :---- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After defeating the phantoms of Mao and Eugene in the Yuris's Realm. (Chapter 56~) |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | You will be able to read the diaries of your party members. |  
+
+An event in which Yotza, who is in a bar in Balka, shows you her diary. Switch the lead to Annie, talk to Yotza, and select [Expensive Highly-Confidential Information] from the choices that appear. The price to see the diary is 50,000 Gald, but it should not be too much for a party of this age. The secret is Annie's diary, which contains a summary of the story from her point of view. Please keep in mind that even after paying, the diary can only be read with Annie at the top of the list. Incidentally, Annie's diary also offers a [Dilly Dallying Dossier] option. This is like someone else's diary, but it is treated very differently from Annie's diary, and anyone can read it for free.
+
 ---
 
 ## Side-Quest #015 - Weapon Upgrade Craze?
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Flame Holder |
+| :---- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After the Trial of Sacred Beast Fenia (Chapter 35~) |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Annie's Armor [Refleur], Hilda's Armor [Wedding Dress] |  
 
 ---
 
@@ -354,6 +376,16 @@ If you visit Balka at the point where Yuris's Realm appears, Tytree will suggest
 
 ## Side-Quest #019 - Gem Collector Lady
 
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Belsas Harbor |
+| :---- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After Claire's speech in Belsas. (Chapter 44~) |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Tytree Weapon [Distrange], Annie Weapon [Geryon] |  
+
+In Belsas Harbor, you will meet a lady who loves gems. When you talk to her, she will give you gems of your choice, but no matter what you give her, you can exchange it for Tytree's weapon [Distrange] the first time, and  Annie's weapon [Geryon] the second time.
+
+![](rebirth_guide/sub019_1.png)  
+▲The least valuable gems are automatically selected. Prepare inexpensive gems.
+
 ---
 
 ## Side-Quest #020 - Salvage
@@ -362,30 +394,81 @@ If you visit Balka at the point where Yuris's Realm appears, Tytree will suggest
 
 ## Side-Quest #021 - Sneak-peek Katz
 
----
-
-## Side-Quest #023 - Hidden Rabbitz
-
----
-
-## Side-Quest #024 - Movie Rabbitz
-
-  ![](https://img.shields.io/badge/-New%20Game+-informational?style=for-the-badge&color=blue)
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Rabbitz Village |
+| :---- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After the Trial of Sacred Beast Shaorune (Chapter 45~) |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | — |  
 
 ---
 
-## Side-Quest #025 - Game Over Katz
+## Side-Quest #022 - Hidden Rabbitz
 
-  ![](https://img.shields.io/badge/-New%20Game+-informational?style=for-the-badge&color=blue)
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Rabbitz Village |
+| :---- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After solving all the mini-games under "Sorting Game" with the Rabbitz. (Chapter 55~) |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Title [Rabbitz Hunter] and others |  
+
+When you finish the mini-game "Let's play with Rabbitz ," a hidden Rabbitz will appear behind the scarecrow. When you find him (her?), you can get the title [Rabbitz Hunter]. At the same time, Skits will be added to the "Reward" section.
+
+![](rebirth_guide/sub022_1.png)  
+▲You can also see a Skit recorded in the Tokyo Game Show 2004.
 
 ---
 
-## Side-Quest #026 - Reuniting with the Beauties
+## Side-Quest #023 - Movie Rabbitz
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Rabbitz Village |
+| :---- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After the Trial of Sacred Beast Shaorune (Chapter 45~) (New Game + Only) |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | — |  
+
+Once you complete the game, you can enjoy the New Game + content with the same save data. The only way to find this Rabbitz is to do another playthrought. This Rabbitz will show you all the FMV played in the game.
+
+![](rebirth_guide/sub023_1.png)  
+▲Here is the Movie Rabbitz. The image below should give you a good idea of where they are.
 
 ---
 
-## Side-Quest #027 - Special Recipes
+## Side-Quest #024 - Game Over Katz
+
+![](https://img.shields.io/badge/-New%20Game+-informational?style=for-the-badge&color=blue)
+  
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Katz House inside the Rabbitz Village |
+| :---- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After the Trial of Sacred Beast Shaorune (Chapter 45~) (New Game + Only) |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | — |  
+
+Like Movie Rabbitz, the Game Over Katz appears only on New Game +. Here, you can listen to the Game Over dialogue that changes as the story progresses. The voices of Mao, Eephon, Randgriz, and  Geyorkias are used for the dialogue.
+
+![](rebirth_guide/sub024_1.png)  
+▲The price is as low as one Lucky Cat. However, if you refuse, the Katz will give you a hard time.
 
 ---
 
-## Side-Quest #028 - Gourmand
+## Side-Quest #025 - Reuniting with the Beauties
+
+
+
+---
+
+## Side-Quest #026 - Special Recipes
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Farm Fresh Groceries |
+| :---- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | Continuous |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Recipes [Fried Chicken] [Veggie Salad] [Seafood Gratin] [Mabo Curry] |  
+
+When you give tickets to Farm Fresh Groceries, you can raise your Magical Pot's level. After the total level of your Magical Pot reaches a certain point, you can talk to the receptionist on the left side, who will give you a special recipes. There are four recipes: [Fried Chicken], [Veggie Salad], [Seafood Gratin], and [Mabo Curry]. Check the [World Map] to see where the treasure chests are located, and level up efficiently.
+
+---
+
+## Side-Quest #027 - Gourmand
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | All Over the World |
+| :---- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | Continuous |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Mao's Title [Gourmant] |  
+
+All players know that Mao's appetite for food plays an important role in learning recipes. Perhaps as a result of this, Mao learns the title of [Gourmant] when he learns all the new recipes. Although no events occur, the increase in [F. ATK +7] is one of the biggest changes from the title. 
+
+---
