@@ -249,6 +249,91 @@ When you try to enter Callegea Castle, Walto passes by and a conversation event 
 
 ![](https://img.shields.io/badge/-Missable-informational?style=for-the-badge&color=red) 
 
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Balka's Museum |
+| :---- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After the ascent of the Tower of Nereg ~ until the death of Wang Gin (Chapters 40~57) |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Title [Auction Pro] and others |
+
+The event starts when you talk to the curator at the museum in Balka. He will ask you to bid for a rare item to be displayed in the museum at an auction in Kyogen. The requested item will be chosen at random from a list of eight different items, so go to Kyogen and bid on it immediately. After winning the auction, you will receive a reward and will be asked if you would like to display the requested item. If you examine the items, you will get a title of the corresponding character (see the table below). In addition to the commissioned items, items shown in the table on the right may also be offered at the auction. Also, remember that the next auction will be held after you stay at an inn or leave the world map and come back.
+
+■Probability of each type of exhibits at the auction  
+
+| Status                               | Requested Exhibits | Normal Exhibits | Rarely Exhibited Items |
+| ------------------------------------ | ------------------ | --------------- | ---------------------- |
+| Received a requests from the Curator | 1/6                | 3/6             | 2/6                    |
+| No request active from the Curator   | 0                  | 3/5             | 2/5                    |
+
+■List of Requested Items and Titles Obtained  
+
+| Title Recipient | Item Acquired          | Title             | Suggested Price |
+| --------------- | ---------------------- | ----------------- | --------------- |
+| Veigue          | Sulz's Milk Can Stamp  | Thoughtful        | 10000           |
+| Mao             | Bush Baby Statue       | Lover of Cuteness | 25000           |
+| Eugene          | Callegean King's Armor | Loyal Subject     | 40000           |
+| Annie           | Abstract Painting      | Art Critic        | 15000           |
+| Tytree          | Gold Kitchenware       | Genuine Cook      | 30000           |
+| Hilda           | Cello                  | Cellist           | 47000           |
+| Clair           | Pipistan Fabric        | Plain Girl        | 8000            |
+| Agathe          | Gorgeous Dress         | Gorgeous Lady     | 50000           |
+
+■List of Ordinary Exhibited Items  
+
+| Exhibit      | Target Price | Exhibit Probability | Maximum number of bids |
+| ------------ | ------------ | ------------------- | ---------------------- |
+| Grape Gel    | 2250         | 1/11                | No Limit               |
+| Comeback Gel | 2400         | 1/11                | No Limit               |
+| Lime Gel     | 840          | 1/11                | No Limit               |
+| All Divide   | 6750         | 1/11                | No Limit               |
+| Hourglass    | 15000        | 1/11                | No Limit               |
+| Flare Powder | 4500         | 1/11                | No Limit               |
+| Aqua Powder  | 4500         | 1/11                | No Limit               |
+| Gale Powder  | 4500         | 1/11                | No Limit               |
+| Earth Powder | 4500         | 1/11                | No Limit               |
+| Light Powder | 4500         | 1/11                | No Limit               |
+| Dark Powder  | 4500         | 1/11                | No Limit               |
+
+■List of Rarely Exhibited Items  
+
+| Exhibit        | Target Price | Exhibit Probability | Maximum number of bids |
+| -------------- | ------------ | ------------------- | ---------------------- |
+| Sage           | 3000         | 20/451              | 3x                     |
+| Lavender       | 3000         | 20/451              | 3x                     |
+| Verbana        | 3000         | 20/451              | 3x                     |
+| Rosemary       | 3000         | 20/451              | 3x                     |
+| Saffron        | 3000         | 20/451              | 3x                     |
+| Camomile       | 3000         | 20/451              | 3x                     |
+| Savory         | 3000         | 20/451              | 3x                     |
+| Slash Ore      | 1500         | 25/451              | 5x                     |
+| Blow Ore       | 1500         | 25/451              | 5x                     |
+| Spirit Ore     | 1500         | 25/451              | 5x                     |
+| Regen Ore      | 1500         | 25/451              | 5x                     |
+| Awakening Ore  | 2550         | 15/451              | 3x                     |
+| Malkurioza     | 5850         | 30/451              | 3x                     |
+| Chris's Plate  | 4500         | 30/451              | 3x                     |
+| Nature Topaz   | 6300         | 35/451              | 2x                     |
+| Medical Topaz  | 5775         | 35/451              | 2x                     |
+| Mental Topaz   | 5685         | 35/451              | 2x                     |
+| Mystic Emerald | 10000        | 15/451              | 1x                     |
+| Life Diamond   | 75000        | 1/451               | 1x                     |
+| Golden Fork    | 30000        | 5/451               | 1x                     |
+| Dash Boots     | 15000        | 10/451              | 1x                     |
+
+■Auction Rules  
+At the Auction Hall, there are several other participants besides Veigue's party, and you are competing with them for the winning bid. During the auction, the bidding price can be changed by using the commands in the table below, and if no one else offers a bid after the bid is made, the bidder wins. If you want to bid on an item such as a commissioned item that the museum currator is asking you, you have no choice but to raise the price as long as the bidding period is open. On the other hand, if you do not want the item that much, choose "Give Up" as soon as possible. Note that participants are more likely to respond to "Test the Waters" and less likely to respond to "Jack Up the Price." Also, once the price exceeds the target price, they are less likely to challenge it further. When the price reaches 65~75% of the target price, “Jack Up the Price” will almost guarantee a successful bid.
+
+If the price don't go up fast enough, you can raise them yourself. However, be careful when you "Jack Up the Price."
+
+■Auction Commands  
+
+| Commands          | Effect                  |
+| ----------------- | ----------------------- |
+| Jack Up the Price | Increase the bid by 50% |
+| Test the Waters   | Increase the bid by 5%  |
+| Give Up           | End the Auction         |
+
+![](rebirth_guide/sub011_2.png)  
+▲If the price don't go up fast enough, you can raise them yourself. However, be careful when you "Jack Up the Price."
+
 ---
 
 ## Side-Quest #012 - Hilda's Fortune Telling
@@ -399,6 +484,10 @@ In Belsas Harbor, you will meet a lady who loves gems. When you talk to her, she
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After the Trial of Sacred Beast Shaorune (Chapter 45~) |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | — |  
 
+When you give 15 Lucky Cats to this Katz, he will show you a special weapon he has. However, the weapon is not logged in the collector's book. The only way to get the them and have the entry logged is to obtain them is through irregular inheritance.
+
+![](rebirth_guide/sub020_1.png)  
+▲The first time he shows you the [Shamisen], from the second time on, you can choose any of the other party members special weapon you would like to be showed next.
 ---
 
 ## Side-Quest #022 - Hidden Rabbitz
