@@ -417,6 +417,9 @@ When you finish the mini-game "Let's play with Rabbitz ," a hidden Rabbitz will 
 
 ## Side-Quest #023 - Movie Rabbitz
 
+![](https://img.shields.io/badge/-New%20Game+-informational?style=for-the-badge&color=blue)
+  
+
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Rabbitz Village |
 | :---- | :------------------ |
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After the Trial of Sacred Beast Shaorune (Chapter 45~) (New Game + Only) |
