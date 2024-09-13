@@ -42,7 +42,7 @@ For a modern experience, check out these patches.
 | 20XX-XX-XX | Tales of the Heros: Twin Brave | [Latest](https://github.com/lifebottle/Twin-Brave/releases/latest) | coming soon™ | Menu Patch, for PSP | 
 
 
-## HD Texture Patches
+## HD Texture Packs
 
 | Release Date | Title | Patch | Instructions | Notes | Credits |
 | ------------ | ----- | ----- | ---- | ----- | ------ |
