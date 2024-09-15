@@ -475,6 +475,9 @@ In Belsas Harbor, you will meet a lady who loves gems. When you talk to her, she
 
 ## Side-Quest #020 - Salvage
 
+![](rebirth_guide/sub020_1.png)  
+▲Placeholder image
+
 ---
 
 ## Side-Quest #021 - Sneak-peek Katz
@@ -486,7 +489,7 @@ In Belsas Harbor, you will meet a lady who loves gems. When you talk to her, she
 
 When you give 15 Lucky Cats to this Katz, he will show you a special weapon he has. However, the weapon is not logged in the collector's book. The only way to get the them and have the entry logged is to obtain them is through irregular inheritance.
 
-![](rebirth_guide/sub020_1.png)  
+![](rebirth_guide/sub021_1.png)  
 ▲The first time he shows you the [Shamisen], from the second time on, you can choose any of the other party members special weapon you would like to be showed next.
 ---
 
