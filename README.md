@@ -32,7 +32,7 @@ For a modern experience, check out these patches.
 | 2023-01-22 | Tales of Innocence R | [Latest](https://github.com/lifebottle/Tales-of-Innocence-R/releases/latest) | [Discord]([https://discord.com/channels/818214215365427320/857033352137539625/1249491884779372617](https://discord.com/channels/818214215365427320/857033352137539625/1249491884779372617)) | v0.1.14 |
 | 2023-12-25 | Tales of Hearts R - Infinite Evolve | [Latest](https://github.com/lifebottle/Tales-of-Hearts-R-Infinite-Evolve/releases/latest) | Check Readme or [Video](https://youtu.be/m0r3hTE7fZs?si=qGwIAbw_h0Mxzj-5)| JP original audio and English dub |
 | 2022-11-13 | Narikiri Dungeon X | [Latest](https://github.com/lifebottle/Narikiri-Dungeon-X/releases/latest) | coming soon™ | Menu + Story |
-| 2021-06-14 | Tales of Rebirth | [Latest](https://github.com/lifebottle/Tales-of-Rebirth/releases/latest) | coming soon™ | coming soon™ |
+| 2021-06-14 | Tales of Rebirth | [Latest](https://github.com/lifebottle/Tales-of-Rebirth/releases/tag/0.9) | [Video](https://youtu.be/tGAmq35M9tM) | Beta 0.9 |
 | 20XX-XX-XX | Tales of Phantasia X | [Latest](https://github.com/lifebottle/Tales-of-Phantasia-X/releases/latest) | coming soon™ | coming soon™ |
 | 20XX-XX-XX | Tales of Eternia |  coming soon™ | coming soon™ | coming soon™ |
 | 2023-10-09 | Tales of VS. | [Latest](https://github.com/lifebottle/Tales-of-VS/releases/latest) | coming soon™ | For PSP | 
