@@ -817,7 +817,7 @@ You will be presented with a choice when Stahn speaks to the Chief's Daughter in
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.38 Departure from the village of Lieane    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Portrait Option    |
 
-This old man used to be linked to a defunct website where you could enter passwords to unlock in-game rewards. However, much like any other site from the early 2000’s, it was dead by the time the Director’s Cut version of the game was released. He now unlocks the alternate portrait option in the Customize menu.
+Heading west of Linea you can find a remote small building with an old man inside, this old man used to be linked to a defunct website where you could enter passwords to unlock in-game rewards. However, much like any other site from the early 2000’s, it was dead by the time the Director’s Cut version of the game was released. He now unlocks the alternate portrait option in the Customize menu.
 
 
 
@@ -943,9 +943,21 @@ Speak to the young woman on the second floor of the Heidelberg inn to trigger th
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.41 Woodrow & Chelsea joins ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Woodrow's title [Doppelganger], Items see below    |
 
-In this multi-part sub quest, Woodrow is mistaken for someone else by people all over the world. You can trigger this event by speaking with a traveler at the tavern in Janos. There are people scattered all over the world as shown in the table below. Speaking to them will get you more information. The three most important locations are in Janos, Darilsheid, and Neustdat. After speaking with these three, a portait of "Woodrow" will appear in the halls of Heidelberg Castle.  It may help reveal who he is being mistaken for. You can recceive the title of "Doppelganger" when you speak to everyone listed in the table. 
+In this multi-part sub quest, Woodrow is mistaken for someone else by people all over the world. You can trigger this event by speaking with a traveler at the tavern in Janos. There are people scattered all over the world as shown in the table below. Speaking to them will get you more information. The three most important locations are in Janos, Darilsheid, and Neustadt. After speaking with these three, a portait of "Woodrow" will appear in the halls of Heidelberg Castle.  It may help reveal who he is being mistaken for. You can receive the title of "Doppelganger" when you speak to everyone listed in the table.
 
-excel table
+
+|![](https://img.shields.io/badge/-Town-informational?style=for-the-badge&color=lightgrey)|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgrey)|![](https://img.shields.io/badge/-Npc%20Name-informational?style=for-the-badge&color=lightgrey)|
+|-----|-----|-----|
+| Harmentz | Second screen facing the river |Boy with white bandana|
+| Harmentz | Inside green roof house at the second area | Woman |
+| Darilsheid | Inside house at far left screen (where two shops are) | Man |
+| Darilsheid | Second area going up | Blue haired female Oberon employee |
+| Armeida | Front of equipment shop | Pink dressed little girl |
+| Armeida | Left house on the second area | Pink dressed girl |
+| Neustadt | At the arena entrance | Black haired man with sunglasses |
+| Neustadt | In front of the inn | Blonde ponytail girl |
+| Cresta | Front entrance | Brown haired girl |
+| Cresta | Left of equipment shop | Guy |
 
 ![](stahn-guide/sub051_1.png)  
 ▲ Woodrow need to be the onscreen character to trigger each scenes.
@@ -1623,12 +1635,12 @@ This series of events will not trigger uness you have seen the skit "The Pursuit
 
  ![](https://img.shields.io/badge/-Multipart-informational?style=for-the-badge&color=orange) 
 
-|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Radisrol (Aethersphere)   |
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Lienea  |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | None    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.47 Zero-gravity elevator on Radistrol active |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-This event is only viewable after completing the first in the series [**Jonathan the Sheep 1**](https://lifebottle.github.io/#/./projects/destiny-dc/stahn-guide?id=side-quest-089-jonathan-the-sheep-1). Speak with Thomas in Lienea to trigger the next event in the series where you will witness Stahn happily chasing sheep. This will unlock the thrid event in the series. 
+This event is only viewable after completing the first in the series [**Jonathan the Sheep 1**](https://lifebottle.github.io/#/./projects/destiny-dc/stahn-guide?id=side-quest-089-jonathan-the-sheep-1). Speak with Thomas in Lienea to trigger the next event in the series where you will witness Stahn happily chasing sheep. This will unlock the third  event in the series. 
 
 
 
