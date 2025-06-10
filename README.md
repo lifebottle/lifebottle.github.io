@@ -69,11 +69,11 @@ For a modern experience, check out these patches.
 
 | Release Date | Title | Mod | Instructions | Notes | Credits |
 | ------------ | ----- | ----- | ------------ | ----- | ------- |
-| xxxx-xx-xx | Tales of Graces F | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables/latest) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
+| xxxx-xx-xx | Tales of Graces F | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
 | 2024-06-04 | Tales of the Abyss | [Discord](https://discord.com/channels/818214215365427320/977628359620173855/1254936838984962129) | [Discord](https://discord.com/channels/818214215365427320/977628359620173855/1254936838984962129) or [Video](https://youtu.be/I12mcF7UWEQ) | Extra artes| `U4ick`, `Meebo` |
-| xxxx-xx-xx | Tales of Xillia | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables/latest) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
-| xxxx-xx-xx | Tales of Xillia 2 | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables/latest) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
-| xxxx-xx-xx | Tales of Symphonia | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables/latest) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
+| xxxx-xx-xx | Tales of Xillia | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
+| xxxx-xx-xx | Tales of Xillia 2 | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
+| xxxx-xx-xx | Tales of Symphonia | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
 
 ## Others
 1. Tales of Eternia - Skit Restore: https://github.com/JulianoW/tales-of-eternia-skit-restore/tree/main
