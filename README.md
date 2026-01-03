@@ -27,17 +27,17 @@ For a modern experience, check out these patches.
 
 | Release Date | Title | Patch | Instructions | Notes |
 | ------------ | ----- | ----- | ------------ | ----- |
-| 2023-12-11 | Tales of Destiny: Director's Cut | [Latest](https://github.com/lifebottle/Tales-of-Destiny-DC/releases/latest) | [Video](https://youtu.be/-DBybx7hg5w) or [Site](https://www.lifebottle.org/#/./other/xdelta3/index) | Credits and a few other small things still need completing. |
+| 2023-08-25 | Tales of Destiny: Director's Cut | [Latest](https://github.com/lifebottle/Tales-of-Destiny-DC/releases/latest) | [Video](https://youtu.be/-DBybx7hg5w) or [Site](https://www.lifebottle.org/#/./other/xdelta3/index) | Credits and a few other small things still need completing. |
 | 2021-07-02 | Tales of Destiny 2 | [Latest](https://github.com/lifebottle/Tales-of-Destiny-2/releases/latest) | [Video](https://www.youtube.com/watch?v=Kx5pPlKWjQE) or [Site](https://www.lifebottle.org/#/./other/xdelta3/index) | On Hiatus. Please refer to [Lumina Tales](https://luminatales.net/) for full translation. |
-| 2023-01-22 | Tales of Innocence R | [Latest](https://github.com/lifebottle/Tales-of-Innocence-R/releases/latest) | [Discord]([https://discord.com/channels/818214215365427320/857033352137539625/1249491884779372617](https://discord.com/channels/818214215365427320/857033352137539625/1249491884779372617)) | v0.1.14 |
+| 2023-07-05 | Tales of Innocence R | [Latest](https://github.com/lifebottle/Tales-of-Innocence-R/releases/latest) | [Discord]([https://discord.com/channels/818214215365427320/857033352137539625/1249491884779372617](https://discord.com/channels/818214215365427320/857033352137539625/1249491884779372617)) | v0.1.14 |
 | 2023-12-25 | Tales of Hearts R - Infinite Evolve | [Latest](https://github.com/lifebottle/Tales-of-Hearts-R-Infinite-Evolve/releases/latest) | Check Readme or [Video](https://youtu.be/m0r3hTE7fZs?si=qGwIAbw_h0Mxzj-5)| JP original audio and English dub |
 | 2022-11-13 | Narikiri Dungeon X | [Latest](https://github.com/lifebottle/Narikiri-Dungeon-X/releases/latest) | coming soon™ | Menu + Story |
-| 2021-06-14 | Tales of Rebirth | [Latest](https://github.com/lifebottle/Tales-of-Rebirth/releases/tag/0.9) | [Video](https://youtu.be/tGAmq35M9tM) | Beta 0.9 |
+| 2025-10-07 | Tales of Rebirth | [Latest](https://github.com/lifebottle/Tales-of-Rebirth/releases/latest) | [Video](https://youtu.be/tGAmq35M9tM) | Beta 0.9 |
 | 20XX-XX-XX | Tales of Phantasia X | [Latest](https://github.com/lifebottle/Tales-of-Phantasia-X/releases/latest) | coming soon™ | coming soon™ |
 | 20XX-XX-XX | Tales of Eternia |  coming soon™ | coming soon™ | coming soon™ |
 | 2023-10-09 | Tales of VS. | [Latest](https://github.com/lifebottle/Tales-of-VS/releases/latest) | coming soon™ | For PSP | 
 | 20XX-XX-XX | Tales of Hearts DS | [Latest](https://github.com/lifebottle/Tales-of-Hearts-DS/releases/latest) | coming soon™ | For DS | 
-| 20XX-10-25 | Tales of the World: Radiant Mythology 2 | [Latest](https://github.com/lifebottle/Radiant-Mythology-2/releases/latest) | coming soon™ | Menu Patch, for PSP | 
+| 2022-XX-XX | Tales of the World: Radiant Mythology 2 | [Latest](https://github.com/lifebottle/Radiant-Mythology-2/releases/latest) | coming soon™ | Menu Patch, for PSP | 
 | 20XX-XX-XX | Tales of the World: Radiant Mythology 3 | [Latest](https://github.com/lifebottle/Radiant-Mythology-3/releases/latest) | coming soon™ | Menu Patch, for PSP | 
 | 20XX-XX-XX | Tales of the Heros: Twin Brave | [Latest](https://github.com/lifebottle/Twin-Brave/releases/latest) | coming soon™ | Menu Patch, for PSP | 
 
@@ -59,21 +59,21 @@ For a modern experience, check out these patches.
 
 | Release Date | Title | Patch | Instructions | Notes | Credits |
 | ------------ | ----- | ----- | ------------ | ----- | ------- |
-| 2021-09-27 | Tales of Symphonia | [Link](https://archive.org/details/trix-undub-pundub)| [Video](https://youtu.be/WC3mnHyHJko?si=XF2l5WOzZf1-8HI7) | Gamecube version. | `Julian`, `Trixarian` |
+| 2024-01-29 | Tales of Symphonia | [Link](https://archive.org/details/trix-undub-pundub)| [Video](https://youtu.be/WC3mnHyHJko?si=XF2l5WOzZf1-8HI7) | Gamecube version. | `Julian`, `Trixarian` |
 | 2023-06-29 | Tales of Eternia |  [Discord link](https://discord.com/channels/818214215365427320/845677992575238224/1123981617971605514)/[Mostly Undub](https://drive.google.com/file/d/1hAqsTuF11WYhGV9AIbeDI03DpxLFh2-J/view?usp=drive_link)| Meant to be applied to the first track disc of each of the three game discs' bin files. | PSX version. | `Trixarian` |
 | 2023-07-26 | Tales of Legendia | [Github](https://github.com/lifebottle/Tales-of-Legendia-Undub/releases/tag/Release/latest)/[ReUndub](https://github.com/lifebottle/Tales-of-Legendia-Undub/releases/download/Release/ToL-ReUndub-1.4.zip) or [PunDub](https://github.com/lifebottle/Tales-of-Legendia-Undub/releases/download/Release/ToL-PunDub-1.3.zip) | Cool | PS2 version. | `Julian`, `Trixarian`, `Ethanol` |
 | 2024-05-21 | Tales of the Abyss 3DS | [Latest](https://archive.org/details/tales_of_the_abyss_3ds_undub_patch) | coming soon™ | 3DS | `Trixarian`, `Swosho` |
-| 2022-12-91 | Tales of the Abyss PS2 | [Undub](https://github.com/lifebottle/Tales-of-the-Abyss-Undub/releases/tag/v1.0.200/latest) or [Partial Undub](https://drive.google.com/file/d/1xhBghSiSjdgLlAUm80OUJO5aFciqs4K7/view) | coming soon™ | Both undub and partial undub | `Swosho` |
+| 2022-12-01 | Tales of the Abyss PS2 | [Undub](https://github.com/lifebottle/Tales-of-the-Abyss-Undub/releases/tag/v1.0.200/latest) or [Partial Undub](https://drive.google.com/file/d/1xhBghSiSjdgLlAUm80OUJO5aFciqs4K7/view) | coming soon™ | Both undub and partial undub | `Swosho` |
 
 ## Mods
 
 | Release Date | Title | Mod | Instructions | Notes | Credits |
 | ------------ | ----- | ----- | ------------ | ----- | ------- |
-| xxxx-xx-xx | Tales of Graces F | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
+| XXXX-XX-XX | Tales of Graces F | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
 | 2024-06-04 | Tales of the Abyss | [Discord](https://discord.com/channels/818214215365427320/977628359620173855/1254936838984962129) | [Discord](https://discord.com/channels/818214215365427320/977628359620173855/1254936838984962129) or [Video](https://youtu.be/I12mcF7UWEQ) | Extra artes| `U4ick`, `Meebo` |
-| xxxx-xx-xx | Tales of Xillia | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
-| xxxx-xx-xx | Tales of Xillia 2 | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
-| xxxx-xx-xx | Tales of Symphonia | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
+| XXXX-XX-XX | Tales of Xillia | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
+| XXXX-XX-XX | Tales of Xillia 2 | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
+| XXXX-XX-XX | Tales of Symphonia | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
 
 ## Others
 1. Tales of Eternia - Skit Restore: https://github.com/JulianoW/tales-of-eternia-skit-restore/tree/main
