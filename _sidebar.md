@@ -34,7 +34,7 @@
     - [Mini-Game Guide](./projects/rebirth/rebirth-minigame.md)
   * [Narikiri Dungeon X](./projects/ndx/index)
   * [Tales of Phantasia X](./projects/topx/index)
-    - [Side-Quest Guide](./projects/ndx/ndx-guide.md)
+    - [Guide](./projects/topx/topx-guide.md)
   * [Radiant Mythology 2](./projects/rm2/index)
   * [Radiant Mythology 3](./projects/rm3/index)
 
