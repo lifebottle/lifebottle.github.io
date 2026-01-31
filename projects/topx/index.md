@@ -4,6 +4,9 @@
 Check out this project for the PSP here:  
 https://github.com/lifebottle/Tales-of-Phantasia-X/
 
+The online patcher here:  
+https://mziab.grajpopolsku.pl/files/topx/index.html
+
 - **Project Managers**
   - mziab
   - Pegi
