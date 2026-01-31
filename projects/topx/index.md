@@ -49,6 +49,9 @@ https://github.com/lifebottle/Tales-of-Phantasia-X/
 - **Lead Functional QA**
   - DobleC
 
+- **Translation Feature Consultation**
+   FlamePurge
+
 - **QA Testers**
   - flynnforthewin
   - Nanika
