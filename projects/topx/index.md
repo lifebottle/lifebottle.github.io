@@ -45,6 +45,9 @@ https://mziab.grajpopolsku.pl/files/topx/index.html
   - Amarant
   - FlamePurge
   - WilliamTBOG
+  
+- **Pre-production Information Gathering**
+  - Kevan
 
 - **Lead Localization QA**
   - Dragonbleapiece
