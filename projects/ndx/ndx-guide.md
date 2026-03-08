@@ -1,4 +1,4 @@
-# 🕹️ Strategy Guide Flowchart: Act 1
+# 🕹️ Story Guide Flowchart: Act 1
 
 ---
 
