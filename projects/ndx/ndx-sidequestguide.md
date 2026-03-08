@@ -1,4 +1,4 @@
-# 📖 Tales of Phantasia Narikiri Dungeon X - Side-Quest Master List
+# 📖 Side-Quest Guide
 
 ---
 
