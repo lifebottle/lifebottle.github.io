@@ -35,6 +35,7 @@
   * [Narikiri Dungeon X](./projects/ndx/index)
     - [Story Guide](./projects/ndx/ndx-guide.md)
     - [Side Quest Guide](./projects/ndx/ndx-sidequestguide.md)
+    - [Maps](./projects/ndx/ndx-maps.md)
   * [Tales of Phantasia X](./projects/topx/index)
     - [Guide](./projects/topx/topx-guide.md)
   * [Radiant Mythology 2](./projects/rm2/index)
