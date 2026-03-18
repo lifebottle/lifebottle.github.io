@@ -27,7 +27,7 @@
  ### ⬇️ 2. Enter the town
 > **💬 [Skit]**: [CT_006_196] Fight with friends 2 (〔チャット〕仲良く喧嘩しな2)  
 > ➡️ [SQ12] Recipe: Curry P.097  
- ### ⬇️ 3. Talk to the wonderful instructor in front of Cless's house
+ ### ⬇️ 3. Talk to the Assistant Instructor in front of Cless's house
  ### ⬇️ 4. Talk to the lady in line in front of the church
  ### ⬇️ 5. Talk to Chester in front of Cless's house
 > **💬 [Skit]**: [ct_002_037] Chester's reputation (〔チャット〕チェスターの評判)  

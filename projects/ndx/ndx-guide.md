@@ -51,7 +51,7 @@
 
 ## 📍 [AC.4203] Town: Euclid Village P.106
  ### ⬇️ 11. As you proceed deeper, you will meet the Wonder Chef.
-> **💬 [Skit]**: Mysterious Chef (不思議な料理長)  
+> **💬 [Skit]**: [ct_005_191] Mysterious Chef (不思議な料理長)  
  ### ⬇️ 12. Enter Klarth's house
 > **💬 [Skit]**: [ct_001_010] He stinks. (こいつはくせぇ)  
 > **💬 [Skit]**: [ct_001_011] Get a grip! (しっかりしなさい)  
@@ -130,16 +130,16 @@
 
 ## 📍 [AC.4203] Dungeon: Limestone Cave P.130
 > **💬 [Skit]**: [ct_001_031] The Two of Us Fighting (ケンカするふたり)  
- ### ⬇️ 31. Shoot lever A on the second basement floor with the Sorcerer's Ring.
- ### ⬇️ 32. Shoot switch B on the first basement floor with the Sorcerer's Ring.
- ### ⬇️ 33. Proceed deeper into the second basement floor.
+ ### ⬇️ 31. Shoot lever A on basement floor B2 with the Sorcerer's Ring.
+ ### ⬇️ 32. Shoot switch B on basement floor B1 with the Sorcerer's Ring.
+ ### ⬇️ 33. Proceed deeper into basement floor B2.
 > **💬 [Skit]**: [ct_001_034] Treat them with care (丁寧に扱え)  
- ### ⬇️ 34. Take the Jump Skill Book from the treasure chest on the fourth basement floor.
+ ### ⬇️ 34. Take the Jump Skill Book from the treasure chest on basement floor B4.
 > **📜 [Info]**: Using skill books allows you to learn new skills. Most of them will give you an advantage in battles, so use them as soon as you obtain them.  
- ### ⬇️ 35. Shoot switch C on the fourth basement floor with the Sorcerer's Ring.
- ### ⬇️ 36. Shoot lever D at the deepest part with the Sorcerer's Ring.
- ### ⬇️ 37. Shoot switch E on the fourth basement floor with the Sorcerer's Ring.
- ### ⬇️ 38. Shoot lever F at the deepest part with the Sorcerer's Ring and battle Undine.
+ ### ⬇️ 35. Shoot switch C with the Sorcerer's Ring on basement floor B4 .
+ ### ⬇️ 36. Shoot lever D with the Sorcerer's Ring at the end of the dungeon.
+ ### ⬇️ 37. Shoot switch E with the Sorcerer's Ring on basement floor B4 .
+ ### ⬇️ 38. Shoot lever F with the Sorcerer's Ring and battle Undine at the end of the dungeon.
  ### ⬇️ 39. Go to the World Map
 
 ---
