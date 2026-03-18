@@ -35,7 +35,7 @@
   * [Narikiri Dungeon X](./projects/ndx/index)
     - [Story Guide Act 1](./projects/ndx/ndx-guide.md)
     - [Story Guide Act 2](./projects/ndx/ndx-guide2.md)
-    - [Story Guide Act 2](./projects/ndx/ndx-guide3.md)
+    - [Story Guide Act 3](./projects/ndx/ndx-guide3.md)
     - [Side Quest Guide](./projects/ndx/ndx-sidequestguide.md)
     - [Maps](./projects/ndx/ndx-maps.md)
   * [Tales of Phantasia X](./projects/topx/index)
