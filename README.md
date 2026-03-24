@@ -74,7 +74,7 @@ For a modern experience, check out these patches.
 | XXXX-XX-XX | Tales of Xillia | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
 | XXXX-XX-XX | Tales of Xillia 2 | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
 | XXXX-XX-XX | Tales of Symphonia | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables) | [Discord](https://discord.com/channels/818214215365427320/1212926129464147999/1375165052218380429) | Includes various options | `U4ick`, `Meebo` |
-| XXXX-XX-XX | Tales of Legendia | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables) [No Interlace](https://discord.com/channels/818214215365427320/863928820209287188/1035686533312823406)| Soon | Includes various options | `U4ick`, `Meebo` |
+| XXXX-XX-XX | Tales of Legendia | [Latest](https://github.com/Sora3100/Tales_of_Cheat_Tables) - [No Interlace](https://discord.com/channels/818214215365427320/863928820209287188/1035686533312823406)| Soon | Includes various options | `U4ick`, `Meebo` |
 
 ## Others
 1. Tales of Eternia - Skit Restore: https://github.com/JulianoW/tales-of-eternia-skit-restore/tree/main
