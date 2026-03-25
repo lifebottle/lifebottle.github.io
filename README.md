@@ -12,7 +12,9 @@ Instructions to Edit this site:
 -->
 
 # Life Bottle Productions
-Welcome!  Join us on [Discord](https://discord.gg/XTwxPXxAaA).
+Welcome!  
+
+Join us on [Discord](https://discord.gg/XTwxPXxAaA).
 
 Follow us on [Twitter](https://x.com/LifeBottleProd).
 
