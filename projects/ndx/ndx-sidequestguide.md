@@ -7,8 +7,6 @@
  **📍 Location**: AC.4408, Ethos's House  
  **✅ Condition**: Inspect the vase on the table  
 
- **📝 Step**: -  
- **🎁 Reward**: - 
 
 ---
 
@@ -303,7 +301,7 @@
  **📍 Location**: AC.4203 Euclid Village  
  **✅ Condition**: While possessing Mel's costume "Kitty Warrior," talk to the cat-crazy coot on the left cliff  
 
- **📝 Step**: After talking to the cat in Ethos's House (AC.4203), Limestone Cave (4th floor underground, right side), Valhalla Village (behind the item shop), and Valhalla Town (AC.4408), talk to the cat-crazy coot again  
+ **📝 Step**: After talking to the cat at Ethos's House (AC.4203), Limestone Cave (4th floor underground, right side), Valhalla Village (behind the item shop), and Valhalla Town (AC.4408), talk to the cat-crazy coot again  
  **🎁 Reward**: Cat Teasers  
 
 
@@ -328,55 +326,55 @@
 
 ---
 
-## [SQ31] Contract with the Spirit 1 (精霊と契約1)  
+## [SQ31] Pact with the Spirits 1 (精霊と契約1)  
  **📅 Timing**: At the start of Act 3  
  **📍 Location**: AC.4203 Euclid Village  
  **✅ Condition**: After watching SQ30 "Heroes of Time (Klarth)," exit to the World Map and then re-enter Klarth's house.  
 
  **📝 Step**: While Klarth is present, Inspect the light on the left side of the first floor of the Cavern of Burning Sands to obtain the "Golden Key."  
- **🎁 Reward**: Costume "Spirit Master," Garnet, Golden Key (can now open the brown treasure chest containing the contract item).  
+ **🎁 Reward**: Costume "Spirit Master," Garnet, Golden Key (can now open the brown treasure chest containing the pact item).  
 
 
 ---
 
-## [SQ32] Contract with the Spirit 2 * (精霊と契約2 ※)  
+## [SQ32] Pact with the Spirits 2 * (精霊と契約2 ※)  
  **📅 Timing**: At the start of Act 3  
  **📍 Location**: -  
 
  **✅ Condition**: Talk to Efreet in the Cavern of Burning Sands.
- **📝 Step**: You can re-fight Efreet. If you win, he will disappear, but he will reappear if you exit to the World Map once.  
+ **📝 Step**: You can rematch Efreet. If you win, he will disappear, but he will reappear if you exit to the World Map once.  
  **🎁 Reward**: -  
 
- **✅ Condition**: After completing SQ31 "Contract with the Spirit  1," obtain the corresponding contract item and talk to the spirit while Klarth is present. You can re-fight by selecting "Fight Again" and make a contract by selecting "Make a Contract" (if this condition is not met, only a rematch is possible). If you win the rematch, the spirit will disappear, but he will reappear if you exit to the World Map once.
- **📝 Step**: After obtaining the "Aquamarine" from Euclid Village, re-fight Undine in the Limestone Cave and make a contract.  
+ **✅ Condition**: After completing SQ31 "Pact with the Spirit 1," obtain the corresponding pact item and talk to the spirit while Klarth is present. You can rematch by selecting "Fight Again" and make a pact by selecting "Make a Pact" (if this condition is not met, only a rematch is possible). If you win the rematch, the spirit will disappear, but he will reappear if you exit to the World Map once.
+ **📝 Step**: After obtaining the "Aquamarine" from Euclid Village, rematch Undine in the Limestone Cave and make a pact.  
  **🎁 Reward**: Dio and Klarth learn Undine.  
 
- **📝 Step**: After obtaining the "Opal" from the Limestone Cave, make a contract with Sylph in Lone Valley.  
+ **📝 Step**: After obtaining the "Opal" from the Limestone Cave, make a pact with Sylph in Lone Valley.  
  **🎁 Reward**: Dio and Klarth learn Sylph.  
 
- **📝 Step**: After obtaining the "Amethyst" from Lone Valley, make a contract with Shadow in the Temple of Darkness.  
+ **📝 Step**: After obtaining the "Amethyst" from Lone Valley, make a pact with Shadow in the Temple of Darkness.  
  **🎁 Reward**: Dio and Klarth learn Shadow.  
 
- **📝 Step**: After obtaining the "Ruby" from the Deep Forest Surt, make a contract with Gnome in the Cavern of Spirits.  
+ **📝 Step**: After obtaining the "Ruby" from the Deep Forest Surt, make a pact with Gnome in the Cavern of Spirits.  
  **🎁 Reward**: Dio and Klarth learn Gnome, Compendium Esoterica.  
 
- **📝 Step**: After obtaining the "Turquoise" from the Tower of the Zodiac, make a contract with Maxwell in the Moria Mine.  
+ **📝 Step**: After obtaining the "Turquoise" from the Tower of the Zodiac, make a pact with Maxwell in the Moria Mine.  
  **🎁 Reward**: Dio and Klarth learn Maxwell, Costume "Spirit Magician," Title "Summoner"  
 
- **📝 Step**: After obtaining the "Moonstone" in SQ37 "Roleplayer's Job 2," make a contract with Luna in the Tower of the Zodiac.  
+ **📝 Step**: After obtaining the "Moonstone" in SQ37 "Roleplayer's Job 2," make a pact with Luna in the Tower of the Zodiac.  
  **🎁 Reward**: Dio and Klarth learn Luna, Crescent Arrow.  
 
- **📝 Step**: After obtaining the "Topaz" from the Cornerstone of the Ice Wolf, make a contract with Aska in the Ancient City of Thor.  
+ **📝 Step**: After obtaining the "Topaz" from the Cornerstone of the Ice Wolf, make a pact with Aska in the Ancient City of Thor.  
  **🎁 Reward**: Dio and Klarth learn Aska (when winning a rematch, "Bursting Ancient Forbidden Grimoire")  
 
- **📝 Step**: Win the Coliseum expert rank with Arche to obtain the "Diamond" and then make a contract with Origin in the Treantwood  
+ **📝 Step**: Win the Coliseum expert rank with Arche to obtain the "Diamond" and then make a pact with Origin in the Treantwood  
  **🎁 Reward**: Dio and Klarth learn Origin, costume "Summoner," title "Elementalist" (when winning a rematch, "Falling Ancient Forbidden Grimoire")  
 
- **📝 Step**: After obtaining the "Sardonyx" from Glitnir Mountain, make a contract with Volt in the Mjolnir Cave  
+ **📝 Step**: After obtaining the "Sardonyx" from Glitnir Mountain, make a pact with Volt in the Mjolnir Cave  
  **🎁 Reward**: Dio and Klarth learn Volt  
 
- **✅ Condition**: After completing SQ31 "Contract with the Spirit  1" and SQ33 "The Mystery of Forbidden Magic," if you talk to the demon in the demon realm with the corresponding contract item, you can re-fight by selecting "Fight Again" and make a contract by selecting "Make a Contract" (if this condition is not met, only a rematch is possible). If you win the rematch, the spirit will disappear, but he will reappear if you exit to the World Map once.
- **📝 Step**: After obtaining the "Sapphire" from the Wayland Plains, rematch and contract with Gremlin Lair in the Deep Forest Surt  
+ **✅ Condition**: After completing SQ31 "Pact with the Spirit  1" and SQ33 "The Mystery of Forbidden Magic," if you talk to the demon in the demon realm with the corresponding pact item, you can rematch by selecting "Fight Again" and make a pact by selecting "Make a Pact" (if this condition is not met, only a rematch is possible). If you win the rematch, the spirit will disappear, but he will reappear if you exit to the World Map once.
+ **📝 Step**: After obtaining the "Sapphire" from the Wayland Plains, rematch and pact with Gremlin Lair in the Deep Forest Surt  
  **🎁 Reward**: Dio learns Gremlin Lair, Shakunage (when winning a rematch, "Falling Research Material")  
 
 
@@ -495,7 +493,7 @@
 ## [SQ43] Money Crazy 1 (マネークレイジー1)  
  **📅 Timing**: At the start of Act 3  
  **📍 Location**: AC.4354 Capital of Euclid  
- **✅ Condition**: While having Dio's costume "Thief," talk to the man on the right side of the Grocery Store and select "Go to meet"  
+ **✅ Condition**: While having Dio's costume "Thief," talk to the man to the right side of the Grocery Store and select "Go to meet"  
 
  **📝 Step**: After entering the Grocery Store, talk to the man again  
  **🎁 Reward**: Golden Arte Book  
@@ -547,10 +545,10 @@
 
 ---
 
-## [SQ48] Ethos's Past Story 2 (エトスの過去話2)  
+## [SQ48] Ethos's backstory 2 (エトスの過去話2)  
  **📅 Timing**: Act 3, Chapter 5  
  **📍 Location**: AC.4306, AC.4354, AC.4408 Capital of Euclid  
- **✅ Condition**: Complete SQ14 "Ethos's Past Story 1" and with Rondoline present, approach the tree to the right of Gust.  
+ **✅ Condition**: Complete SQ14 "Ethos's backstory 1" and with Rondoline present, approach the tree to the right of Gasuto.  
 
 
 ---
@@ -654,10 +652,10 @@
 
 ---
 
-## [SQ58] The Methodist Destiny (法術師の宿命)  
+## [SQ58] The Cleric Destiny (法術師の宿命)  
  **📅 Timing**: Act 3, Chapter 13  
  **📍 Location**: AC.4306 Totus Village  
- **✅ Condition**: Talk to the woman in the church while Mint is present  
+ **✅ Condition**: Talk to the group of women in the church while Mint is present  
 
  **📝 Step**: -  
  **🎁 Reward**: BC Rod, title "Wheel of Destiny"  
@@ -755,7 +753,7 @@
  **📍 Location**: AC.4306 Moria Mine  
  **✅ Condition**: Talk to Maxwell  
 
- **📝 Step**: Obtain "Quality Soil" in the deepest part of the Cavern of Spirits and talk to Maxwell again  
+ **📝 Step**: Obtain "Quality Soil" at the end of the Cavern of Spirits and talk to Maxwell again  
  **🎁 Reward**: 30,000 Gald  
 
 
@@ -764,10 +762,10 @@
 ## [SQ68] Gungnir 2 (グーングニル2)  
  **📅 Timing**: Act 3, Chapter 20  
  **📍 Location**: The Dark Times, Linchpin of the Lord of Fire  
- **✅ Condition**: Defeat Flamberge again or make a contract to go to the hidden room  
+ **✅ Condition**: Defeat Flamberge again or make a pact to go to the hidden room  
 
  **📝 Step**: -  
- **🎁 Reward**: Gungnir (Unleached)  
+ **🎁 Reward**: Gungnir (Unleashed)  
 
 
 ---
@@ -805,21 +803,21 @@
 ## [SQ72] Rabbit Guild (うさギルド)  
  **📅 Timing**: Act 3, Chapter 20  
  **📍 Location**: AC.4408 Nam Cobanda Isle  
- **✅ Condition**: With Rondoline present. Talk to the energetic old man after made a contract with 3 spirits or demons other than Efreet in SQ32 "Contract with the Spirit  2" and SQ79 "Contract with the Spirit  3"  
+ **✅ Condition**: With Rondoline present. Talk to the energetic old man after made a pact with 3 spirits or demons other than Efreet in SQ32 "Pact with the Spirit  2" and SQ79 "Pact with the Spirit  3"  
 
- **📝 Step**: Contract with a total of 3 spirits and demons  
+ **📝 Step**: Pact with a total of 3 spirits and demons  
  **🎁 Reward**: Costume "Asuka"  
 
- **📝 Step**: Contract with a total of six spirits and demons  
+ **📝 Step**: Pact with a total of six spirits and demons  
  **🎁 Reward**: Costume "Kite"  
 
- **📝 Step**: Contract with a total of 9 spirits and demons  
+ **📝 Step**: Pact with a total of 9 spirits and demons  
  **🎁 Reward**: Costume "Prince"  
 
- **📝 Step**: Contract with a total of 13 spirits and demons  
+ **📝 Step**: Pact with a total of 13 spirits and demons  
  **🎁 Reward**: Hint for SQ81 "Memory of G'  
 
- **📝 Step**: Contract with all spirits and demons  
+ **📝 Step**: Pact with all spirits and demons  
  **🎁 Reward**: Title "Rabbit Guilder'  
 
 
@@ -830,7 +828,7 @@
  **📍 Location**: AC.4408 Nam Cobanda Isle  
  **✅ Condition**: Approach the robot near the stage  
 
- **📝 Step**: Talk to the robot that moved to the lower left, and after completing SQ09 "Versus Mysterious Triplet Sisters" 09, go to the waitress in the Capital of Euclid AC.4408 and talk to her, then talk to Tarlow X again  
+ **📝 Step**: Talk to the robot that moved to the lower left, and after completing SQ09 "Versus Mysterious Triplet Sisters" 09, go to the waitress in the Capital of Euclid Gasuto AC.4408 and talk to her, then talk to Tarlow X again  
  **🎁 Reward**: -  
 
  **📝 Step**: Talk to Tarlow X while having any of Mel's costumes "Singer," "Saint Bard," "Haruka," or "Wonder Momo" at RANK 10  
@@ -888,27 +886,27 @@
 
 ---
 
-## [SQ79] Contract with the Spirit 3 (精霊と契約3)  
+## [SQ79] Pact with the Spirits 3 (精霊と契約3)  
  **📅 Timing**: Act 3, Chapter 20  
  **📍 Location**: -  
- **✅ Condition**: After completing SQ31 "Contract with the Spirit 1," and SQ33 "Mystery of Forbidden Magic," if you talk to the demon in the demon realm with the corresponding contract item, you can re-fight by selecting "Fight Again" and make a contract by selecting "Make a Contract" (if this condition is not met, only a rematch is possible). If you win the rematch, the spirit will disappear, but he will reappear if you exit to the World Map once.  
+ **✅ Condition**: After completing SQ31 "Pact with the Spirit 1," and SQ33 "Mystery of Forbidden Magic," if you talk to the demon in the demon realm with the corresponding pact item, you can rematch by selecting "Fight Again" and make a pact by selecting "Make a Pact" (if this condition is not met, only a rematch is possible). If you win the rematch, the spirit will disappear, but he will reappear if you exit to the World Map once.  
 
- **📝 Step**: In the Cavern of Burning Sands location, obtain the "Ebony," and after completing SQ33 "Mystery of Forbidden Magic," make a contract with Flamberge in the Linchpin of the Lord of Fire after Act 3, Chapter 20.  
+ **📝 Step**: In the Cavern of Burning Sands location, obtain the "Ebony," and after completing SQ33 "Mystery of Forbidden Magic," make a pact with Flamberge in the Linchpin of the Lord of Fire after Act 3, Chapter 20.  
  **🎁 Reward**: Dio learns Flamberge (upon winning the rematch, "Flamberge").  
 
- **📝 Step**: In Temple of Darkness location, obtain the "Mercury," and after viewing 33 "Mystery of Forbidden Magic," make a contract with Fenrir Beast using in the Cornerstone of the Ice Wolf after Act 3, Chapter 20.  
+ **📝 Step**: In Temple of Darkness location, obtain the "Mercury," and after viewing 33 "Mystery of Forbidden Magic," make a pact with Fenrir Beast using in the Cornerstone of the Ice Wolf after Act 3, Chapter 20.  
  **🎁 Reward**: Dio learns Fenrir Beast (upon winning the rematch, "Vorpal Sword").  
 
- **📝 Step**: Obtain the "Coral" from SQ73 "Tarlow X," and after completing SQ33 "Mystery of Forbidden Magic," make a contract with Ishrantu in the Wayland Plains after Act 3, Chapter 20.  
+ **📝 Step**: Obtain the "Coral" from SQ73 "Tarlow X," and after completing SQ33 "Mystery of Forbidden Magic," make a pact with Ishrantu in the Wayland Plains after Act 3, Chapter 20.  
  **🎁 Reward**: Dio learns Ishrantu (upon victory in rematch, "Bursting Research Material")  
 
- **📝 Step**: Obtain the "Ivory" from Glimmer Spire, and after completing SQ33 "Mysteries of Forbidden Magic," make a contract with Jestona in Loki Research Center Cavern after Chapter 20.  
+ **📝 Step**: Obtain the "Ivory" from Glimmer Spire, and after completing SQ33 "Mysteries of Forbidden Magic," make a pact with Jestona in Loki Research Center Cavern after Chapter 20.  
  **🎁 Reward**: Dio learns Jestona, Seven Books of Hsan.  
 
- **📝 Step**: Obtain the "Marble" from the Crystal Valley of Judgment, and after completing SQ33 "Mysteries of Forbidden Magic," make a contract with Big Eye in the Glitnir Mountain after Act 3, Chapter 20.  
+ **📝 Step**: Obtain the "Marble" from the Crystal Valley of Judgment, and after completing SQ33 "Mysteries of Forbidden Magic," make a pact with Big Eye in the Glitnir Mountain after Act 3, Chapter 20.  
  **🎁 Reward**: Dio learns Big Eye (upon victory in rematch, "Burst Magic Spell Book")  
 
- **📝 Step**: After obtaining the "Emerald" in SQ46 "Roleplayer's Job 4," and after making a contract with all spirits and demons except Pluto, make a contract with Pluto in Norfi's Cave. Note that rematches are possible from the start of Act 3.  
+ **📝 Step**: After obtaining the "Emerald" in SQ46 "Roleplayer's Job 4," and after making a pact with all spirits and demons except Pluto, make a pact with Pluto in Norfi's Cave. Note that rematches are possible from the start of Act 3.  
  **🎁 Reward**: Dio learns Pluto, F. Ninety-Nine, titles "The Man Who Controls the Demon World," "Master of Monsters," medal "Spirit Complete" (when winning a rematch, "Fallen Magic Spell Book")  
 
 
@@ -928,7 +926,7 @@
 ## [SQ81] Memory of G (Gの記憶)  
  **📅 Timing**: Act 3, Chapter 20  
  **📍 Location**: AC.4408, Valhalla Town  
- **✅ Condition**: While achieving a contract count of 13 in SQ72 "Rabbit Guild," talk to the man in the upper right.  
+ **✅ Condition**: While achieving a pact count of 13 in SQ72 "Rabbit Guild," talk to the man in the upper right.  
 
  **📝 Step**: Dio or Mel need to have cleared the beginner and expert rank in the Coliseum, then need to talk to the man again.  
  **🎁 Reward**: Memory of G  
