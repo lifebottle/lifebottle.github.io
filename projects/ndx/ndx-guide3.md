@@ -54,7 +54,7 @@
 ## 📍 [AC.????] Dungeon: Linchpin of the Lord of Fire P.155
 > **📜 [Info]**: The area is large and has lava floors that deal damage, making progress challenging. Be sure to explore while watching your Health. At first, follow the main path to the dead end to collect items, then return to the entrance to restock healing items before tackling the area again , this makes clearing it much easier.  
 > **💬 [Skit]**: [ct_003_088] Hey, man! (〔チャット〕てめぇ!)  
- ### ⬇️ 3. Defeat 4 enemy sprites on the 5th floor and proceed further.
+ ### ⬇️ 3. Defeat 4 enemy sprites on 5F and proceed further.
  ### ⬇️ 4. Battle Flamberge at the end of the dungeon.
 
 ---
@@ -72,12 +72,12 @@
 > **💬 [Skit]**: [ct_006_203] H-o-t S-p-r-i-n-g (〔チャット〕お・ん・せ・ん)  
 > ➡️ [SQ51] Hot Springs are Nice 2 P.099  
 > **💬 [Skit]**: [ct_006_204] Whatever it takes (〔チャット〕どうにでもなぁ~れ)  
- ### ⬇️ 6. Proceed southeast on basement floor B3.
+ ### ⬇️ 6. Proceed southeast on B3F.
 > **💬 [Skit]**: [ct_003_089] The meaning of the ring (〔チャット〕指輪の意味)  
- ### ⬇️ 7. Proceed to basement floor B5.
+ ### ⬇️ 7. Proceed to B5F.
 > **💬 [Skit]**: [ct_003_100] Memories of Rody 1 (〔チャット〕ロディの思い出 1)  
- ### ⬇️ 8. Press the switch on basement floor B5.
- ### ⬇️ 9. Battle Fenrir Beast at the end of basement floor B4.
+ ### ⬇️ 8. Press the switch on B5F.
+ ### ⬇️ 9. Battle Fenrir Beast at the end of B4F.
 > **💬 [Skit]**: [ct_003_092] The True Intent of Flamberge (〔チャット〕フラムベルクの真意)  
 > ➡️ [SQ52] Gungnir 1 P.100  
 
@@ -130,10 +130,10 @@
 ## 📍 [AC.????] Dungeon: Dhaos's Castle P.171
 > **📜 [Info]**: This dungeon is extremely vast, so it’s best to prepare thoroughly before attempting it. Once you progress partway through, returning becomes difficult, so if you start struggling early on, it’s better to improve your equipment and come back later.  
 > **💬 [Skit]**: [ct_003_103] About Dhaos Castle (〔チャット〕ダオス城について)  
- ### ⬇️ 14. Defeat 4 enemy sprites in the south part of the 8th floor to open the door
- ### ⬇️ 15. Battle with Silverberg in the west part of the 11th floor
- ### ⬇️ 16. Operate the lever in the south part of the 11th floor
- ### ⬇️ 17. Battle with Silverberg on the 21st floor
+ ### ⬇️ 14. Defeat 4 enemy sprites on 8F - South to open the door
+ ### ⬇️ 15. Battle with Silverberg on 11F - West
+ ### ⬇️ 16. Operate the lever on 11F - South
+ ### ⬇️ 17. Battle with Silverberg on 21F
 > **💬 [Skit]**: [ct_003_102] A Drop of Hope (〔チャット〕希望のひとしずく)  
  ### ⬇️ 18. Battle against Dhaos(2) and Dhaos(3) in the room labeled ???
 > **📜 [Info]**: At the end of Dhaos’s Castle, you will finally face Dhaos in a direct confrontation. The fight consists of two consecutive battles, so be careful not to use up all your items in the first one.  
@@ -186,7 +186,7 @@
  ### ⬇️ 22. Before the second trial, set Dio to Axe-type and Mel to Spell-type, then proceed.
  ### ⬇️ 23. Before the third trial, set Dio to Beastmaster-type and Mel to Knight-type, then proceed.
 > **💬 [Skit]**: [ct_006_202] Cool &amp; Dry (〔チャット〕クール&ドライ)  
- ### ⬇️ 24. Battle with Dios and Meltia on basement floor B8.
+ ### ⬇️ 24. Battle with Dios and Meltia on B8F.
 > **📜 [Info]**: The full truth behind the mystery, previously revealed only partially, is finally disclosed, leading to a final confrontation.  
  ### ⬇️ 25. Enter the void space.
 > **💬 [Skit]**: [ct_003_109] Mysterious Space (〔チャット〕ふしぎな空間)  

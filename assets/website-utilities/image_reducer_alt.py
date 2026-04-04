@@ -2,7 +2,8 @@ from PIL import Image
 import os
  
 print("Shrink images in the folder")
-folder = r"..\..\projects\destiny-dc\leon-guide"
+#folder = r"..\..\projects\rebirth\rebirth_guide"
+folder = r"reduce"
 w = int('320')
 h = int('240')
 for i in os.listdir(folder):

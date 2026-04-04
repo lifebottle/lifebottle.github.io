@@ -29,10 +29,10 @@
 > **💬 [Skit]**: [ct_001_006] The masked one. (あの仮面のヤツ)  
 > **💬 [Skit]**: [ct_001_007] What kind of creature is Couleur? (クルールってなんて生物)  
 > **📜 [Info]**: Skits can be broadly divided into two types: those that occur as the story progresses and those that occur when certain conditions, such as leveling up, are met. From this point, fighting enemies can trigger skits so please refers to the Skit Trigger Guide for battle related skits. Note that this flowchart only includes Skits that occur as the story progresses.  
- ### ⬇️ 5. On the first floor, Investigate the switch on the right to proceed further.
+ ### ⬇️ 5. On 1F, Investigate the switch on the right to proceed further.
 > **📜 [Info]**: In the dungeon, there are various interactables, including switches. If you see something suspicious, it would be good to investigate it.  
- ### ⬇️ 6. Proceed to the third floor and fight Bokoboar.
- ### ⬇️ 7. Investigate the switch near the entrance of the fourth floor and move deeper.
+ ### ⬇️ 6. Proceed to 3F and fight Bokoboar.
+ ### ⬇️ 7. Investigate the switch near the entrance of 4F and then proceed deeper.
  ### ⬇️ 8. Battle Miracle DX on the top floor.
 > **📜 [Info]**: This will be your first boss battle. The strength of this enemy is on a different level compared to those you have fought so far, so make use of the items obtained in the Glimmer Spire dungeon to even the odds.  
 > **💬 [Skit]**: [ct_001_008] The Power to Heal (回復する力)  
@@ -64,12 +64,12 @@
 ---
 
 ## 📍 [AC.4203] Town: Cavern of Burning Sands P.121
- ### ⬇️ 13. Obtain the Sorcerer's Ring from the treasure chest on the third basement floor.
+ ### ⬇️ 13. Obtain the Sorcerer's Ring from the treasure chest on B3F.
 > **📜 [Info]**: Once you obtain the Sorcerer's Ring, you will be able to shoot flames with the Square button. It is also necessary to progress deeper into the Cavern of Burning Sands, so make sure to get it first.  
 > **💬 [Skit]**: [ct_001_012] The Sorcerer ring scares me (ソーサラーリング怖い)  
- ### ⬇️ 14. Shoot Switch A with the Sorcerer's Ring on the first floor.
- ### ⬇️ 15. Obtain the Lava Key from the treasure chest on the first basement floor (B1)
- ### ⬇️ 16. Shoot Switch B with the Sorcerer's Ring on the first floor
+ ### ⬇️ 14. Shoot Switch A with the Sorcerer's Ring on 1F.
+ ### ⬇️ 15. Obtain the Lava Key from the treasure chest on B1F.
+ ### ⬇️ 16. Shoot Switch B with the Sorcerer's Ring on 1F.
  ### ⬇️ 17. Shoot the pillar with the Sorcerer's Ring at ??? to proceed
  ### ⬇️ 18. Fight Efreet at the deepest part of the dungeon
 
@@ -96,7 +96,7 @@
 > **💬 [Skit]**: [ct_001_021] Tell me, Dio (おしえてディオ)  
 > **💬 [Skit]**: [ct_001_022] Dhaos, the Demon King (魔王ダオス)  
 > ➡️ [SQ04] I love helping P.097  
- ### ⬇️ 22. Use the Sorcerer's Ring to break the wall and proceed in the west of the second basement floor of the cave
+ ### ⬇️ 22. Use the Sorcerer's Ring to break the wall and proceed in the west of the B2F of the cave
 > **💬 [Skit]**: [ct_001_018] The "Roleplayer" who can be anything (なんでもなれる『なりきり士』)  
  ### ⬇️ 23. Battle with Sylph at the deepest part
  ### ⬇️ 24. Cross the bridge and fight BokoBoar
@@ -108,9 +108,9 @@
 ## 📍 [AC.4203] Town: Cavern of Spirits P.127
 > **💬 [Skit]**: [ct_001_025] Missing Ethos ...... (エトがいなくて・・・・・・)  
 > **💬 [Skit]**: [ct_001_026] Operation to Retrieve Ethos (エトス奪還作戦)  
- ### ⬇️ 25. Battle with Gnome (1) in the south part of the fourth basement
+ ### ⬇️ 25. Battle with Gnome (1) on B4F - South
 > **💬 [Skit]**: [ct_001_027] Gnome's confusion (ノームの混乱)  
- ### ⬇️ 26. Battle with Gnome (2) at the deepest area of the fourth basement floor
+ ### ⬇️ 26. Battle with Gnome (2) at the deepest area of B4F
 > **💬 [Skit]**: [ct_001_024] Albert's Secret 1 (アルベルトの秘密1)  
 
 ---
@@ -130,15 +130,15 @@
 
 ## 📍 [AC.4203] Dungeon: Limestone Cave P.130
 > **💬 [Skit]**: [ct_001_031] The Two of Us Fighting (ケンカするふたり)  
- ### ⬇️ 31. Shoot lever A on basement floor B2 with the Sorcerer's Ring.
- ### ⬇️ 32. Shoot switch B on basement floor B1 with the Sorcerer's Ring.
- ### ⬇️ 33. Proceed deeper into basement floor B2.
+ ### ⬇️ 31. Shoot lever A on B2F with the Sorcerer's Ring.
+ ### ⬇️ 32. Shoot switch B on B1F with the Sorcerer's Ring.
+ ### ⬇️ 33. Proceed deeper into B2F.
 > **💬 [Skit]**: [ct_001_034] Treat them with care (丁寧に扱え)  
- ### ⬇️ 34. Take the Jump Skill Book from the treasure chest on basement floor B4.
+ ### ⬇️ 34. Take the Jump Skill Book from the treasure chest on B4F.
 > **📜 [Info]**: Using skill books allows you to learn new skills. Most of them will give you an advantage in battles, so use them as soon as you obtain them.  
- ### ⬇️ 35. Shoot switch C with the Sorcerer's Ring on basement floor B4 .
+ ### ⬇️ 35. Shoot switch C with the Sorcerer's Ring on B4F.
  ### ⬇️ 36. Shoot lever D with the Sorcerer's Ring at the end of the dungeon.
- ### ⬇️ 37. Shoot switch E with the Sorcerer's Ring on basement floor B4 .
+ ### ⬇️ 37. Shoot switch E with the Sorcerer's Ring on B4F.
  ### ⬇️ 38. Shoot lever F with the Sorcerer's Ring and battle Undine at the end of the dungeon.
  ### ⬇️ 39. Go to the World Map
 

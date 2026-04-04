@@ -42,7 +42,7 @@ This event brings Veigue's neighbors, Monica and Steve, together, and if you mak
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | First time in Minal ~ |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Accessory [Demon Spirit] and others (see list) |
 
-The “Ex-Warrior” NPC in the Minal's gymnasium will give you items according to the number of enemies you catalogued in the Battle Book. The items he gives you, known as “XX Spirit,” are special gems that change Veigue's special [skills](https://aselia.fandom.com/wiki/ToR_-_Veigue_Lungberg:_Force). The “Earliest Period” in the table bellow indicates at what time you will receive the reward if you advance through the game (excluding enemies you fight in events) while keeping the completion of all enemies at 100.
+The “Ex-Warrior” NPC in the Minal's gymnasium will give you items according to the number of enemies you catalogued in the Battle Book. The items he gives you, known as “XX Spirit,” are special gems that change Veigue's special [skills](https://aselia.fandom.com/wiki/ToR_-_Veigue_Lungberg:_Force). The “Earliest Period” in the table below indicates at what time you will receive the reward if you advance through the game (excluding enemies you fight in events) while keeping the completion of all enemies at 100.
 
 ■ Items you get from the Completionist
 
@@ -59,7 +59,7 @@ The “Ex-Warrior” NPC in the Minal's gymnasium will give you items according 
 | 80 Entries  | Grape Gel        | Kyogen Area         |
 | 90 Entries  | Lavender         | Ocean               |
 | 100 Entries | Shining Spirit   | Belsas Area         |
-| 110 Entries | Comeback Gel     | Shrine of Gilione   |
+| 110 Entries | Rebound Gel      | Shrine of Gilione   |
 | 120 Entries | Dragon Spirit    | Outer Yuris's Realm |
 | 130 Entries | Sage             | Cyglorg's Chambers  |
 | 140 Entries | Awakening Ore    | Cyglorg's Chambers  |
@@ -445,13 +445,44 @@ An event in which Yotza, who is in a bar in Balka, shows you her diary. Switch t
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After the Trial of Sacred Beast Fenia (Chapter 35~) |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Annie's Armor [Refleur], Hilda's Armor [Wedding Dress] |  
 
+There is a Peddler NPC at the Flame Holder location on the left wing of the desert Geoglyph. If you give him a piece of ore, he will give you an armor in return. You can exchange the items twice, once for Annie's [Wedding Dress] and once for Hilda's [Refleur]. Both are valuable items that are not sold in stores. If you get them early, they will be more useful than store-bought armor for a while.
+
+![](rebirth_guide/sub015_1.png)  
+▲The Flame Holder where the man is located is at the location in the image. If you go there immediately after clearing the Sacred Beast Fenia dungeon it won't be far from there.
+
 ---
 
 ## Side-Quest #016 - Thick Curtains
 
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Residence in Pipista |
+| :---- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After the appearance Yuris' Realm (Chapter 55~) |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | — |  
+
+This is a simple event in which you can look behind the curtains in the house where Hack from Pipitsa was held captive. First, play the mini-game [Let's play with Rabbitz] Mini-Game #004 . After following the steps in the flowchart, head to Pipitsa. The objects behind the curtains are related to the Rabbitz's village, and they react differently depending on the leader of the party. Why is there such an ornament in Pipitsa? That mystery will never be told...
+
+| Steps to see behind the curtains                                                                |
+| ----------------------------------------------------------------------------------------------- |
+| Finish the mini-game “Let's play with Rabbitz” at the end of the game in the Rabbitz's village. |
+| Enter the Katz' house and examine the [Noko Figure].                                            |
+| Check the curtains at the back of the residence in Pipista.                                     |
+
 ---
 
 ## Side-Quest #017 - Donel Again
+
+|![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Wang Gin's Mansion in Kyogen |
+| :---- | :------------------ |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After Claire's speech in Belsas (Chapter 44~) |
+| ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | — |  
+
+Donel, the force of earth user that was fought in the Climbers' Cavern, will be in Kyogen despite having been mortally injured. If you go to Wang Gin's mansion, you will find Donel in the room where Claire was being held. However, there is something wrong with him. He still speaks in a unique tone of voice, but his personality has completely changed. The information that Donel is still alive can be obtained from Yotza, an informant in Balka. If you buy [Rare Paid Information] from him, you can get it as a rumor.
+
+![](rebirth_guide/sub017_1.png)  
+▲Donel has become strangely quiet. What happened to him?
+
+![](rebirth_guide/sub017_2.png)  
+▲Compared with the Donel from before, the change is easy to see. He no longer uses abusive language.
 
 ---
 
@@ -487,7 +518,7 @@ In Belsas Harbor, you will meet a lady who loves gems. When you talk to her, she
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | After the Trial of Sacred Beast Shaorune (Chapter 45~) |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | — |  
 
-When you give 15 Lucky Cats to this Katz, he will show you a special weapon he has. However, the weapon is not logged in the collector's book. The only way to get the them and have the entry logged is to obtain them is through irregular inheritance.
+When you give 15 Lucky Cats to this Katz, he will show you a special weapon he has. However, the weapon is not logged in the collector's book. The only way to get the them and have the entry logged is to obtain them through irregular inheritance.
 
 ![](rebirth_guide/sub021_1.png)  
 ▲The first time he shows you the [Shamisen], from the second time on, you can choose any of the other party members special weapon you would like to be showed next.

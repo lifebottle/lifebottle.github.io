@@ -41,17 +41,17 @@
 > **💬 [Skit]**: [ct_002_042] More Frank (もっとフランクに)  
 > **💬 [Skit]**: [ct_002_043] Monster's clothes (魔物使いの服)  
 > **💬 [Skit]**: [ct_002_046] The price of peace (平和の代償)  
- ### ⬇️ 7. Investigate Lever A on basement level 1
- ### ⬇️ 8. Investigate Lever B on basement level 2
- ### ⬇️ 9. Investigate Lever C on the third basement level
+ ### ⬇️ 7. Investigate Lever A on B1F.
+ ### ⬇️ 8. Investigate Lever B on B2F.
+ ### ⬇️ 9. Investigate Lever C on B3F.
 > **💬 [Skit]**: [ct_002_044] What's that strange voice? (〔チャット〕変な声は何の声？)  
- ### ⬇️ 10. Light the candelabrum in the south part of basement level 4
- ### ⬇️ 11. Solve the puzzle in the north part of basement level 4
+ ### ⬇️ 10. Light the candelabrum on B4F - South
+ ### ⬇️ 11. Solve the puzzle on B4F - North
 > **📜 [Info]**: As written on the board, step on the switches in the order of up, down, up, down, left, right, left, right to open the door.  
- ### ⬇️ 12. Meet the fairy Artemis on basement level 9
+ ### ⬇️ 12. Meet the fairy Artemis on B9F
 > **💬 [Skit]**: [ct_002_041] What's it like to be an fairy? (〔チャット〕妖精ってどんなもの)  
- ### ⬇️ 13. Solve the puzzle in the summoning room on basement level 10
- ### ⬇️ 14. Battle Maxwell in his room on basement level 10
+ ### ⬇️ 13. Solve the puzzle in the summoning room on B10F
+ ### ⬇️ 14. Battle Maxwell in his room on B10F
 > **📜 [Info]**: Since you only have Dio and Mel available for this battle, make sure to select costumes for attacking and healing. After defeating him, Over Brave will become available.  
 > **💬 [Skit]**: [ct_002_045] Unreadable Letters (〔チャット〕読めない文字)  
 
@@ -79,9 +79,9 @@
 > **💬 [Skit]**: [ct_002_050] Want the power of the "Roleplayer"? (「なりきり士」 の力がほしい?)  
 > **💬 [Skit]**: [ct_002_051] Dio's Navigation (ディオのナビゲーション)  
 > **💬 [Skit]**: [ct_002_048] The shadow of my sister still lingers (今も残る妹の影)  
- ### ⬇️ 20. Fight Luna (1) on the 6th floor
+ ### ⬇️ 20. Fight Luna (1) on 6F
 > **📜 [Info]**: The small rooms cannot be entered at this time. When you reach a new floor, carefully examine the map in this guide, open any treasure chests in the hallways, and then head straight for the next floor until you reach the boss.  
- ### ⬇️ 21. Talk to Luna on the top floor
+ ### ⬇️ 21. Talk to Luna on the top floor.
  ### ⬇️ 22. Return to the entrance
 > **💬 [Skit]**: [ct_002_053] It's hard to let go (〔チャット〕捨てがたい)  
 > ➡️ [SQ14] Ethos's backstory 1  
@@ -123,7 +123,7 @@
 > **💬 [Skit]**: [ct_002_060] Squishy and lumpy (フニャフニャとゴツゴツ)  
 > **💬 [Skit]**: [ct_002_061] Only I know (おらだけが知ってる)  
 > ➡️ [SQ17] Rody's Father 1  
- ### ⬇️ 29. Examine the door and proceed to basement level 1
+ ### ⬇️ 29. Examine the door and proceed to B1F.
  ### ⬇️ 30. Entering the common room triggers a battle with the Break Goyle
 > **💬 [Skit]**: [ct_002_062] Heroes are ...... (〔チャット〕英雄って・・・・・・)  
  ### ⬇️ 31. Press the treasure chest-shaped switch on the left side of the common room
@@ -175,14 +175,14 @@
 ## 📍 [AC.4354] Dungeon: Mjolnir Cave P.143
  ### ⬇️ 38. Enter the dungeon and fight the three Clay Demon
 > **📜 [Info]**: There are many puzzles here, so please follow the steps carefully.  
- ### ⬇️ 39. Shoot Coil A with the Sorcerer's Ring in Basement B1 North
- ### ⬇️ 40. Step on Switch A in Basement B1 West
- ### ⬇️ 41. Operate Switch B to turn it blue in Basement B1 South
- ### ⬇️ 42. Shoot Coil B with Sorcerer's Ring in Basement B1 South
- ### ⬇️ 43. Investigate Switch C to turn it blue in Basement B2 South
- ### ⬇️ 44. Investigate Switch D to turn it blue in Basement B2 South
- ### ⬇️ 45. Shoot Coil C with the Sorcerer's Ring in Basement B2 South
- ### ⬇️ 46. Shoot Coils E to G in order with the Sorcerer's Ring in the north of the second basement
+ ### ⬇️ 39. Shoot Coil A with the Sorcerer's Ring on B1F - North.
+ ### ⬇️ 40. Step on Switch A on B1F - West.
+ ### ⬇️ 41. Operate Switch B to turn it blue on B1F - South.
+ ### ⬇️ 42. Shoot Coil B with Sorcerer's Ring on B1F - South.
+ ### ⬇️ 43. Investigate Switch C to turn it blue on B2F - South.
+ ### ⬇️ 44. Investigate Switch D to turn it blue on B2F - South.
+ ### ⬇️ 45. Shoot Coil C with the Sorcerer's Ring on B2F South.
+ ### ⬇️ 46. Shoot Coils E to G in order with the Sorcerer's Ring on B2 - North.
  ### ⬇️ 47. Battle Volt at the end of the dungeon
 > **💬 [Skit]**: [ct_002_069] Rody's time (〔チャット〕ロディの時間)  
 
@@ -191,9 +191,9 @@
 ## 📍 [AC.4354] Dungeon: Temple of Darkness P.146
 > **📜 [Info]**: The area around you is shrouded in darkness unless you have the Blue Candle. You will obtain it in Norfi's Cave later on. If you want to focus on finishing the dungeon since you don't have the candle yet, this is fine. You can come pick up the items later.  
 > **💬 [Skit]**: [ct_002_070] The King of the Magic World (〔チャット〕魔界の王)  
- ### ⬇️ 48. Acquire the 8-slot system in Basement B2
+ ### ⬇️ 48. Acquire the 8-slot system on B2F.
 > **💬 [Skit]**: [ct_002_071] The Vision Suzu Saw (〔チャット〕すずの見た幻)  
- ### ⬇️ 49. Solve the puzzle in Basement B5 North and proceed further
+ ### ⬇️ 49. Solve the puzzle on B5F - North and proceed further
  ### ⬇️ 50. Battle Shadow at the end of the dungeon
 
 ---
