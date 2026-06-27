@@ -7,7 +7,7 @@ Check out this project for the PSP here:
 https://github.com/lifebottle/Tales-of-Phantasia-Full-Voice-Edition
 
 The online patcher here:  
-Pending
+https://www.lifebottle.org/projects/topfve/patcher/
 
 - **Project Managers**
   - mziab
