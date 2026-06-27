@@ -75,6 +75,7 @@ https://www.lifebottle.org/projects/topfve/patcher/
   - edgarfigaro
   - gatordski
   - Explorer
+  - Gate
 
 - **Original PSX Script and Translated Assets**
   - Phantasian Productions
