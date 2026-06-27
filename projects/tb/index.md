@@ -18,10 +18,10 @@ Pending
   - Everdred
 
 - **Lead Translator**
-  - Shishi
+  - ShiShi
 
 - **Translator**
-  - Pegi
+  - Pegi (Menu and Graphics)
 
 - **Lead Editor**
   - Dragonbleapiece
@@ -40,7 +40,7 @@ Pending
   - getterdrill
 
 - **QA Testers**
-  - Shishi
+  - ShiShi
   - Dragonbleapiece
   - Kevan
   - gatordski
