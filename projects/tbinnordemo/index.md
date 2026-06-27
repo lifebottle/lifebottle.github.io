@@ -1,5 +1,5 @@
 # Tales of the Heroes: Twin Brave Innocence R Demo
-![](tbinnordemo.png)
+![](Tbinnordemo.png)
 
 Check out this project here:  
 https://github.com/lifebottle/Tales-of-the-Heroes-Twin-Brave-Innocence-R-Demo
@@ -14,7 +14,7 @@ Pending
   - Ethanol
 
 - **Programmers**
-  - Yuri
+  - Yuvi
   - Everdred
 
 - **Lead Translator**
@@ -44,6 +44,7 @@ Pending
   - Dragonbleapiece
   - Kevan
   - gatordski
-  - Yuri
+  - Yuvi
   - Ryuza
   - getterdrill
+  - Cross
