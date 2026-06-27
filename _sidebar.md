@@ -41,6 +41,9 @@
     - [Maps](./projects/ndx/ndx-maps.md)
   * [Tales of Phantasia X](./projects/topx/index)
     - [Guide](./projects/topx/topx-guide.md)
+  * [Tales of Phantasia Full Voice Edition](./projects/topfve/index)
+  * [Tales of the Heroes Twin Brave](./projects/tb/index)
+  * [Tales of the Heroes Twin Brave Innocence R Demo](./projects/tbinnordemo/index)
   * [Radiant Mythology 2](./projects/rm2/index)
   * [Radiant Mythology 3](./projects/rm3/index)
 

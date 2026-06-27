@@ -1,11 +1,13 @@
-# Tales of Phantasia Cross Edition
-![](topx.png)
+# Tales of Phantasia - Full Voice Edition 
+![](topfve.png)
+
+Should I play this or Cross Edition? Play this version if you prefer the slower-paced battle system of the PSX version and don't want the extra Rondoline content. Otherwise, play Cross Edition.
 
 Check out this project for the PSP here:  
-https://github.com/lifebottle/Tales-of-Phantasia-X/
+https://github.com/lifebottle/Tales-of-Phantasia-Full-Voice-Edition
 
 The online patcher here:  
-https://www.lifebottle.org/projects/topx/patcher/
+Pending
 
 - **Project Managers**
   - mziab
@@ -76,3 +78,6 @@ https://www.lifebottle.org/projects/topx/patcher/
 
 - **Original PSX Script and Translated Assets**
   - Phantasian Productions
+
+  **Logo**
+  - TheGershon

@@ -43,6 +43,7 @@ For a modern experience, check out these patches.
 | 2022-XX-XX | Tales of the World: Radiant Mythology 2 | [Latest](https://github.com/lifebottle/Radiant-Mythology-2/releases/latest) | coming soon™ | Menu Patch, for PSP | 
 | 20XX-XX-XX | Tales of the World: Radiant Mythology 3 | [Latest](https://github.com/lifebottle/Radiant-Mythology-3/releases/latest) | coming soon™ | Menu Patch, for PSP | 
 | 20XX-XX-XX | Tales of the Heros: Twin Brave | [Latest](https://github.com/lifebottle/Twin-Brave/releases/latest) | coming soon™ | Menu Patch, for PSP | 
+| 20XX-XX-XX | Tales of the Heros: Twin Brave Innocence R Demo | [Latest](https://github.com/lifebottle/Tales-of-the-Heroes-Twin-Brave-Innocence-R-Demo/releases/latest) | coming soon™ | Menu Patch, for PSP | 
 
 
 ## HD Texture Packs
