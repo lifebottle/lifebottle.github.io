@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html translate="no">
+
+<head>
+	<title>Tales of the Heroes: Twin Brave Innocence R Demo Patcher</title>
+	<meta http-equiv="content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+
+
+
+	<!-- Rom Patcher JS needed CSS/JS files -->
+	<link type="text/css" rel="stylesheet" href="./rom-patcher-js/style.css" media="all" />
+	<script type="text/javascript" src="./rom-patcher-js/RomPatcher.webapp.js"></script>
+
+	<!-- Rom Patcher JS initialization -->
+	<script type="text/javascript">
+        const TB_FULL_MD5 = 'b13ebc2c2086e3095ada19f29e97cab1';
+        const TB_DEMO_MD5 = '5be1253d9f9fa737d104244ad44dfc74';
+
+        const TB_VERSION = '1.0';
+
+        const TB_PATCH_NAME = `TB_InnoR_Demo_v${TB_VERSION}`;
+        const TB_PATCH_NAME_DEMO = `TB_InnoR_Demo_Demo_v${TB_VERSION}`;
+
+        const TB_PATCH_TITLE = `Tales of the Heroes: Twin Brave Innocence R Demo v${TB_VERSION}`;
+        const TB_PATCH_TITLE_DEMO = `Tales of the Heroes: Twin Brave Innocence R Demo v${TB_VERSION} (Demo)`;
+
+        //const demo_warning = "This translation patch is not intended for Tales of the Heroes: Twin Brave Innocence R Demo ISO. Please Use the Full Game.";
+        const wrong_extension_warning = "Wrong format, this translation patch requires an ISO file.";
+
+        function ready(fn) {
+          if (document.readyState !== 'loading') {
+            fn();
+          } else {
+            document.addEventListener('DOMContentLoaded', fn);
+          }
+        }
+
+const help_text = `
+The main patch features the following:
+
+<ul>
+<li>Translation of All the text in the Demo.</li>
+<li>Subtitle for the Promo Video.</li>
+</ul>
+`;
+
+		window.addEventListener('load', function (evt) {
+			try {
+				RomPatcherWeb.initialize({
+					language: 'en', //default: en
+					requireValidation: false,
+                    allowDropFiles: true,
+                    onloadrom: function (romFile) {
+                        const hash = romFile.hashMD5();
+                        let warning = document.getElementById('rom-patcher-warning');
+                        let extension = romFile.fileName.split('.').at(-1) || '';
+                        if (extension.toLowerCase() !== 'iso') {
+                            warning.innerHTML = wrong_extension_warning;
+                        } else if (hash === TB_FULL_MD5) {
+                            RomPatcherWeb.pickEmbededFile(`${TB_PATCH_NAME}.xdelta`);
+                            warning.innerHTML = '';
+                        } else if (hash == TB_DEMO_MD5) {
+                            RomPatcherWeb.pickEmbededFile(`${TB_PATCH_NAME_DEMO}.xdelta`);
+                            warning.innerHTML = '';
+                        }
+                    },
+				}, {
+                    file: `./${TB_PATCH_NAME}.zip`, //zip containing patches
+                    patches: [ //information about patches inside the zip
+                        {
+                            file: `${TB_PATCH_NAME}.xdelta`, //required, must match the patch file name in the zip
+                            name: TB_PATCH_TITLE,
+                            inputMd5: TB_FULL_MD5,
+                        },
+                        {
+                            file: `${TB_PATCH_NAME_DEMO}.xdelta`, //required, must match the patch file name in the zip
+                            name: TB_PATCH_TITLE_DEMO,
+                            inputMd5: TB_DEMO_MD5,
+                        },
+                    ],
+				});
+			} catch (err) {
+				var message = err.message;
+				if (/incompatible browser/i.test(message) || /variable RomPatcherWeb/i.test(message))
+					message = 'Your browser is outdated and it is not compatible with this app.';
+
+				document.getElementById('rom-patcher-container').innerHTML = message;
+				document.getElementById('rom-patcher-container').style.color = 'red';
+			}
+		});
+
+        ready(function() {
+            document.querySelector('.rom-patcher-help').innerHTML = help_text;
+        });
+	</script>
+</head>
+
+<body>
+	<header>
+		<h1>Tales of the Heroes: Twin Brave Innocence R Demo English Translation</h1>
+
+        <a href="https://www.lifebottle.org/" rel="nofollow noopener"><img class="logo" src="lbp_logo.svg" alt="Life Bottle Productions" /></a>
+
+        <div id="rom-patcher-warning"></div>
+
+	</header>
+
+
+	<!-- Rom Patcher JS container -->
+	<div id="rom-patcher-container">
+		<div class="rom-patcher-row margin-bottom" id="rom-patcher-row-file-rom">
+			<div class="text-right"><label for="rom-patcher-input-file-rom" data-localize="yes">Japanese ISO:</label></div>
+			<div class="rom-patcher-container-input">
+				<input type="file" id="rom-patcher-input-file-rom" class="empty" disabled />
+			</div>
+		</div>
+        <div class="margin-bottom text-selectable text-mono text-muted" id="rom-patcher-rom-info" style="display: none;">
+			<div class="rom-patcher-row">
+				<div class="text-right">CRC32:</div>
+				<div class="text-truncate"><span id="rom-patcher-span-crc32"></span></div>
+			</div>
+			<div class="rom-patcher-row">
+				<div class="text-right">MD5:</div>
+				<div class="text-truncate"><span id="rom-patcher-span-md5"></span></div>
+			</div>
+			<div class="rom-patcher-row">
+				<div class="text-right">SHA-1:</div>
+				<div class="text-truncate"><span id="rom-patcher-span-sha1"></span></div>
+			</div>
+			<div class="rom-patcher-row" id="rom-patcher-row-info-rom">
+				<div class="text-right">ROM:</div>
+				<div class="text-truncate"><span id="rom-patcher-span-rom-info"></span></div>
+			</div>
+		</div>
+
+		<div class="rom-patcher-row margin-bottom" id="rom-patcher-row-file-patch">
+			<div class="text-right"><label for="rom-patcher-input-file-patch" data-localize="yes">Patch file:</label>
+			</div>
+			<div class="rom-patcher-container-input">
+				<select id="rom-patcher-select-patch"></select>
+			</div>
+		</div>
+		<div class="rom-patcher-row margin-bottom" id="rom-patcher-row-patch-description">
+			<div class="text-right text-mono text-muted" data-localize="yes">Description:</div>
+			<div class="text-truncate" id="rom-patcher-patch-description"></div>
+		</div>
+		<div class="rom-patcher-row margin-bottom text-selectable text-mono text-muted"
+			id="rom-patcher-row-patch-requirements">
+			<div class="text-right text-mono" id="rom-patcher-patch-requirements-type">ROM requirements:</div>
+			<div class="text-truncate" id="rom-patcher-patch-requirements-value"></div>
+		</div>
+
+		<div class="text-center" id="rom-patcher-row-apply">
+			<div id="rom-patcher-row-error-message" class="margin-bottom"><span id="rom-patcher-error-message"></span>
+			</div>
+			<button id="rom-patcher-button-apply" data-localize="yes" disabled>Apply patch</button>
+		</div>
+	</div>
+
+    <div class="rom-patcher-help"></div>
+
+	<div id="rom-patcher-powered" class="text-center">
+		<a href="https://github.com/marcrobledo/RomPatcher.js" target="_blank"><img
+				src="rom-patcher-js/assets/powered_by_rom_patcher_js.png" loading="lazy" />Powered by Rom Patcher JS</a>
+	</div>
+</body>
+
+</html>

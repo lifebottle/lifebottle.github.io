@@ -5,7 +5,7 @@ Check out this project here:
 https://github.com/lifebottle/Tales-of-the-Heroes-Twin-Brave-Innocence-R-Demo
 
 The online patcher here:  
-Pending
+https://www.lifebottle.org/projects/tbinnordemo/patcher/
 
 - **Project Manager**
   - Pegi
