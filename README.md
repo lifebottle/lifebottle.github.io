@@ -37,13 +37,13 @@ For a modern experience, check out these patches.
 | 2022-11-13 | Narikiri Dungeon X | [Latest](https://github.com/lifebottle/Narikiri-Dungeon-X/releases/latest) | coming soon™ | Menu + Story |
 | 2026-01-31 | Tales of Phantasia X | [Latest](https://github.com/lifebottle/Tales-of-Phantasia-X/releases/latest) | [Video](https://youtu.be/55c3mG3gIEA) | v1.2 |
 | 2026-06-05 | Tales of Phantasia X French | [Latest](https://github.com/ClessJust/ToPX-FRANCAIS/latest) | [Video](https://youtu.be/55c3mG3gIEA) | v1.1 |
-| 20XX-XX-XX | Tales of Eternia |  coming soon™ | coming soon™ | coming soon™ |
+| 2026-06-27 | Tales of Phantasia Full Voice Edition | [Latest](https://github.com/lifebottle/Tales-of-Phantasia-Full-Voice-Edition/releases/latest) | coming soon™ | v1.0 |
 | 2023-10-09 | Tales of VS. | [Latest](https://github.com/lifebottle/Tales-of-VS/releases/latest) | coming soon™ | Menu Patch | 
 | 20XX-XX-XX | Tales of Hearts DS | [Latest](https://github.com/lifebottle/Tales-of-Hearts-DS/releases/latest) | coming soon™ | For DS | 
-| 2022-XX-XX | Tales of the World: Radiant Mythology 2 | [Latest](https://github.com/lifebottle/Radiant-Mythology-2/releases/latest) | coming soon™ | Menu Patch, for PSP | 
+| 20XX-XX-XX | Tales of the World: Radiant Mythology 2 | [Latest](https://github.com/lifebottle/Radiant-Mythology-2/releases/latest) | coming soon™ | Menu Patch, for PSP | 
 | 20XX-XX-XX | Tales of the World: Radiant Mythology 3 | [Latest](https://github.com/lifebottle/Radiant-Mythology-3/releases/latest) | coming soon™ | Menu Patch, for PSP | 
 | 20XX-XX-XX | Tales of the Heros: Twin Brave | [Latest](https://github.com/lifebottle/Twin-Brave/releases/latest) | coming soon™ | Menu Patch, for PSP | 
-| 20XX-XX-XX | Tales of the Heros: Twin Brave Innocence R Demo | [Latest](https://github.com/lifebottle/Tales-of-the-Heroes-Twin-Brave-Innocence-R-Demo/releases/latest) | coming soon™ | Menu Patch, for PSP | 
+| 2026-06-28 | Tales of the Heros: Twin Brave Innocence R Demo | [Latest](https://github.com/lifebottle/Tales-of-the-Heroes-Twin-Brave-Innocence-R-Demo/releases/latest) | coming soon™ | v1.0 | 
 
 
 ## HD Texture Packs
