@@ -37,7 +37,7 @@ For a modern experience, check out these patches.
 | 2022-11-13 | Narikiri Dungeon X | [Latest](https://github.com/lifebottle/Narikiri-Dungeon-X/releases/latest) | coming soon™ | Menu + Story |
 | 2026-01-31 | Tales of Phantasia X | [Latest](https://github.com/lifebottle/Tales-of-Phantasia-X/releases/latest) | [Video](https://youtu.be/55c3mG3gIEA) | v1.2 |
 | 2026-06-05 | Tales of Phantasia X French | [Latest](https://github.com/ClessJust/ToPX-FRANCAIS/latest) | [Video](https://youtu.be/55c3mG3gIEA) | v1.1 |
-| 2026-06-27 | Tales of Phantasia Full Voice Edition | [Latest](https://github.com/lifebottle/Tales-of-Phantasia-Full-Voice-Edition/releases/latest) | coming soon™ | v1.1 |
+| 2026-06-27 | Tales of Phantasia Full Voice Edition | [Latest](https://github.com/lifebottle/Tales-of-Phantasia-Full-Voice-Edition/releases/latest) | coming soon™ | v1.2 |
 | 2023-10-09 | Tales of VS. | [Latest](https://github.com/lifebottle/Tales-of-VS/releases/latest) | coming soon™ | Menu Patch | 
 | 20XX-XX-XX | Tales of Hearts DS | [Latest](https://github.com/lifebottle/Tales-of-Hearts-DS/releases/latest) | coming soon™ | For DS | 
 | 20XX-XX-XX | Tales of the World: Radiant Mythology 2 | [Latest](https://github.com/lifebottle/Radiant-Mythology-2/releases/latest) | coming soon™ | Menu Patch, for PSP | 
